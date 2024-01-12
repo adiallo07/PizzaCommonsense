@@ -1,0 +1,79 @@
+{
+    "title": "grilled_chicken_pita_pizza",
+    "id": "cfc0684b30",
+    "table": [
+        {
+            "instructions": "spray grilling surface with non_stick_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle chicken_breast with paprika and oregano",
+            "input": "(chicken_breast; oregano; paprika)",
+            "actions": "sprinkle",
+            "output": "chicken_breast sprinkled with paprika and oregano"
+        },
+        {
+            "instructions": "cut into thin slices .",
+            "input": "chicken_breast sprinkled with paprika and oregano",
+            "actions": "cut",
+            "output": "cut chicken_breast in thin slices"
+        },
+        {
+            "instructions": "grill sliced_chicken until cooked completely .",
+            "input": "sliced chicken",
+            "actions": "grill",
+            "output": "grilled sliced chicken"
+        },
+        {
+            "instructions": "cover pitas with pasta_sauce , chicken , oregano to taste and parm cheese .",
+            "input": "(pitas; pasta_sauce; grilled sliced chicken; oregano; parm cheese)",
+            "actions": "cover",
+            "output": "pitas covered with pasta sauce, grilled sliced chicken, oregano, and parmesan cheese"
+        },
+        {
+            "instructions": "bake at 400 for 5 10 min or until crispy .",
+            "input": "uncooked grilled chiken pita pizza",
+            "actions": "bake",
+            "output": "baked grilled chiken pita pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 small chicken breasts"
+        },
+        {
+            "text": "2 cups healthy choice traditional pasta sauce or 2 cups garlic lovers pasta sauce"
+        },
+        {
+            "text": "4 tablespoons lowfat parmesan cheese"
+        },
+        {
+            "text": "oregano"
+        },
+        {
+            "text": "paprika"
+        },
+        {
+            "text": "cooking spray"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray grilling surface with non stick spray."
+        },
+        {
+            "text": "Sprinkle chicken breasts with paprika and oregano and cut into thin slices."
+        },
+        {
+            "text": "Grill sliced chicken until cooked completely."
+        },
+        {
+            "text": "Cover pitas with pasta sauce, chicken, oregano to taste and parm cheese."
+        },
+        {
+            "text": "Bake at 400 for 5-10 min or until crispy."
+        }
+    ]
+}

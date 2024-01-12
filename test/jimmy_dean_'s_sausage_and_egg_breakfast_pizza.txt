@@ -1,0 +1,178 @@
+{
+    "title": "jimmy_dean_'s_sausage_and_egg_breakfast_pizza",
+    "id": "2730f9e32a",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in large skillet , cook sausage over medium high heat , stirring frequently until no longer pink .",
+            "input": "sausage",
+            "actions": "cook",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "separate rolls into eight triangles .",
+            "input": "rolls",
+            "actions": "separate",
+            "output": "rolls_separated into triangles"
+        },
+        {
+            "instructions": "place in ungreased 12 rimmed pizza\u2012pan with points toward the center .",
+            "input": "rolls_separated into triangles",
+            "actions": "place",
+            "output": "rolls_separated into triangles"
+        },
+        {
+            "instructions": "press together",
+            "input": "rolls_separated into triangles",
+            "actions": "press",
+            "output": "pressed rolls"
+        },
+        {
+            "instructions": "seal perforations",
+            "input": "pressed rolls",
+            "actions": "seal",
+            "output": "pressed rolls with sealed perforations"
+        },
+        {
+            "instructions": "form a 1 circle larger in diameter than pan bottom .",
+            "input": "pressed rolls with sealed perforations",
+            "actions": "form",
+            "output": "formed pizza crust"
+        },
+        {
+            "instructions": "turn edges under to make a slight rim .",
+            "input": "formed pizza crust",
+            "actions": "turn",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "sprinkle cooked sausage over crust .",
+            "input": "(pizza crust; cooked sausage)",
+            "actions": "sprinkle",
+            "output": "cooked sausage sprinkled over pizza crust"
+        },
+        {
+            "instructions": "top with potatoes .",
+            "input": "(pizza crust with sausage; potatoes)",
+            "actions": "top",
+            "output": "pizza crust with sausage topped with potatoes"
+        },
+        {
+            "instructions": "add peppers and green_onion .",
+            "input": "(pizza crust with sausage and potatoes; peppers; green_onion)",
+            "actions": "add",
+            "output": "peppers and green onion added to pizza with sausage and potatoes"
+        },
+        {
+            "instructions": "sprinkle with cheddar_cheese .",
+            "input": "(cheddar cheese; pizza with sausage, peppers and potatoes)",
+            "actions": "sprinkle",
+            "output": "cheddar cheese sprinkled on pizza with sausage, peppers and potatoes"
+        },
+        {
+            "instructions": "stir eggs , milk , salt , and pepper in small bowl .",
+            "input": "(eggs; milk; salt; pepper)",
+            "actions": "stir",
+            "output": "egg mixture"
+        },
+        {
+            "instructions": "pour evenly over pizza .",
+            "input": "(pizza with sausage, peppers and potatoes; egg mixture)",
+            "actions": "pour",
+            "output": "egg mixture poured over sausage and potatoes pizza"
+        },
+        {
+            "instructions": "sprinkle with parmesan .",
+            "input": "(uncooked breakfast pizza; parmesan)",
+            "actions": "sprinkle",
+            "output": "parmesan sprinkled over uncooked breakfast pizza"
+        },
+        {
+            "instructions": "bake 20 minutes or until eggs are set and crust is golden .",
+            "input": "uncooked breakfast pizza",
+            "actions": "bake",
+            "output": "baked breakfast pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "16 ounces pork sausage"
+        },
+        {
+            "text": "8 12 ounces refrigerated crescent dinner rolls"
+        },
+        {
+            "text": "1 cup frozen cubed hash brown potatoes, thawed"
+        },
+        {
+            "text": "1 cup sharp cheddar cheese, shredded"
+        },
+        {
+            "text": "3 eggs, lightly beaten"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon black pepper"
+        },
+        {
+            "text": "3 tablespoons bell peppers (red and yellow, diced)"
+        },
+        {
+            "text": "14 cup green onion, thinly sliced"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375."
+        },
+        {
+            "text": "In large skillet, cook sausage over medium-high heat, stirring frequently until no longer pink."
+        },
+        {
+            "text": "Separate rolls into eight triangles."
+        },
+        {
+            "text": "Place in ungreased 12\" rimmed pizza pan with points toward the center."
+        },
+        {
+            "text": "Press together, seal perforations and form a 1\" circle larger in diameter than pan bottom."
+        },
+        {
+            "text": "Turn edges under to make a slight rim."
+        },
+        {
+            "text": "Sprinkle cooked sausage over crust."
+        },
+        {
+            "text": "Top with potatoes."
+        },
+        {
+            "text": "Add peppers and green onions."
+        },
+        {
+            "text": "Sprinkle with cheddar cheese."
+        },
+        {
+            "text": "Stir eggs, milk, salt, and pepper in small bowl."
+        },
+        {
+            "text": "Pour evenly over pizza."
+        },
+        {
+            "text": "Sprinkle with parmesan."
+        },
+        {
+            "text": "Bake 20 minutes or until eggs are set and crust is golden."
+        }
+    ]
+}

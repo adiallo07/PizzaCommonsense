@@ -1,0 +1,76 @@
+{
+    "title": "awesome_bread_machine_pizza_dough",
+    "id": "5b6f2c9c02",
+    "table": [
+        {
+            "instructions": "put this in the bread machine on the manual dough cycle .",
+            "input": "ingredients",
+            "actions": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "at the end of the cycle punch down the dough",
+            "input": "dough",
+            "actions": "punch",
+            "output": "deflated_dough"
+        },
+        {
+            "instructions": "roll out the dough to the shape of your pan ,",
+            "input": "deflated_dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "put in pan , top as desired bake at 425 for at least 15 min .",
+            "input": "(rolled_dough; toppings)",
+            "actions": "put",
+            "output": "baked_pizza_with_toppings"
+        },
+        {
+            "instructions": "variation add 1 to 2 tsp italian_seasoning .",
+            "input": "NA",
+            "actions": "add",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 14 cups water"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "14 cup parmesan cheese"
+        },
+        {
+            "text": "1 tablespoon cornmeal"
+        },
+        {
+            "text": "3 cups bread flour"
+        },
+        {
+            "text": "2 14 teaspoons dry yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put this in the bread machine on the manual/dough cycle."
+        },
+        {
+            "text": "At the end of the cycle punch down the dough and let rest 5 min."
+        },
+        {
+            "text": "Roll out the dough to the shape of your pan, and put in pan, top as desired Bake at 425 for at least 15 min."
+        },
+        {
+            "text": "until cheese is well melted, and browned."
+        },
+        {
+            "text": "Variation: Add 1 to 2 tsp Italian Seasoning."
+        }
+    ]
+}

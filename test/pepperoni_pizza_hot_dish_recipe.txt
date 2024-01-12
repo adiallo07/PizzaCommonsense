@@ -1,0 +1,103 @@
+{
+    "title": "pepperoni_pizza_hot_dish_recipe",
+    "id": "34e8e6328f",
+    "table": [
+        {
+            "instructions": "brown hamburger with onions and spices .",
+            "input": "(hamburger; spices; onions)",
+            "action": "brown",
+            "output": "cooked hamburger mixture"
+        },
+        {
+            "instructions": "put in a 4 qt , baking dish .",
+            "input": "cooked hamburger mixture",
+            "action": "put",
+            "output": "cooked hamburger mixture"
+        },
+        {
+            "instructions": "cook noodles .",
+            "input": "noodles",
+            "action": "cook",
+            "output": "cooked noodles"
+        },
+        {
+            "instructions": "combine all other ingredients except cheese .",
+            "input": "(cooked noodles; pizza sauce; mushrooms; tomato sauce; lowfat milk; sliced pepperoni; cooked hamburger mixture)",
+            "action": "combine",
+            "output": "sauce, noodles and meat mixture"
+        },
+        {
+            "instructions": "sprinkle cheese over the top .",
+            "input": "(cheese; sauce, noodles and meat mixture)",
+            "action": "sprinkle",
+            "output": "cheese_sprinkled on sauce, noodles and meat mixture"
+        },
+        {
+            "instructions": "bake at 350 degrees for 45 min , covered and 15 min , uncovered .",
+            "input": "unbaked casserole",
+            "action": "bake",
+            "output": "baked casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/2 lbs. hamburger"
+        },
+        {
+            "text": "1/2 c. onion"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 (10 ounce.) cans pizza sauce"
+        },
+        {
+            "text": "1 (10 ounce.) pkg. noodles"
+        },
+        {
+            "text": "1 (8 ounce.) shredded Mozzarella"
+        },
+        {
+            "text": "1/2 teaspoon oregano"
+        },
+        {
+            "text": "1/4 teaspoon pepper"
+        },
+        {
+            "text": "1 can mushrooms"
+        },
+        {
+            "text": "1 (8 ounce.) can tomato sauce"
+        },
+        {
+            "text": "1 c. lowfat milk"
+        },
+        {
+            "text": "1 c. sliced pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown hamburger with onions and spices."
+        },
+        {
+            "text": "Put in a 4 qt baking dish."
+        },
+        {
+            "text": "Cook noodles."
+        },
+        {
+            "text": "Combine all other ingredients except cheese."
+        },
+        {
+            "text": "Sprinkle cheese over the top."
+        },
+        {
+            "text": "Bake at 350 degrees for 45 min, covered and 15 min, uncovered."
+        },
+        {
+            "text": "Can substitute spaghetti sauce for the pizza sauce."
+        }
+    ]
+}

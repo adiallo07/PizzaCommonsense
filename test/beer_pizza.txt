@@ -1,0 +1,133 @@
+{
+    "title": "beer_pizza",
+    "id": "ba1dc87bad",
+    "table": [
+        {
+            "instructions": "preheat oven to 45",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "In a large skillet, brown pepperoni and bacon in oil",
+            "input": "pepperoni; bacon; oil",
+            "action": "brown",
+            "output": "browned pepperoni and bacon"
+        },
+        {
+            "instructions": "drain",
+            "input": "browned pepperoni and bacon",
+            "action": "drain",
+            "output": "browned pepperoni and bacon without excess fat"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "browned pepperoni and bacon without excess fat",
+            "action": "set",
+            "output": "browned pepperoni and bacon without excess fat"
+        },
+        {
+            "instructions": "saute mushrooms , green_pepper and onions until soft .",
+            "input": "(mushrooms; green_pepper; onions)",
+            "action": "saute",
+            "output": "sauteed vegetable mixture"
+        },
+        {
+            "instructions": "add all other ingredients except cheese",
+            "input": "sauteed vegetable mixtures; tomato sauce; garlic clove; oreagno; thyme; salt; beer",
+            "action": "add",
+            "output": "beer, salt, thyme, oregano, tomato sauce and garlic added to sauteed vegetable mixture"
+        },
+        {
+            "instructions": "stir well , simmering for 15 minutes .",
+            "input": "cooking beer tomato sauce",
+            "action": "stir",
+            "output": "cooked beer tomato sauce"
+        },
+        {
+            "instructions": "divide sauce between 2 pizzas",
+            "input": "pizza crust; cooked beer tomato sauce",
+            "action": "divide",
+            "output": "cooked beer tomato sauce divided between tow pizzas crust"
+        },
+        {
+            "instructions": "cover with cheese .",
+            "input": "cheese; pizza crust with beer tomato sauce",
+            "action": "cover",
+            "output": "pizza crust with beer tomato sauce covered with cheese"
+        },
+        {
+            "instructions": "bake for 20 25 minutes , or until crust is golden brown .",
+            "input": "unbaked beer_pizza",
+            "action": "bake",
+            "output": "baked beer_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 lb pepperoni, cut in small pieces"
+        },
+        {
+            "text": "1 lb bacon, cut in pieces"
+        },
+        {
+            "text": "1 (284 ml) can mushrooms, drained (can use fresh if preferred)"
+        },
+        {
+            "text": "1 large onion, chopped"
+        },
+        {
+            "text": "1 large green pepper, chopped"
+        },
+        {
+            "text": "8 ounces mozzarella cheese, shredded"
+        },
+        {
+            "text": "1 (28 ounce) can tomato sauce"
+        },
+        {
+            "text": "1 clove garlic"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "12 teaspoon thyme"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 cup beer"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "2 15 inch pizza crusts"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450."
+        },
+        {
+            "text": "In large skillet brown pepperoni and bacon in oil."
+        },
+        {
+            "text": "Drain and set aside."
+        },
+        {
+            "text": "Saute mushrooms, green peppers and onions until soft."
+        },
+        {
+            "text": "Add all other ingredients except cheese and stir well, simmering for 15 minutes."
+        },
+        {
+            "text": "Divide sauce between 2 pizzas and cover with cheese."
+        },
+        {
+            "text": "Bake for 20-25 minutes, or until crust is golden brown."
+        }
+    ]
+}

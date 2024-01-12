@@ -1,0 +1,97 @@
+{
+    "title": "pizza_dough_technique",
+    "id": "eeda9e36bb",
+    "table": [
+        {
+            "instructions": "Mix it up(I use a bread machine)",
+            "input": "dough ingredients",
+            "action": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "Do not let it rise.",
+            "input": "dough",
+            "action": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "place in oiled containers bags in refrigerator for 24 hours or freeze for 3 months ?",
+            "input": "dough",
+            "action": "place",
+            "output": "refigerated dough"
+        },
+        {
+            "instructions": "2 hrs before cooking-remove from fridge-place on oiled 12-14 square of foil & press into a 1/2thick disc.",
+            "input": "refigerated dough",
+            "action": "place",
+            "output": "pressed pizza dough"
+        },
+        {
+            "instructions": "cover for the 2 hours .",
+            "input": "pressed pizza dough",
+            "action": "cover",
+            "output": "covered pressed pizza dough"
+        },
+        {
+            "instructions": "uncover.",
+            "input": "covered pressed pizza dough",
+            "action": "cover",
+            "output": "uncovered pressed pizza dough"
+        },
+        {
+            "instructions": "spread out with your fingers and palms a little flour helps 12 .",
+            "input": "uncovered pressed pizza dough",
+            "action": "spread",
+            "output": "uncovered pressed pizza dough"
+        },
+        {
+            "instructions": "Top & slide foil/pizza onto peel then onto a preheated 450 stone in oven for 10-12 minute Thick toppings may require lower temperature & longer time.",
+            "input": "(uncovered pressed pizza dough; toppings)",
+            "action": "spread",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 12 teaspoons yeast"
+        },
+        {
+            "text": "3 cups bread flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix it up(I use a bread machine)."
+        },
+        {
+            "text": "Do not let it rise."
+        },
+        {
+            "text": "Devide in half & place in oiled containers/bags in refrigerator for 24 hours or freeze for 3 months?"
+        },
+        {
+            "text": "(defrost-24 hours in fridge)."
+        },
+        {
+            "text": "2 hrs before cooking-remove from fridge-place on oiled 12-14\" square of foil & press into a 1/2\"thick disc."
+        },
+        {
+            "text": "cover for the 2 hours."
+        },
+        {
+            "text": "Uncover & spread out with your fingers & palms(a little flour helps) 12\"."
+        },
+        {
+            "text": "Top & slide foil/pizza onto peel then onto a preheated 450 stone in oven for 10-12 minute Thick toppings may require lower temperature & longer time."
+        }
+    ]
+}

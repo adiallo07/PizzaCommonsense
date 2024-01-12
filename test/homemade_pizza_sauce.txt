@@ -1,0 +1,97 @@
+{
+    "title": "homemade_pizza_sauce",
+    "id": "bcd01f1e5b",
+    "table": [
+        {
+            "instructions": "mix tomato_paste , water and honey together in a small bowl .",
+            "input": "(tomato_paste; water; honey)",
+            "action": "mix",
+            "output": "tomato paste mixture"
+        },
+        {
+            "instructions": "mix in minced_garlic .",
+            "input": "minced_garlic; tomato paste mixture",
+            "action": "mix",
+            "output": "garlicky tomato paste mixture"
+        },
+        {
+            "instructions": "add spices",
+            "input": "spices; garlicky tomato paste mixture",
+            "action": "add",
+            "output": "seasoned tomato sauce"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "seasoned tomato sauce",
+            "action": "mix",
+            "output": "seasoned tomato sauce"
+        },
+        {
+            "instructions": "top pizza_crust with sauce and favourite toppings !",
+            "input": "pizza crust; seasoned tomato sauce; toppings",
+            "action": "top",
+            "output": "sauce pizza crust with toppings"
+        },
+        {
+            "instructions": "refrigerate or freeze any leftovers .",
+            "input": "assembled uncooked pizza",
+            "action": "refrigerate",
+            "output": "refrigerated pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can (5 1/2 Oz. Size) Tomato Paste"
+        },
+        {
+            "text": "4 Tablespoons Water"
+        },
+        {
+            "text": "1/2 Tablespoons Honey"
+        },
+        {
+            "text": "2 cloves Garlic"
+        },
+        {
+            "text": "2 Tablespoons Parmesan Cheese, Shredded"
+        },
+        {
+            "text": "1/2 teaspoons Italian Seasoning"
+        },
+        {
+            "text": "1/4 teaspoons Dried Red Pepper Flakes"
+        },
+        {
+            "text": "1/4 teaspoons Dried Basil"
+        },
+        {
+            "text": "1/4 teaspoons Salt"
+        },
+        {
+            "text": "18 teaspoons Pepper"
+        },
+        {
+            "text": "1 dash Cayenne"
+        },
+        {
+            "text": "1 dash Paprika"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix tomato paste, water and honey together in a small bowl."
+        },
+        {
+            "text": "Mix in minced garlic."
+        },
+        {
+            "text": "Add spices and mix well."
+        },
+        {
+            "text": "Top pizza crust with sauce and favourite toppings!"
+        },
+        {
+            "text": "Refrigerate or freeze any leftovers."
+        }
+    ]
+}

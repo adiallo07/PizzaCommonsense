@@ -1,0 +1,187 @@
+{
+    "title": "pork_sausage_main_dish_pizza_puff_recipe",
+    "id": "30236cf217",
+    "table": [
+        {
+            "instructions": "cook sausage in skillet slowly .",
+            "input": "sausage",
+            "action": "cook",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "break up meat as it cooks",
+            "input": "sausage",
+            "action": "break",
+            "output": "sausage_chunks"
+        },
+        {
+            "instructions": "cook thoroughly .",
+            "input": "sausage_chunks",
+            "action": "cook",
+            "output": "cooked_sausage chunks"
+        },
+        {
+            "instructions": "drain well",
+            "input": "cooked_sausage chunks",
+            "action": "drain",
+            "output": "cooked_sausage chunks without excess fat"
+        },
+        {
+            "instructions": "place 4 slices of bread in bottom of greased 8 x 8 x 2 inch , baking dish .",
+            "input": "bread_slice",
+            "action": "place",
+            "output": "bread_slice"
+        },
+        {
+            "instructions": "combine tomato_paste and basil .",
+            "input": "(tomato_paste; basil)",
+            "action": "combine",
+            "output": "tomato paste and basil mixture"
+        },
+        {
+            "instructions": "spread over bread in pan .",
+            "input": "(tomato paste and basil mixture; bread_slice)",
+            "action": "spread",
+            "output": "bread slice with spread tomato paste and basil mixture"
+        },
+        {
+            "instructions": "place half of the cheese_slice over this .",
+            "input": "(cheese_slice;bread slice with spread tomato paste and basil mixture)",
+            "action": "place",
+            "output": "bread slice with spread tomato paste and basil mixture and cheese slice"
+        },
+        {
+            "instructions": "spoon all of sausage over cheese .",
+            "input": "(bread slice with spread tomato paste and basil mixture and cheese slice; cooked_sausage)",
+            "action": "spoon",
+            "output": "bread slice with spread tomato paste and basil mixture, cheese slice and cooked sausage chunks"
+        },
+        {
+            "instructions": "place remaining cheese_slice over sausage .",
+            "input": "(remaining cheese_slice; bread slice with spread tomato paste and basil mixture, cheese slice and cooked sausage chunks)",
+            "action": "place",
+            "output": "bread slice with spread tomato paste and basil mixture, cheese slice, cooked sausage chunks and remaining cheese slice"
+        },
+        {
+            "instructions": "top with remaining bread_slice , trimming crusts if needed to fit .",
+            "input": "(remaining bread slice; bread slice with spread tomato paste and basil mixture, cheese slice, cooked sausage chunks and remaining cheese slice)",
+            "action": "top",
+            "output": "bread slice with spread tomato paste and basil mixture, cheese slice, cooked sausage chunks and remaining cheese slice topped with remaining bread slice"
+        },
+        {
+            "instructions": "combine large_egg , lowfat milk and salt .",
+            "input": "(large_egg; lowfat_milk; salt)",
+            "action": "combine",
+            "output": "egg mixture"
+        },
+        {
+            "instructions": "blend well .",
+            "input": "egg mixture",
+            "action": "blend",
+            "output": "egg mixture"
+        },
+        {
+            "instructions": "pour over bread in pan .",
+            "input": "(egg mixture; assembled pizza bread sandwich)",
+            "action": "pour",
+            "output": "egg mixture poured over assembled pizza bread sandwich"
+        },
+        {
+            "instructions": "cover ;",
+            "input": "egg mixture poured over assembled pizza bread sandwich",
+            "action": "cover",
+            "output": "covered assembled pizza bread sandwich in egg mixture"
+        },
+        {
+            "instructions": "chill several hrs or possibly overnight .",
+            "input": "covered assembled pizza bread sandwich in egg mixture",
+            "action": "chill",
+            "output": "chilled covered assembled pizza bread sandwich in egg mixture overnight"
+        },
+        {
+            "instructions": "bake uncovered at 350 degrees for 45 min or possibly till puffed",
+            "input": "uncooked covered assembled pizza bread sandwich in egg mixture",
+            "action": "bake",
+            "output": "baked sausage pizza bread dish"
+        },
+        {
+            "instructions": "set .",
+            "input": "baked sausage pizza bread dish",
+            "action": "set",
+            "output": "baked sausage pizza bread dish"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound pork sausage"
+        },
+        {
+            "text": "8 slices white bread"
+        },
+        {
+            "text": "1 sm. tomato paste"
+        },
+        {
+            "text": "1 1/2 teaspoon dry basil, crushed"
+        },
+        {
+            "text": "8 ounce. Mozzarella cheese, sliced"
+        },
+        {
+            "text": "3 Large eggs, beaten"
+        },
+        {
+            "text": "2 c. lowfat milk"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook sausage in skillet, slowly."
+        },
+        {
+            "text": "Break up meat as it cooks, cook thoroughly."
+        },
+        {
+            "text": "Drain well, place 4 slices of bread in bottom of greased 8 x 8 x 2 inch baking dish."
+        },
+        {
+            "text": "Combine tomato paste and basil."
+        },
+        {
+            "text": "Spread over bread in pan."
+        },
+        {
+            "text": "Place half of the cheese slices over this."
+        },
+        {
+            "text": "Spoon all of sausage over cheese."
+        },
+        {
+            "text": "Place remaining cheese slices over sausage."
+        },
+        {
+            "text": "Top with remaining bread slices, trimming crusts if needed to fit."
+        },
+        {
+            "text": "Combine Large eggs, lowfat milk and salt."
+        },
+        {
+            "text": "Blend well."
+        },
+        {
+            "text": "Pour over bread in pan."
+        },
+        {
+            "text": "Cover; chill several hrs or possibly overnight."
+        },
+        {
+            "text": "Bake uncovered at 350 degrees for 45 min or possibly till puffed and set."
+        },
+        {
+            "text": "Serves 4."
+        }
+    ]
+}

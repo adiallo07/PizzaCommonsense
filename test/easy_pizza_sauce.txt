@@ -1,0 +1,73 @@
+{
+    "title": "easy_pizza_sauce",
+    "id": "9d20e5328f",
+    "table": [
+        {
+            "instructions": "combine all_ingredient in a saucepan over medium heat .",
+            "input": "all_ingredient",
+            "action": "combine",
+            "output": "sauce ingredients"
+        },
+        {
+            "instructions": "when the sauce begins to bubble , reduce heat",
+            "input": "sauce ingredients",
+            "action": "reduce",
+            "output": "bubbling sauce"
+        },
+        {
+            "instructions": "simmer for 30 minutes , stirring often .",
+            "input": "bubbling sauce",
+            "action": "simmer",
+            "output": "simmered sauce"
+        },
+        {
+            "instructions": "remove sauce from heat",
+            "input": "simmered sauce",
+            "action": "remove",
+            "output": "cooked sauce"
+        },
+        {
+            "instructions": "store in refrigerator or use immediately .",
+            "input": "cooked sauce",
+            "action": "store",
+            "output": "finished sauce to be used immediately or refrigerated"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (15 ounce) can tomato puree"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "14 teaspoon dried basil"
+        },
+        {
+            "text": "14 teaspoon dried oregano"
+        },
+        {
+            "text": "14 teaspoon ground thyme"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine all ingredients in a saucepan over medium heat."
+        },
+        {
+            "text": "When the sauce begins to bubble, reduce heat and simmer for 30 minutes, stirring often."
+        },
+        {
+            "text": "Remove sauce from heat and let it cool."
+        },
+        {
+            "text": "Store in refrigerator or use immediately."
+        },
+        {
+            "text": "Can be frozen."
+        }
+    ]
+}

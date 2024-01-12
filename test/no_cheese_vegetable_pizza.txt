@@ -1,0 +1,115 @@
+{
+    "title": "no_cheese_vegetable_pizza",
+    "id": "82d6dcaa76",
+    "table": [
+        {
+            "instructions": "preheat the oven to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large bowl , combine the onions , tomato puree , thyme , basil , parsley , oregano , garlic , pepper , salt , and sugar",
+            "input": "(onions; thyme; basil; parsley; oregano; garlic; pepper; salt; sugar)",
+            "action": "combine",
+            "output": "pizza sauce mixture"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "pizza sauce mixture",
+            "action": "stir",
+            "output": "pizza sauce mixture"
+        },
+        {
+            "instructions": "spread the mixture over the crust .",
+            "input": "(pizza crust; pizza sauce mixture)",
+            "action": "spread",
+            "output": "crust_with_pizza sauce"
+        },
+        {
+            "instructions": "chop the flesh of the roasted eggplant",
+            "input": "roasted_eggplant",
+            "action": "chop",
+            "output": "chopped_roasted eggplant"
+        },
+        {
+            "instructions": "spread over the sauce .",
+            "input": "(crust_with_pizza sauce; chopped_roasted eggplant)",
+            "action": "spread",
+            "output": "crust_with_pizza sauce and chopped roasted eggplant"
+        },
+        {
+            "instructions": "bake the pizza for 20 to 25 minutes or until the crust is golden brown .",
+            "input": "uncooked no cheese eggplant pizza ",
+            "action": "bake",
+            "output": "baked no cheese eggplant pizza "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup tomato puree"
+        },
+        {
+            "text": "1 teaspoon dried thyme"
+        },
+        {
+            "text": "1 teaspoon chopped fresh basil"
+        },
+        {
+            "text": "1 teaspoon chopped fresh parsley"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "1 teaspoon minced garlic"
+        },
+        {
+            "text": "1 teaspoon black pepper"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "1 commercially prepared pizza crust"
+        },
+        {
+            "text": "1 eggplant, oven roasted"
+        },
+        {
+            "text": "1 zucchini, sliced 1/4 inch thick and blanched"
+        },
+        {
+            "text": "1 yellow squash, sliced 1/4 inch thick and blanched"
+        },
+        {
+            "text": "2 plum tomatoes, sliced 1/4 inch thick"
+        },
+        {
+            "text": "1 teaspoon chopped fresh basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 450 degrees."
+        },
+        {
+            "text": "In a large bowl, combine the onions, tomato puree, thyme, basil, parsley, oregano, garlic, pepper, salt, and sugar and stir to combine."
+        },
+        {
+            "text": "Spread the mixture over the crust."
+        },
+        {
+            "text": "Chop the flesh of the roasted eggplant and spread over the sauce."
+        },
+        {
+            "text": "Layer the zucchini, yellow squash, plum tomatoes and basil over the eggplant."
+        },
+        {
+            "text": "Bake the pizza for 20 to 25 minutes or until the crust is golden brown."
+        }
+    ]
+}

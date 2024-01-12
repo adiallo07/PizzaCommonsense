@@ -1,0 +1,229 @@
+{
+    "title": "gluten-free_margherita_pizza",
+    "id": "6569f061da",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f 230 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a baking sheet with foil",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "grate cauliflower in a food processor .",
+            "input": "cauliflower",
+            "action": "grate",
+            "output": "grated_cauliflower"
+        },
+        {
+            "instructions": "put a steamer in a saucepan",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "add water to reach just below bottom ,",
+            "input": "NA",
+            "action": "add",
+            "output": "NA"
+        },
+        {
+            "instructions": "add cauliflower and steam , covered , until tender , 8 to 10 minutes .",
+            "input": "grated cauliflower",
+            "action": "add",
+            "output": "steamed cauliflower"
+        },
+        {
+            "instructions": "transfer to a large plate , spreading it out .",
+            "input": "steamed cauliflower",
+            "action": "transfer",
+            "output": "plated and spread out steamed cauliflower"
+        },
+        {
+            "instructions": "refrigerate , stirring occasionally , until cooled , about 15 minutes .",
+            "input": "plated and spread out steamed cauliflower",
+            "action": "refrigerate",
+            "output": "cooled steamed cauliflower"
+        },
+        {
+            "instructions": "transfer to a smooth kitchen towel not terry cloth",
+            "input": "cooled steamed cauliflower",
+            "action": "transfer",
+            "output": "cooled steamed cauliflower"
+        },
+        {
+            "instructions": "twist , firmly squeezing out as much liquid as possible .",
+            "input": "cooled steamed cauliflower",
+            "action": "twist",
+            "output": "drained steamed cauliflower"
+        },
+        {
+            "instructions": "mix together egg , cheese , parsley , garlic_salt , and pepper in a bowl .",
+            "input": "(egg; cheese; parsley; garlic salt; pepper)",
+            "action": "mix",
+            "output": "egg mixture"
+        },
+        {
+            "instructions": "stir in cauliflower with a fork until evenly incorporated .",
+            "input": "(egg mixture; drained steamed cauliflower)",
+            "action": "stir",
+            "output": "cauliflower and egg mixture"
+        },
+        {
+            "instructions": "mound mixture in center of baking sheet ;",
+            "input": "cauliflower and egg mixture",
+            "action": "mound",
+            "output": "piled cauliflower and egg mixture"
+        },
+        {
+            "instructions": "press",
+            "input": "piled cauliflower and egg mixture",
+            "action": "press",
+            "output": "flattened cauliflower and egg mixture"
+        },
+        {
+            "instructions": "shape into a 12 inch round about 14 inch thick .",
+            "input": "flattened cauliflower and egg mixture",
+            "action": "shape",
+            "output": "round crust of cauliflower and egg mixture"
+        },
+        {
+            "instructions": "bake until lightly browned , 15 to 18 minutes .",
+            "input": "uncooked cauliflower crust",
+            "action": "bake",
+            "output": "baked cauliflower crust"
+        },
+        {
+            "instructions": "spread tomato_sauce on crust",
+            "input": "(tomato sauce; parbaked cauliflower crust)",
+            "action": "spread",
+            "output": "parbaked cauliflower crust with tomato sauce"
+        },
+        {
+            "instructions": "add pepperoni if using ,",
+            "input": "(pepperoni; parbaked cauliflower crust with tomato sauce)",
+            "action": "add",
+            "output": "parbaked cauliflower crust with tomato sauce and pepperoni"
+        },
+        {
+            "instructions": "sprinkle with italian and parmesan_cheese .",
+            "input": "parbaked cauliflower crust with tomato sauce and pepperoni",
+            "action": "sprinkle",
+            "output": "parbaked cauliflower crust with tomato sauce, pepperoni, and parmesan cheese"
+        },
+        {
+            "instructions": "bake until cheese is melted and bubbling , about 5 minutes .",
+            "input": "parbaked cauliflower crust with tomato sauce, pepperoni, and parmesan cheese",
+            "action": "bake",
+            "output": "baked cauliflower pepperoni pizza"
+        },
+        {
+            "instructions": "scatter with basil .",
+            "input": "(baked cauliflower pepperoni pizza; basil)",
+            "action": "scatter",
+            "output": "baked cauliflower pepperoni pizza with scattered basil "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Crust:"
+        },
+        {
+            "text": "3 cups coarsely chopped cauliflower"
+        },
+        {
+            "text": "1 large egg"
+        },
+        {
+            "text": "1/2 cup shredded Italian cheese blend"
+        },
+        {
+            "text": "1/4 cup chopped fresh parsley"
+        },
+        {
+            "text": "1 clove garlic, chopped"
+        },
+        {
+            "text": "1/4 teaspoon salt"
+        },
+        {
+            "text": "1/4 teaspoon black pepper"
+        },
+        {
+            "text": "Topping:"
+        },
+        {
+            "text": "1/2 cup tomato sauce"
+        },
+        {
+            "text": "1/4 cup sliced pepperoni (optional)"
+        },
+        {
+            "text": "1/2 cup packed shredded Italian cheese blend"
+        },
+        {
+            "text": "2 tablespoons Parmesan cheese"
+        },
+        {
+            "text": "1/4 cup small or torn fresh basil leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "text": "Line a baking sheet with foil and spray with cooking spray."
+        },
+        {
+            "text": "Grate cauliflower in a food processor."
+        },
+        {
+            "text": "Put a steamer in a saucepan, add water to reach just below bottom, and bring to a boil."
+        },
+        {
+            "text": "Add cauliflower and steam, covered, until tender, 8 to 10 minutes."
+        },
+        {
+            "text": "Transfer to a large plate, spreading it out."
+        },
+        {
+            "text": "Refrigerate, stirring occasionally, until cooled, about 15 minutes."
+        },
+        {
+            "text": "Transfer to a smooth kitchen towel (not terry cloth), gather up towel ends, and twist, firmly squeezing out as much liquid as possible."
+        },
+        {
+            "text": "Mix together egg, cheese, parsley, garlic, salt, and pepper in a bowl."
+        },
+        {
+            "text": "Stir in cauliflower with a fork until evenly incorporated."
+        },
+        {
+            "text": "Mound mixture in center of baking sheet; press and shape into a 12-inch round (about 1/4 inch thick)."
+        },
+        {
+            "text": "Bake until lightly browned, 15 to 18 minutes."
+        },
+        {
+            "text": "Spread tomato sauce on crust and add pepperoni (if using), then sprinkle with Italian and parmesan cheeses."
+        },
+        {
+            "text": "Bake until cheese is melted and bubbling, about 5 minutes."
+        },
+        {
+            "text": "Scatter with basil."
+        }
+    ]
+}

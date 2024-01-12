@@ -1,0 +1,220 @@
+{
+    "title": "portobello_mushroom_pizza_with_spelt_crust",
+    "id": "63abc2f417",
+    "table": [
+        {
+            "instructions": "in small bowl , combine water , yeast and sugar",
+            "input": "(water; yeast; sugar)",
+            "actions": "combine",
+            "output": "(combined_water; yeast; sugar)"
+        },
+        {
+            "instructions": "stir to dissolve .",
+            "input": "(combined_water; yeast; sugar)",
+            "actions": "stir",
+            "output": "yeast_mixture"
+        },
+        {
+            "instructions": "combine flour and salt",
+            "input": "(flour; salt)",
+            "actions": "combine",
+            "output": "combined_flour_and salt"
+        },
+        {
+            "instructions": "with machine running , add dissolved yeast through feed tube",
+            "input": "(combined_flour_and salt; yeast_mixture)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "add 2 tablespoons , oil",
+            "input": "(dough; oil)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn dough out onto lightly floured surface",
+            "input": "dough",
+            "actions": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead briefly .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "cover with plastic wrap or a clean kitchen towel",
+            "input": "kneaded_dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "punch down dough",
+            "input": "covered_dough",
+            "actions": "punch",
+            "output": "punched_down_dough"
+        },
+        {
+            "instructions": "knead it several times ,",
+            "input": "punched_down_dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "flatten into a circle .",
+            "input": "kneaded_dough",
+            "actions": "flatten",
+            "output": "flatten_pizza_dough"
+        },
+        {
+            "instructions": "using a floured rolling pin , roll dough out into a 12 inch circle .",
+            "input": "flatten_pizza_dough",
+            "actions": "roll",
+            "output": "flatten_pizza_dough"
+        },
+        {
+            "instructions": "transfer dough to pizza\u2012pan or baking sheet .",
+            "input": "flatten_pizza_dough",
+            "actions": "transfer",
+            "output": "flatten_pizza_dough"
+        },
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in small skillet , heat remaining 12 tablespoon , oil over medium high heat .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add mushrooms",
+            "input": "(heated_oil; mushrooms)",
+            "actions": "add",
+            "output": "mushrooms in heated oil"
+        },
+        {
+            "instructions": "cook , stirring often , until softened , about 3 minutes .",
+            "input": "mushrooms in heated oil",
+            "actions": "cook",
+            "output": "cooked mushrooms"
+        },
+        {
+            "instructions": "using slotted spoon , remove mushrooms to paper towels to drain .",
+            "input": "cooked mushrooms",
+            "actions": "remove",
+            "output": "drained_mushrooms"
+        },
+        {
+            "instructions": "spread pizza_dough with tomato_sauce",
+            "input": "(pizza_dough; tomato_sauce)",
+            "actions": "spread",
+            "output": "tomato_sauce_spread_on_pizza_dough"
+        },
+        {
+            "instructions": "sprinkle evenly with cheese",
+            "input": "(tomato_sauce_spread_on_pizza_dough; cheese)",
+            "actions": "sprinkle",
+            "output": "tomato_sauce and cheese_spread_on_pizza_dough"
+        },
+        {
+            "instructions": "bake on lowest oven rack until cheese has melted and crust has turned golden brown , 20 to 25 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "baked pizza",
+            "actions": "serve",
+            "output": "mushroom pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "23 cup warm water"
+        },
+        {
+            "text": "1/4 tsp. active dry yeast"
+        },
+        {
+            "text": "Pinch sugar"
+        },
+        {
+            "text": "1 1/2 cups spelt flour"
+        },
+        {
+            "text": "1/2 tsp. salt"
+        },
+        {
+            "text": "2 1/2 Tbs. olive oil"
+        },
+        {
+            "text": "2 or 3 portobello mushroom caps, thinly sliced"
+        },
+        {
+            "text": "3/4 cup prepared tomato sauce"
+        },
+        {
+            "text": "1 cup shredded low-fat mozzarella cheese or soy cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In small bowl, combine water, yeast and sugar and stir to dissolve."
+        },
+        {
+            "text": "Let stand until foamy, about 5 minutes."
+        },
+        {
+            "text": "In food processor, combine flour and salt and pulse to mix."
+        },
+        {
+            "text": "With machine running, add dissolved yeast through feed tube and process until mixture is crumbly."
+        },
+        {
+            "text": "Keep machine running and add 2 tablespoons oil and process just until dough forms a ball, adding 1 to 2 more tablespoons flour if dough is too sticky."
+        },
+        {
+            "text": "Turn dough out onto lightly floured surface and knead briefly."
+        },
+        {
+            "text": "Cover with plastic wrap or a clean kitchen towel and let rise 45 minutes."
+        },
+        {
+            "text": "Punch down dough, knead it several times, then flatten into a circle."
+        },
+        {
+            "text": "Using a floured rolling pin, roll dough out into a 12-inch circle."
+        },
+        {
+            "text": "Transfer dough to pizza pan or baking sheet."
+        },
+        {
+            "text": "Preheat oven to 450F."
+        },
+        {
+            "text": "In small skillet, heat remaining 1/2 tablespoon oil over medium-high heat."
+        },
+        {
+            "text": "Add mushrooms and cook, stirring often, until softened, about 3 minutes."
+        },
+        {
+            "text": "Using slotted spoon, remove mushrooms to paper towels to drain."
+        },
+        {
+            "text": "Spread pizza dough with tomato sauce, sprinkle evenly with cheese and distribute mushrooms over cheese."
+        },
+        {
+            "text": "Bake on lowest oven rack until cheese has melted and crust has turned golden brown, 20 to 25 minutes."
+        },
+        {
+            "text": "Serve hot."
+        }
+    ]
+}

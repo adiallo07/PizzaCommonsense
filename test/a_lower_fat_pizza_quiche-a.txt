@@ -1,0 +1,208 @@
+{
+    "title": "a_lower_fat_pizza_quiche-a",
+    "id": "3945d2e07d",
+    "table": [
+        {
+            "instructions": "in a medium bowl , mix yeast , sugar , and a small amount of warm_water .",
+            "input": "(yeast; sugar; warm_water)",
+            "actions": "mix",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "stir well to dissolve yeast",
+            "input": "yeast mixture",
+            "actions": "stir",
+            "output": "dissolved yeast mixture"
+        },
+        {
+            "instructions": "stir in flours and salt , plus garlic , basil , and oregano all",
+            "input": "(dissolved yeast mixture; flours; salt; garlic; basil; oregano)",
+            "actions": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "to taste .",
+            "input": "",
+            "actions": "taste",
+            "output": ""
+        },
+        {
+            "instructions": "add more water until a kneadable dough forms .",
+            "input": "(dough; water)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "set aside to rise for a few minutes .",
+            "input": "dough",
+            "actions": "set",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "spray a pie pan with cooking_spray ,",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "pat the crust into the bottom .",
+            "input": "risen dough",
+            "actions": "pat",
+            "output": "crust"
+        },
+        {
+            "instructions": "bake at 425 for 5 7 minutes , or until the crust begins to brown nicely .",
+            "input": "uncooked crust",
+            "actions": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "lightly spray a small pan with cooking_spray ,",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook onion and pepper until tender .",
+            "input": "(onion; pepper)",
+            "actions": "cook",
+            "output": "cooked onion and pepper mixture"
+        },
+        {
+            "instructions": "in a medium bowl mix eggs , cottage_cheese , more basil and oregano if you wish , and the onion pepper mixture .",
+            "input": "(eggs; cottage_cheese; basil; oregano; cooked onion and pepper mixture)",
+            "actions": "mix",
+            "output": "egg mixture"
+        },
+        {
+            "instructions": "pour the egg mixture into the crust ,",
+            "input": "(baked crust; egg mixture)",
+            "actions": "pour",
+            "output": "uncooked quiche"
+        },
+        {
+            "instructions": "bake at 425 for 15 minutes .",
+            "input": "uncooked quiche",
+            "actions": "bake",
+            "output": "baked quiche "
+        },
+        {
+            "instructions": "remove the quiche from the oven",
+            "input": "baked quiche ",
+            "actions": "remove",
+            "output": "baked quiche "
+        },
+        {
+            "instructions": "top with the cheese , pepperoni , and olives .",
+            "input": "(baked quiche; cheese; pepperoni; olives)",
+            "actions": "top",
+            "output": "baked quiche topped with cheese, pepperoni and olives"
+        },
+        {
+            "instructions": "reduce the oven temperature to 375",
+            "input": "NA",
+            "actions": "reduce",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake 20 minutes more , or until the eggs are set in the center .",
+            "input": "baked quiche topped with cheese, pepperoni and olives",
+            "actions": "bake",
+            "output": "baked quiche topped with cheese, pepperoni and olives"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 cup warm water"
+        },
+        {
+            "text": "1 12 teaspoons yeast (or half a packet)"
+        },
+        {
+            "text": "12 teaspoon sugar"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "12 cup all-purpose flour"
+        },
+        {
+            "text": "12 cup whole wheat flour"
+        },
+        {
+            "text": "oregano (to taste)"
+        },
+        {
+            "text": "basil (to taste)"
+        },
+        {
+            "text": "garlic powder (to taste)"
+        },
+        {
+            "text": "14 cup onion, chopped"
+        },
+        {
+            "text": "14 cup bell pepper, chopped"
+        },
+        {
+            "text": "5 eggs, lightly beaten"
+        },
+        {
+            "text": "12 cup low fat cottage cheese"
+        },
+        {
+            "text": "12 cup mozzarella cheese"
+        },
+        {
+            "text": "15 turkey pepperoni"
+        },
+        {
+            "text": "5 Spanish olives, sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For the crust:."
+        },
+        {
+            "text": "In a medium bowl, mix yeast, sugar, and a small amount of warm water."
+        },
+        {
+            "text": "Stir well to dissolve yeast and let the mixture rest for 5 minutes."
+        },
+        {
+            "text": "Stir in flours and salt, plus garlic, basil, and oregano (all to taste)."
+        },
+        {
+            "text": "Add more water until a kneadable dough forms."
+        },
+        {
+            "text": "Set aside to rise for a few minutes."
+        },
+        {
+            "text": "Spray a pie pan with cooking spray, then pat the crust into the bottom."
+        },
+        {
+            "text": "Bake at 425 for 5-7 minutes, or until the crust begins to brown nicely."
+        },
+        {
+            "text": "Lightly spray a small pan with cooking spray, then cook onion and pepper until tender."
+        },
+        {
+            "text": "In a medium bowl mix eggs, cottage cheese, more basil and oregano (if you wish), and the onion/pepper mixture."
+        },
+        {
+            "text": "Pour the egg mixture into the crust, then bake at 425 for 15 minutes."
+        },
+        {
+            "text": "Remove the quiche from the oven and top with the cheese, pepperoni, and olives."
+        },
+        {
+            "text": "Reduce the oven temperature to 375 and bake 20 minutes more, or until the eggs are set in the center."
+        },
+        {
+            "text": "Let stand 5 minutes before slicing."
+        }
+    ]
+}

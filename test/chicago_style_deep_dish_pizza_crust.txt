@@ -1,0 +1,157 @@
+{
+    "title": "chicago_style_deep_dish_pizza_crust",
+    "id": "d939b7e8fc",
+    "table": [
+        {
+            "instructions": "whisk together water , yeast and sugar in a bowl",
+            "input": "(water; yeast; sugar)",
+            "action": "whisk",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "set aside to proof for 10 minutes .",
+            "input": "yeast mixture",
+            "action": "set",
+            "output": "proofed yeast mixture"
+        },
+        {
+            "instructions": "sprinkle in thyme .",
+            "input": "(proofed yeast mixture; thyme)",
+            "action": "sprinkle",
+            "output": "proofed yeast mixture with thyme"
+        },
+        {
+            "instructions": "mix eggs into yeast mixture .",
+            "input": "(proofed yeast mixture with thyme; eggs)",
+            "action": "mix",
+            "output": "proofed yeast mixture with thyme and eggs"
+        },
+        {
+            "instructions": "pour liquid into dry ingredients",
+            "input": "(proofed yeast mixture with thyme and eggs; flour)",
+            "action": "pour",
+            "output": "partially combined dough"
+        },
+        {
+            "instructions": "mix until a soft sticky dough forms .",
+            "input": "partially combined dough",
+            "action": "mix",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "remove dough to a lightly floured surface",
+            "input": "soft dough",
+            "action": "remove",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "knead 5 minutes , until dough is no longer sticky .",
+            "input": "soft dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place in a well oiled bowl , turning to coat all sides",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded dough in oiled bowl"
+        },
+        {
+            "instructions": "cover",
+            "input": "kneaded dough in oiled bowl",
+            "action": "cover",
+            "output": "covered kneaded dough in oiled bowl"
+        },
+        {
+            "instructions": "punch dough down",
+            "input": "covered kneaded dough in oiled bowl",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "place into a well oiled 12 , pizza\u2012pan .",
+            "input": "punched down dough, oil, pizza pan",
+            "action": "place",
+            "output": "pizza dough on pizza pan"
+        },
+        {
+            "instructions": "using your hands , move dough around the bottom of the pan and 23 the way up the sides .",
+            "input": "pizza dough on pizza pan",
+            "action": "move",
+            "output": "deep crust dough"
+        },
+        {
+            "instructions": "set aside",
+            "input": "deep crust dough",
+            "action": "set",
+            "output": "deep crust dough"
+        },
+        {
+            "instructions": "brush crust lightly with olive_oil",
+            "input": "(olive oil; deep crust dough)",
+            "action": "brush",
+            "output": "deep crust dough brushed with olive oil"
+        },
+        {
+            "instructions": "add toppings .",
+            "input": "(toppings; deep crust dough brushed with olive oil)",
+            "action": "add",
+            "output": "uncooked deep dish pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups all-purpose flour"
+        },
+        {
+            "text": "18 cup olive oil"
+        },
+        {
+            "text": "2 large eggs, room temperature"
+        },
+        {
+            "text": "2 tablespoons thyme"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "1 package fast rising yeast"
+        },
+        {
+            "text": "2 teaspoons sugar"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Whisk together water, yeast and sugar in a bowl and set aside to proof for 10 minutes."
+        },
+        {
+            "text": "In a large bowl sift together flour and salt and sprinkle in thyme."
+        },
+        {
+            "text": "Mix eggs into yeast mixture."
+        },
+        {
+            "text": "Pour liquid into dry ingredients and mix until a soft sticky dough forms."
+        },
+        {
+            "text": "remove dough to a lightly floured surface and knead 5 minutes, until dough is no longer sticky."
+        },
+        {
+            "text": "Place in a well oiled bowl, turning to coat all sides, cover and allow to rise until doubled in bulk 2 - 3 hours."
+        },
+        {
+            "text": "Punch dough down and place into a well oiled 12\" pizza pan."
+        },
+        {
+            "text": "using your hands, move dough around the bottom of the pan and 2/3 the way up the sides."
+        },
+        {
+            "text": "Set aside and let rise 10 minutes."
+        },
+        {
+            "text": "Brush crust lightly with olive oil and add toppings."
+        }
+    ]
+}

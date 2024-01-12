@@ -1,0 +1,88 @@
+{
+    "title": "easy_bread_machine_pizza_crust",
+    "id": "ebab3dd05c",
+    "table": [
+        {
+            "instructions": "add all_ingredients to bread pan in the order given .",
+            "input": "all_ingredients",
+            "actions": "add",
+            "output": "added_all_ingredients"
+        },
+        {
+            "instructions": "add water if too dry .",
+            "input": "(water; added_all_ingredients)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "after dough cycle is complete , roll dough or stretch to fit pizza\u2012pan .",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "we sprinkle our dough pan with cornmeal",
+            "input": "cornmeal",
+            "actions": "sprinkle",
+            "output": "sprikled cornmeal"
+        },
+        {
+            "instructions": "bake pizza at 450 for 15 20 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 cups warm water"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "4 cups flour (all purpose or bread)"
+        },
+        {
+            "text": "1 12 teaspoons salt"
+        },
+        {
+            "text": "13 cup parmesan cheese"
+        },
+        {
+            "text": "1 tablespoon italian seasoning"
+        },
+        {
+            "text": "2 12 teaspoons active dry yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Add all ingredients to bread pan in the order given."
+        },
+        {
+            "text": "Select dough cycle."
+        },
+        {
+            "text": "Add water if too dry."
+        },
+        {
+            "text": "A little at a time."
+        },
+        {
+            "text": "After dough cycle is complete, roll dough or stretch to fit pizza pan."
+        },
+        {
+            "text": "We sprinkle our dough pan with cornmeal but its just an option."
+        },
+        {
+            "text": "No need to let dough rest again just start loading up with sauce and toppings."
+        },
+        {
+            "text": "Bake pizza at 450 for 15-20 minutes."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

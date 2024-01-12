@@ -1,0 +1,286 @@
+{
+    "title": "calzoni_filled_pizza",
+    "id": "e882362976",
+    "table": [
+        {
+            "instructions": "for the dough stir the yeast and sugar into 3 t warm_water",
+            "input": "(yeast; sugar; warm water)",
+            "action": "stir",
+            "output": "dissolved yeast"
+        },
+        {
+            "instructions": "whisk in the milk and egg .",
+            "input": "(milg; egg; dissolved yeast)",
+            "action": "whisk",
+            "output": "egg, milk and yeast mixture"
+        },
+        {
+            "instructions": "mix flour and salt",
+            "input": "(flour; salt)",
+            "action": "mix",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "make a mound of it in a large bowl or if you 're daring , on a well floured surface",
+            "input": "flour mixture",
+            "action": "make",
+            "output": "mound_of_flour_and_salt_mixture"
+        },
+        {
+            "instructions": "make a large well in the center .",
+            "input": "mound_of_flour_and_salt_mixture",
+            "action": "make",
+            "output": "mound_of_flour_and_salt_mixture with well"
+        },
+        {
+            "instructions": "gradually pour the dissolved yeast mixture into the well , working the flour from the inside of the well into the liquid with your fingers .",
+            "input": "(mound_of_flour_and_salt_mixture with well; egg, milk and yeast mixture)",
+            "action": "pour",
+            "output": "egg, milk and yeast mixture poured over flour mixture"
+        },
+        {
+            "instructions": "knead until soft , velvety , strong , and elastic 10 to 15 minutes .",
+            "input": "partially_mixed_dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place the dough in a lightly oiled bowl",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded_dough_in_bowl"
+        },
+        {
+            "instructions": "cover with plastic wrap ,",
+            "input": "kneaded_dough",
+            "action": "cover",
+            "output": "covered_kneaded_dough"
+        },
+        {
+            "instructions": "let rise until doubled , about 2 hrs .",
+            "input": "covered_kneaded_dough",
+            "action": "rise",
+            "output": "proofed dough"
+        },
+        {
+            "instructions": "knead the dough briefly on a lightly floured surface .",
+            "input": "proofed dough",
+            "action": "knead",
+            "output": "briefly_kneaded_risen_dough"
+        },
+        {
+            "instructions": "cut into 6 8 pieces about 4 oz , 110 g each .",
+            "input": "briefly_kneaded_risen_dough",
+            "action": "cut",
+            "output": "cut_dough_pieces"
+        },
+        {
+            "instructions": "shape each piece into a ball",
+            "input": "cut_dough_pieces",
+            "action": "shape",
+            "output": "dough_balls"
+        },
+        {
+            "instructions": "flatten each ball with your hand ,",
+            "input": "dough_balls",
+            "action": "flatten",
+            "output": "flattened_dough_balls"
+        },
+        {
+            "instructions": "roll it with a rolling pin to a 14 inch thick oval .",
+            "input": "flattened_dough_balls",
+            "action": "roll",
+            "output": "rolled_dough_ovals"
+        },
+        {
+            "instructions": "for the topping warm the garlic in the oil in a small , heavy skillet over low heat 4 to 5 minutes .",
+            "input": "(garlic; oil)",
+            "action": "warm",
+            "output": "warmed_garlic_in_oil"
+        },
+        {
+            "instructions": "place 1 12 to 2 oz 13 c of the mozzarella and about 13 c chopped_tomato in the center of each dough oval .",
+            "input": "(rolled_dough_ovals; mozzarella; chopped_tomatoes)",
+            "action": "place",
+            "output": "topped_dough_ovals with mozzarella and chopped tomatoes"
+        },
+        {
+            "instructions": "sprinkle with a little parmesan , basil , and salt to taste .",
+            "input": "(topped_dough_ovals with mozzarella and chopped tomatoes; basil; salt)",
+            "action": "sprinkle",
+            "output": "basil and salt sprinkled on topped_dough_ovals with mozzarella and chopped tomatoes"
+        },
+        {
+            "instructions": "mix the egg and water in a small bowl .",
+            "input": "(egg; water)",
+            "action": "mix",
+            "output": "egg_wash"
+        },
+        {
+            "instructions": "brush the egg wash on the edge of each oval",
+            "input": "(egg_wash; basil and salt sprinkled on topped_dough_ovals with mozzarella and chopped tomatoes)",
+            "action": "brush",
+            "output": "egg_washed_dough_ovals "
+        },
+        {
+            "instructions": "fold each oval in half",
+            "input": "egg_washed_dough_ovals ",
+            "action": "fold",
+            "output": "folded_egg_washed_dough_ovals"
+        },
+        {
+            "instructions": "press the edges together w your fingertips .",
+            "input": "folded_egg_washed_dough_ovals",
+            "action": "press",
+            "output": "sealed_calzones"
+        },
+        {
+            "instructions": "brush the tops with the garlic infused olive_oil ;",
+            "input": "(sealed_calzones; warmed_garlic_in_oil )",
+            "action": "brush",
+            "output": "brushed_calzones with garlic infused olive oil"
+        },
+        {
+            "instructions": "place the calzoni on an oiled baking sheet .",
+            "input": "brushed_calzones with garlic infused olive oil",
+            "action": "place",
+            "output": "calzones_on_baking_sheet"
+        },
+        {
+            "instructions": "preheat oven to 450f ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake 20 to 25 minutes .",
+            "input": "calzones_on_baking_sheet",
+            "action": "bake",
+            "output": "baked_calzones"
+        },
+        {
+            "instructions": "brush again with garlic infused oil",
+            "input": "(baked_calzones; warmed_garlic_in_oil)",
+            "action": "brush",
+            "output": "brushed_baked_calzones"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "brushed_baked_calzones",
+            "action": "serve",
+            "output": "served_calzones"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 12 teaspoons active dry yeast (18 g)"
+        },
+        {
+            "text": "4 teaspoons sugar (20 g)"
+        },
+        {
+            "text": "3 -4 tablespoons warm water"
+        },
+        {
+            "text": "1 cup milk, plus"
+        },
+        {
+            "text": "1 tablespoon milk"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "3 34 cups unbleached all-purpose flour (500 g)"
+        },
+        {
+            "text": "1 12 teaspoons salt (8 g)"
+        },
+        {
+            "text": "1 teaspoon minced garlic"
+        },
+        {
+            "text": "14 cup olive oil"
+        },
+        {
+            "text": "12 ounces fresh mozzarella cheese, shredded (340 g)"
+        },
+        {
+            "text": "2 cups tomatoes (chopped, seeded, peeled)"
+        },
+        {
+            "text": "2 -3 tablespoons freshly grated parmesan cheese"
+        },
+        {
+            "text": "14 cup chopped fresh basil leaf"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "1 egg, beaten"
+        },
+        {
+            "text": "1 tablespoon water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "for the DOUGH: stir the yeast and sugar into 3 T warm water and let stand until foamy, 5 to 10 minutes."
+        },
+        {
+            "text": "Whisk in the milk and egg."
+        },
+        {
+            "text": "Mix flour and salt and make a mound of it in a large bowl (or if you're daring, on a well floured surface) and make a large well in the center."
+        },
+        {
+            "text": "gradually pour the dissolved yeast mixture into the well, working the flour from the inside of the well into the liquid with your fingers."
+        },
+        {
+            "text": "Continue until the flour is absorbed, adding 1 T of water if needed."
+        },
+        {
+            "text": "Knead until soft, velvety, strong, and elastic 10 to 15 minutes."
+        },
+        {
+            "text": "Place the dough in a lightly oiled bowl, cover with plastic wrap, and let rise until doubled, about 2 hrs."
+        },
+        {
+            "text": "Knead the dough briefly on a lightly floured surface."
+        },
+        {
+            "text": "Cut into 6-8 pieces (about 4 oz, 110 g each)."
+        },
+        {
+            "text": "Shape each piece into a ball, flatten each ball with your hand, and roll it with a rolling pin to a 1/4-inch thick oval."
+        },
+        {
+            "text": "for the TOPPING: Warm the garlic in the oil in a small, heavy skillet over low heat 4 to 5 minutes."
+        },
+        {
+            "text": "Place 1 1/2 to 2 oz (1/3 c) of the mozzarella and about 1/3 c chopped tomato in the center of each dough oval."
+        },
+        {
+            "text": "Sprinkle with a little parmesan, basil, and salt to taste."
+        },
+        {
+            "text": "Mix the egg and water in a small bowl."
+        },
+        {
+            "text": "Brush the egg wash on the edge of each oval and let rest 10 minutes covered by a towel."
+        },
+        {
+            "text": "fold each oval in half and press the edges together w/your fingertips."
+        },
+        {
+            "text": "brush the tops with the garlic infused olive oil place the calzoni on an oiled baking sheet."
+        },
+        {
+            "text": "Preheat oven to 450F Bake 20 to 25 minutes."
+        },
+        {
+            "text": "brush again with garlic infused oil and serve hot."
+        }
+    ]
+}

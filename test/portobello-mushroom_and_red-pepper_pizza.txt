@@ -1,0 +1,160 @@
+{
+    "title": "portobello-mushroom_and_red-pepper_pizza",
+    "id": "e9fe217dc6",
+    "table": [
+        {
+            "instructions": "heat the oven to 45",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large frying pan , heat 3 tablespoons of the oil over moderately high heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "put the peppers in the pan",
+            "input": "(heated_oil; red peppers)",
+            "action": "put",
+            "output": "peppers in heated_oil"
+        },
+        {
+            "instructions": "cook , stirring occasionally , for 10 minutes .",
+            "input": "peppers in heated_oil",
+            "action": "cook",
+            "output": "cooked peppers"
+        },
+        {
+            "instructions": "add the mushrooms and the salt",
+            "input": "(cooked peppers; portobello mushrooms; salt)",
+            "action": "add",
+            "output": "mushrooms and salt added to cooked peppers"
+        },
+        {
+            "instructions": "cook , stirring occasionally , until the mushrooms are golden , about 10 minutes more .",
+            "input": "mushrooms and salt added to cooked peppers",
+            "action": "cook",
+            "output": "cooked mushrooms and peppers"
+        },
+        {
+            "instructions": "meanwhile , oil a 14 inch , pizza\u2012pan or large baking sheet .",
+            "input": "NA",
+            "action": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "press the pizza_dough onto the pan in an approximately 14 inch round or 9 by13 inch rectangle .",
+            "input": "pizza dough",
+            "action": "press",
+            "output": "pressed pizza dough"
+        },
+        {
+            "instructions": "spread the peppers and mushrooms on the pizza_crust .",
+            "input": "(pressed pizza dough; cooked mushrooms and peppers)",
+            "action": "spread",
+            "output": "pressed pizza dough with cooked mushrooms and peppers"
+        },
+        {
+            "instructions": "bake for 12 minutes .",
+            "input": "uncooked portobello-mushroom_and_red-pepper_pizza",
+            "action": "bake",
+            "output": "baked portobello-mushroom_and_red-pepper_pizza"
+        },
+        {
+            "instructions": "sprinkle on the garlic , black_pepper , and basil .",
+            "input": "(garlic; black pepper; basil; baked portobello-mushroom_and_red-pepper_pizza)",
+            "action": "sprinkle",
+            "output": "baked portobello-mushroom_and_red-pepper_pizza with sprinkled garlic , black_pepper , and basil"
+        },
+        {
+            "instructions": "top with the mozzarella and then with the parmesan .",
+            "input": "(mozzarella; parmesan; baked portobello-mushroom_and_red-pepper_pizza with sprinkled garlic , black_pepper , and basil)",
+            "action": "top",
+            "output": "baked portobello-mushroom_and_red-pepper_pizza with sprinkled garlic , black_pepper , and basil, mozzarella and parmesan"
+        },
+        {
+            "instructions": "drizzle with the remaining 3 tablespoons , oil .",
+            "input": "(baked portobello-mushroom_and_red-pepper_pizza with sprinkled garlic , black_pepper , and basil, mozzarella and parmesan; olive oil)",
+            "action": "drizzle",
+            "output": "baked portobello-mushroom_and_red-pepper_pizza with sprinkled garlic , black_pepper , and basil, olive oil, mozzarella and parmesan"
+        },
+        {
+            "instructions": "bake until the cheese is bubbling and beginning to brown , about 10 to 15 minutes longer .",
+            "input": "baked portobello-mushroom_and_red-pepper_pizza with sprinkled garlic , black_pepper , and basil, olive oil, mozzarella and parmesan",
+            "action": "bake",
+            "output": "twice baked portobello-mushroom_and_red-pepper_pizza with sprinkled garlic , black_pepper , and basil, olive oil, mozzarella and parmesan"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 tablespoons olive oil"
+        },
+        {
+            "text": "2 red bell peppers, cut into thin slices"
+        },
+        {
+            "text": "1 1/2 pounds portobello mushrooms, stems removed, caps cut into 1/4-inch slices"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 pound store-bought or homemade pizza dough"
+        },
+        {
+            "text": "3 cloves garlic, minced"
+        },
+        {
+            "text": "1/4 teaspoon fresh-ground black pepper"
+        },
+        {
+            "text": "3/4 cup lightly packed basil leaves, chopped"
+        },
+        {
+            "text": "1/2 pound fresh salted mozzarella, cut into 1/4-inch cubes"
+        },
+        {
+            "text": "1/2 cup grated Parmesan"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat the oven to 450."
+        },
+        {
+            "text": "In a large frying pan, heat 3 tablespoons of the oil over moderately high heat."
+        },
+        {
+            "text": "Put the peppers in the pan and cook, stirring occasionally, for 10 minutes."
+        },
+        {
+            "text": "Add the mushrooms and the salt and cook, stirring occasionally, until the mushrooms are golden, about 10 minutes more."
+        },
+        {
+            "text": "Meanwhile, oil a 14-inch pizza pan or large baking sheet."
+        },
+        {
+            "text": "Press the pizza dough onto the pan in an approximately 14-inch round or 9-by-13-inch rectangle."
+        },
+        {
+            "text": "Spread the peppers and mushrooms on the pizza crust."
+        },
+        {
+            "text": "Bake for 12 minutes."
+        },
+        {
+            "text": "Sprinkle on the garlic, black pepper, and basil."
+        },
+        {
+            "text": "Top with the mozzarella and then with the Parmesan."
+        },
+        {
+            "text": "Drizzle with the remaining 3 tablespoons oil."
+        },
+        {
+            "text": "Bake until the cheese is bubbling and beginning to brown, about 10 to 15 minutes longer."
+        }
+    ]
+}

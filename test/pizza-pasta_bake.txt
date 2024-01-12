@@ -1,0 +1,97 @@
+{
+    "title": "pizza-pasta_bake",
+    "id": "76c6075a36",
+    "table": [
+        {
+            "instructions": "cook pasta in boiling_water until al dente .",
+            "input": "pasta",
+            "action": "cook",
+            "output": "cooked_pasta al dente"
+        },
+        {
+            "instructions": "cook sausage , garlic_powder and oregano with onions until the onions are transparent .",
+            "input": "(spicy sausage; garlic powder; oregano; onions)",
+            "action": "cook",
+            "output": "cooked spicy sausage and onion mixture"
+        },
+        {
+            "instructions": "pour a thin layer of sauce over the bottom of a greased 9 x 13 x 3 oven proof pan .",
+            "input": "sauce",
+            "action": "pour",
+            "output": "sauce in pan"
+        },
+        {
+            "instructions": "cover this with 13 of the pasta , 13 remaining sauce , 13 of mozzerella , 2 tablespoons parmesan , and 13 of the spicy_sausage and onions mix .",
+            "input": "(cooked_pasta al dente; sauce; mozzarella; parmesan; cooked spicy sausage and onion mixture)",
+            "action": "cover",
+            "output": "(sauce in pan covered with cooked pasta, remaining sauce; mozzarella, parmesan and cooked spicy sausage and onion mixture)"
+        },
+        {
+            "instructions": "cover the top of the ' pie ' with pepperoni .",
+            "input": "(pepperoni; uncooked pasta casserole)",
+            "action": "cover",
+            "output": "uncooked pasta casserole topped with pepperoni"
+        },
+        {
+            "instructions": "bake in a preheated oven 375 degrees for 40 minutes",
+            "input": "uncooked pasta casserole topped with pepperoni",
+            "action": "bake",
+            "output": "baked pasta casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "500 g pasta, shapes"
+        },
+        {
+            "text": "500 g spicy sausage"
+        },
+        {
+            "text": "1 large onion, chopped"
+        },
+        {
+            "text": "2 (400 g) jars spaghetti sauce (Bertolli's Tomato and Basil sauce is good, or home-made)"
+        },
+        {
+            "text": "250 g cooked ham, cubed"
+        },
+        {
+            "text": "375 -500 g pepperoni slices"
+        },
+        {
+            "text": "375 g mozzarella cheese, shredded"
+        },
+        {
+            "text": "6 tablespoons parmesan cheese, grated"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook pasta in boiling water until al dente."
+        },
+        {
+            "text": "Cook sausage, garlic powder and oregano with onions until the onions are transparent."
+        },
+        {
+            "text": "Pour a thin layer of sauce over the bottom of a greased 9\" x 13\" x 3\" oven-proof pan."
+        },
+        {
+            "text": "Cover this with 1/3 of the pasta, 1/3 remaining sauce, 1/3 of mozzerella, 2 tablespoons parmesan, and 1/3 of the spicy sausage and onions mix."
+        },
+        {
+            "text": "Repeat this layering twice more."
+        },
+        {
+            "text": "Cover the top of the 'pie' with pepperoni."
+        },
+        {
+            "text": "Bake in a preheated oven 375 degrees for 40 minutes then allow to cool for 5 minutes before serving."
+        }
+    ]
+}

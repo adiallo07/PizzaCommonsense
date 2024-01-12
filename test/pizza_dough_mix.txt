@@ -1,0 +1,175 @@
+{
+    "title": "pizza_dough_mix",
+    "id": "7d7a01823e",
+    "table": [
+        {
+            "instructions": "in a medium bowl , combine all the ingredients .",
+            "input": "(bread flour; dry yeast; salt)",
+            "action": "combine",
+            "output": "pizza_dough mix"
+        },
+        {
+            "instructions": "place the mix in an airtight container .",
+            "input": "pizza_dough mix",
+            "action": "place",
+            "output": "pizza_dough mix"
+        },
+        {
+            "instructions": "attach this to the jar .",
+            "input": "NA",
+            "action": "attach",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the pizza_dough mix in a large bowl and ;",
+            "input": "pizza_dough mix",
+            "action": "place",
+            "output": "pizza_dough mix"
+        },
+        {
+            "instructions": "add the oil and water .",
+            "input": "(pizza_dough mix; oil; water)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "beat with a wooden spoon or dough hook until mixture forms a ball .",
+            "input": "dough",
+            "action": "beat",
+            "output": "ball shaped dough"
+        },
+        {
+            "instructions": "turn out onto a floured board",
+            "input": "dough",
+            "action": "turn",
+            "output": "floured dough"
+        },
+        {
+            "instructions": "knead for 5 minutes .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "transfer to a greased bowl",
+            "input": "kneaded dough",
+            "action": "transfer",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "divide the dough in half",
+            "input": "kneaded dough",
+            "action": "divide",
+            "output": "two halves of dough"
+        },
+        {
+            "instructions": "pat into two 12 inch circles .",
+            "input": "two halves of dough",
+            "action": "pat",
+            "output": "two circles of dough"
+        },
+        {
+            "instructions": "for thin crust , fill",
+            "input": "(circle of dough; toppings)",
+            "action": "fill",
+            "output": "thin crust filled pizza"
+        },
+        {
+            "instructions": "bake the pizzas now .",
+            "input": "uncooked thin crust filled pizza",
+            "action": "bake",
+            "output": "baked thin crust pizza"
+        },
+        {
+            "instructions": "for thick crust, top the pizza_dough with tomato_sauce , cheeses of your choice , crushed oregano , and olive_oil drizzled over the pizzas .",
+            "input": "(risen circle of dough; tomato sauce; cheeses; crushed oregano; olive oil)",
+            "action": "top",
+            "output": "thick crust filled pizza"
+        },
+        {
+            "instructions": "preheat the oven",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake at 425 degrees f for 20 to 25 minutes .",
+            "input": "(thick crust filled pizza; thin crust filled pizza)",
+            "action": "bake",
+            "output": "baked pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 34 cups bread flour"
+        },
+        {
+            "text": "1 package active dry yeast (1 Tbsp.)"
+        },
+        {
+            "text": "2 teaspoons salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a medium bowl, combine all the ingredients."
+        },
+        {
+            "text": "Place the mix in an airtight container."
+        },
+        {
+            "text": "Attach this to the Jar."
+        },
+        {
+            "text": "Pizza Makes 2 12-inch pizzas 1 package Pizza Dough Mix."
+        },
+        {
+            "text": "2 tablespoons olive oil."
+        },
+        {
+            "text": "1 cup warm water."
+        },
+        {
+            "text": "1 cup tomato sauce."
+        },
+        {
+            "text": "1/2 cup grated mozzarella cheese."
+        },
+        {
+            "text": "1/3 cup freshly grated Parmesan."
+        },
+        {
+            "text": "1 teaspoons crushed oregano."
+        },
+        {
+            "text": "Place the Pizza Dough Mix in a large bowl& add the oil and water."
+        },
+        {
+            "text": "Beat with a wooden spoon or dough hook until mixture forms a ball."
+        },
+        {
+            "text": "Turn out onto a floured board and knead for 5 minutes."
+        },
+        {
+            "text": "Transfer to a greased bowl and let the dough rise for 90 minutes."
+        },
+        {
+            "text": "Divide the dough in half and pat into two 12-inch circles."
+        },
+        {
+            "text": "For thin crust, fill and bake the pizzas now."
+        },
+        {
+            "text": "For thicker crust, let pizzas rise 30 to 45 minutes."
+        },
+        {
+            "text": "Top the pizza dough with tomato sauce, cheeses of your choice, crushed oregano, and olive oil drizzled over the pizzas."
+        },
+        {
+            "text": "Preheat the oven and bake at 425 degrees F for 20 to 25 minutes."
+        },
+        {
+            "text": "Let stand 5 minutes."
+        }
+    ]
+}

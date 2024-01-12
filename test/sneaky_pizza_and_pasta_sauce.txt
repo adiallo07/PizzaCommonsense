@@ -1,0 +1,118 @@
+{
+    "title": "sneaky_pizza_and_pasta_sauce",
+    "id": "61a7ab2ba0",
+    "table": [
+        {
+            "instructions": "place oil in deep saucepan over medium heat .",
+            "input": "oil",
+            "action": "place",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "cook onions and garlic until translucent but not brown , stirring occasionally .",
+            "input": "(onions; garlic; heated oil)",
+            "action": "cook",
+            "output": "sauteed_onions_and_garlic"
+        },
+        {
+            "instructions": "mix in tomatoes , tomato_paste , carrots , sweet_potato and salt ,",
+            "input": "(tomatoes; tomato_paste; carrots; sweet_potato; salt; sauteed_onions_and_garlic)",
+            "action": "mix",
+            "output": "tomato sauce mixture"
+        },
+        {
+            "instructions": "lower heat",
+            "input": "tomato sauce mixture",
+            "action": "lower",
+            "output": "tomato sauce mixture"
+        },
+        {
+            "instructions": "simmer for 15 20 minutes until sauce thickens .",
+            "input": "tomato sauce mixture",
+            "action": "simmer",
+            "output": "thickened_tomato sauce mixture"
+        },
+        {
+            "instructions": "transfer sauce to blender",
+            "input": "thickened_tomato sauce mixture",
+            "action": "transfer",
+            "output": "thickened_tomato sauce mixture"
+        },
+        {
+            "instructions": "puree in batches , or use handheld blender inserted directly in the pot to puree sauce .",
+            "input": "thickened_tomato sauce mixture",
+            "action": "puree",
+            "output": "pureed_sauce"
+        },
+        {
+            "instructions": "stir in salt band a few grinds of pepper to taste .",
+            "input": "(pureed_sauce; salt; pepper)",
+            "action": "stir",
+            "output": "seasoned tomato_sauce"
+        },
+        {
+            "instructions": "use immediately or store covered in fridge for up to one week .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "freeze for up to six months .",
+            "input": "seasoned tomato_sauce",
+            "action": "freeze",
+            "output": "frozen_tomato_sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "14 cup extra virgin olive oil"
+        },
+        {
+            "text": "1 onion, finely minced"
+        },
+        {
+            "text": "1 garlic clove, finely minced"
+        },
+        {
+            "text": "28 ounces whole peeled tomatoes with liquid"
+        },
+        {
+            "text": "6 ounces tomato sauce"
+        },
+        {
+            "text": "4 ounces beech nut tender golden sweet potatoes"
+        },
+        {
+            "text": "4 ounces beech nut tender sweet carrots"
+        },
+        {
+            "text": "12 teaspoon salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place oil in deep saucepan over medium heat."
+        },
+        {
+            "text": "Cook onions and garlic until translucent but not brown, stirring occasionally."
+        },
+        {
+            "text": "Mix in tomatoes, tomato paste, carrots, sweet potatoes and salt, and bring to a boil."
+        },
+        {
+            "text": "Lower heat and simmer for 15-20 minutes until sauce thickens."
+        },
+        {
+            "text": "Let cool a bit, then transfer sauce to blender and puree in batches, or use handheld blender inserted directly in the pot to puree sauce."
+        },
+        {
+            "text": "Stir in salt band a few grinds of pepper to taste."
+        },
+        {
+            "text": "Use immediately or store covered in fridge for up to one week."
+        },
+        {
+            "text": "Freeze for up to six months."
+        }
+    ]
+}

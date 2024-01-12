@@ -1,0 +1,247 @@
+{
+    "title": "chef_john_'s_steak_pizzaiola",
+    "id": "f5dff43d73",
+    "table": [
+        {
+            "instructions": "season steak medallions with salt and black_pepper on both sides .",
+            "input": "(steak medallions; salt; black pepper)",
+            "action": "season",
+            "output": "seasoned steak medallions with salt and black pepper"
+        },
+        {
+            "instructions": "heat olive_oil in a large skillet over high heat .",
+            "input": "olive oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add steaks",
+            "input": "(seasoned steak medallions with salt and black pepper; olive oil)",
+            "action": "add",
+            "output": "seasoned steak medallions with salt and black pepper in heated oil"
+        },
+        {
+            "instructions": "cook until browned , about 2 minutes per side .",
+            "input": "seasoned steak medallions with salt and black pepper in heated oil",
+            "action": "cook",
+            "output": "cooked steaks"
+        },
+        {
+            "instructions": "transfer to a plate .",
+            "input": "NA",
+            "action": "transfer",
+            "output": "NA"
+        },
+        {
+            "instructions": "place mushrooms and butter into the skillet",
+            "input": "(mushooms; butter)",
+            "action": "place",
+            "output": "mushrooms and butter"
+        },
+        {
+            "instructions": "season with salt ;",
+            "input": "(mushrooms and butter; salt)",
+            "action": "season",
+            "output": "salted mushrooms and butter"
+        },
+        {
+            "instructions": "cook",
+            "input": "salted mushrooms and butter",
+            "action": "cook",
+            "output": "cooked mushrooms"
+        },
+        {
+            "instructions": "stir until mushrooms are softened and beginning to brown , 5 to 6 minutes .",
+            "input": "cooked mushrooms",
+            "action": "stir",
+            "output": "stirred and browned mushrooms"
+        },
+        {
+            "instructions": "reduce heat to medium ;",
+            "input": "NA",
+            "action": "reduce",
+            "output": "NA"
+        },
+        {
+            "instructions": "add peppers",
+            "input": "(stirred and browned mushrooms; peppers)",
+            "action": "add",
+            "output": "stirred and browned mushrooms with peppers"
+        },
+        {
+            "instructions": "cook",
+            "input": "stirred and browned mushrooms with peppers",
+            "action": "cook",
+            "output": "cooked pepper and mushroom mixture"
+        },
+        {
+            "instructions": "stir until softened , about 2 minutes .",
+            "input": "cooked pepper and mushroom mixture",
+            "action": "stir",
+            "output": "stirred and softened pepper and mushroom mixture"
+        },
+        {
+            "instructions": "stir in garlic",
+            "input": "(stirred and softened pepper and mushroom mixture; garlic)",
+            "action": "stir",
+            "output": "stirred garlic, mushrom, pepper mixture"
+        },
+        {
+            "instructions": "cook for 1 minute .",
+            "input": "stirred garlic, mushrom, pepper mixture",
+            "action": "cook",
+            "output": "cooked garlic, mushrom, pepper mixture"
+        },
+        {
+            "instructions": "pour in wine",
+            "input": "(wine; cooked garlic, mushrom, pepper mixture)",
+            "action": "pour",
+            "output": "cooked garlic, mushrom, pepper mixture with wine"
+        },
+        {
+            "instructions": "sprinkle in dried_oregano .",
+            "input": "(cooked garlic, mushrom, pepper mixture with wine; dried oregano)",
+            "action": "sprinkle",
+            "output": "cooked garlic, mushrom, pepper mixture with wine and oregano"
+        },
+        {
+            "instructions": "cook until the wine is nearly evaporated , about 3 minutes .",
+            "input": "cooked garlic, mushrom, pepper mixture with wine and oregano",
+            "action": "cook",
+            "output": "cooked garlic, mushrom, pepper mixture and oregano"
+        },
+        {
+            "instructions": "stir tomato concasse into the mushroom mixture",
+            "input": "(tomato concasse; cooked garlic, mushrom, pepper mixture and oregano)",
+            "action": "stir",
+            "output": "cooked garlic, mushrom, pepper mixture and oregano with tomato concasse"
+        },
+        {
+            "instructions": "simmer until tomato is softened , 3 to 4 minutes .",
+            "input": "cooked garlic, mushrom, pepper mixture and oregano with tomato concasse",
+            "action": "simmer",
+            "output": "simmered cooked garlic, mushrom, pepper mixture and oregano with tomato concasse"
+        },
+        {
+            "instructions": "add fresh_oregano , balsamic_vinegar , and red_pepper_flake ;",
+            "input": "(simmered cooked garlic, mushrom, pepper mixture and oregano with tomato concasse; fresh oregano; balsamic vinegar; red pepper flake)",
+            "action": "add",
+            "output": "simmered cooked garlic, mushrom, pepper mixture and oregano with tomato concasse with balsamic vinegar and red pepper flake"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "simmered cooked garlic, mushrom, pepper mixture and oregano with tomato concasse with balsamic vinegar and red pepper flake",
+            "action": "stir",
+            "output": "combined marinated mushrooms"
+        },
+        {
+            "instructions": "adjust salt and black_pepper to taste .",
+            "input": "(salt; black pepper; combined marinated mushrooms)",
+            "action": "adjust",
+            "output": "marinated mushooms with salt and black pepper"
+        },
+        {
+            "instructions": "place steaks back into the skillet with the mushroom mixture",
+            "input": "(cooked steaks; marinated mushooms with salt and black pepper)",
+            "action": "place",
+            "output": "steaks in marinated mushrooms"
+        },
+        {
+            "instructions": "cook until warmed through",
+            "input": "steaks in marinated mushrooms",
+            "action": "cook",
+            "output": "warmed steaks in marinated mushrooms"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound beef tenderloin steaks, cut into 4 medallions"
+        },
+        {
+            "text": "salt and pepper to taste"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 cup sliced fresh mushrooms"
+        },
+        {
+            "text": "2 teaspoons butter"
+        },
+        {
+            "text": "1 pinch salt"
+        },
+        {
+            "text": "1 cup sliced sweet and hot peppers"
+        },
+        {
+            "text": "4 cloves garlic, crushed"
+        },
+        {
+            "text": "1/2 cup white wine"
+        },
+        {
+            "text": "1/4 teaspoon dried oregano"
+        },
+        {
+            "text": "1 cup tomato concasse (see footnote for recipe link)"
+        },
+        {
+            "text": "2 tablespoons chopped fresh oregano"
+        },
+        {
+            "text": "1 teaspoon balsamic vinegar"
+        },
+        {
+            "text": "1 pinch red pepper flakes"
+        },
+        {
+            "text": "1 pinch salt and ground black pepper to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Season steak medallions with salt and black pepper on both sides."
+        },
+        {
+            "text": "Heat olive oil in a large skillet over high heat."
+        },
+        {
+            "text": "Add steaks and cook until browned, about 2 minutes per side."
+        },
+        {
+            "text": "Transfer to a plate."
+        },
+        {
+            "text": "Reserve oil in skillet."
+        },
+        {
+            "text": "Place mushrooms and butter into the skillet and season with salt; cook and stir until mushrooms are softened and beginning to brown, 5 to 6 minutes."
+        },
+        {
+            "text": "Reduce heat to medium; add peppers and cook and stir until softened, about 2 minutes."
+        },
+        {
+            "text": "Stir in garlic and cook for 1 minute."
+        },
+        {
+            "text": "Pour in wine and sprinkle in dried oregano."
+        },
+        {
+            "text": "Increase heat to medium-high and cook until the wine is nearly evaporated, about 3 minutes."
+        },
+        {
+            "text": "Stir tomato concasse into the mushroom mixture and simmer until tomato is softened, 3 to 4 minutes."
+        },
+        {
+            "text": "Add fresh oregano, balsamic vinegar, and red pepper flakes; stir to combine."
+        },
+        {
+            "text": "Adjust salt and black pepper to taste."
+        },
+        {
+            "text": "Place steaks back into the skillet with the mushroom mixture and cook until warmed through and cooked to desired doneness, 4 to 10 minutes."
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "title": "the_perfect_mediterranean_pizza_made_con_amore_ragu",
+    "id": "1a448e80d4",
+    "table": [
+        {
+            "instructions": "combine the bread_flour , sugar , yeast and kosher_salt in the bowl of a stand mixer",
+            "input": "(bread_flour; sugar; yeast; kosher_salt)",
+            "action": "combine",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "combine .",
+            "input": "dry ingredients",
+            "action": "combine",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "while the mixer is running , add the water and 2 tablespoons of the oil",
+            "input": "(water; oil; dry ingredients)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "beat until the dough forms into a ball .",
+            "input": "dough",
+            "action": "beat",
+            "output": "dough"
+        },
+        {
+            "instructions": "if the dough is sticky , add additional flour , 1 tablespoon at a time , until the dough comes together in a solid ball .",
+            "input": "(dough; optional flour)",
+            "action": "add",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "if the dough is too dry , add additional water , 1 tablespoon at a time .",
+            "input": "(dough; optional water)",
+            "action": "add",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "scrape the dough onto a lightly floured surface",
+            "input": "ball of dough",
+            "action": "scrape",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "gently knead into a smooth , firm ball .",
+            "input": "ball of dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "grease a large bowl with the remaining 2 teaspoons , olive_oil",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the dough",
+            "input": "kneaded dough",
+            "action": "add",
+            "output": "kneaded dough in bowl"
+        },
+        {
+            "instructions": "cover the bowl with plastic wrap",
+            "input": "kneaded dough in bowl",
+            "action": "cover",
+            "output": "covered dough in bowl"
+        },
+        {
+            "instructions": "put it in a warm area to let it double in size , about 1 hour .",
+            "input": "covered dough in bowl",
+            "action": "put",
+            "output": "rested dough"
+        },
+        {
+            "instructions": "turn the dough out onto a lightly floured surface",
+            "input": "rested dough",
+            "action": "turn",
+            "output": "rested dough"
+        },
+        {
+            "instructions": "divide it into 2 equal pieces .",
+            "input": "rested dough",
+            "action": "divide",
+            "output": "halved dough"
+        },
+        {
+            "instructions": "cover each with a clean kitchen towel or plastic wrap",
+            "input": "halved dough",
+            "action": "cover",
+            "output": "covered halved dough"
+        },
+        {
+            "instructions": "preheat oven to 450 degrees f",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "insert pizza stone s if you have them .",
+            "input": "NA",
+            "action": "insert",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll dough out on floured surface with a rolling pin",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled out dough"
+        },
+        {
+            "instructions": "stretch to make a 12 14 inch , pizza .",
+            "input": "rolled out dough",
+            "action": "stretch",
+            "output": "stretched pizza crust"
+        },
+        {
+            "instructions": "place on hot pizza stones or baking sheets with parchment paper",
+            "input": "stretched pizza crust",
+            "action": "place",
+            "output": "stretched pizza crust"
+        },
+        {
+            "instructions": "brush with a little olive_oil",
+            "input": "(olive oil; )",
+            "action": "brush",
+            "output": "oiled crust"
+        },
+        {
+            "instructions": "sprinkle with salt .",
+            "input": "(salt; oiled crust)",
+            "action": "sprinkle",
+            "output": "salted and oiled crust"
+        },
+        {
+            "instructions": "pre bake crust for 5 7 minutes until it bubbles slightly at the edges .",
+            "input": "salted and oiled crust",
+            "action": "bake",
+            "output": "pre baked crust"
+        },
+        {
+            "instructions": "take the pizzas out of the oven",
+            "input": "pre baked crust",
+            "action": "take",
+            "output": "pre baked crust"
+        },
+        {
+            "instructions": "top with ragu_sauce , goat and feta_cheese , bacon , italian_sausage , tomatoes , peppers and any other_vegetable you desire .",
+            "input": "(ragu sauce; goat cheese; feta cheese; bacon; italian sausage; tomatoes; peppers; vegetables)",
+            "action": "top",
+            "output": "Pizza crust topped with bacon, italian sausage, tomatoes, peppers, goat and feta cheese, and vegetables"
+        },
+        {
+            "instructions": "place back in the over",
+            "input": "assembled ragu mediterannean pizza",
+            "action": "place",
+            "output": "assembled ragu mediterannean pizza"
+        },
+        {
+            "instructions": "bake for 15 20 minutes until cheese has melted slightly and crust is golden brown .",
+            "input": "assembled ragu mediterannean pizza",
+            "action": "bake",
+            "output": "baked ragu mediterannean pizza"
+        },
+        {
+            "instructions": "remove from oven carefully",
+            "input": "baked ragu mediterannean pizza",
+            "action": "remove",
+            "output": "baked ragu mediterannean pizza"
+        },
+        {
+            "instructions": "top with chopped fresh_oregano .",
+            "input": "(chopped fresh oregano; baked ragu mediterannean pizza)",
+            "action": "top",
+            "output": "baked ragu mediterannean pizza topped with oregano"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked ragu mediterannean pizza with oregano",
+            "action": "slice",
+            "output": "sliced baked ragu mediterannean pizza with oregano"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 12-4 cups bread flour"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "2 14 teaspoons yeast"
+        },
+        {
+            "text": "2 teaspoons salt"
+        },
+        {
+            "text": "1 12 cups water, at 110 degrees f"
+        },
+        {
+            "text": "2 tablespoons good quality olive oil, plus two teaspoons"
+        },
+        {
+            "text": "12 cup Ragu Pasta Sauce"
+        },
+        {
+            "text": "1 12 cups goat cheese"
+        },
+        {
+            "text": "14 cup feta cheese"
+        },
+        {
+            "text": "14 cooked and crumbled bacon"
+        },
+        {
+            "text": "3 Italian sausages, cooked and sliced"
+        },
+        {
+            "text": "12 cup fresh diced tomato"
+        },
+        {
+            "text": "12 cup fresh sliced bell pepper"
+        },
+        {
+            "text": "14 cup zucchini"
+        },
+        {
+            "text": "14 cup mushroom (optional)"
+        },
+        {
+            "text": "1 teaspoon fresh oregano, chopped finely for topping"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Combine the bread flour, sugar, yeast and kosher salt in the bowl of a stand mixer and combine."
+        },
+        {
+            "text": "While the mixer is running, add the water and 2 tablespoons of the oil and beat until the dough forms into a ball."
+        },
+        {
+            "text": "If the dough is sticky, add additional flour, 1 tablespoon at a time, until the dough comes together in a solid ball."
+        },
+        {
+            "text": "If the dough is too dry, add additional water, 1 tablespoon at a time."
+        },
+        {
+            "text": "Scrape the dough onto a lightly floured surface and gently knead into a smooth, firm ball."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Grease a large bowl with the remaining 2 teaspoons olive oil, add the dough, cover the bowl with plastic wrap and put it in a warm area to let it double in size, about 1 hour."
+        },
+        {
+            "text": "Turn the dough out onto a lightly floured surface and divide it into 2 equal pieces."
+        },
+        {
+            "text": "Cover each with a clean kitchen towel or plastic wrap and let them rest for 10 minutes."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Preheat oven to 450 degrees F, insert pizza stone(s) if you have them."
+        },
+        {
+            "text": "Roll dough out on floured surface with a rolling pin and stretch to make a 12-14 inch pizza."
+        },
+        {
+            "text": "Repeat for the second crust."
+        },
+        {
+            "text": "Place on hot pizza stones (or baking sheets with parchment paper) and brush with a little olive oil and sprinkle with salt."
+        },
+        {
+            "text": "Pre-bake crust for 5-7 minutes until it bubbles slightly at the edges."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Take the pizzas out of the oven and top with Ragu sauce, goat and feta cheese, bacon, Italian sausage, tomatoes, peppers and any other vegetables you desire."
+        },
+        {
+            "text": "Place back in the over and bake for 15-20 minutes until cheese has melted slightly and crust is golden brown."
+        },
+        {
+            "text": "Remove from oven carefully and let it sit on a cutting board for a few minutes to \"set\"."
+        },
+        {
+            "text": "Top with chopped fresh oregano."
+        },
+        {
+            "text": "Slice and enjoy!"
+        }
+    ]
+}

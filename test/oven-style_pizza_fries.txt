@@ -1,0 +1,175 @@
+{
+    "title": "oven-style_pizza_fries",
+    "id": "e890933e6e",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a large baking sheet with aluminum foil",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat lightly with oil .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grind fennel_seed , oregano and basil into a powder using a spice mill or mortar and pestle .",
+            "input": "(fennel_seed; oregano; basil)",
+            "action": "grind",
+            "output": "ground_ fennel_seeds, oregano and basil mix"
+        },
+        {
+            "instructions": "wash potatoes",
+            "input": "potatoes",
+            "action": "wash",
+            "output": "washed potatoes"
+        },
+        {
+            "instructions": "peel",
+            "input": "washed potatoes",
+            "action": "peel",
+            "output": "peeled potatoes"
+        },
+        {
+            "instructions": "slice potatoes into thin french_fry shapes .",
+            "input": "peeled potatoes",
+            "action": "slice",
+            "output": "sliced potatoes"
+        },
+        {
+            "instructions": "combine ground spices , tomato_paste , garlic_powder , salt , sugar and oil in a small bowl until smooth .",
+            "input": "ground_ fennel_seeds, oregano and basil mix, tomato paste, garlic powder, salt, sugar, oil",
+            "action": "combine",
+            "output": "seasoning paste"
+        },
+        {
+            "instructions": "place potatoes and seasoning paste in a large ziplock or plastic bag .",
+            "input": "potatoes, seasoning paste",
+            "action": "place",
+            "output": "potatoes and seasoning paste in a bag"
+        },
+        {
+            "instructions": "using your hands , move the potatoes around in the bag until they are evenly coated with the seasoning paste .",
+            "input": "potatoes, seasoning paste",
+            "action": "move",
+            "output": "potatoes evenly coated with seasoning paste"
+        },
+        {
+            "instructions": "place potatoes in a single layer on the baking sheet .",
+            "input": "coated potatoes",
+            "action": "place",
+            "output": "coated potatoes on baking sheet"
+        },
+        {
+            "instructions": "bake for 25 minutes at 400f .",
+            "input": "uncooked coated potatoes on baking sheet",
+            "action": "bake",
+            "output": "baked coated potatoes on baking sheet"
+        },
+        {
+            "instructions": "using a spatula , turn potatoes over",
+            "input": "baked coated potatoes on baking sheet",
+            "action": "turn",
+            "output": "turned baking potatoes "
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese if using .",
+            "input": "baked coated fries, parmesan cheese",
+            "action": "sprinkle",
+            "output": "baked potatoe fries sprinkled with parmesan cheese"
+        },
+        {
+            "instructions": "bake for 10 20 minutes more or until fries become golden",
+            "input": "baked fries sprinkled with parmesan cheese",
+            "action": "bake",
+            "output": "baked golden baked pizza fries"
+        },
+        {
+            "instructions": "serve with marinara_sauce or ketchup , if desired .",
+            "input": "baked golden baked pizza fries, marinara sauce, optional ketchup",
+            "action": "serve",
+            "output": "baked pizza fries served with marinara sauce or ketchup"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 12 lbs potatoes"
+        },
+        {
+            "text": "14 cup tomato paste"
+        },
+        {
+            "text": "3 tablespoons vegetable oil"
+        },
+        {
+            "text": "1 tablespoon dried oregano"
+        },
+        {
+            "text": "2 teaspoons fennel seeds"
+        },
+        {
+            "text": "2 teaspoons mild paprika"
+        },
+        {
+            "text": "1 teaspoon dried basil"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon sugar"
+        },
+        {
+            "text": "12 cup grated parmesan cheese (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Line a large baking sheet with aluminum foil and coat lightly with oil."
+        },
+        {
+            "text": "Grind fennel seed, oregano and basil into a powder using a spice mill or mortar and pestle."
+        },
+        {
+            "text": "Wash, peel and slice potatoes into thin french fry shapes."
+        },
+        {
+            "text": "Combine ground spices, tomato paste, garlic powder, salt, sugar and oil in a small bowl until smooth."
+        },
+        {
+            "text": "Place potatoes and seasoning paste in a large ziplock or plastic bag."
+        },
+        {
+            "text": "Using your hands, move the potatoes around in the bag until they are evenly coated with the seasoning paste."
+        },
+        {
+            "text": "Place potatoes in a single layer on the baking sheet."
+        },
+        {
+            "text": "Bake for 25 minutes at 400F."
+        },
+        {
+            "text": "Using a spatula, turn potatoes over and sprinkle with parmesan cheese (if using)."
+        },
+        {
+            "text": "Bake for 10-20 minutes more or until fries become golden and start to crisp (time may vary with size of fries)."
+        },
+        {
+            "text": "Serve with marinara sauce or ketchup, if desired."
+        }
+    ]
+}

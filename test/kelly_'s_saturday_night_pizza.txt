@@ -1,0 +1,235 @@
+{
+    "title": "kelly_'s_saturday_night_pizza",
+    "id": "e056673e37",
+    "table": [
+        {
+            "instructions": "in large bowl , sprinkle yeast over 14 cup warm_water",
+            "input": "(yeast; warm_water)",
+            "actions": "sprinkle",
+            "output": "yeast sprinkled in warm water"
+        },
+        {
+            "instructions": "stir to dissolve",
+            "input": "yeast sprinkled in warm water",
+            "actions": "stir",
+            "output": "stirred yeast mixture"
+        },
+        {
+            "instructions": "stir in 1 teaspoons , sugar to proof",
+            "input": "(stirred yeast mixture; sugar)",
+            "actions": "stir",
+            "output": "sugar stirred in yeast mixture"
+        },
+        {
+            "instructions": "add remaining water and oil .",
+            "input": "(yeast mixture; water; oil)",
+            "actions": "add",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "with large spoon , beat in 1 12 cups flour til smooth",
+            "input": "(flour; yeast mixture)",
+            "actions": "beat",
+            "output": "dough"
+        },
+        {
+            "instructions": "add rest of spices and herbs",
+            "input": "(dough; spices; herbs)",
+            "actions": "add",
+            "output": "seasoned dough"
+        },
+        {
+            "instructions": "stir well",
+            "input": "seasoned dough",
+            "actions": "stir",
+            "output": "seasoned dough"
+        },
+        {
+            "instructions": "add rest of flour to make a stiff dough .",
+            "input": "(seasoned dough; flour)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "do n't add last 14 cup if not needed .",
+            "input": "NA",
+            "actions": "add",
+            "output": "NA"
+        },
+        {
+            "instructions": "turn out onto lightly floured board",
+            "input": "dough",
+            "actions": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead until smooth and elastic , about 5 8 minutes forming a ball .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place in oiled bowl , turning dough all around til all sides are oiled .",
+            "input": "kneaded dough",
+            "actions": "place",
+            "output": "oiled kneaded dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "oiled kneaded dough",
+            "actions": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "let rise in warm place til doubled , about 1 hour .",
+            "input": "covered dough",
+            "actions": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "punch down dough",
+            "input": "risen dough",
+            "actions": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "divide in half .",
+            "input": "punched down dough",
+            "actions": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "press onto 2 lightly oiled ,",
+            "input": "divided dough",
+            "actions": "press",
+            "output": "pizza crusts"
+        },
+        {
+            "instructions": "spread half ofkelly 's pizza_sauce on each , top with toppings of your choice , then a few slices of provolone , if desired , and then shredded mozzarella , about a 12 lb .",
+            "input": "(pizza_crusts; pizza_sauce; toppings; provolone; shredded mozzarella)",
+            "actions": "spread",
+            "output": "pizza_sauce, toppings, provolone and shredded mozzarella spreaded in pizza_crusts"
+        },
+        {
+            "instructions": "sprinkle lightly with parmesan .",
+            "input": "(uncooked pizza; parmesan)",
+            "actions": "sprinkle",
+            "output": "parmesan sprinkled over uncooked pizza"
+        },
+        {
+            "instructions": "then sprinkle with dried_parsley .",
+            "input": "(uncooked pizza; dried parsley)",
+            "actions": "sprinkle",
+            "output": "dried_parsley sprinkled over uncooked pizza"
+        },
+        {
+            "instructions": "bake in pre heated 400 degrees oven for 25 35 minutes , depending on how well done you like your pizza .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (1/4 ounce) packet active dry yeast"
+        },
+        {
+            "text": "1 14 cups warm water, divided"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "14 cup olive oil or 14 cup vegetable oil"
+        },
+        {
+            "text": "4 12 cups flour, divided"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon pepper"
+        },
+        {
+            "text": "14-12 teaspoon garlic powder (I like mine garlicy)"
+        },
+        {
+            "text": "18 teaspoon onion powder (optional if you don't like a slight onion flavor)"
+        },
+        {
+            "text": "oregano, thyme and italian seasoning (adds a lot of flavor!) (optional)"
+        },
+        {
+            "text": "1 (14 1/2 ounce) candel monte Italian-style stewed tomatoes, cut up a little with the juice"
+        },
+        {
+            "text": "1 (6 ounce) can Italian-style tomato paste (Contadina)"
+        },
+        {
+            "text": "18-14 teaspoon sugar"
+        },
+        {
+            "text": "18-14 teaspoon garlic powder"
+        },
+        {
+            "text": "18-14 teaspoon pepper"
+        },
+        {
+            "text": "18-14 teaspoon oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In large bowl, sprinkle yeast over 1/4 cup warm water, stir to dissolve, stir in 1 teaspoons sugar to \"proof\", let set a few minutes."
+        },
+        {
+            "text": "Add remaining water and oil."
+        },
+        {
+            "text": "With large spoon, beat in 1 1/2 cups flour til smooth, continue beating for 2 minutes."
+        },
+        {
+            "text": "Add rest of spices and herbs, stir well,."
+        },
+        {
+            "text": "add rest of flour to make a stiff dough."
+        },
+        {
+            "text": "Don't add last 1/4 cup if not needed."
+        },
+        {
+            "text": "Turn out onto lightly floured board, knead until smooth and elastic, about 5-8 minutes forming a ball."
+        },
+        {
+            "text": "Place in oiled bowl, turning dough all around til all sides are oiled."
+        },
+        {
+            "text": "Cover, let rise in warm place til doubled, about 1 hour."
+        },
+        {
+            "text": "Sometimes this takes an hour and a half."
+        },
+        {
+            "text": "Punch down dough, divide in half."
+        },
+        {
+            "text": "Press onto 2 lightly oiled, then lightly sprinkled with corn meal, pizza pans making 1/2\" high borders on each all the way around."
+        },
+        {
+            "text": "Spread half of*Kelly's pizza sauce on each, top with toppings of your choice, then a few slices of provolone, if desired, and then shredded mozzarella, about a 1/2 lb."
+        },
+        {
+            "text": ",on each pizza."
+        },
+        {
+            "text": "Sprinkle lightly with parmesan."
+        },
+        {
+            "text": "Then sprinkle with dried parsley."
+        },
+        {
+            "text": "Bake in pre-heated 400 degrees oven for 25-35 minutes, depending on how well done you like your pizza."
+        }
+    ]
+}

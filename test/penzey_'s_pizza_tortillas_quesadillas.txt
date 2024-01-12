@@ -1,0 +1,187 @@
+{
+    "title": "penzey_'s_pizza_tortillas_quesadillas",
+    "id": "9e714b56d4",
+    "table": [
+        {
+            "instructions": "preheat oven to 375f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix the pork and 1 tbs .\u00a0pizza seasoning",
+            "input": "(pork; pizza seasoning)",
+            "action": "mix",
+            "output": "seasoned pork"
+        },
+        {
+            "instructions": "cook over med high heat until crispy brown",
+            "input": "seasoned pork",
+            "action": "cook",
+            "output": "crispy pork"
+        },
+        {
+            "instructions": "drain on paper toweling .",
+            "input": "crispy pork",
+            "action": "drain",
+            "output": "drained pork from excess fat"
+        },
+        {
+            "instructions": "chop the onion , tomatoes and jalapeno peppers ;",
+            "input": "(onion; tomatoes; jalapeno peppers)",
+            "action": "chop",
+            "output": "chopped onion, tomatoes, jalapeno peppers mixture"
+        },
+        {
+            "instructions": "toss with olive_oil , vinegar , garlic and oregano",
+            "input": "(chopped onion, tomatoes, jalapeno peppers mixture; olive oil; vinegar; garlic and oregano)",
+            "action": "toss",
+            "output": "tossed salsa"
+        },
+        {
+            "instructions": "to prepare",
+            "input": "NA",
+            "action": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay 4 tortillas out on baking sheets 2 per sheet",
+            "input": "tortillas",
+            "action": "lay",
+            "output": "tortillas"
+        },
+        {
+            "instructions": "sprinkle evenly with cooked sausage ,",
+            "input": "(tortillas; cooked sausage)",
+            "action": "sprinkle",
+            "output": "tortillas sprinkled with cooked sausage"
+        },
+        {
+            "instructions": "add vegetable mix",
+            "input": "(tortillas sprinkled with cooked sausage; tossed salsa)",
+            "action": "add",
+            "output": "tortillas with cooked sausage and tossed salsa"
+        },
+        {
+            "instructions": "top with shredded_cheese ,",
+            "input": "(tortillas with cooked sausage and tossed salsa; shredded_cheese)",
+            "action": "top",
+            "output": "tortillas with cooked sausage and tossed salsa and shredded_cheese"
+        },
+        {
+            "instructions": "sprinkle on the remaining pizza_seasoning .",
+            "input": "(tortillas with cooked sausage and tossed salsa and shredded_cheese; pizza_seasoning)",
+            "action": "sprinkle",
+            "output": "tortillas with cooked sausage and tossed salsa, shredded_cheese and pizza seasoning"
+        },
+        {
+            "instructions": "do n't pile up too much cheese in the center or it wo n't melt properly .",
+            "input": "NA",
+            "action": "pile",
+            "output": "NA"
+        },
+        {
+            "instructions": "top with another tortilla",
+            "input": "(tortilla; tortillas with cooked sausage and tossed salsa, shredded_cheese and pizza seasoning)",
+            "action": "top",
+            "output": "assembled quesadilla"
+        },
+        {
+            "instructions": "bake for 5 8 minutes , until the tortillas start to brown .",
+            "input": "uncooked quesadilla",
+            "action": "bake",
+            "output": "baked quesadilla"
+        },
+        {
+            "instructions": "use your best judgment .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "while hot , remove from the pans",
+            "input": "hot baked quesadilla",
+            "action": "remove",
+            "output": "hot baked quesadilla"
+        },
+        {
+            "instructions": "slice into wedges .",
+            "input": "baked quesadilla",
+            "action": "slice",
+            "output": "sliced baked quesadilla into wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12-34 ground pork or 12-34 ground turkey or 12-34 chopped sausage"
+        },
+        {
+            "text": "2 tablespoons pizza seasoning, divided"
+        },
+        {
+            "text": "1 medium onion"
+        },
+        {
+            "text": "2 large ripe tomatoes"
+        },
+        {
+            "text": "1 -2 fresh jalapeno pepper"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 tablespoon white vinegar"
+        },
+        {
+            "text": "14 teaspoon granulated garlic"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "8 flour tortillas"
+        },
+        {
+            "text": "4 ounces mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375F."
+        },
+        {
+            "text": "Mix the pork and 1 Tbs."
+        },
+        {
+            "text": "pizza seasoning; cook over med-high heat until crispy brown and drain on paper toweling."
+        },
+        {
+            "text": "Chop the onion, tomatoes and jalapeno peppers; toss with olive oil, vinegar, garlic and oregano and let stand at least 10 minutes for flavor to develop."
+        },
+        {
+            "text": "To prepare, lay 4 tortillas out on baking sheets (2 per sheet), sprinkle evenly with cooked sausage, then add vegetable mix, top with shredded cheese, and sprinkle on the remaining pizza seasoning."
+        },
+        {
+            "text": "Don't pile up too much cheese in the center or it won't melt properly."
+        },
+        {
+            "text": "Top with another tortilla and bake for 5-8 minutes, until the tortillas start to brown."
+        },
+        {
+            "text": "(I went 12 minutes and they weren't browned yet - use your best judgment."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "To do in the microwave: Place 1 finished tortilla in the microwave for 1 minute, on high, until the cheese is buvbbly and melted."
+        },
+        {
+            "text": "While hot, remove from the pans and slice itno wedges."
+        },
+        {
+            "text": "Serves 2 if for a meal."
+        }
+    ]
+}

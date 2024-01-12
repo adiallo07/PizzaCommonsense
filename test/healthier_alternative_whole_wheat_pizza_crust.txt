@@ -1,0 +1,103 @@
+{
+    "title": "healthier_alternative_whole_wheat_pizza_crust",
+    "id": "4f7f97a550",
+    "table": [
+        {
+            "instructions": "mix the first 5 dry ingredients in a bowl .",
+            "input": "(whole wheat flour; salt; garlic salt; instant yeast; sodium-free seasoning)",
+            "action": "mix",
+            "output": "mixed dry ingredients"
+        },
+        {
+            "instructions": "add the wet ingredients",
+            "input": "(dry_ingredients; honey; warm water; olive oil)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix well until dough leaves the side of the bowl",
+            "input": "dough",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead dough on a floured surface for about 5 minutes or until smooth with some elasticity .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "you may use it immediately by rolling it out on a 12 in .",
+            "input": "kneaded_dough",
+            "action": "use",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "cover with a towel",
+            "input": "rolled_dough",
+            "action": "cover",
+            "output": "covered rolled_dough"
+        },
+        {
+            "instructions": "put on your desired toppings",
+            "input": "(rolled_dough;toppings)",
+            "action": "put",
+            "output": "raw_pizza"
+        },
+        {
+            "instructions": "bake at 425 for about 20 23 minutes .",
+            "input": "raw_pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups whole wheat flour"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon garlic salt"
+        },
+        {
+            "text": "1 14 teaspoons instant yeast (quick rise)"
+        },
+        {
+            "text": "2 tablespoons sodium-free seasoning (mrs.dash type)"
+        },
+        {
+            "text": "2 tablespoons organic honey"
+        },
+        {
+            "text": "34 cup warm water"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix the first 5 dry ingredients in a bowl."
+        },
+        {
+            "text": "Add the wet ingredients and mix well until dough leaves the side of the bowl, I usually do this with a serving spoon and then a use my hands."
+        },
+        {
+            "text": "Knead dough on a floured surface for about 5 minutes or until smooth with some elasticity."
+        },
+        {
+            "text": "You may use it immediately by rolling it out on a 12in."
+        },
+        {
+            "text": "pizza pan or place in a bowl and cover with a towel and let stand, if you do this punch down before rolling onto a 12in."
+        },
+        {
+            "text": "pizza pan."
+        },
+        {
+            "text": "Put on your desired toppings and bake at 425 for about 20-23 minutes."
+        }
+    ]
+}

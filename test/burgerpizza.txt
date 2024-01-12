@@ -1,0 +1,175 @@
+{
+    "title": "burgerpizza",
+    "id": "9c0434b794",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brown the hamburger in a hot skillet , stirring to crumble as it cooks .",
+            "input": "hamburger",
+            "action": "brown",
+            "output": "browned_hamburger"
+        },
+        {
+            "instructions": "when it is no longer pink , remove from heat",
+            "input": "Hamburger",
+            "action": "remove",
+            "output": "Cooked Hamburger"
+        },
+        {
+            "instructions": "drain grease .",
+            "input": "Cooked Hamburger",
+            "action": "drain",
+            "output": "Cooked Hamburger without excess fat"
+        },
+        {
+            "instructions": "mix bisquick with skim_milk .",
+            "input": "(Bisquick; Skim Milk)",
+            "action": "mix",
+            "output": "bisquick dough"
+        },
+        {
+            "instructions": "adjust the mix and liquid as needed to get a good dough consistency that is not too sticky .",
+            "input": "bisquick dough",
+            "action": "adjust",
+            "output": "bisquick dough"
+        },
+        {
+            "instructions": "spray a deep dish , pie plate with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "press dough into the bottom and sides of pie plate .",
+            "input": "bisquick dough",
+            "action": "press",
+            "output": "bisquick crust"
+        },
+        {
+            "instructions": "brush with oil .",
+            "input": "(bisquick crust; oil)",
+            "action": "brush",
+            "output": "Oiled bisquick crust"
+        },
+        {
+            "instructions": "put remaining_ingredient on dough in the following order hamburger , salt , pepper , garlic , and oregano , and basil .",
+            "input": "(Oiled bisquick crust; cooked hamburger; salt; pepper; garlic; oregano; basil)",
+            "action": "put",
+            "output": "Oiled bisquick crust topped with cooked hamburger , salt , pepper , garlic, oregano , and basil "
+        },
+        {
+            "instructions": "cover with tomato_sauce and parsley .",
+            "input": "(tomato sauce; parsley; Oiled bisquick crust topped with cooked hamburger , salt , pepper , garlic, oregano , and basil )",
+            "action": "cover",
+            "output": "tomato sauce and parsley added to Oiled bisquick crust topped with cooked hamburger , salt , pepper , garlic, oregano , and basil "
+        },
+        {
+            "instructions": "sprinkle cheese over top .",
+            "input": "(cheese; Oiled bisquick crust topped with cooked hamburger , salt , pepper , garlic, oregano, basil, tomato sauce and basil)",
+            "action": "sprinkle",
+            "output": "assembled burger pizza"
+        },
+        {
+            "instructions": "bake for 20 minutes .",
+            "input": "uncooked burger pizza",
+            "action": "bake",
+            "output": "baked burger pizza"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "baked burger pizza",
+            "action": "cut",
+            "output": "baked burger pizza cut in wedges"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked burger pizza cut in wedges",
+            "action": "serve",
+            "output": "baked burger pizza cut in wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 cups Bisquick baking mix"
+        },
+        {
+            "text": "12 cup skim milk"
+        },
+        {
+            "text": "olive oil"
+        },
+        {
+            "text": "12 lb hamburger"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "pepper"
+        },
+        {
+            "text": "garlic powder"
+        },
+        {
+            "text": "12 teaspoon oregano"
+        },
+        {
+            "text": "12 teaspoon basil"
+        },
+        {
+            "text": "8 ounces tomato sauce"
+        },
+        {
+            "text": "1 tablespoon dried parsley"
+        },
+        {
+            "text": "4 ounces shredded cheddar cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Brown the hamburger in a hot skillet, stirring to crumble as it cooks."
+        },
+        {
+            "text": "When it is no longer pink, remove from heat and drain grease."
+        },
+        {
+            "text": "Mix Bisquick with skim milk."
+        },
+        {
+            "text": "Adjust the mix & liquid as needed to get a good dough consistency that is not too sticky."
+        },
+        {
+            "text": "Spray a deep dish pie plate with cooking spray."
+        },
+        {
+            "text": "Press dough into the bottom and sides of pie plate."
+        },
+        {
+            "text": "Brush with oil."
+        },
+        {
+            "text": "Put remaining ingredients on dough in the following order: hamburger, salt, pepper, garlic, and oregano, and basil."
+        },
+        {
+            "text": "Cover with tomato sauce and parsley."
+        },
+        {
+            "text": "Sprinkle cheese over top."
+        },
+        {
+            "text": "Bake for 20 minutes."
+        },
+        {
+            "text": "Cut into wedges and serve."
+        }
+    ]
+}

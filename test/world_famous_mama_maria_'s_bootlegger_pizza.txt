@@ -1,0 +1,196 @@
+{
+    "title": "world_famous_mama_maria_'s_bootlegger_pizza",
+    "id": "87d7e858bc",
+    "table": [
+        {
+            "instructions": "sprinkle the yeast and sugar in the lukewarm water",
+            "input": "(yeast; sugar; lukewarm water)",
+            "actions": "sprinkle",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "add 3 12 cups of the flour and salt .",
+            "input": "(yeast mixture; flour; salt)",
+            "actions": "add",
+            "output": "flour and salt added to yeast mixture"
+        },
+        {
+            "instructions": "mix the dough",
+            "input": "dough",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead until smooth .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "add more flour , if needed .",
+            "input": "(dough; optional flour)",
+            "actions": "add",
+            "output": "optional flour added to dough"
+        },
+        {
+            "instructions": "make into a ball .",
+            "input": "dough",
+            "actions": "make",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "put into a bowl",
+            "input": "ball of dough",
+            "actions": "put",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "ball of dough",
+            "actions": "cover",
+            "output": "covered ball of dough"
+        },
+        {
+            "instructions": "mix all_ingredient together in a bowl .",
+            "input": "all_ingredient",
+            "actions": "mix",
+            "output": "mixed ingredients"
+        },
+        {
+            "instructions": "put aside until pizza_dough is ready .",
+            "input": "mixed ingredients",
+            "actions": "put",
+            "output": "mixed ingredients"
+        },
+        {
+            "instructions": "toss cheeses together .",
+            "input": "cheeses",
+            "actions": "toss",
+            "output": "mix of cheeses"
+        },
+        {
+            "instructions": "preheat the oven to 450 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "once dough is risen , cut into 2 pieces",
+            "input": "risen dough",
+            "actions": "cut",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "roll out to desired sizes .",
+            "input": "divided dough",
+            "actions": "roll",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "top with sauce , cheese and your favorite toppings .",
+            "input": "(pizza crust; sauce; cheese; toppings)",
+            "actions": "top",
+            "output": "sauce, cheese and toppings added to pizza_crust"
+        },
+        {
+            "instructions": "bake for 20 minutes , until crust is a golden brown .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 packages cake or dry yeast"
+        },
+        {
+            "text": "2 tablespoons sugar"
+        },
+        {
+            "text": "2 cups lukewarm water"
+        },
+        {
+            "text": "3 1/2 to 4 cups all-purpose flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1/2 cup olive oil"
+        },
+        {
+            "text": "4 cups ground pear tomatoes"
+        },
+        {
+            "text": "1/2 cup ground onions"
+        },
+        {
+            "text": "1 tablespoon finely chopped garlic"
+        },
+        {
+            "text": "1 tablespoon dried oregano"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 rablespoon salt"
+        },
+        {
+            "text": "1/4 teaspoon pepper"
+        },
+        {
+            "text": "1/2 pound mozzarella, grated"
+        },
+        {
+            "text": "1/2 pound Jack cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Sprinkle the yeast and sugar in the lukewarm water, let sit until yeast bubbles up (approximately 5 minutes)."
+        },
+        {
+            "text": "Add 3 1/2 cups of the flour and salt."
+        },
+        {
+            "text": "Mix the dough and knead until smooth."
+        },
+        {
+            "text": "Add more flour, if needed."
+        },
+        {
+            "text": "Make into a ball."
+        },
+        {
+            "text": "Put into a bowl, cover and let dough rise and double in volume, about 45 minutes."
+        },
+        {
+            "text": "Pizza Sauce:"
+        },
+        {
+            "text": "Mix all ingredients together in a bowl."
+        },
+        {
+            "text": "Put aside until pizza dough is ready."
+        },
+        {
+            "text": "Cheese Topping:"
+        },
+        {
+            "text": "Toss cheeses together."
+        },
+        {
+            "text": "Preheat the oven to 450 degrees F."
+        },
+        {
+            "text": "Once dough is risen, cut into 2 pieces and roll out to desired sizes."
+        },
+        {
+            "text": "Top with sauce, cheese and your favorite toppings."
+        },
+        {
+            "text": "Bake for 20 minutes, until crust is a golden brown."
+        }
+    ]
+}

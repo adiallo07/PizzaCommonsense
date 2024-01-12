@@ -1,0 +1,163 @@
+{
+    "title": "skunks_pizza_pie",
+    "id": "c58b82ceef",
+    "table": [
+        {
+            "instructions": "add 1 teaspoon garlic and parmesan_cheese over the dough sprinkling",
+            "input": "(garlic; parmesan_cheese; dough)",
+            "actions": "add",
+            "output": "pizza_dough_with_parmesan_and_garlic"
+        },
+        {
+            "instructions": "add pepperoni",
+            "input": "(pizza_dough_with_parmesan_and_garlic; pepperoni)",
+            "actions": "add",
+            "output": "pizza_dough_topped_with_pepperoni"
+        },
+        {
+            "instructions": "add mozzarella_cheese",
+            "input": "(pizza_dough_topped_with_pepperoni; mozzarella_cheese)",
+            "actions": "add",
+            "output": "pizza_dough_topped_with_pepperoni_and_mozzarella_cheese"
+        },
+        {
+            "instructions": "add meat_sauce",
+            "input": "(pizza_dough_topped_with_pepperoni_and_mozzarella_cheese; meat_sauce)",
+            "actions": "add",
+            "output": "pizza_dough_with_toppings_and_meat_sauce"
+        },
+        {
+            "instructions": "add parmesan_cheese",
+            "input": "(pizza_dough_with_toppings_and_meat_sauce; parmesan_cheese)",
+            "actions": "add",
+            "output": "pizza_dough_with_toppings_and_parmesan_cheese"
+        },
+        {
+            "instructions": "add pepperoni",
+            "input": "(pizza_dough_with_toppings; pepperoni)",
+            "actions": "add",
+            "output": "pizza_dough_topped_with_pepperoni"
+        },
+        {
+            "instructions": "add mozzarella cover with dough",
+            "input": "(pizza_dough_with_toppings; mozzarella)",
+            "actions": "add",
+            "output": "uncooked_pizza_topped_with_mozzarella"
+        },
+        {
+            "instructions": "  qfor the meat_sauce in a pan add sausage 's , meatballs , onions , mushrooms , bacon",
+            "input": "(sausage; meatball; onion; mushroom; bacon)",
+            "actions": "add",
+            "output": "uncooked_meat_sauce"
+        },
+        {
+            "instructions": "cook till browned add salt garlic , basil , tomato_sauce sugar balsamic_vinegar cook till starting to blow crater holes ;",
+            "input": "(uncooked_meat_sauce; salt; garlic; basil; tomato_sauce; sugar; balsamic_vinegar)",
+            "actions": "cook",
+            "output": "cooking_meat_sauce"
+        },
+        {
+            "instructions": "mix water and cornstarch together",
+            "input": "(water; cornstarch)",
+            "actions": "mix",
+            "output": "cornstarch_mixture"
+        },
+        {
+            "instructions": "add to sauce to thicken cook for about 3 mins",
+            "input": "(cooking_meat_sauce; cornstarch_mixture)",
+            "actions": "mix",
+            "output": "thickened_meat_sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb sausage I used Odom Tennessee pride mild"
+        },
+        {
+            "text": "7 oz pepperoni sliced"
+        },
+        {
+            "text": "1/4 cup parmesan cheese"
+        },
+        {
+            "text": "1 lb mozzarella cheese shredded"
+        },
+        {
+            "text": "1 3/4 lb Italian sausage"
+        },
+        {
+            "text": "2 tbsp garlic powder granulated"
+        },
+        {
+            "text": "2 tsp salt"
+        },
+        {
+            "text": "3 tbsp sugar"
+        },
+        {
+            "text": "1 tsp dried sweet basil"
+        },
+        {
+            "text": "2 tbsp balsamic vinegar"
+        },
+        {
+            "text": "2 lb pizza dough"
+        },
+        {
+            "text": "1 medium onion chopped"
+        },
+        {
+            "text": "1/4 lb bacon"
+        },
+        {
+            "text": "1 tbsp cornstarch"
+        },
+        {
+            "text": "1/4 cup water"
+        },
+        {
+            "text": "1 lb beef meatballs cut into quarters"
+        },
+        {
+            "text": "2 can tomato sauce 12 ounce each"
+        },
+        {
+            "text": "1 lb sliced fresh mushrooms"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheatoven 450F Fahrenheit"
+        },
+        {
+            "text": "spead 1 pound of dough on bottom of a nonstick sprayed pan"
+        },
+        {
+            "text": "add 1 teaspoon garlic and parmesan cheese over the dough sprinkling"
+        },
+        {
+            "text": "add pepperoni"
+        },
+        {
+            "text": "add mozzarella cheese"
+        },
+        {
+            "text": "add meat sauce*"
+        },
+        {
+            "text": "add parmesan cheese"
+        },
+        {
+            "text": "add pepperoni"
+        },
+        {
+            "text": "add mozzarella cover with dough"
+        },
+        {
+            "text": "back 20 minutes"
+        },
+        {
+            "text": "* qfor the meat sauce in a pan add sausage's ,meatballs ,onions, mushrooms, bacon , cook till browned add salt garlic basil tomato sauce sugar balsamic vinegar cook till starting to blow crater holes mix water and cornstarch together add to sauce to thicken cook for about 3 mins"
+        }
+    ]
+}

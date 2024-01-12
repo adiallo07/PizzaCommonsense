@@ -1,0 +1,142 @@
+{
+    "title": "pesto_sun-dried_tomato_pizza",
+    "id": "37d67722fe",
+    "table": [
+        {
+            "instructions": "mix flour , yeast , sugar , salt_water , and oil .",
+            "input": "(flour; yeast; sugar; salt_water; oil)",
+            "actions": "mix",
+            "output": "(mixed_flour; yeast; sugar; salt_water; oil)"
+        },
+        {
+            "instructions": "stir till combined",
+            "input": "NA",
+            "actions": "stir",
+            "output": "NA"
+        },
+        {
+            "instructions": "knead for 5 minutes .",
+            "input": "combined_pizza_crust_mix, hot_water",
+            "actions": "knead",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "combined_pizza_crust_mix, hot_water",
+            "actions": "cover",
+            "output": "combined_pizza_crust_mix, hot_water"
+        },
+        {
+            "instructions": "rest for 10 minute .",
+            "input": "greased_pizza_dough",
+            "actions": "rest",
+            "output": "greased_pizza_dough"
+        },
+        {
+            "instructions": "divide dough in half",
+            "input": "pizza_cook",
+            "actions": "divide",
+            "output": "pizza_cook"
+        },
+        {
+            "instructions": "put on two 12 inch stones .",
+            "input": "pizza_dough",
+            "actions": "put",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "let rise for 30 minutes .",
+            "input": "rested_pizza_dough",
+            "actions": "rise",
+            "output": "pizza_base"
+        },
+        {
+            "instructions": "preheat oven to 425f .",
+            "input": "uncooked_pizza",
+            "actions": "preheat",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "bake for 10 minutes .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "remove from oven ;",
+            "input": "cooked_pizza",
+            "actions": "remove",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "cover with pesto , cheese and sun_dried_tomato in that order .",
+            "input": "cooked_pizza",
+            "actions": "cover",
+            "output": "pizza"
+        },
+        {
+            "instructions": "cook for 10 more minutes .",
+            "input": "cooked_pizza",
+            "actions": "cook",
+            "output": "pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 34 cups flour"
+        },
+        {
+            "text": "14 ounce yeast"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "12 tablespoon salt"
+        },
+        {
+            "text": "1 12 cups of very warm water"
+        },
+        {
+            "text": "2 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "14 cup pesto sauce, dived"
+        },
+        {
+            "text": "12 cup sun-dried tomato packed in oil, chopped, divided"
+        },
+        {
+            "text": "2 cups provolone cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix flour, yeast, sugar, salt, water, and oil."
+        },
+        {
+            "text": "Stir till combined and knead for 5 minutes."
+        },
+        {
+            "text": "Cover and rest for 10 minute."
+        },
+        {
+            "text": "Divide dough in half and put on two 12-inch stones."
+        },
+        {
+            "text": "Let rise for 30 minutes."
+        },
+        {
+            "text": "Preheat oven to 425F."
+        },
+        {
+            "text": "Bake for 10 minutes."
+        },
+        {
+            "text": "Remove from oven; cover with pesto cheese and sun-dried tomatoes in that order."
+        },
+        {
+            "text": "Cook for 10 more minutes."
+        }
+    ]
+}

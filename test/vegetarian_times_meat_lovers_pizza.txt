@@ -1,0 +1,187 @@
+{
+    "title": "vegetarian_times_meat_lovers_pizza",
+    "id": "c9bfd4b183",
+    "table": [
+        {
+            "instructions": "preheat oven to 450",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove from oven ,",
+            "input": "NA",
+            "actions": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside to cool slightly .",
+            "input": "NA",
+            "actions": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "make the simple seasoned sauce combine the tomato_sauce , onion , oil , italian seasoning, salt , and pepper ;",
+            "input": "(tomato_sauce; onion; oil; italian_seasoning; salt; pepper)",
+            "actions": "make",
+            "output": "tomato_sauce"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "tomato_sauce",
+            "actions": "set",
+            "output": "tomato_sauce"
+        },
+        {
+            "instructions": "to make the meat topping, heat 1 teaspoon of oil in a big skillet over med high heat",
+            "input": "Oil",
+            "actions": "make",
+            "output": "Heated oil"
+        },
+        {
+            "instructions": "add the soy ground_meat and sausage_link ;",
+            "input": "(Soy ground meat; sausage link)",
+            "actions": "add",
+            "output": "soy ground meat and sausage link added to heated oil"
+        },
+        {
+            "instructions": "saute for about 3 minutes , or until hot and slightly crispy .",
+            "input": "soy ground meat and sausage link in heated oil",
+            "actions": "saute",
+            "output": "sauteeing soy meat topping"
+        },
+        {
+            "instructions": "using a spatula , remove the meat from the pan",
+            "input": "sauteed soy meat topping",
+            "actions": "remove",
+            "output": "sauteed soy meat topping"
+        },
+        {
+            "instructions": "add the remaining 2 teaspoons of oil",
+            "input": "remaining oil",
+            "actions": "add",
+            "output": "heated remaining oil"
+        },
+        {
+            "instructions": "saute the onions for 3 minutes , or until translucent",
+            "input": "(Onions; heated remaining oil)",
+            "actions": "saute",
+            "output": "Sauteed onions"
+        },
+        {
+            "instructions": "add in the tomato_sauce",
+            "input": "(Tomato sauce; sauteed onions)",
+            "actions": "add",
+            "output": "Sauted onions in tomato sauce"
+        },
+        {
+            "instructions": "stir",
+            "input": "Tomato sauce in sauteed onions",
+            "actions": "stir",
+            "output": "Tomato sauce in sauteed onions"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "Tomato sauce",
+            "actions": "remove",
+            "output": "Tomato sauce"
+        },
+        {
+            "instructions": "spread the tomato_sauce over the crust ;",
+            "input": "Tomato sauce",
+            "actions": "spread",
+            "output": "Tomato sauce spread over crust"
+        },
+        {
+            "instructions": "top with the ground_meat , sausage , cheese , pepperoni , and canadian bacon_slice .",
+            "input": "(cooked soy ground meat topping; sausage; cheese; pepperoni; canadian bacon_slice; crust with sauce)",
+            "actions": "top",
+            "output": "Crust with sauce topped with meat topping"
+        },
+        {
+            "instructions": "bake for 13 15 minutes , or until the cheese melts ;",
+            "input": "uncooked meat pizza",
+            "actions": "bake",
+            "output": "baked meat pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked meat pizza",
+            "actions": "remove",
+            "output": "baked meat pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked meat pizza",
+            "actions": "serve",
+            "output": "baked meat pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza crust (12- to 14-inch, freshly made or commercial)"
+        },
+        {
+            "text": "1 cup canned tomato sauce"
+        },
+        {
+            "text": "14 cup chopped onion"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 tablespoon italian seasoning"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "fresh ground black pepper"
+        },
+        {
+            "text": "1 tablespoon olive oil, divided"
+        },
+        {
+            "text": "4 ounces veggie crumbles (soy ground meat)"
+        },
+        {
+            "text": "2 links soy sausage, sliced into 1/2-inch rounds"
+        },
+        {
+            "text": "14 cup chopped onion"
+        },
+        {
+            "text": "2 cups shredded lowfat mozzarella cheese or 2 cups soy mozzarella cheese"
+        },
+        {
+            "text": "12 slices soy pepperoni"
+        },
+        {
+            "text": "6 slices soy Canadian bacon"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450; prebake the fresh pizza crust if using, for 3-4 minutes; remove from oven, and set aside to cool slightly."
+        },
+        {
+            "text": "Make the Simple Seasoned Sauce: combine the tomato sauce, onion, oil, Italian seasoning, salt, and pepper; set aside."
+        },
+        {
+            "text": "Make the Meat Topping: heat 1 teaspoon of oil in a big skillet over med-high heat; add the soy ground meat and sausage links; saute for about 3 minutes, or until hot and slightly crispy."
+        },
+        {
+            "text": "Using a spatula, remove the meat from the pan; add the remaining 2 teaspoons oil; saute the onions for 3 minutes, or until translucent; add in the tomato sauce and stir; remove from heat."
+        },
+        {
+            "text": "Spread the tomato sauce over the crust; top with the ground meat, sausage, cheese, pepperoni, and Canadian bacon slices."
+        },
+        {
+            "text": "Bake for 13-15 minutes, or until the cheese melts; remove from oven and serve."
+        },
+        {
+            "text": "For Vegan use a vegan soy cheese."
+        }
+    ]
+}

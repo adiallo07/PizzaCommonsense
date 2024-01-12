@@ -1,0 +1,100 @@
+{
+    "title": "mystery_pizza",
+    "id": "f995f2668c",
+    "table": [
+        {
+            "instructions": "in small bowl , blend ricotta and flour .",
+            "input": "(ricotta; flour)",
+            "action": "blend",
+            "output": "ricotta dough"
+        },
+        {
+            "instructions": "place in center of small sprayed baking pan .",
+            "input": "ricotta dough",
+            "action": "place",
+            "output": "ricotta dough"
+        },
+        {
+            "instructions": "spread in 7 inch circle , mounding edges .",
+            "input": "ricotta dough",
+            "action": "spread",
+            "output": "spread ricotta dough"
+        },
+        {
+            "instructions": "bake about 20 minutes at 350f 180c .",
+            "input": "uncooked ricotta crust",
+            "action": "bake",
+            "output": "baked ricotta crust"
+        },
+        {
+            "instructions": "in small bowl , combine tomato_paste , oregano , and worcestershire_sauce .",
+            "input": "(tomato paste; oregano; worcestershire_sauce)",
+            "action": "combine",
+            "output": "tomato sauce"
+        },
+        {
+            "instructions": "spoon over crust .",
+            "input": "(baked ricotta crust; tomato sauce)",
+            "action": "spoon",
+            "output": "sauced ricotta crust"
+        },
+        {
+            "instructions": "top with mushrooms and cheese .",
+            "input": "(mushrooms; cheese; sauced ricotta crust)",
+            "action": "top",
+            "output": "uncooked mushroom ricotta crust pizza"
+        },
+        {
+            "instructions": "bake about 10 minutes at 350f 180c .",
+            "input": "uncooked mushroom ricotta crust pizza",
+            "action": "bake",
+            "output": "baked mushroom ricotta crust pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "13 cup ricotta cheese"
+        },
+        {
+            "text": "1/4 cup tomato paste"
+        },
+        {
+            "text": "1/4 teaspoon oregano"
+        },
+        {
+            "text": "2 tablespoons mushrooms"
+        },
+        {
+            "text": "3/4 ounce mozzarella cheese"
+        },
+        {
+            "text": "3 tablespoons flour, all-purpose"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In small bowl, blend ricotta and flour."
+        },
+        {
+            "text": "Place in center of small sprayed baking pan."
+        },
+        {
+            "text": "Spread in 7 inch circle, mounding edges."
+        },
+        {
+            "text": "Bake about 20 minutes at 350F (180C)."
+        },
+        {
+            "text": "In small bowl, combine tomato paste, oregano, and Worcestershire sauce."
+        },
+        {
+            "text": "Spoon over crust."
+        },
+        {
+            "text": "Top with mushrooms and cheese."
+        },
+        {
+            "text": "Bake about 10 minutes at 350F (180C)."
+        }
+    ]
+}

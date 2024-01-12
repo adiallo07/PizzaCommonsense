@@ -1,0 +1,208 @@
+{
+    "title": "sausage_pizza",
+    "id": "b49068bb4d",
+    "table": [
+        {
+            "instructions": "dissolve yeast in water with pinch of sugar to test .",
+            "input": "(yeast; water; sugar)",
+            "actions": "dissolve",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "yeast mixture",
+            "actions": "set",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "combine flour , salt , olive_oil in bowl .",
+            "input": "(flour; salt; olive_oil)",
+            "actions": "combine",
+            "output": "dry_ingredients"
+        },
+        {
+            "instructions": "when yeast water is slightly foamy , pour inches .",
+            "input": "(dry_ingredients; yeast_mixture)",
+            "actions": "pour",
+            "output": "yeast_mixture_poured_over dry ingredients"
+        },
+        {
+            "instructions": "mix together until doughy .",
+            "input": "yeast_mixture_poured_over dry ingredients",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "remove from bowl",
+            "input": "dough",
+            "actions": "remove",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead with hands about minutes until dough forms smooth ball .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place in bowl",
+            "input": "dough",
+            "actions": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "cover with towl",
+            "input": "dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "let rise about 3 hours .",
+            "input": "dough",
+            "actions": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "cut in half .",
+            "input": "risen dough",
+            "actions": "cut",
+            "output": "cut pizza dough in halves"
+        },
+        {
+            "instructions": "put on pan .",
+            "input": "cut pizza dough in halves",
+            "actions": "put",
+            "output": "cut pizza dough in halves"
+        },
+        {
+            "instructions": "spread tomato_sauce across surface of dough .",
+            "input": "(tomato_sauce; pizza_dough)",
+            "actions": "spread",
+            "output": "pizza_base"
+        },
+        {
+            "instructions": "sprinkle seasoning and parmesan_cheese .",
+            "input": "(seasoning; parmesan_cheese; pizza_base)",
+            "actions": "sprinkle",
+            "output": "seasoning and parmesan cheese sprinkled on pizza base"
+        },
+        {
+            "instructions": "scatter meat evenly over surface .",
+            "input": "(uncooked pizza; meat)",
+            "actions": "scatter",
+            "output": "meat scattered over uncooked pizza"
+        },
+        {
+            "instructions": "top with shredded mozzarella .",
+            "input": "(uncooked meat pizza; shredded_mozzarella)",
+            "actions": "top",
+            "output": "uncooked meat pizza topped with shredded_mozzarella"
+        },
+        {
+            "instructions": "serve with antipasta , salad .",
+            "input": "(antipasta_salad; cooked sausage pizza)",
+            "actions": "serve",
+            "output": "sausage pizza served with antipasta_salad"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups flour"
+        },
+        {
+            "text": "1 tablespoon dry yeast"
+        },
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 pinch sugar"
+        },
+        {
+            "text": "12 cup parmesan cheese, grated"
+        },
+        {
+            "text": "1 tablespoon oregano"
+        },
+        {
+            "text": "1 tablespoon garlic powder"
+        },
+        {
+            "text": "12 tablespoon salt"
+        },
+        {
+            "text": "12 tablespoon ground black pepper"
+        },
+        {
+            "text": "16 ounces tomato sauce"
+        },
+        {
+            "text": "16 ounces part-skim mozzarella cheese, shredded"
+        },
+        {
+            "text": "2 Italian sausages"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve yeast in water with pinch of sugar to test."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Combine flour, salt, olive oil in bowl."
+        },
+        {
+            "text": "When yeast water is slightly foamy, pour inches."
+        },
+        {
+            "text": "Mix together until doughy."
+        },
+        {
+            "text": "Remove from bowl, knead with hands about minutes until dough forms smooth ball."
+        },
+        {
+            "text": "Place in bowl, cover with towl, let rise about 3 hours."
+        },
+        {
+            "text": "Dough rises to about twice original size."
+        },
+        {
+            "text": "Cut in half."
+        },
+        {
+            "text": "Roll each half with a rolling pin on a floured surface to desired shape and size for pizza (I use a baking stone (ungreased) or jelly-roll pan (greased)), and put on pan."
+        },
+        {
+            "text": "Spread tomato sauce across surface of dough."
+        },
+        {
+            "text": "Sprinkle seasoning and parmesan cheese."
+        },
+        {
+            "text": "Scatter meat evenly over surface."
+        },
+        {
+            "text": "Top with shredded mozzarella."
+        },
+        {
+            "text": "Repeat for other half of dough."
+        },
+        {
+            "text": "Serve with antipasta salad."
+        },
+        {
+            "text": "Bake in 450 oven for about 20 minutes, or until cheese is gold and bubbly."
+        },
+        {
+            "text": "Cut into about 15 squares."
+        }
+    ]
+}

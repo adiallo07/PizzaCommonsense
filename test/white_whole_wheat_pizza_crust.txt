@@ -1,0 +1,199 @@
+{
+    "title": "white_whole_wheat_pizza_crust",
+    "id": "f7b5522a4e",
+    "table": [
+        {
+            "instructions": "in a large bowl , dissolve sugar in warm_water .",
+            "input": "(sugar; warm_water)",
+            "actions": "dissolve",
+            "output": "dissolved_sugar_in_warm_water"
+        },
+        {
+            "instructions": "sprinkle yeast over the top ,",
+            "input": "(dissolved_sugar_in_warm_water; yeast)",
+            "actions": "sprinkle",
+            "output": "yeast_mixture"
+        },
+        {
+            "instructions": "stir the olive_oil and salt into the yeast mixture ,",
+            "input": "(olive_oil; salt; yeast_mixture)",
+            "actions": "stir",
+            "output": "olive_oil_stirred_in_yeast_mixture"
+        },
+        {
+            "instructions": "mix in 2 cups of the whole_wheat_flour until dough starts to come together .",
+            "input": "(whole_wheat_flour; olive_oil_stirred_in_yeast_mixture)",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "tip dough out onto a floured surface ,",
+            "input": "dough",
+            "actions": "tip",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead until all of the flour has been absorbed , and the ball of dough becomes smooth , about 10 minutes .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "place dough in an oiled bowl ,",
+            "input": "kneaded_dough",
+            "actions": "place",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "turn to coat the surface .",
+            "input": "kneaded_dough",
+            "actions": "turn",
+            "output": "coated_dough"
+        },
+        {
+            "instructions": "cover loosely with a towel ,",
+            "input": "coated_dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "when the dough is doubled , tip the dough out onto a lightly floured surface ,",
+            "input": "doubled_dough",
+            "actions": "tip",
+            "output": "doubled_dough"
+        },
+        {
+            "instructions": "divide into 2 pieces for 2 thin crust , or leave whole to make one thick crust .",
+            "input": "doubled_dough",
+            "actions": "divide",
+            "output": "doubled_dough"
+        },
+        {
+            "instructions": "form into a tight ball .",
+            "input": "doubled_dough",
+            "actions": "form",
+            "output": "formed_dough"
+        },
+        {
+            "instructions": "let rise for about 45 minutes , until doubled .",
+            "input": "formed_dough",
+            "actions": "rise",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "preheat the oven to 425 degrees f 220 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll a ball of dough with a rolling pin until it will not stretch any further .",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "then , drape it over both of your fists ,",
+            "input": "rolled_dough",
+            "actions": "drape",
+            "output": "draped_dough"
+        },
+        {
+            "instructions": "gently pull the edges outward , while rotating the crust .",
+            "input": "draped_dough",
+            "actions": "pull",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "when the circle has reached the desired size , place on a well oiled pizza\u2012pan .",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "shaped_dough"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "NA",
+            "actions": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "add toppings .",
+            "input": "(toppings; pizza_crust)",
+            "actions": "add",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "bake for 16 to 20 minutes depending on thickness in the preheated oven , until the crust is crisp and golden at the edges , and toppings are done .",
+            "input": "uncooked_whole_wheat_pizza",
+            "actions": "bake",
+            "output": "baked_whole_wheat_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 12 cups white whole wheat flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 tablespoon active dry yeast"
+        },
+        {
+            "text": "1 tablespoon extra virgin olive oil"
+        },
+        {
+            "text": "1 12 cups warm water"
+        },
+        {
+            "text": "1 teaspoon salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large bowl, dissolve sugar in warm water."
+        },
+        {
+            "text": "Sprinkle yeast over the top, and let stand for about 10 minutes, until foamy."
+        },
+        {
+            "text": "Stir the olive oil and salt into the yeast mixture, then mix in 2 cups of the whole wheat flour until dough starts to come together."
+        },
+        {
+            "text": "Tip dough out onto a floured surface, and knead until all of the flour has been absorbed, and the ball of dough becomes smooth, about 10 minutes."
+        },
+        {
+            "text": "Place dough in an oiled bowl, and turn to coat the surface."
+        },
+        {
+            "text": "Cover loosely with a towel, and let stand in a warm place until doubled in size, about 1 hour."
+        },
+        {
+            "text": "When the dough is doubled, tip the dough out onto a lightly floured surface, and divide into 2 pieces for 2 thin crust, or leave whole to make one thick crust."
+        },
+        {
+            "text": "Form into a tight ball."
+        },
+        {
+            "text": "Let rise for about 45 minutes, until doubled."
+        },
+        {
+            "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "text": "Roll a ball of dough with a rolling pin until it will not stretch any further."
+        },
+        {
+            "text": "Then, drape it over both of your fists, and gently pull the edges outward, while rotating the crust."
+        },
+        {
+            "text": "When the circle has reached the desired size, place on a well oiled pizza pan."
+        },
+        {
+            "text": "Parbake for 5 minutes Remove from the oven and add toppings."
+        },
+        {
+            "text": "Bake for 16 to 20 minutes (depending on thickness) in the preheated oven, until the crust is crisp and golden at the edges, and toppings are done."
+        }
+    ]
+}

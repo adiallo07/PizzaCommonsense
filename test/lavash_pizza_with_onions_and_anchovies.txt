@@ -1,0 +1,238 @@
+{
+    "title": "lavash_pizza_with_onions_and_anchovies",
+    "id": "5d3616a589",
+    "table": [
+        {
+            "instructions": "heat 1 tablespoon of the olive_oil in a large , heavy nonstick skillet over medium heat .",
+            "input": "olive_oil",
+            "actions": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add the onions .",
+            "input": "(onions; heated_olive_oil)",
+            "actions": "add",
+            "output": "added_onions in heated_olive_oil"
+        },
+        {
+            "instructions": "cook , stirring , until they begin to sizzle",
+            "input": "added_onions in heated_olive_oil",
+            "actions": "cook",
+            "output": "cooked_onions"
+        },
+        {
+            "instructions": "soften , about three minutes .",
+            "input": "cooked_onions",
+            "actions": "soften",
+            "output": "soften_cooked_onions"
+        },
+        {
+            "instructions": "add a generous pinch of salt and the garlic , bay_leaf , thyme and pepper .",
+            "input": "(soften_cooked_onions; salt; garlic; bay_leaf; thyme; pepper)",
+            "actions": "add",
+            "output": "salt, garlic, bay leaf, thyme and pepper added to soften_cooked_onions"
+        },
+        {
+            "instructions": "stir everything together",
+            "input": "salt, garlic, bay leaf, thyme and pepper added to soften_cooked_onions",
+            "actions": "stir",
+            "output": "cooking_onion_mixture"
+        },
+        {
+            "instructions": "turn the heat to low",
+            "input": "cooking_onion_mixture",
+            "actions": "turn",
+            "output": "cooking_onion_mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "cooking_onion_mixture",
+            "actions": "cover",
+            "output": "covered_cooking_onion_mixture"
+        },
+        {
+            "instructions": "cook slowly for 45 minutes to an hour , stirring often .",
+            "input": "cooking_onion_mixture",
+            "actions": "cook",
+            "output": "cooking_onion_mixture"
+        },
+        {
+            "instructions": "the onions should melt down to a thick , golden brown , almost jammy consistency .",
+            "input": "cooking_onion_mixture",
+            "actions": "melt",
+            "output": "cooked_onion_mixture"
+        },
+        {
+            "instructions": "stir in the capers ,",
+            "input": "(cooked_onion_mixture; capers)",
+            "actions": "stir",
+            "output": "capers_stirred_in cooked_onion_mixture"
+        },
+        {
+            "instructions": "taste",
+            "input": "NA",
+            "actions": "taste",
+            "output": "NA"
+        },
+        {
+            "instructions": "adjust seasonings .",
+            "input": "(seasonings; cooked_onion_and capers mixture)",
+            "actions": "adjust",
+            "output": "seasoned_onion_and capers mixture"
+        },
+        {
+            "instructions": "if there is liquid in the pan , cook over medium heat , uncovered , until it evaporates .",
+            "input": "seasoned_onion_and capers mixture",
+            "actions": "cook",
+            "output": "dried_onion_and capers mixture"
+        },
+        {
+            "instructions": "heat the oven to 375 degrees , preferably with a baking stone in it .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the lavash on a baking sheet .",
+            "input": "lavash",
+            "actions": "place",
+            "output": "lavash"
+        },
+        {
+            "instructions": "spread the onions over the lavash in a thin , even layer .",
+            "input": "(cooked onion mixture; lavash)",
+            "actions": "spread",
+            "output": "onion mixture spreaded_on lavash"
+        },
+        {
+            "instructions": "cut the anchovies in half",
+            "input": "anchovies",
+            "actions": "cut",
+            "output": "halved_anchovies"
+        },
+        {
+            "instructions": "arrange in xs on top of the onions .",
+            "input": "(halved_anchovies; lavash with onion mixture)",
+            "actions": "arrange",
+            "output": "arranged_in_xs over lavash with onion mixture"
+        },
+        {
+            "instructions": "drizzle the remaining olive_oil over the onions ,",
+            "input": "(remainig olive_oil; lavash with onion mixture and anchovies)",
+            "actions": "drizzle",
+            "output": "olive_oil drizzled on lavash with onion mixture and anchovies"
+        },
+        {
+            "instructions": "place the pizza in the oven .",
+            "input": "lavash pizza with onion mixture and anchovies",
+            "actions": "place",
+            "output": "lavash pizza with onion mixture and anchovies"
+        },
+        {
+            "instructions": "bake 15 minutes until the edges of the crust are crisp",
+            "input": "lavash pizza with onion mixture and anchovies",
+            "actions": "bake",
+            "output": "baked_lavash pizza with onion mixture and anchovies"
+        },
+        {
+            "instructions": "brown .",
+            "input": "baked_lavash pizza with onion mixture and anchovies",
+            "actions": "brown",
+            "output": "browned_lavash pizza with onion mixture and anchovies"
+        },
+        {
+            "instructions": "remove from the heat .",
+            "input": "browned_lavash pizza with onion mixture and anchovies",
+            "actions": "remove",
+            "output": "browned_lavash pizza with onion mixture and anchovies"
+        },
+        {
+            "instructions": "serve hot , warm or room temperature .",
+            "input": "browned_lavash pizza with onion mixture and anchovies",
+            "actions": "serve",
+            "output": "browned_lavash pizza with onion mixture and anchovies"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "1 pound onions (2 medium onions), cut in half and sliced very thin across the grain"
+        },
+        {
+            "text": "Salt"
+        },
+        {
+            "text": "freshly ground pepper"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "1/2 bay leaf"
+        },
+        {
+            "text": "1 teaspoon fresh thyme leaves, or 1/2 teaspoon dried thyme"
+        },
+        {
+            "text": "1 1/2 teaspoons capers, drained, rinsed and finely chopped or pureed in a mortar and pestle"
+        },
+        {
+            "text": "1 9-by-12-inch lavash"
+        },
+        {
+            "text": "6 anchovy fillets, soaked in water for five minutes, drained, rinsed and dried on paper towels"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat 1 tablespoon of the olive oil in a large, heavy nonstick skillet over medium heat."
+        },
+        {
+            "text": "Add the onions."
+        },
+        {
+            "text": "Cook, stirring, until they begin to sizzle and soften, about three minutes."
+        },
+        {
+            "text": "Add a generous pinch of salt and the garlic, bay leaf, thyme and pepper."
+        },
+        {
+            "text": "Stir everything together, turn the heat to low, cover and cook slowly for 45 minutes to an hour, stirring often."
+        },
+        {
+            "text": "The onions should melt down to a thick, golden brown, almost jammy consistency."
+        },
+        {
+            "text": "Stir in the capers, and taste and adjust seasonings."
+        },
+        {
+            "text": "If there is liquid in the pan, cook over medium heat, uncovered, until it evaporates."
+        },
+        {
+            "text": "Heat the oven to 375 degrees, preferably with a baking stone in it."
+        },
+        {
+            "text": "Place the lavash on a baking sheet."
+        },
+        {
+            "text": "Spread the onions over the lavash in a thin, even layer."
+        },
+        {
+            "text": "Cut the anchovies in half and arrange in Xs on top of the onions."
+        },
+        {
+            "text": "Drizzle the remaining olive oil over the onions, and place the pizza in the oven."
+        },
+        {
+            "text": "Bake 15 minutes until the edges of the crust are crisp and brown."
+        },
+        {
+            "text": "Remove from the heat."
+        },
+        {
+            "text": "Serve hot, warm or room temperature."
+        }
+    ]
+}

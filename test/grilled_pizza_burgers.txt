@@ -1,0 +1,178 @@
+{
+    "title": "grilled_pizza_burgers",
+    "id": "b37f9d0e2d",
+    "table": [
+        {
+            "instructions": "Saute the onion and pepper in oil for 3 minutes. add the garlic and italian_seasoning",
+            "input": "(garlic; italian_seasoning; onion; pepper)",
+            "action": "add",
+            "output": "garlic, onion and italian_seasoning"
+        },
+        {
+            "instructions": "saute 1 minute until the onion is soft .",
+            "input": "garlic, onion and italian_seasoning",
+            "action": "saute",
+            "output": "sauteed onion and garlic mixture"
+        },
+        {
+            "instructions": "stir in tomatoes",
+            "input": "tomatoes; sauteed onion and garlic mixture",
+            "action": "stir",
+            "output": "tomatoes stirred into sauteed onion and garlic mixture"
+        },
+        {
+            "instructions": "simmer 10 15 minutes , till it thickens to your liking , stirring occasionally .",
+            "input": "tomatoes stirred into sauteed onion and garlic mixture",
+            "action": "simmer",
+            "output": "simmered tomato sauce"
+        },
+        {
+            "instructions": "add the salt , pepper , and sugar to your taste .",
+            "input": "salt; pepper; sugar; simmered tomato sauce",
+            "action": "add",
+            "output": "seasoned simmered tomato sauce"
+        },
+        {
+            "instructions": "carefully blend the hot_sauce until smooth .",
+            "input": "seasoned simmered tomato sauce",
+            "action": "blend",
+            "output": "blended sauce"
+        },
+        {
+            "instructions": "to make the burgers lightly beat the egg_white .",
+            "input": "egg white",
+            "action": "make",
+            "output": "beaten egg white"
+        },
+        {
+            "instructions": "add remaining burger ingredients",
+            "input": "beaten egg white; chopped green pepper; breadcrumbs; ground beef; salt; pepper",
+            "action": "add",
+            "output": "beaten eggs whites added to chopped green pepper, breadcrumbs, ground beed, salt and pepper"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "meat mixture",
+            "action": "mix",
+            "output": "meat mixture"
+        },
+        {
+            "instructions": "shape into 6 burgers .",
+            "input": "meat mixture",
+            "action": "shape",
+            "output": "burger patties"
+        },
+        {
+            "instructions": "grill burgers on medium high heat , for 4 5 minutes on each side or until meat is no longer pink .",
+            "input": "burger patties",
+            "action": "grill",
+            "output": "burger patties grilled"
+        },
+        {
+            "instructions": "top burgers with cheese_slice the last 2 minutes of cooking .",
+            "input": "cheese slices; burgers",
+            "action": "top",
+            "output": "burgers with cheese slices"
+        },
+        {
+            "instructions": "serve burgers on buns topped with cheese and tomato_sauce .",
+            "input": "buns; burgers; tomato sauce",
+            "action": "serve",
+            "output": "burgers with cheese slices served on buns topped with cheese and tomato sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 egg white"
+        },
+        {
+            "text": "1 cup green pepper, finely chopped"
+        },
+        {
+            "text": "14 cup fresh basil, minced or 2 tablespoons dried basil"
+        },
+        {
+            "text": "2 tablespoons romano cheese, grated (or parmesan)"
+        },
+        {
+            "text": "2 tablespoons breadcrumbs"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon pepper"
+        },
+        {
+            "text": "1 lb ground venison or 1 lb ground beef"
+        },
+        {
+            "text": "1 tablespoon oil"
+        },
+        {
+            "text": "12 cup onion, chopped"
+        },
+        {
+            "text": "14 cup green pepper, chopped"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "1 (14 1/2 ounce) can crushed tomatoes, undrained (I use one quart)"
+        },
+        {
+            "text": "1 tablespoon fresh mixed Italian herbs or 1 teaspoon dried Italian seasoning"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon pepper"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "6 slices mozzarella cheese (approx 3 oz)"
+        },
+        {
+            "text": "6 buns, toasted on the grill"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Start the pizza sauce simmering first: Saute the onion and pepper in oil for 3 minutes."
+        },
+        {
+            "text": "Add the garlic and Italian seasoning and saute 1 minute until the onion is soft."
+        },
+        {
+            "text": "Stir in tomatoes and simmer 10-15 minutes, till it thickens to your liking, stirring occasionally."
+        },
+        {
+            "text": "Add the salt, pepper, and sugar to your taste."
+        },
+        {
+            "text": "Carefully blend the hot sauce until smooth."
+        },
+        {
+            "text": "To make the burgers: Lightly beat the egg white."
+        },
+        {
+            "text": "Add remaining burger ingredients and mix well."
+        },
+        {
+            "text": "Shape into 6 burgers."
+        },
+        {
+            "text": "Grill burgers on medium high heat, for 4-5 minutes on each side or until meat is no longer pink."
+        },
+        {
+            "text": "Top burgers with cheese slices the last 2 minutes of cooking."
+        },
+        {
+            "text": "Serve burgers on buns topped with cheese and tomato sauce."
+        }
+    ]
+}

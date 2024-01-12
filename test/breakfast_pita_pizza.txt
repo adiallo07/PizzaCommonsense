@@ -1,0 +1,145 @@
+{
+    "title": "breakfast_pita_pizza",
+    "id": "d3dc8f15ec",
+    "table": [
+        {
+            "instructions": "in a medium nonstick frying pan , heat the olive_oil .",
+            "input": "olive_oil",
+            "actions": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add the onion",
+            "input": "(heated_olive_oil; onion)",
+            "actions": "add",
+            "output": "onion in heated olive oil"
+        },
+        {
+            "instructions": "saute for 2 to 3 minutes .",
+            "input": "onion",
+            "actions": "saute",
+            "output": "sauteed onion"
+        },
+        {
+            "instructions": "add the red_pepper",
+            "input": "(onion in heated olive oil; red_pepper)",
+            "actions": "add",
+            "output": "sauted onion and red pepper"
+        },
+        {
+            "instructions": "add eggs",
+            "input": "(sauted onion and red pepper; eggs)",
+            "actions": "add",
+            "output": "uncooked egg mixture"
+        },
+        {
+            "instructions": "gently scramble until just cooked .",
+            "input": "uncooked egg mixture",
+            "actions": "scramble",
+            "output": "scrambled eggs"
+        },
+        {
+            "instructions": "season with salt and pepper",
+            "input": "(scrambled eggs; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned scrambled eggs"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "seasoned scrambled eggs",
+            "actions": "remove",
+            "output": "seasoned scrambled eggs"
+        },
+        {
+            "instructions": "preheat the broiler or toaster oven .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide the egg mixture between the pita halves .",
+            "input": "(seasoned scrambled eggs; pita halves)",
+            "actions": "divide",
+            "output": "pita halves with scrambled eggs"
+        },
+        {
+            "instructions": "top each pita with half the cheese and half the pancetta or bacon .",
+            "input": "(pita halves with scrambled eggs; cheese; pancetta)",
+            "actions": "top",
+            "output": "pita halves topped with scrambled eggs, cheese, and pancetta"
+        },
+        {
+            "instructions": "toast in toaster oven or under a broiler until the cheese just begins to melt .",
+            "input": "pita halves with scrambled eggs, cheese, and pancetta or bacon",
+            "actions": "toast",
+            "output": "toasted pita halves with scrambled eggs, cheese, and pancetta"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "toasted pita halves with scrambled eggs, cheese, and pancetta",
+            "actions": "serve",
+            "output": "served breakfast pita pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "14 cup finely chopped red onion"
+        },
+        {
+            "text": "1 small finely chopped red bell pepper"
+        },
+        {
+            "text": "2 large eggs, beaten"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoons ground black pepper, to taste"
+        },
+        {
+            "text": "1 (6 inch) whole wheat pita bread, cut in half and lightly toasted"
+        },
+        {
+            "text": "14 cup grated sharp low-fat cheddar cheese"
+        },
+        {
+            "text": "4 slices pancetta or 1 slice bacon, cooked and cut into small pieces"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a medium nonstick frying pan, heat the olive oil."
+        },
+        {
+            "text": "Add the onion and saute for 2 to 3 minutes."
+        },
+        {
+            "text": "Add the red pepper and continue to cook for another 3 minutes or until the pepper begins to soften."
+        },
+        {
+            "text": "Add eggs and gently scramble until just cooked."
+        },
+        {
+            "text": "Season with salt and pepper and remove from heat."
+        },
+        {
+            "text": "Preheat the broiler or toaster oven."
+        },
+        {
+            "text": "Divide the egg mixture between the pita halves."
+        },
+        {
+            "text": "Top each pita with half the cheese and half the pancetta or bacon."
+        },
+        {
+            "text": "Toast in toaster oven or under a broiler until the cheese just begins to melt."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

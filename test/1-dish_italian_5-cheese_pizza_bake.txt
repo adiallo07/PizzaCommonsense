@@ -1,0 +1,106 @@
+{
+    "title": "1-dish_italian_5-cheese_pizza_bake",
+    "id": "237c25ce64",
+    "table": [
+        {
+            "instructions": "mix batter ingredients in a 9 12 inch deep dish , pie plate that has been coated with cooking_spray .",
+            "input": "batter_ingredients",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "top dough with the pizza_sauce .",
+            "input": "(dough; pizza_sauce)",
+            "actions": "top",
+            "output": "dough_topped_with_pizza_sauce"
+        },
+        {
+            "instructions": "top with shredded_cheese .",
+            "input": "(dough_topped_with_pizza_sauce; shredded_cheese)",
+            "actions": "top",
+            "output": "dough_topped_with_pizza_sauce_and_shredded_cheese"
+        },
+        {
+            "instructions": "sprinkle with italian herb_seasoning .",
+            "input": "(dough_topped_with_pizza_sauce_and_shredded_cheese; herb_seasoning)",
+            "actions": "sprinkle",
+            "output": "dough_topped_with_pizza_sauce, shredded_cheese and sprinkled herb_seasoning"
+        },
+        {
+            "instructions": "bake by placing in a cold oven",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baking pizza"
+        },
+        {
+            "instructions": "set temperature to 350f ;",
+            "input": "NA",
+            "actions": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake for 30 minutes or until done .",
+            "input": "baking pizza",
+            "actions": "bake",
+            "output": "pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "cooking spray"
+        },
+        {
+            "text": "1 34 cups all-purpose flour"
+        },
+        {
+            "text": "2 (1/4 ounce) envelopesfleischmann's fast rising yeast"
+        },
+        {
+            "text": "2 teaspoons sugar"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "34 cup very warm water (120 F to 130 F)"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "12 cup pizza sauce (I use spaghetti sauce)"
+        },
+        {
+            "text": "4 ounces fresh mozzarella cheese, sliced 1/4-inch thick"
+        },
+        {
+            "text": "2 cups shredded italian five cheese blend"
+        },
+        {
+            "text": "1 teaspoon Italian herb seasoning"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix batter ingredients in a 9-1/2-inch deep dish pie plate that has been coated with cooking spray."
+        },
+        {
+            "text": "Top dough with the pizza sauce."
+        },
+        {
+            "text": "Evenly distribute fresh mozzarella slices on sauce and top with shredded cheese."
+        },
+        {
+            "text": "Sprinkle with Italian herb seasoning."
+        },
+        {
+            "text": "Bake by placing in a COLD oven; set temperature to 350F Bake for 30 minutes or until done."
+        },
+        {
+            "text": "Note: If desired, batter may be mixed in a separate bowl."
+        },
+        {
+            "text": "Proceed as directed above."
+        }
+    ]
+}

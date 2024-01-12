@@ -1,0 +1,151 @@
+{
+    "title": "chicken_herb_and_garlic_pizza_with_balsamic_greens",
+    "id": "1a0a4d01c6",
+    "table": [
+        {
+            "instructions": "preheat oven to 45",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread dough on greased baking sheet into 11 x 15 inch rectangle .",
+            "input": "dough",
+            "action": "spread",
+            "output": "spread_dough"
+        },
+        {
+            "instructions": "bake 10 to 12 minutes or until crisp and deep golden brown .",
+            "input": "uncooked dough",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "when crust is done , transfer to cutting board .",
+            "input": "baked crust",
+            "action": "transfer",
+            "output": "Crust"
+        },
+        {
+            "instructions": "spread with cheese .",
+            "input": "Crust, Cheese",
+            "action": "spread",
+            "output": "Cheese Spread over crust"
+        },
+        {
+            "instructions": "meanwhile , heat oil in medium nonstick skillet to medium high .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "sprinkle chicken with salt and pepper .",
+            "input": "chicken, salt, pepper",
+            "action": "sprinkle",
+            "output": "Chicken sprinkled with salt and pepper"
+        },
+        {
+            "instructions": "cook chicken , turning once , 10 to 12 minutes or until done internal temp 170f",
+            "input": "(uncooked seasoned chicken; heated oil)",
+            "action": "cook",
+            "output": "Cooked chicken"
+        },
+        {
+            "instructions": "slice chicken across the grain into thin slices .",
+            "input": "Cooked chicken",
+            "action": "slice",
+            "output": "thinly Sliced chicken across the grain"
+        },
+        {
+            "instructions": "toss salad_green with dressing .",
+            "input": "green_salad, dressing",
+            "action": "toss",
+            "output": "tossed green_salad with dressing"
+        },
+        {
+            "instructions": "spread greens evenly over pizza .",
+            "input": "greens, crust with cheese",
+            "action": "spread",
+            "output": "spread greens over crust with cheese"
+        },
+        {
+            "instructions": "top with chicken slices .",
+            "input": "crust with cheese and greens, chicken slices",
+            "action": "top",
+            "output": "chicken_herb_and_garlic_pizza_with_balsamic_greens"
+        },
+        {
+            "instructions": "cut into squares to serve .",
+            "input": "chicken_herb_and_garlic_pizza_with_balsamic_greens",
+            "action": "cut",
+            "output": "chicken_herb_and_garlic_pizza_with_balsamic_greens cut into squares"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 boneless skinless chicken breasts"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 (10 ounce) packagerefrigerated prepared pizza crust"
+        },
+        {
+            "text": "4 ounces salad greens (1 package)"
+        },
+        {
+            "text": "3 tablespoons balsamic vinaigrette"
+        },
+        {
+            "text": "6 12 ounces garlic & herb spreadable cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450F"
+        },
+        {
+            "text": "Spread dough on greased baking sheet into 11 x 15-inch rectangle."
+        },
+        {
+            "text": "Bake 10 to 12 minutes or until crisp and deep golden brown."
+        },
+        {
+            "text": "When crust is done, transfer to cutting board."
+        },
+        {
+            "text": "Cool 1 minute; spread with cheese."
+        },
+        {
+            "text": "Meanwhile, heat oil in medium nonstick skillet to medium-high."
+        },
+        {
+            "text": "Sprinkle chicken with salt and pepper."
+        },
+        {
+            "text": "Cook chicken, turning once, 10 to 12 minutes or until done (internal temp 170F)."
+        },
+        {
+            "text": "Slice chicken across the grain into thin slices."
+        },
+        {
+            "text": "Toss salad greens with dressing."
+        },
+        {
+            "text": "Spread greens evenly over pizza."
+        },
+        {
+            "text": "Top with chicken slices."
+        },
+        {
+            "text": "Cut into squares to serve."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title": "vegan_pizza_dough",
+    "id": "a7cd08f598",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in large bowl , combine flour , yeast , and salt .",
+            "input": "(flour; yeast; salt)",
+            "action": "combine",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "add warm_water and olive_oil",
+            "input": "(warm water,olive oil; dry ingredients)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead about 5 minutes",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "roll out dough",
+            "input": "kneaded dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "place in oven",
+            "input": "rolled dough",
+            "action": "place",
+            "output": "uncooked pizza crust"
+        },
+        {
+            "instructions": "bake for approximately 10 minutes or until very slightly browned .",
+            "input": "uncooked pizza crust",
+            "action": "bake",
+            "output": "par-baked pizza crust"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "par-baked pizza crust",
+            "action": "remove",
+            "output": "par-baked pizza crust"
+        },
+        {
+            "instructions": "add pizza_topping of your choice .",
+            "input": "(par-baked pizza crust; pizza toppings)",
+            "action": "add",
+            "output": "toppings added to par-baked pizza crust"
+        },
+        {
+            "instructions": "return pizza to oven",
+            "input": "par-baked pizza crust with toppings",
+            "action": "return",
+            "output": "par-baked pizza crust topped with toppings"
+        },
+        {
+            "instructions": "bake approximately 10 20 minutes or until cheese is melted .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "slice ,",
+            "input": "baked pizza",
+            "action": "slice",
+            "output": "sliced pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced pizza",
+            "action": "serve",
+            "output": "served sliced pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 -3 12 cups flour"
+        },
+        {
+            "text": "2 12 ounces fast rising yeast"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 cup water, very warm"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "In large bowl, combine flour, yeast, and salt."
+        },
+        {
+            "text": "Add warm water and olive oil, knead about 5 minutes or until mixture is well combined and forms a ball."
+        },
+        {
+            "text": "Let dough sit for 10 minutes in a warm place."
+        },
+        {
+            "text": "Roll out dough and fit to oiled cookie sheet or pizza pan."
+        },
+        {
+            "text": "Place in oven and bake for approximately 10 minutes or until very slightly browned."
+        },
+        {
+            "text": "Remove from oven and let cool."
+        },
+        {
+            "text": "Add pizza toppings of your choice."
+        },
+        {
+            "text": "Return pizza to oven and bake approximately 10-20 minutes or until cheese is melted."
+        },
+        {
+            "text": "Cool, slice, and serve."
+        }
+    ]
+}

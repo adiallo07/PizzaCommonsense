@@ -1,0 +1,121 @@
+{
+    "title": "ww_6_points_grilled_chicken_pizza",
+    "id": "5ff75460be",
+    "table": [
+        {
+            "instructions": "spray the grill rack with nonstick_spray",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare the grill for a medium hot fire .",
+            "input": "NA",
+            "action": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss the chicken , basil , oil , garlic_salt , and pepper in a small bowl .",
+            "input": "(chicken; basil; oil; garlic_salt; pepper)",
+            "action": "toss",
+            "output": "seasoned chicken mixture"
+        },
+        {
+            "instructions": "place the bread halves cut side up ;",
+            "input": "bread halves",
+            "action": "place",
+            "output": "bread halves"
+        },
+        {
+            "instructions": "scatter the chicken mixture evenly over them ,",
+            "input": "(bread halves; seasoned chicken mixture)",
+            "action": "scatter",
+            "output": "bread halves with seasoned chicken mixture"
+        },
+        {
+            "instructions": "top with mozzarella .",
+            "input": "(mozzarella; bread halves with seasoned chicken mixture)",
+            "action": "top",
+            "output": "bread halves with seasoned chicken mixture and mozzarella"
+        },
+        {
+            "instructions": "place the bread halves on the grill , away from the heat source .",
+            "input": "bread halves with seasoned chicken mixture and mozzarella",
+            "action": "place",
+            "output": "bread halves with seasoned chicken mixture and mozzarella"
+        },
+        {
+            "instructions": "cover",
+            "input": "bread halves with seasoned chicken mixture and mozzarella",
+            "action": "cover",
+            "output": "covered bread halves with seasoned chicken mixture and mozzarella"
+        },
+        {
+            "instructions": "cook , rotating the pizzas a half turn every 5 minutes , until the cheese is fully melted , 8 10 minute .",
+            "input": "covered bread halves with seasoned chicken mixture and mozzarella",
+            "action": "cook",
+            "output": "cooked bread halves with seasoned chicken mixture and mozzarella"
+        },
+        {
+            "instructions": "preheat to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizzas on hot baking sheet 8 10 minute .",
+            "input": "grilled_chicken_pizza bread",
+            "action": "place",
+            "output": "cooked grilled_chicken_pizza bread"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cooked chicken breasts, shredded (about 1 cup)"
+        },
+        {
+            "text": "12 cup chopped fresh basil or 1 12 tablespoons dried basil"
+        },
+        {
+            "text": "2 teaspoons extra virgin olive oil"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "18 teaspoon fresh ground pepper"
+        },
+        {
+            "text": "whole wheat french bread, halved lengthwise"
+        },
+        {
+            "text": "3 ounces thinly sliced smoked mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray the grill rack with nonstick spray and prepare the grill for a medium-hot fire."
+        },
+        {
+            "text": "Toss the chicken, basil, oil, garlic, salt, and pepper in a small bowl."
+        },
+        {
+            "text": "Place the bread halves cut side up; scatter the chicken mixture evenly over them, and top with mozzarella."
+        },
+        {
+            "text": "Place the bread halves on the grill, away from the heat source."
+        },
+        {
+            "text": "Cover and cook, rotating the pizzas a half turn every 5 minutes, until the cheese is fully melted, 8-10 minute."
+        },
+        {
+            "text": "OVEN METHOD: Place a baking sheet in center of oven and preheat to 400 degrees F. Place pizzas on hot baking sheet 8-10 minute."
+        },
+        {
+            "text": "6 Points per serving (1/2 pizza)."
+        }
+    ]
+}

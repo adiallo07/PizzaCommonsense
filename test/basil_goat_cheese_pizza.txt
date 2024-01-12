@@ -1,0 +1,118 @@
+{
+    "title": "basil_goat_cheese_pizza",
+    "id": "aeb333dc9d",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f 220 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll the dough on a floured surface into a 15 inch circle .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "roll the edges towards the center to form a crust , leaving a 12 inch circle .",
+            "input": "rolled_dough",
+            "action": "roll",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "brush the entire crust generously with olive_oil ,",
+            "input": "(olive oil; pizza crust)",
+            "action": "brush",
+            "output": "oiled crust"
+        },
+        {
+            "instructions": "sprinkle with salt , pepper , 1 sprig of chopped basil , and rosemary .",
+            "input": "(salt; pepper; chopped basil; rosemary; oiled crust)",
+            "action": "sprinkle",
+            "output": "seasoned and oiled crust"
+        },
+        {
+            "instructions": "bake in preheated oven until the crust begins to turn golden , 8 to 10 minutes .",
+            "input": "seasoned and oiled crust",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "spread the crust with tomato_sauce .",
+            "input": "(tomato sauce; baked crust)",
+            "action": "spread",
+            "output": "tomato sauce spread on pizza crust"
+        },
+        {
+            "instructions": "sprinkle with 2 sprigs of chopped basil and goat_cheese .",
+            "input": "(chopped basil; goat cheese; pizza crust with pizza sauce)",
+            "action": "sprinkle",
+            "output": "chopped basil and goat cheese sprinkled on pizza crust"
+        },
+        {
+            "instructions": "bake in preheated oven until the crust is brown , and the pizza has heated through , about 8 more minutes .",
+            "input": "uncooked basil_goat_cheese_pizza",
+            "action": "bake",
+            "output": "baked basil_goat_cheese_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (1 pound) loaf frozen white bread dough, thawed"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "salt to taste"
+        },
+        {
+            "text": "1/2 teaspoon ground black pepper"
+        },
+        {
+            "text": "1 sprig fresh basil, chopped"
+        },
+        {
+            "text": "1 1/2 teaspoons minced fresh rosemary"
+        },
+        {
+            "text": "3/4 cup Italian tomato sauce"
+        },
+        {
+            "text": "4 ounces crumbled goat cheese"
+        },
+        {
+            "text": "2 sprigs fresh basil, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Allow dough to rise in a covered bowl until doubled in bulk."
+        },
+        {
+            "text": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "text": "Roll the dough on a floured surface into a 15-inch circle."
+        },
+        {
+            "text": "Roll the edges towards the center to form a crust, leaving a 12-inch circle."
+        },
+        {
+            "text": "Brush the entire crust generously with olive oil, and sprinkle with salt, pepper, 1 sprig of chopped basil, and rosemary."
+        },
+        {
+            "text": "Bake in preheated oven until the crust begins to turn golden, 8 to 10 minutes."
+        },
+        {
+            "text": "Spread the crust with tomato sauce."
+        },
+        {
+            "text": "Sprinkle with 2 sprigs of chopped basil and goat cheese."
+        },
+        {
+            "text": "Bake in preheated oven until the crust is brown, and the pizza has heated through, about 8 more minutes."
+        }
+    ]
+}

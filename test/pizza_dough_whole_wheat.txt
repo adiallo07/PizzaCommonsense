@@ -1,0 +1,82 @@
+{
+    "title": "pizza_dough_whole_wheat",
+    "id": "090c30f846",
+    "table": [
+        {
+            "instructions": "add ingredients in the order given into the bread , machine pan .",
+            "input": "pizza dough ingredients",
+            "action": "add",
+            "output": "pizza dough ingredients"
+        },
+        {
+            "instructions": "once the dough is done , remove it from the pan onto a floured work surface .",
+            "input": "dough",
+            "action": "remove",
+            "output": "dough"
+        },
+        {
+            "instructions": "roll dough to the size needed , very thin .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough to the size needed"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 cups water, 85-90 degrees (12.6 oz.)"
+        },
+        {
+            "text": "1 tablespoon water"
+        },
+        {
+            "text": "1 teaspoon water"
+        },
+        {
+            "text": "1 teaspoon honey or 1 teaspoon sugar"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 cups all-purpose flour (10.5 oz)"
+        },
+        {
+            "text": "2 cups whole wheat flour (10.5 oz)"
+        },
+        {
+            "text": "2 teaspoons yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Add ingredients in the order given into the bread machine pan."
+        },
+        {
+            "text": "Start dough cycle."
+        },
+        {
+            "text": "Once the dough is done, remove it from the pan onto a floured work surface."
+        },
+        {
+            "text": "If you are not ready to roll it out it can be stored in the fridge."
+        },
+        {
+            "text": "Roll dough to the size needed, VERY THIN."
+        },
+        {
+            "text": "Keep your surface and rolling pin well floured."
+        },
+        {
+            "text": "If the dough is wet it will absorb the flour."
+        },
+        {
+            "text": "Humidity and temperature can affect the amount of flour needed in the rolling."
+        },
+        {
+            "text": "Dough for 6\" - 1.25 oz 10\" - 3.5 oz."
+        }
+    ]
+}

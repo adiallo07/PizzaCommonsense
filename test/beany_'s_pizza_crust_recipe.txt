@@ -1,0 +1,136 @@
+{
+    "title": "beany_'s_pizza_crust_recipe",
+    "id": "8558828171",
+    "table": [
+        {
+            "instructions": "soften yeast in lukewarm water .",
+            "input": "(yeast; lukewarm water)",
+            "actions": "soften",
+            "output": "softened_yeast_in_water"
+        },
+        {
+            "instructions": "add in fructose , salt , shortening and boiling_water in a large bowl",
+            "input": "(fructose; salt; shortening; boiling water)",
+            "actions": "add",
+            "output": "water and shortening mixture"
+        },
+        {
+            "instructions": "stir till dissolved .",
+            "input": "water and shortening mixture",
+            "actions": "stir",
+            "output": "dissolved water and shortening mixture"
+        },
+        {
+            "instructions": "add in yeast .",
+            "input": "(dissolved water and shortening mixture; yeast)",
+            "actions": "add",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "add in about half of the flour",
+            "input": "(yeast mixture; flour)",
+            "actions": "add",
+            "output": "flour in yeast mixture"
+        },
+        {
+            "instructions": "beat till smooth .",
+            "input": "flour in yeast mixture",
+            "actions": "beat",
+            "output": "dough"
+        },
+        {
+            "instructions": "add in sufficient remaining flour to give a soft dough .",
+            "input": "(dough; flour)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead on lightly floured board till smooth .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "let rise , till doubled in bulk ,",
+            "input": "kneaded dough",
+            "actions": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "divide",
+            "input": "risen dough",
+            "actions": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "pat out into individual pizzas .",
+            "input": "divided dough",
+            "actions": "pat",
+            "output": "patted dough"
+        },
+        {
+            "instructions": "oil",
+            "input": "(patted dough; oil)",
+            "actions": "oil",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "partially bake .",
+            "input": "oiled dough",
+            "actions": "bake",
+            "output": "pizza crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cake yeast"
+        },
+        {
+            "text": "1 teaspoon fructose"
+        },
+        {
+            "text": "2 tbsp. shortening"
+        },
+        {
+            "text": "6 c. unbleached white flour"
+        },
+        {
+            "text": "1/4 c. lukewarm water"
+        },
+        {
+            "text": "2 teaspoon salt"
+        },
+        {
+            "text": "2 c. boiling water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Soften yeast in lukewarm water."
+        },
+        {
+            "text": "Add in fructose, salt, shortening and boiling water in a large bowl and stir till dissolved."
+        },
+        {
+            "text": "Cold till lukewarm."
+        },
+        {
+            "text": "Add in yeast."
+        },
+        {
+            "text": "Add in about half of the flour and beat till smooth."
+        },
+        {
+            "text": "Add in sufficient remaining flour to give a soft dough."
+        },
+        {
+            "text": "Knead on lightly floured board till smooth."
+        },
+        {
+            "text": "Let rise, till doubled in bulk, then divide and pat out into individual pizzas."
+        },
+        {
+            "text": "Oil and partially bake."
+        }
+    ]
+}

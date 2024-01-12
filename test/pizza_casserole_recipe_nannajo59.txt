@@ -1,0 +1,166 @@
+{
+    "title": "pizza_casserole_recipe_nannajo59",
+    "id": "cff3135e01",
+    "table": [
+        {
+            "instructions": "combine ground_beef , onion , green_pepper in a large pan .",
+            "input": "(green_pepper; ground_beef; onion)",
+            "action": "combine",
+            "output": "Ground beef, onion, green pepper mixture"
+        },
+        {
+            "instructions": "cook until meat is browned , stirring to crumble , drain fat .",
+            "input": "Ground beef, onion, green pepper mixture",
+            "action": "cook",
+            "output": "Browned beef mixture with fat drained"
+        },
+        {
+            "instructions": "add garlic_salt and the next 4 ingredients",
+            "input": "(Browned beef mixture with fat drained; garlic salt; pepper; dried basil; dried oregano; pizza sauce)",
+            "action": "add",
+            "output": "herbs, salt and pizza sauce added to Browned beef mixture"
+        },
+        {
+            "instructions": "stir well .",
+            "input": "herbs, salt and pizza sauce added to Browned beef mixture",
+            "action": "stir",
+            "output": "beef and pizza sauce mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "beef and pizza sauce mixture",
+            "action": "cover",
+            "output": "covered beef and pizza sauce mixture"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "covered beef and pizza sauce mixture",
+            "action": "reduce",
+            "output": "covered beef and pizza sauce mixture"
+        },
+        {
+            "instructions": "simmer 15 minutes .",
+            "input": "covered beef and pizza sauce mixture",
+            "action": "simmer",
+            "output": "cooked beef and pizza sauce mixture"
+        },
+        {
+            "instructions": "cook macaroni",
+            "input": "Macaroni",
+            "action": "cook",
+            "output": "Cooked macaroni"
+        },
+        {
+            "instructions": "drain",
+            "input": "Cooked macaroni",
+            "action": "drain",
+            "output": "Drained cooked macaroni"
+        },
+        {
+            "instructions": "add to meat mixture",
+            "input": "(cooked macaroni; cooked beef and pizza sauce mixture)",
+            "action": "add",
+            "output": "Combined macaroni and cooked beef and pizza sauce mixture"
+        },
+        {
+            "instructions": "stir well .",
+            "input": "Combined macaroni and cooked beef and pizza sauce mixture",
+            "action": "stir",
+            "output": "stirred pizza casserole mixture"
+        },
+        {
+            "instructions": "spoon into a 12 x 8 x 2 baking dish , top evenly with pepperoni .",
+            "input": "(stirred pizza casserole mixture; pepperoni)",
+            "action": "spoon",
+            "output": "pizza casserole mixture topped with peoperoni"
+        },
+        {
+            "instructions": "cover",
+            "input": "pizza casserole mixture topped with peoperoni",
+            "action": "cover",
+            "output": "covered pizza casserole mixture topped with peoperoni"
+        },
+        {
+            "instructions": "bake 350 for 20 minutes .",
+            "input": "covered pizza casserole mixture topped with peoperoni",
+            "action": "bake",
+            "output": "baked covered pizza casserole mixture topped with peoperoni"
+        },
+        {
+            "instructions": "remove cover",
+            "input": "baked covered pizza casserole mixture topped with peoperoni",
+            "action": "remove",
+            "output": "baked pizza casserole mixture topped with peoperoni"
+        },
+        {
+            "instructions": "top with cheese",
+            "input": "(baked pizza casserole mixture topped with peoperoni; cheese)",
+            "action": "top",
+            "output": "baked pizza casserole mixture topped with peoperoni topped with cheese"
+        },
+        {
+            "instructions": "bake 5 minutes more .",
+            "input": "baked pizza casserole mixture topped with peoperoni topped with cheese",
+            "action": "bake",
+            "output": "baked pizza casserole mixture topped with peoperoni topped with cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb. ground beef"
+        },
+        {
+            "text": "1 lg. onion & 1 green pepper (chopped)"
+        },
+        {
+            "text": "1/2 tsp. garlic salt"
+        },
+        {
+            "text": "1/4 tsp. pepper"
+        },
+        {
+            "text": "1/4 tsp. dried basil"
+        },
+        {
+            "text": "1/4 tsp. dried oregano"
+        },
+        {
+            "text": "2 (14oz.) jars pizza sauce"
+        },
+        {
+            "text": "1 (16oz.) pkg. elbow macaroni"
+        },
+        {
+            "text": "1 (3-1/2oz.) pkg. sliced pepperoni"
+        },
+        {
+            "text": "1 (4oz.) pkg. shredded mozz. cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine ground beef, onion, green pepper in a large pan."
+        },
+        {
+            "text": "Cook until meat is browned, stirring to crumble, drain fat."
+        },
+        {
+            "text": "Add garlic salt & the next 4 ingredients, stir well."
+        },
+        {
+            "text": "Cover, reduce heat & simmer 15 minutes."
+        },
+        {
+            "text": "Cook macaroni, drain, add to meat mixture, stir well."
+        },
+        {
+            "text": "Spoon into a 12 x 8 x 2 baking dish, top evenly with pepperoni."
+        },
+        {
+            "text": "Cover and bake @ 350* for 20 minutes."
+        },
+        {
+            "text": "Remove cover, top with cheese and bake 5 minutes more."
+        }
+    ]
+}

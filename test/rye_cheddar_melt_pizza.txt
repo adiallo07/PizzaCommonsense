@@ -1,0 +1,334 @@
+{
+    "title": "rye_cheddar_melt_pizza",
+    "id": "650d7a1763",
+    "table": [
+        {
+            "instructions": "in the bowl of an electric mixer , fitted with a dough hook , combine the yeast , sugar , and warm_water ;",
+            "input": "(yeast; sugar; warm_water)",
+            "actions": "combine",
+            "output": "(combined_yeast; sugar; warm_water)"
+        },
+        {
+            "instructions": "stir gently to dissolve .",
+            "input": "(combined_yeast; sugar; warm_water )",
+            "actions": "stir",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "turn the mixer on low",
+            "input": "yeast mixture",
+            "actions": "turn",
+            "output": "dissolved_yeast_mixture"
+        },
+        {
+            "instructions": "add the salt and 2 tablespoons of olive_oil .",
+            "input": "(dissolved_yeast_mixture; salt; olive_oil)",
+            "actions": "add",
+            "output": "oil and yeast mixture"
+        },
+        {
+            "instructions": "add the flour , a little at a time , mixing at the lowest speed until all the flour has been incorporated .",
+            "input": "(flour; oil and yeast mixture)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "get a feel for the dough by squeezing a small amount together if it 's crumbly",
+            "input": "dough",
+            "actions": "get",
+            "output": "crumbly dough"
+        },
+        {
+            "instructions": "add more water ;",
+            "input": "(crumbly dough; water)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "if it 's sticky , add more flour 1 tablespoon at a time .",
+            "input": "(sticky dough; flour)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix until the dough gathers into a ball",
+            "input": "dough",
+            "actions": "mix",
+            "output": "ball_of_dough"
+        },
+        {
+            "instructions": "this should take about 5 minutes",
+            "input": "NA",
+            "actions": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "put dough onto a floured surface",
+            "input": "ball_of_dough",
+            "actions": "put",
+            "output": "ball_of_dough"
+        },
+        {
+            "instructions": "fold four time roll into a ball",
+            "input": "ball_of_dough",
+            "actions": "fold",
+            "output": "folded dough"
+        },
+        {
+            "instructions": "rub 2 tablespoons olive_oil put into a bowl ;",
+            "input": "(folded dough; oil)",
+            "actions": "rub",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "cover with plastic for an hour",
+            "input": "oiled dough",
+            "actions": "cover",
+            "output": "covered oiled dough"
+        },
+        {
+            "instructions": "once the dough is domed and spongy , turn it out onto a lightly floured counter .",
+            "input": "risen dough",
+            "actions": "turn",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "roll",
+            "input": "risen dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "stretch the dough into a cylinder",
+            "input": "rolled_dough",
+            "actions": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "divide into 16 equal pieces .",
+            "input": "stretched_dough",
+            "actions": "divide",
+            "output": "divided_dough_pieces"
+        },
+        {
+            "instructions": "cover",
+            "input": "divided_dough_pieces",
+            "actions": "cover",
+            "output": "covered_dough_pieces"
+        },
+        {
+            "instructions": "preheat oven 450 fahrenheit",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix all the ingredients for the sauce",
+            "input": "sauce ingredients",
+            "actions": "mix",
+            "output": "sauce"
+        },
+        {
+            "instructions": "simmer till good and thick add more paste if to thin water if to tight",
+            "input": "sauce",
+            "actions": "simmer",
+            "output": "thickened_sauce"
+        },
+        {
+            "instructions": "brown the meats",
+            "input": "meats",
+            "actions": "brown",
+            "output": "browned_meats"
+        },
+        {
+            "instructions": "slice tomatoes and shallots",
+            "input": "(tomatoes; shallots)",
+            "actions": "slice",
+            "output": "sliced_tomatoes_and_shallots"
+        },
+        {
+            "instructions": "roll each ball out into a disc , or roll out",
+            "input": "covered_dough_pieces",
+            "actions": "roll",
+            "output": "rolled_dough_discs"
+        },
+        {
+            "instructions": "cut them out brush with olive_oil and butter mixture ;",
+            "input": "(covered_dough_pieces; oil and butter mixture)",
+            "actions": "cut",
+            "output": "cut_and_brush dough_with_olive_oil_and_butter_mixture"
+        },
+        {
+            "instructions": "add sauce toppings .",
+            "input": "dough_with_olive_oil_and_butter_mixture",
+            "actions": "add",
+            "output": "spread sauce_toppings_on_dough"
+        },
+        {
+            "instructions": "add cheddar",
+            "input": "pizza_base",
+            "actions": "add",
+            "output": "cheese_added to pizza base"
+        },
+        {
+            "instructions": "melt that cheesy goodness ;",
+            "input": "cheese_and_sauce_toppings melted",
+            "actions": "melt",
+            "output": "melted_cheese_and_toppings"
+        },
+        {
+            "instructions": "bake in oven 12 15 minutes serve hope you enjoy .",
+            "input": "melted_cheese_and_toppings",
+            "actions": "bake",
+            "output": "baked_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 cup whole wheat rye flour"
+        },
+        {
+            "text": "1 packages active dry yeast"
+        },
+        {
+            "text": "1 tsp sugar"
+        },
+        {
+            "text": "2 tsp kosher salt"
+        },
+        {
+            "text": "2 tbsp olive oil, extra virgin"
+        },
+        {
+            "text": "1 1/2 cup warm water"
+        },
+        {
+            "text": "2 tbsp olive oil, extra virgin"
+        },
+        {
+            "text": "1 large bowl"
+        },
+        {
+            "text": "1/3 lb ground meat"
+        },
+        {
+            "text": "1/2 lb summer sausage"
+        },
+        {
+            "text": "1 tsp tomato paste"
+        },
+        {
+            "text": "3 small barnetta tomatoes or plum tomatoes"
+        },
+        {
+            "text": "3 small shallots"
+        },
+        {
+            "text": "4 clove garlic sauteed"
+        },
+        {
+            "text": "1/4 cup chopped black olives"
+        },
+        {
+            "text": "1/4 cup chopped green olives"
+        },
+        {
+            "text": "3 1/2 cup shredded cheddar cheese"
+        },
+        {
+            "text": "1/2 cup mozzarella cheese shredded"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "3 tbsp milk powder"
+        },
+        {
+            "text": "29 oz tomato sauce"
+        },
+        {
+            "text": "1 tsp sweet basil"
+        },
+        {
+            "text": "1/4 tsp whole leaf oregano"
+        },
+        {
+            "text": "1/4 cup sugar"
+        },
+        {
+            "text": "1 1/2 tsp salt"
+        },
+        {
+            "text": "1 tsp granulated garlic powder"
+        },
+        {
+            "text": "1 pinch salt"
+        },
+        {
+            "text": "1/4 tsp granulated garlic powder"
+        },
+        {
+            "text": "1 stick butter, melted"
+        },
+        {
+            "text": "1/4 cup olive oil, extra virgin"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In the bowl of an electric mixer, fitted with a dough hook, combine the yeast, sugar, and warm water; stir gently to dissolve."
+        },
+        {
+            "text": "Let the mixture stand until the yeast comes alive and starts to foam, about 5 to 10 minutes"
+        },
+        {
+            "text": "Turn the mixer on low and add the salt and 2 tablespoons of olive oil."
+        },
+        {
+            "text": "Add the flour, a little at a time, mixing at the lowest speed until all the flour has been incorporated."
+        },
+        {
+            "text": "When the dough starts to come together, increase the speed to medium; stop the mixer periodically to scrape the dough off the hook."
+        },
+        {
+            "text": "Get a feel for the dough by squeezing a small amount together: if it's crumbly, add more water; if it's sticky, add more flour - 1 tablespoon at a time."
+        },
+        {
+            "text": "Mix until the dough gathers into a ball, this should take about 5 minutes"
+        },
+        {
+            "text": "Put dough onto a floured surface fold four time roll into a ball rub 2 tablespoons olive oil put into a bowl cover with plastic for an hour"
+        },
+        {
+            "text": "Once the dough is domed and spongy, turn it out onto a lightly floured counter."
+        },
+        {
+            "text": "Roll and stretch the dough into a cylinder and divide into 16 equal pieces."
+        },
+        {
+            "text": "Cover and let rest for 10 minutes so it will be easier to roll out"
+        },
+        {
+            "text": "Preheat oven 450 Fahrenheit"
+        },
+        {
+            "text": "Mix all the ingredients for the sauce and simmer till good and thick add more paste if to thin water if to tight"
+        },
+        {
+            "text": "Brown the meats slice tomatoes and shallots"
+        },
+        {
+            "text": "Cheddar melt: heat the milk get hot but not boiling add mozzarella and cheddar cheeses add powdered milk to thicken"
+        },
+        {
+            "text": "Roll each ball out into a disc, or roll out and cut them out brush with olive oil and butter mixture add sauce toppings."
+        },
+        {
+            "text": "add cheddar melt that cheesy goodness bake in oven 12 -15 minutes serve hope you enjoy."
+        },
+        {
+            "text": "Please note I didn't have enough room to make more small so I made a large communal pizza along with 12 individuals get 9 servings out of large"
+        }
+    ]
+}

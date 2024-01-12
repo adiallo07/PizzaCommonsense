@@ -1,0 +1,184 @@
+{
+    "title": "pizza_dough_and_white_sauce_recipe",
+    "id": "f9501eec77",
+    "table": [
+        {
+            "instructions": "put 1 cup of water in bowl",
+            "input": "water",
+            "actions": "put",
+            "output": "water"
+        },
+        {
+            "instructions": "mix in yeast , sugar and 2 tbl oil",
+            "input": "(yeast; sugar; oil)",
+            "actions": "mix",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "blend flour in until you form a ball",
+            "input": "(yeast mixture; flour)",
+            "actions": "blend",
+            "output": "dough"
+        },
+        {
+            "instructions": "chop the onion and garlic small",
+            "input": "(garlic; onion)",
+            "actions": "chop",
+            "output": "chopped onion and garlic"
+        },
+        {
+            "instructions": "saute them in a pan with the rest of your oil",
+            "input": "(oil; chopped onion and garlic)",
+            "actions": "saute",
+            "output": "sauteed onion and garlic"
+        },
+        {
+            "instructions": "when veggies are soft , mix in your milk and ricotta",
+            "input": "(sauteed onion and garlic; milk; ricotta)",
+            "actions": "mix",
+            "output": "white sauce"
+        },
+        {
+            "instructions": "add the parsley , black_pepper and oregano",
+            "input": "(white sauce; parsley; black pepper; oregano)",
+            "actions": "add",
+            "output": "parsley , black_pepper and oregano added to white sauce"
+        },
+        {
+            "instructions": "roll the dough out until you 're comfortable with it",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "roll dough out onto a pizza\u2012pan evenly",
+            "input": "rolled dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "roll up the crust to your preferred thickness",
+            "input": "rolled dough",
+            "actions": "roll",
+            "output": "rolled crust"
+        },
+        {
+            "instructions": "preheat the oven to 4",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "when the oven is heated up , cook the crust for 5 min .",
+            "input": "uncooked crust",
+            "actions": "cook",
+            "output": "cooked pizza crust"
+        },
+        {
+            "instructions": "when crust is done , spread white sauce in it evenly",
+            "input": "(cooked pizza crust; white sauce)",
+            "actions": "spread",
+            "output": "white sauce spread on cooked pizza crust"
+        },
+        {
+            "instructions": "top with your choice of toppings",
+            "input": "(toppings; white sauce pizza)",
+            "actions": "top",
+            "output": "white sauce pizza topped with toppings"
+        },
+        {
+            "instructions": "cook for another 20 30 min",
+            "input": "uncooked pizza",
+            "actions": "cook",
+            "output": "cooked white sauce pizza"
+        },
+        {
+            "instructions": "serve",
+            "input": "white sauce pizza",
+            "actions": "serve",
+            "output": "white sauce pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 1/2 cup Flour"
+        },
+        {
+            "text": "1 packages Yeast"
+        },
+        {
+            "text": "2 tbsp Olive oil"
+        },
+        {
+            "text": "1 tsp Sugar"
+        },
+        {
+            "text": "1/2 Onion"
+        },
+        {
+            "text": "4 clove Garlic"
+        },
+        {
+            "text": "3 tbsp Olive oil"
+        },
+        {
+            "text": "1 cup Milk"
+        },
+        {
+            "text": "1/2 cup Ricotta"
+        },
+        {
+            "text": "1 tsp Parsley"
+        },
+        {
+            "text": "1/2 tsp Oregano"
+        },
+        {
+            "text": "1/2 tsp Black pepper"
+        },
+        {
+            "text": "1 cup Water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put 1 cup of water in bowl and mix in yeast sugar and 2 tbl oil"
+        },
+        {
+            "text": "Blend flour in until you form a ball"
+        },
+        {
+            "text": "Let dough sit as you start the white sauce"
+        },
+        {
+            "text": "Chop the onion and garlic small and saute them in a pan with the rest of your oil"
+        },
+        {
+            "text": "When veggies are soft, mix in your milk and ricotta"
+        },
+        {
+            "text": "Add the parsley, black pepper and oregano"
+        },
+        {
+            "text": "As you let the sauce cool, roll the dough out until you're comfortable with it"
+        },
+        {
+            "text": "Roll dough out onto a pizza pan evenly"
+        },
+        {
+            "text": "Roll up the crust to your preferred thickness and preheat the oven to 425"
+        },
+        {
+            "text": "When the oven is heated up, cook the crust for 5 min."
+        },
+        {
+            "text": "When crust is done, spread white sauce in it evenly and top with your choice of toppings"
+        },
+        {
+            "text": "Cook for another 20-30 min and let cool"
+        },
+        {
+            "text": "Serve and enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "title": "florence_fabricant_'s_basic_pizza_dough",
+    "id": "c7c20993b0",
+    "table": [
+        {
+            "instructions": "dissolve yeast in water",
+            "input": "(yeast; water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "set aside for about 10 minutes .",
+            "input": "dissolved_yeast",
+            "action": "set",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "combine 3 14 cups of the flour and the salt in a bowl",
+            "input": "(flour; salt)",
+            "action": "combine",
+            "output": "Combined flour and salt."
+        },
+        {
+            "instructions": "add the yeast mixture and the olive_oil",
+            "input": "(Combined flour and salt; dissolved yeast mixture, olive_oil)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix until the ingredients cling together and can be gathered into a firm ball of dough .",
+            "input": "dough",
+            "action": "mix",
+            "output": "Ball of dough"
+        },
+        {
+            "instructions": "spread the remaining quarter cup of flour on a board or work surface",
+            "input": "NA",
+            "action": "spread",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the ball of dough on the flour",
+            "input": "Ball of dough",
+            "action": "place",
+            "output": "Ball of dough"
+        },
+        {
+            "instructions": "knead , incorporating the flour from the board until the dough is smooth and elastic , about 10 minutes .",
+            "input": "Ball of dough",
+            "action": "knead",
+            "output": "Kneaded ball of dough"
+        },
+        {
+            "instructions": "place dough in a lightly oiled bowl",
+            "input": "Kneaded ball of dough",
+            "action": "place",
+            "output": "Ball of dough in an oiled bowl"
+        },
+        {
+            "instructions": "cover",
+            "input": "Ball of dough in an oiled bowl",
+            "action": "cover",
+            "output": "Covered ball of dough in an oiled bowl"
+        },
+        {
+            "instructions": "set aside to rise until doubled , about one hour .",
+            "input": "Covered ball of dough in an oiled bowl",
+            "action": "set",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "punch dough down .",
+            "input": "risen dough",
+            "action": "punch",
+            "output": "punched down dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package dry yeast"
+        },
+        {
+            "text": "1 cup warm water (about 110 degrees)"
+        },
+        {
+            "text": "3 1/2 cups all-purpose flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve yeast in water and set aside for about 10 minutes."
+        },
+        {
+            "text": "Combine 3 1/4 cups of the flour and the salt in a bowl, add the yeast mixture and the olive oil and mix until the ingredients cling together and can be gathered into a firm ball of dough."
+        },
+        {
+            "text": "Spread the remaining quarter-cup of flour on a board or work surface, place the ball of dough on the flour and knead, incorporating the flour from the board until the dough is smooth and elastic, about 10 minutes."
+        },
+        {
+            "text": "Place dough in a lightly oiled bowl, cover and set aside to rise until doubled, about one hour."
+        },
+        {
+            "text": "Punch dough down."
+        },
+        {
+            "text": "Dough is now ready to use."
+        },
+        {
+            "text": "It may be stored, wrapped in plastic, in the refrigerator overnight if necessary."
+        },
+        {
+            "text": "It may also be frozen but should be thoroughly defrosted before using."
+        }
+    ]
+}

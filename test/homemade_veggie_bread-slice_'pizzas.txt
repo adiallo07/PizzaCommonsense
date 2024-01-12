@@ -1,0 +1,106 @@
+{
+    "title": "homemade_veggie_bread-slice_'pizzas",
+    "id": "b5f935f1bc",
+    "table": [
+        {
+            "instructions": "in a bowl , mix together the chopped_tomato , onion and bell_pepper .",
+            "input": "(chopped_tomato; onion; bell_pepper)",
+            "actions": "mix",
+            "output": "veggie mixture"
+        },
+        {
+            "instructions": "lay out the bread_slice on a platter",
+            "input": "bread_slice",
+            "actions": "lay",
+            "output": "bread_slice"
+        },
+        {
+            "instructions": "spread about 2 heaped teaspoons of salsa evenly on one side of each slice .",
+            "input": "(bread_slice; salsa)",
+            "actions": "spread",
+            "output": "spread_salsa_on_bread_slice"
+        },
+        {
+            "instructions": "top the slices with a sprinking of oregano about 12 teaspoon each .",
+            "input": "(bread_slice; oregano)",
+            "actions": "top",
+            "output": "bread_slice_topped_with_oregano"
+        },
+        {
+            "instructions": "spoon the veggie mixture over each slice of bread",
+            "input": "(veggie mixture; bread_slice)",
+            "actions": "spoon",
+            "output": "veggie_mixture_spooned_on_bread_slice"
+        },
+        {
+            "instructions": "top with 12 tablespoon of blanched corn over each slice , followed by an even and generous !",
+            "input": "(blanched corn; bread_slice)",
+            "actions": "top",
+            "output": "bread_slice_topped_with_blanched_corn"
+        },
+        {
+            "instructions": "toast the bread pizzas on the grilling rack of a preheated oven 300 degrees celcius for 5 8 minutes or until the bottoms of the bread_slice are lightly browned .",
+            "input": "bread_slice_with_toppings",
+            "actions": "toast",
+            "output": "bread_pizza"
+        },
+        {
+            "instructions": "serve eat hot ;",
+            "input": "bread_pizza",
+            "actions": "serve",
+            "output": "veggie_bread_slice_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 slices whole wheat bread"
+        },
+        {
+            "text": "12 cup salsa (I use a mild, vegetarian one)"
+        },
+        {
+            "text": "1 medium tomatoes, diced"
+        },
+        {
+            "text": "1 medium onion, finely chopped"
+        },
+        {
+            "text": "1 medium green bell pepper, diced"
+        },
+        {
+            "text": "3 tablespoons fresh corn kernels or 3 tablespoons frozen corn kernels, blanched"
+        },
+        {
+            "text": "12 cup cheddar cheese, grated"
+        },
+        {
+            "text": "oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a bowl, mix together the chopped tomatoes, onion and bell pepper."
+        },
+        {
+            "text": "Lay out the bread slices on a platter and spread about 2 heaped teaspoons of salsa evenly on one side of each slice."
+        },
+        {
+            "text": "Top the slices with a sprinking of oregano (about 1/2 teaspoon each)."
+        },
+        {
+            "text": "Spoon the veggie mixture over each slice of bread and ensure that the base of the bread is evenly covered, but not overloaded."
+        },
+        {
+            "text": "Top with 1/2 tablespoon of blanched corn over each slice, followed by an even (and generous!)"
+        },
+        {
+            "text": "sprinkling of grated cheese."
+        },
+        {
+            "text": "Toast the bread-pizzas on the grilling rack of a preheated oven (300 degrees Celcius) for 5-8 minutes or until the bottoms of the bread slices are lightly browned."
+        },
+        {
+            "text": "Serve/eat hot; enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "title": "jalapeno_popper_dip_pizza",
+    "id": "2833a877c3",
+    "table": [
+        {
+            "instructions": "make pizza_dough according to yeast packet , using flour , sugar , salt and oil as directed in the instructions .",
+            "input": "(flour; sugar; salt; oil; yeast)",
+            "action": "make",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "stretch into a circle shape on your pizza stone .",
+            "input": "pizza dough",
+            "action": "stretch",
+            "output": "stretched pizza dough"
+        },
+        {
+            "instructions": "bake for less then 10 minutes at 425 degrees f until starting to turn golden brown , but not quite done .",
+            "input": "pizza dough",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked pizza crust",
+            "action": "remove",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "seed",
+            "input": "jalapenos",
+            "action": "seed",
+            "output": "deseeded jalapenos"
+        },
+        {
+            "instructions": "slice jalapenos",
+            "input": "deseeded jalapenos",
+            "action": "slice",
+            "output": "sliced deseeded jalapenos"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sliced deseeded jalapenos",
+            "action": "set",
+            "output": "sliced deseeded jalapenos"
+        },
+        {
+            "instructions": "blend cream_cheese , sour_cream and mayo with green chilies , bacon and seasonings .",
+            "input": "(cream cheese; sour cream; mayo with green chilies, bacon, and seasonings)",
+            "action": "blend",
+            "output": "blended cheese, mayo and bacon mixture"
+        },
+        {
+            "instructions": "spread cream_cheese mixture all over the baked crust , leaving a 12 inch edge .",
+            "input": "(blended cheese, mayo and bacon mixture; baked crust)",
+            "action": "spread",
+            "output": "baked crust spread with blended cheese, mayo and bacon mixture"
+        },
+        {
+            "instructions": "top with colby jack and mozzarella_cheese and sliced jalapenos .",
+            "input": "(colby jack; mozzarella cheese; sliced deseeded jalapenoso; pizza crust with blended cheese, mayo and bacon mixture)",
+            "action": "top",
+            "output": "baked crust spread with blended cheese, mayo and bacon mixture, colby jack, mozzarella cheese and scliced jalapenos"
+        },
+        {
+            "instructions": "bake 5 minutes at 350 degrees f or until cheese is melted and crust is golden brown .",
+            "input": "uncooked jalapeno pizza",
+            "action": "bake",
+            "output": "baked jalapeno pizza"
+        },
+        {
+            "instructions": "remove pizza from oven",
+            "input": "baked jalapeno pizza",
+            "action": "remove",
+            "output": "baked jalapeno pizza"
+        },
+        {
+            "instructions": "add panko , bread_crumb and parmesan_cheese to the top .",
+            "input": "(panko; bread crumb; parmesan cheese; baked jalapeno pizza)",
+            "action": "add",
+            "output": "baked jalapeno pizza topped with panko, bread crumbs and parmesan"
+        },
+        {
+            "instructions": "broil 2 minutes or less ;",
+            "input": "baked jalapeno pizza topped with panko, bread crumbs and parmesan",
+            "action": "broil",
+            "output": "broiled jalapeno pizza topped with panko, bread crumbs and parmesan"
+        },
+        {
+            "instructions": "do nt walk away , it will burn fast !",
+            "input": "NA",
+            "action": "burn",
+            "output": "NA"
+        },
+        {
+            "instructions": "pizza must rest for 10 minutes before cutting , or you will have a runny mess .",
+            "input": "broiled jalapeno pizza topped with panko, bread crumbs and parmesan",
+            "action": "rest",
+            "output": "rested broiled jalapeno pizza topped with panko, bread crumbs and parmesan"
+        },
+        {
+            "instructions": "serve with a large green saladits rich !",
+            "input": "(green salad; rested broiled jalapeno pizza topped with panko, bread crumbs and parmesan)",
+            "action": "serve",
+            "output": "rested broiled jalapeno pizza topped with panko, bread crumbs and parmesan served with green salad"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 envelope (about 1/4 Oz. Size) Fleshman's Yeast Pizza Dough Packet"
+        },
+        {
+            "text": "Additional Ingredients For Pizza Dough According To Yeast Packet Instructions (typically Oil, Water, Flour, Salt, And Sugar)"
+        },
+        {
+            "text": "6 whole Jalapenos Seeded And Chopped"
+        },
+        {
+            "text": "8 ounces, weight Cream Cheese, Softened"
+        },
+        {
+            "text": "1/4 cups Sour Cream"
+        },
+        {
+            "text": "1/4 cups Mayonnaise"
+        },
+        {
+            "text": "4 ounces, weight Chopped Green Chilies"
+        },
+        {
+            "text": "1/2 cups Cooked And Crumbled Bacon"
+        },
+        {
+            "text": "2 teaspoons Garlic Powder"
+        },
+        {
+            "text": "1 teaspoon Salt"
+        },
+        {
+            "text": "1 pinch Chili Powder"
+        },
+        {
+            "text": "1/2 cups Colby Jack Cheese"
+        },
+        {
+            "text": "1 cup Mozzarella Cheese"
+        },
+        {
+            "text": "1/2 cups Panko Bread Crumbs"
+        },
+        {
+            "text": "1/2 cups Parmesan Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Make pizza dough according to yeast packet, using flour, sugar, salt and oil as directed in the instructions."
+        },
+        {
+            "text": "Stretch into a circle shape on your pizza stone."
+        },
+        {
+            "text": "Bake for less then 10 minutes at 425 degrees F until starting to turn golden brown, but not quite done."
+        },
+        {
+            "text": "Remove from oven and continue."
+        },
+        {
+            "text": "Seed and slice jalapenos and set aside."
+        },
+        {
+            "text": "Blend cream cheese, sour cream and mayo with green chilies, bacon and seasonings."
+        },
+        {
+            "text": "Spread cream cheese mixture all over the baked crust, leaving a 1/2 inch edge."
+        },
+        {
+            "text": "Top with Colby Jack and mozzarella cheeses and sliced jalapenos."
+        },
+        {
+            "text": "Bake 5 minutes at 350 degrees F or until cheese is melted and crust is golden brown."
+        },
+        {
+            "text": "Remove pizza from oven, add panko bread crumbs and Parmesan cheese to the top."
+        },
+        {
+            "text": "Broil 2 minutes or less; dont walk away, it will burn fast!"
+        },
+        {
+            "text": "We want those panko crumbs a gorgeous golden brown."
+        },
+        {
+            "text": "Pizza must rest for 10 minutes before cutting, or you will have a runny mess."
+        },
+        {
+            "text": "Serve with a large green saladits rich!"
+        }
+    ]
+}

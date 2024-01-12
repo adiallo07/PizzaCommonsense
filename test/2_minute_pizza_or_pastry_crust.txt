@@ -1,0 +1,85 @@
+{
+    "title": "2_minute_pizza_or_pastry_crust",
+    "id": "816867e2a9",
+    "table": [
+        {
+            "instructions": "put the ingredients in the specified order into a large bowl or other container with lid that can be sealed .",
+            "input": "ingredients",
+            "actions": "put",
+            "output": "ingredients"
+        },
+        {
+            "instructions": "close the lid",
+            "input": "NA",
+            "actions": "close",
+            "output": "NA"
+        },
+        {
+            "instructions": "shake hard from side to side 5 or 6 times , then up and down 5 or 6 6 times .",
+            "input": "ingredients",
+            "actions": "shake",
+            "output": "pastry"
+        },
+        {
+            "instructions": "use your fingers to pat the pastry into a pie plate or pizza\u2012pan .",
+            "input": "pastry",
+            "actions": "use",
+            "output": "patted_pastry"
+        },
+        {
+            "instructions": "add the rest of your ingredients",
+            "input": "(patted_pastry; remaining_ingredients)",
+            "actions": "add",
+            "output": "patted_pastry_with_added_remaining_ingredients"
+        },
+        {
+            "instructions": "bake .",
+            "input": "uncooked_pastry_crust",
+            "actions": "bake",
+            "output": "baked_pastry_crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "250 g all-purpose flour"
+        },
+        {
+            "text": "1 teaspoon baking soda"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "100 ml oil or 100 ml light cream"
+        },
+        {
+            "text": "100 ml hot water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put the ingredients in the specified order into a large bowl or other container with lid that can be sealed."
+        },
+        {
+            "text": "Close the lid then shake hard from side to side 5 or 6 times, then up and down 5 or 6 6 times."
+        },
+        {
+            "text": "That's it; it's ready!"
+        },
+        {
+            "text": "(You can also mix this in your food processor or with a beater, but it's less fun!"
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Use your fingers to pat the pastry into a pie plate or pizza pan."
+        },
+        {
+            "text": "Add the rest of your ingredients and bake."
+        },
+        {
+            "text": "NOTE: For a sweet pastry, replace the oil with melted butter and add 50 grams of sugar to the flour."
+        }
+    ]
+}

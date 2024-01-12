@@ -1,0 +1,133 @@
+{
+    "title": "chewy_pizza",
+    "id": "3f0e2e1e79",
+    "table": [
+        {
+            "instructions": "put all the ingredients except for the olive_oil in a bread maker or a food processor to make the dough .",
+            "input": "(bread flour; cake flour; sugar; salt; fry yeast; warm water)",
+            "action": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "divide in half ,",
+            "input": "dough",
+            "action": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "roll out into circles on parchment paper .",
+            "input": "dough",
+            "action": "roll",
+            "output": "halved dough portions"
+        },
+        {
+            "instructions": "preheat the oven for 200c .",
+            "input": "halved dough portions",
+            "action": "preheat",
+            "output": "flattened dough portions"
+        },
+        {
+            "instructions": "poke several holes with a fork so that the dough wo n't plump up while baking .",
+            "input": "flattened dough",
+            "action": "poke",
+            "output": "pierced dough"
+        },
+        {
+            "instructions": "top with your favourite toppings ,",
+            "input": "(pierced dough; toppings)",
+            "action": "top",
+            "output": "pierced pizza base with toppings"
+        },
+        {
+            "instructions": "brush with the olive_oil on the outer rim of the dough .",
+            "input": "(pizza base with toppings; olive oil)",
+            "action": "brush",
+            "output": "oiled rim of pizza base with toppings"
+        },
+        {
+            "instructions": "bake in the oven for 20 minutes at 200c ,",
+            "input": "oiled rim of pizza base with toppings",
+            "action": "bake",
+            "output": "baked dough with toppings"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "250 grams Bread flour"
+        },
+        {
+            "text": "50 grams Cake flour"
+        },
+        {
+            "text": "5 grams Sugar"
+        },
+        {
+            "text": "5 grams Salt"
+        },
+        {
+            "text": "4 grams Dry yeast"
+        },
+        {
+            "text": "200 grams Lukewarm water (40C)"
+        },
+        {
+            "text": "1 Olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put all the ingredients except for the olive oil in a bread maker or a food processor to make the dough."
+        },
+        {
+            "text": "It's easy to weigh the ingredients directly on a scale!"
+        },
+        {
+            "text": "Allow the dough to rise (1st rising) until doubled in size."
+        },
+        {
+            "text": "Refer to Step 9 for the rising method."
+        },
+        {
+            "text": "Divide in half, and roll out into circles on parchment paper."
+        },
+        {
+            "text": "Preheat the oven for 200C."
+        },
+        {
+            "text": "Poke several holes with a fork so that the dough won't plump up while baking."
+        },
+        {
+            "text": "Top with your favourite toppings, and brush with the olive oil on the outer rim of the dough."
+        },
+        {
+            "text": "Bake in the oven for 20 minutes at 200C, and done."
+        },
+        {
+            "text": "Mixed pizza: Onion, green pepper, corn, bacon, and pizza sauce."
+        },
+        {
+            "text": "Refer tofor the pizza sauce."
+        },
+        {
+            "text": "Sicilian-style pizza: Grilled eggplant, meat sauce."
+        },
+        {
+            "text": "Refer tofor the meat sauce."
+        },
+        {
+            "text": "Rising method #1: When it's sunny outside, sit the bowl near the window."
+        },
+        {
+            "text": "It will take longer, but the dough becomes fluffy."
+        },
+        {
+            "text": "Rising method #2: Allow the dough to rise in the steam."
+        },
+        {
+            "text": "It will also result in a fluffy dough."
+        },
+        {
+            "text": "Refer tofor details."
+        }
+    ]
+}

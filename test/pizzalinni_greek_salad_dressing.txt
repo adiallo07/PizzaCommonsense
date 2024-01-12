@@ -1,0 +1,88 @@
+{
+    "title": "pizzalinni_greek_salad_dressing",
+    "id": "dde5af10c6",
+    "table": [
+        {
+            "instructions": "in a food processor or blender , mix mustard , salt , egg , and vinegar .",
+            "input": "(mustard; salt; egg; vinegar)",
+            "actions": "mix",
+            "output": "(mixed_mustard; salt; egg; vinegar)"
+        },
+        {
+            "instructions": "add oil very slowly , beating constantly .",
+            "input": "(mustard_mixture; oil)",
+            "actions": "add",
+            "output": "mustard_and_oil_mixture"
+        },
+        {
+            "instructions": "add lemon_juice .",
+            "input": "(lemon_juice; mustard_and_oil_mixture)",
+            "actions": "add",
+            "output": "dressing"
+        },
+        {
+            "instructions": "refrigerate mixture .",
+            "input": "dressing",
+            "actions": "refrigerate",
+            "output": "refrigerated_dressing"
+        },
+        {
+            "instructions": "use a pasteurized egg .",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon Dijon mustard"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 large pasteurized egg"
+        },
+        {
+            "text": "1 14 cups light olive oil"
+        },
+        {
+            "text": "1 tablespoon white vinegar"
+        },
+        {
+            "text": "2 tablespoons lemon juice"
+        },
+        {
+            "text": "3 cloves garlic, finely minced or crushed"
+        },
+        {
+            "text": "1 tablespoon fresh oregano, finely chopped"
+        },
+        {
+            "text": "1 teaspoon Worcestershire sauce"
+        },
+        {
+            "text": "18 teaspoon freshly ground pepper (to taste)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a food processor or blender, mix mustard, salt, egg, and vinegar."
+        },
+        {
+            "text": "Add oil very slowly, beating constantly."
+        },
+        {
+            "text": "Add lemon juice."
+        },
+        {
+            "text": "Pulse in minced garlic, oregano, worcestershire sauce, and pepper."
+        },
+        {
+            "text": "Refrigerate mixture."
+        },
+        {
+            "text": "NOTE: The risk of illness is very low with raw eggs, but to be sure, use a pasteurized egg."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "title": "pizza_crust_bread_machine",
+    "id": "3009618429",
+    "table": [
+        {
+            "instructions": "when dough cycle is done , pat dough into greased 12x15 inch , jelly , roll pan .",
+            "input": "dough",
+            "action": "pat",
+            "output": "patted_dough"
+        },
+        {
+            "instructions": "prick dough with fork .",
+            "input": "patted_dough",
+            "action": "prick",
+            "output": "pricked pizza crust"
+        },
+        {
+            "instructions": "bake in preheated 400 degree oven for 7 minutes .",
+            "input": "uncooked pricked pizza crust",
+            "action": "bake",
+            "output": "baked pricked pizza crust"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked pizza crust",
+            "action": "remove",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "add desired toppings .",
+            "input": "(toppings; baked pizza crust)",
+            "action": "add",
+            "output": "toppings added to baked pizza crust"
+        },
+        {
+            "instructions": "baste crust edges with butter .",
+            "input": "(butter; uncooked pizza)",
+            "action": "baste",
+            "output": "uncooked pizza with buttered edges"
+        },
+        {
+            "instructions": "return to oven for 15 20 minutes or until cheese is melted and crust is done .",
+            "input": "uncooked pizza",
+            "action": "return",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup water, room temperature"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "3 cups all-purpose flour"
+        },
+        {
+            "text": "12 teaspoon garlic powder"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 12 teaspoons active dry yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Layer in bread pan according to manufacturer's recommendations."
+        },
+        {
+            "text": "Select'dough' setting."
+        },
+        {
+            "text": "When dough cycle is done, pat dough into greased 12x15-inch jelly roll pan."
+        },
+        {
+            "text": "Prick dough with fork."
+        },
+        {
+            "text": "Bake in preheated 400 degree oven for 7 minutes."
+        },
+        {
+            "text": "Remove from oven and add desired toppings."
+        },
+        {
+            "text": "Baste crust edges with butter."
+        },
+        {
+            "text": "Return to oven for 15-20 minutes or until cheese is melted and crust is done."
+        }
+    ]
+}

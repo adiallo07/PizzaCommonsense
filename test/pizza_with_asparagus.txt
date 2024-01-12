@@ -1,0 +1,265 @@
+{
+    "title": "pizza_with_asparagus",
+    "id": "6ac7420423",
+    "table": [
+        {
+            "instructions": "dissolve yeast and sugar in water",
+            "input": "(yeast; sugar; water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast mixture in water"
+        },
+        {
+            "instructions": "set aside to proof for about five minutes .",
+            "input": "dissolved_yeast mixture in water",
+            "action": "set",
+            "output": "proofed dissolved_yeast mixture in water"
+        },
+        {
+            "instructions": "pour yeast mixture into a bowl",
+            "input": "yeast mixture",
+            "action": "pour",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "add salt , olive_oil , pepper and two cups of flour .",
+            "input": "(yeast mixture; salt; olive_oil; pepper; flour)",
+            "action": "add",
+            "output": "sticky dough"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "sticky dough",
+            "action": "mix",
+            "output": "sticky dough"
+        },
+        {
+            "instructions": "add some of the remaining flour , in two or three portions , until the dough begins to leave the sides of the bowl .",
+            "input": "(remaining flour; sticky dough)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "dust a work surface with some of the remaining flour",
+            "input": "dough",
+            "action": "dust",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn the dough out onto it .",
+            "input": "dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead until it is very smooth and elastic , kneading in additional flour as necessary .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place the dough in a large lightly oiled bowl .",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "turn the dough to oil the top",
+            "input": "kneaded dough",
+            "action": "turn",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "cover loosely",
+            "input": "oiled dough",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "punch the dough down .",
+            "input": "risen dough",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "preheat oven to 425 degrees",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place oven rack in the lowest position .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "dust a lightly oiled baking sheet or pizza stone with cornmeal .",
+            "input": "NA",
+            "action": "dust",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide the dough into four portions",
+            "input": "punched down dough",
+            "action": "divide",
+            "output": "divided dough in four portions"
+        },
+        {
+            "instructions": "roll or stretch each to form an eight inch circle , leaving a thicker border .",
+            "input": "divided dough in four portions",
+            "action": "roll",
+            "output": "rolled circle of dough"
+        },
+        {
+            "instructions": "snap off the bottom ends of the asparagus",
+            "input": "asparagus",
+            "action": "snap",
+            "output": "asparagus without bottom end"
+        },
+        {
+            "instructions": "peel the bottom half of each .",
+            "input": "asparagus without bottom end",
+            "action": "peel",
+            "output": "peeled bottom half of asparagus"
+        },
+        {
+            "instructions": "slice each asparagus in half lengthwise ,",
+            "input": "peeled bottom half of asparagus",
+            "action": "slice",
+            "output": "sliced asparagus lengthwise"
+        },
+        {
+            "instructions": "cut each piece in half .",
+            "input": "sliced asparagus lengthwise",
+            "action": "cut",
+            "output": "sliced asparagus lengthwise anf cut in half"
+        },
+        {
+            "instructions": "sprinkle the mozzarella_cheese over the circles of dough ,",
+            "input": "(circles of dough; mozzarella cheese)",
+            "action": "sprinkle",
+            "output": "mozzarella cheese sprinkled on circles of dough"
+        },
+        {
+            "instructions": "arrange the asparagus pieces , cut side down , in a pattern on each .",
+            "input": "(sliced asparagus lengthwise anf cut in half; circles of dough with mozzarella cheese)",
+            "action": "arrange",
+            "output": "sliced asparagus lengthwise anf cut in half arrange on circles of dough with mozzarella cheese"
+        },
+        {
+            "instructions": "sprinkle with fontina and gorgonzola .",
+            "input": "(fontina; gorgonzola; circles of dough with mozzarella cheese and asparagus pieces)",
+            "action": "sprinkle",
+            "output": "circles of dough with mozzarella cheese, fontina, gorgonzola and asparagus pieces"
+        },
+        {
+            "instructions": "bake pizzas about 15 minutes , until the crust is lightly browned and the cheese is bubbling .",
+            "input": "uncooked pizza_with_asparagus",
+            "action": "bake",
+            "output": "baked pizza_with_asparagus"
+        },
+        {
+            "instructions": "serve at once .",
+            "input": "baked pizza_with_asparagus",
+            "action": "serve",
+            "output": "baked pizza_with_asparagus ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package active dry yeast"
+        },
+        {
+            "text": "Pinch of sugar"
+        },
+        {
+            "text": "cup warm water"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "Freshly ground black pepper"
+        },
+        {
+            "text": "3 cups all-purpose or bread flour (approximately)"
+        },
+        {
+            "text": "Cornmeal"
+        },
+        {
+            "text": "8 medium asparagus"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "1/2 cup shredded Italian Fontina cheese"
+        },
+        {
+            "text": "1/4 cup crumbled Gorgonzola cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve yeast and sugar in water and set aside to proof for about five minutes."
+        },
+        {
+            "text": "Pour yeast mixture into a bowl, add salt, olive oil, pepper and two cups of flour."
+        },
+        {
+            "text": "Mix well."
+        },
+        {
+            "text": "Add some of the remaining flour, in two or three portions, until the dough begins to leave the sides of the bowl."
+        },
+        {
+            "text": "You should have some flour left."
+        },
+        {
+            "text": "Dust a work surface with some of the remaining flour and turn the dough out onto it."
+        },
+        {
+            "text": "Knead until it is very smooth and elastic, kneading in additional flour as necessary."
+        },
+        {
+            "text": "Place the dough in a large lightly oiled bowl."
+        },
+        {
+            "text": "Turn the dough to oil the top, cover loosely and allow to rise until doubled, about 1 hour at room temperature."
+        },
+        {
+            "text": "Punch the dough down."
+        },
+        {
+            "text": "Preheat oven to 425 degrees and place oven rack in the lowest position."
+        },
+        {
+            "text": "Dust a lightly oiled baking sheet or pizza stone with cornmeal."
+        },
+        {
+            "text": "Divide the dough into four portions and roll or stretch each to form an eight-inch circle, leaving a thicker border."
+        },
+        {
+            "text": "Snap off the bottom ends of the asparagus and peel the bottom half of each."
+        },
+        {
+            "text": "Slice each asparagus in half lengthwise, then cut each piece in half."
+        },
+        {
+            "text": "Sprinkle the mozzarella cheese over the circles of dough, then arrange the asparagus pieces, cut side down, in a pattern on each."
+        },
+        {
+            "text": "Sprinkle with Fontina and Gorgonzola."
+        },
+        {
+            "text": "Bake pizzas about 15 minutes, until the crust is lightly browned and the cheese is bubbling."
+        },
+        {
+            "text": "Serve at once."
+        }
+    ]
+}

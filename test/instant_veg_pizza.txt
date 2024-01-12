@@ -1,0 +1,139 @@
+{
+    "title": "instant_veg_pizza",
+    "id": "9c4330ccb8",
+    "table": [
+        {
+            "instructions": "heat a wok on medium flame .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "pour oil in it .",
+            "input": "oil",
+            "action": "pour",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "toss in the onion",
+            "input": "(onion; heated oil)",
+            "action": "toss",
+            "output": "tossed onion in heated oil"
+        },
+        {
+            "instructions": "saute for a minute .",
+            "input": "tossed onion in heated oil",
+            "action": "saute",
+            "output": "sauteed onion"
+        },
+        {
+            "instructions": "fold in the capsicum and tomatoes .",
+            "input": "(sauteed onion; capsicum; tomatoes)",
+            "action": "fold",
+            "output": "capsicum and tomatoes in sauteed onion"
+        },
+        {
+            "instructions": "once the veggies are half cooked , add chilli powder , chilli sauce , salt and olives .",
+            "input": "(capsicum and tomatoes in sauteed onion; chili powder; chili sauce; salt; olives)",
+            "action": "add",
+            "output": "spicy sauteed vegetables"
+        },
+        {
+            "instructions": "now grease the pizza base",
+            "input": "pizza base",
+            "action": "grease",
+            "output": "greased pizza base"
+        },
+        {
+            "instructions": "sprinkle the topping followed by the shredded_cheese on it .",
+            "input": "(greased pizza base; shredded cheese; spicy sauteed vegetables)",
+            "action": "sprinkle",
+            "output": "greased pizza base with spicy sauteed vegetables and shredded cheese"
+        },
+        {
+            "instructions": "bake at 200 c for 8 minutes .",
+            "input": "uncooked greased pizza base with spicy sauteed vegetables and shredded cheese",
+            "action": "bake",
+            "output": "baked spicy vegetable pizza"
+        },
+        {
+            "instructions": "serve hot with tomato_sauce .",
+            "input": "(baked spicy vegetable pizza; tomato sauce)",
+            "action": "serve",
+            "output": "baked spicy vegetable pizza serve immediately with tomato sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 prepared pizza crust"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "1 onion, sliced"
+        },
+        {
+            "text": "1 tomatoes, chopped evenly"
+        },
+        {
+            "text": "1 capsicum, chopped evenly"
+        },
+        {
+            "text": "5 -6 black olives, cut in rings"
+        },
+        {
+            "text": "10 -20 g mozzarella cheese, shredded"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "12 teaspoon chili powder"
+        },
+        {
+            "text": "3 drops chili sauce"
+        },
+        {
+            "text": "2 tablespoons tomato ketchup"
+        },
+        {
+            "text": "salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat a wok on medium flame."
+        },
+        {
+            "text": "Pour oil in it."
+        },
+        {
+            "text": "Toss in the onion and saute for a minute."
+        },
+        {
+            "text": "Fold in the capsicum and tomatoes."
+        },
+        {
+            "text": "Once the veggies are half cooked, add chilli powder, chilli sauce, salt and olives."
+        },
+        {
+            "text": "Now grease the pizza base thoroughly with butter."
+        },
+        {
+            "text": "Apply tomato ketchup over it."
+        },
+        {
+            "text": "Sprinkle the topping followed by the shredded cheese on it."
+        },
+        {
+            "text": "Bake at 200 C for 8 minutes."
+        },
+        {
+            "text": "Serve hot with tomato sauce."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "title": "applebee_'s_spinach_pizza_appetizer_recipe",
+    "id": "f994779515",
+    "table": [
+        {
+            "instructions": "combine all the ingredients in a small saucepan",
+            "input": "(ketchup; water; garlic powder; onion powder; pepper; salt; tabasco pepper sauce)",
+            "action": "combine",
+            "output": "sauce mixture"
+        },
+        {
+            "instructions": "cook over medium heat , stirring constantly , till the sauce begins to boil , 5 10 min .",
+            "input": "sauce mixture",
+            "action": "cook",
+            "output": "cooked sauce mixture"
+        },
+        {
+            "instructions": "remove the sauce from the heat .",
+            "input": "cooked sauce mixture",
+            "action": "remove",
+            "output": "cooked sauce mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "cooked sauce mixture",
+            "action": "cover",
+            "output": "covered_sauce"
+        },
+        {
+            "instructions": "pour into a covered container for storage in your refrigerator .",
+            "input": "covered_sauce",
+            "action": "pour",
+            "output": "refrigerated sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 c. ketchup"
+        },
+        {
+            "text": "2 tsp water"
+        },
+        {
+            "text": "1/4 tsp garlic pwdr"
+        },
+        {
+            "text": "1/4 tsp onion pwdr"
+        },
+        {
+            "text": "1/4 tsp pepper"
+        },
+        {
+            "text": "1/4 tsp salt"
+        },
+        {
+            "text": "1/2 tsp Tabasco pepper sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Combine all the ingredients in a small saucepan and cook over medium heat, stirring constantly, till the sauce begins to boil, 5 - 10 min."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Remove the sauce from the heat."
+        },
+        {
+            "text": "Cover and allow to cold."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Pour into a covered container for storage in your refrigerator."
+        },
+        {
+            "text": "Keeps for a month or possibly two."
+        },
+        {
+            "text": "Makes 1 c.."
+        }
+    ]
+}

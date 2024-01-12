@@ -1,0 +1,133 @@
+{
+    "title": "cauliflower_pizza",
+    "id": "165883794f",
+    "table": [
+        {
+            "instructions": "chop tomato , onion , and red_pepper .",
+            "input": "(tomato; onion; red_pepper)",
+            "actions": "chop",
+            "output": "chopped_tomato, onion and red pepper mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "chopped_tomato and red pepper mixture",
+            "actions": "set",
+            "output": "chopped_tomato and red pepper mixture"
+        },
+        {
+            "instructions": "steam cauliflower .",
+            "input": "cauliflower",
+            "actions": "steam",
+            "output": "steamed caulifower"
+        },
+        {
+            "instructions": "grate 1 cup full do n't pack it .",
+            "input": "steamed caulifower",
+            "actions": "grate",
+            "output": "grated steamed caulifower"
+        },
+        {
+            "instructions": "combine cauliflower , egg and 12 c of cheese in a bowl .",
+            "input": "(grated steamed caulifower; egg; cheese)",
+            "actions": "combine",
+            "output": "cauliflower mixture"
+        },
+        {
+            "instructions": "spread out on to parchment paper on a cookie sheet .",
+            "input": "cauliflower mixture",
+            "actions": "spread",
+            "output": "cauliflower pizza base"
+        },
+        {
+            "instructions": "sprinkle with oregano , basil , parsley , and kennel .",
+            "input": "(cauliflower pizza base; oregano; basil; parsley; kennel)",
+            "actions": "sprinkle",
+            "output": " oregano , basil , parsley , and kennel sprinkled over cauliflower pizza base"
+        },
+        {
+            "instructions": "bake at 450f for 12 15 minutes .",
+            "input": "uncooked cauliflower pizza base",
+            "actions": "bake",
+            "output": "baked cauliflower pizza base"
+        },
+        {
+            "instructions": "add tomato , onion , red_pepper , black_olive , and the rest of the cheese .",
+            "input": "(chopped_tomato, onion and red pepper mixture; black_olive; remaining cheese)",
+            "actions": "add",
+            "output": "baked cauliflower pizza base topped with chopped_tomato, onion and red pepper mixture, black_olive and remaining cheese"
+        },
+        {
+            "instructions": "broil until cheese melts and crust is crisp .",
+            "input": "baked cauliflower pizza base topped with chopped_tomato, onion and red pepper mixture, black_olive and remaining cheese",
+            "actions": "broil",
+            "output": "broiled cauliflower pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup cauliflower"
+        },
+        {
+            "text": "1 cup mozarella cheese"
+        },
+        {
+            "text": "1 tsp oregano"
+        },
+        {
+            "text": "2 tsp basil"
+        },
+        {
+            "text": "2 tsp parsley"
+        },
+        {
+            "text": "1/2 tsp fennel"
+        },
+        {
+            "text": "1 red pepper"
+        },
+        {
+            "text": "1/2 can black olives"
+        },
+        {
+            "text": "1 onion"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 tomato"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Chop tomato, onion, and red pepper."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Steam cauliflower."
+        },
+        {
+            "text": "Grate 1 cup full (don't pack it)."
+        },
+        {
+            "text": "Combine cauliflower, egg and 1/2 c of cheese in a bowl."
+        },
+        {
+            "text": "Spread out on to parchment paper on a cookie sheet."
+        },
+        {
+            "text": "Sprinkle with oregano, basil, parsley, and kennel."
+        },
+        {
+            "text": "Bake at 450F for 12 - 15 minutes."
+        },
+        {
+            "text": "Add tomato, onion, red pepper, black olives, and the rest of the cheese."
+        },
+        {
+            "text": "Broil until cheese melts and crust is crisp."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title": "pizza_poppers_2",
+    "id": "54c97988eb",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "separate biscuits on cutting board",
+            "input": "biscuits",
+            "action": "separate",
+            "output": "separated_biscuits"
+        },
+        {
+            "instructions": "flatten each biscuit with the palm of your hand .",
+            "input": "biscuits",
+            "action": "flatten",
+            "output": "flattened biscuits"
+        },
+        {
+            "instructions": "spread out about 12 teaspoons , pasta_sauce in center of each biscuit .",
+            "input": "(pasta sauce; biscuits)",
+            "action": "spread",
+            "output": "biscuits with pasta sauce spread"
+        },
+        {
+            "instructions": "place a slice of pepperoni and a chunk of string_cheese in sauce .",
+            "input": "(pepperoni; string cheese)",
+            "action": "place",
+            "output": "pepperoni and string cheese placed on sauced biscuit"
+        },
+        {
+            "instructions": "wrap dough around filling",
+            "input": "pepperoni and string cheese placed on sauced biscuit",
+            "action": "wrap",
+            "output": "sauced biscuit with pepperoni and string cheese wrapped"
+        },
+        {
+            "instructions": "pinch shut",
+            "input": "sauced biscuit with pepperoni and string cheese wrapped",
+            "action": "pinch",
+            "output": "sealed filled biscuits"
+        },
+        {
+            "instructions": "roll into a ball shape .",
+            "input": "sealed filled biscuits",
+            "action": "roll",
+            "output": "filled bicuit popper"
+        },
+        {
+            "instructions": "mix sesame_seed and oregano on plate",
+            "input": "(sesame seed; oregano)",
+            "action": "mix",
+            "output": "sesame and oregano mix"
+        },
+        {
+            "instructions": "sprinkle or roll each popper in sesame_seed mixture .",
+            "input": "(filled bicuit popper;  sesame seed mixture)",
+            "action": "sprinkle",
+            "output": "sesame seed mixture rolled popper"
+        },
+        {
+            "instructions": "arrange poppers on a baking sheet",
+            "input": "popper",
+            "action": "arrange",
+            "output": "uncooked popper arranged on baking sheet"
+        },
+        {
+            "instructions": "bake",
+            "input": "uncooked poppers",
+            "action": "bake",
+            "output": "baked poppers"
+        },
+        {
+            "instructions": "transfer to a wire rack to cool slightly before serving .",
+            "input": "baked pizza poppers",
+            "action": "transfer",
+            "output": "baked pizza poppers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) can refrigerated buttermilk biscuits"
+        },
+        {
+            "text": "2 tablespoons pasta sauce"
+        },
+        {
+            "text": "1 ounce pepperoni slice (optional)"
+        },
+        {
+            "text": "2 pieces mozzarella string cheese, each cut into 5 chunks"
+        },
+        {
+            "text": "2 tablespoons sesame seeds"
+        },
+        {
+            "text": "12 teaspoon oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375~."
+        },
+        {
+            "text": "Separate biscuits on cutting board and flatten each biscuit with the palm of your hand."
+        },
+        {
+            "text": "Spread out about 1/2 teaspoons pasta sauce in center of each biscuit."
+        },
+        {
+            "text": "Place a slice of pepperoni and a chunk of string cheese in sauce."
+        },
+        {
+            "text": "Wrap dough around filling and pinch shut and roll into a ball shape."
+        },
+        {
+            "text": "Mix sesame seeds and oregano on plate and sprinkle or roll each popper in sesame seed mixture."
+        },
+        {
+            "text": "Arrange poppers on a baking sheet and bake"
+        },
+        {
+            "text": "for 12 - 14 minutes, until golden."
+        },
+        {
+            "text": "Transfer to a wire rack to cool slightly before serving."
+        }
+    ]
+}

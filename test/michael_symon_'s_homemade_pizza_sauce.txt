@@ -1,0 +1,64 @@
+{
+    "title": "michael_symon_'s_homemade_pizza_sauce",
+    "id": "e82a2a41f5",
+    "table": [
+        {
+            "instructions": "combine the drained tomatoes , garlic , and dried herbs in a blender or food processor .",
+            "input": "(drained tomatoes; garlic; herbs)",
+            "action": "combine",
+            "output": "blended tomato sauce"
+        },
+        {
+            "instructions": "pour into a bowl",
+            "input": "blended tomato sauc",
+            "action": "pour",
+            "output": "blended tomato sauce"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(salt; pepper; blended tomato sauce)",
+            "action": "season",
+            "output": "seasoned tomato sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (15 ounce) can whole canned tomatoes (drained)"
+        },
+        {
+            "text": "2 garlic cloves (sliced)"
+        },
+        {
+            "text": "1 tablespoon dried oregano"
+        },
+        {
+            "text": "1 tablespoon dried basil"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "fresh ground black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine the drained tomatoes, garlic, and dried herbs in a blender or food processor."
+        },
+        {
+            "text": "Pulse until the desired consistency."
+        },
+        {
+            "text": "I like to leave this one a little bit course."
+        },
+        {
+            "text": "Pour into a bowl and season with salt and pepper."
+        },
+        {
+            "text": "*This is a raw pizza sauce, meant to be cooked on the pizza."
+        },
+        {
+            "text": "* ."
+        }
+    ]
+}

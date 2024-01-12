@@ -1,0 +1,85 @@
+{
+    "title": "cheats_pizza",
+    "id": "3d9edbb018",
+    "table": [
+        {
+            "instructions": "preheat oven to gas",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the bread on a clean baking tray .",
+            "input": "bread",
+            "action": "place",
+            "output": "bread"
+        },
+        {
+            "instructions": "spread with sauce your choice .",
+            "input": "(bread; sauce)",
+            "action": "spread",
+            "output": "Bread_with_sauce"
+        },
+        {
+            "instructions": "cover with grated cheese .",
+            "input": "(Bread_with_sauce; grated_cheese)",
+            "action": "cover",
+            "output": "Bread_with_sauce_and_cheese"
+        },
+        {
+            "instructions": "sprinkle with oregano .",
+            "input": "(Bread_with_sauce_and_cheese; oregano)",
+            "action": "sprinkle",
+            "output": "Bread_with_sauce, grated_cheese and oregano"
+        },
+        {
+            "instructions": "place into hot oven for about 10 minutes .",
+            "input": "Bread_with_sauce, grated_cheese and oregano",
+            "action": "place",
+            "output": "baked pizza bread"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 slices savory bread"
+        },
+        {
+            "text": "1 (400 g) jaritalian pasta sauce (your favorite) or 1 (400 g) jar tomato ketchup"
+        },
+        {
+            "text": "4 slices ham"
+        },
+        {
+            "text": "12 onion, sliced"
+        },
+        {
+            "text": "4 ounces cheese, grated"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to Gas 7."
+        },
+        {
+            "text": "Place the bread on a clean baking tray."
+        },
+        {
+            "text": "Spread with sauce (your choice)."
+        },
+        {
+            "text": "Cover with toppings (your choice) I use ham/onion because that's what my kids eat, but anything works."
+        },
+        {
+            "text": "Cover with grated cheese."
+        },
+        {
+            "text": "Sprinkle with oregano."
+        },
+        {
+            "text": "Place into hot oven for about 10 minutes."
+        }
+    ]
+}

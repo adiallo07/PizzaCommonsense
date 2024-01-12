@@ -1,0 +1,250 @@
+{
+    "title": "lavash_pizza_with_greens_baby_broccoli_and_mushrooms",
+    "id": "d98b1bb693",
+    "table": [
+        {
+            "instructions": "add the greens and the broccoli tops .",
+            "input": "(greens; broccoli tops)",
+            "action": "add",
+            "output": "greens and broccoli tops"
+        },
+        {
+            "instructions": "blanch for three minutes ,",
+            "input": "greens and broccoli tops",
+            "action": "blanch",
+            "output": "blanched greens and broccoli tops"
+        },
+        {
+            "instructions": "transfer to a bowl of ice_water",
+            "input": "(blanched greens and broccoli tops; iced water)",
+            "action": "transfer",
+            "output": "blanched greens and broccoli tops in iced water"
+        },
+        {
+            "instructions": "drain .",
+            "input": "blanched greens and broccoli tops in iced water",
+            "action": "drain",
+            "output": "drained greens and broccoli tops"
+        },
+        {
+            "instructions": "squeeze out excess water",
+            "input": "drained greens and broccoli tops",
+            "action": "squeeze",
+            "output": "dried out green and broccoli mixture"
+        },
+        {
+            "instructions": "chop .",
+            "input": "greens and broccoli mixture",
+            "action": "chop",
+            "output": "chopped greens and broccoli mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "greens and broccoli mixture",
+            "action": "set",
+            "output": "greens and broccoli mixture"
+        },
+        {
+            "instructions": "heat the oven to 375 degrees , preferably with a pizza stone in it .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat 1 tablespoon of the olive_oil over medium high heat in a large , heavy nonstick pan .",
+            "input": "olive oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "when the oil is hot , add the mushrooms .",
+            "input": "(heated oil; mushrooms)",
+            "action": "add",
+            "output": "mushrooms in heated oil"
+        },
+        {
+            "instructions": "cook , stirring or shaking often in the pan , for two minutes until they begin to soften .",
+            "input": "mushrooms in heated oil",
+            "action": "cook",
+            "output": "softened mushrooms"
+        },
+        {
+            "instructions": "add the garlic and rosemary , and salt and pepper to taste .",
+            "input": "(garlic; rosemary; salt; pepper; softened mushrooms)",
+            "action": "add",
+            "output": "softened mushrooms with garlic, rosemary, salt, pepper"
+        },
+        {
+            "instructions": "cook , stirring , for another 30 seconds to a minute until fragrant .",
+            "input": "softened mushrooms with garlic, rosemary, salt, pepper",
+            "action": "cook",
+            "output": "cooked mushroom mixture"
+        },
+        {
+            "instructions": "add the greens",
+            "input": "(greens; cooked mushroom mixture)",
+            "action": "add",
+            "output": "greens and mushroom mixture"
+        },
+        {
+            "instructions": "stir together for a minute",
+            "input": "greens and mushroom mixture",
+            "action": "stir",
+            "output": "stirred greens and mushroom mixture"
+        },
+        {
+            "instructions": "remove from the heat .",
+            "input": "greens and mushroom mixture",
+            "action": "remove",
+            "output": "greens and mushroom mixture"
+        },
+        {
+            "instructions": "season the mixture to taste with salt and pepper .",
+            "input": "(salt; pepper; greens and mushroom mixture)",
+            "action": "season",
+            "output": "seasoned greens and mushroom mixture"
+        },
+        {
+            "instructions": "place the lavash on a baking sheet ,",
+            "input": "lavash",
+            "action": "place",
+            "output": "lavash"
+        },
+        {
+            "instructions": "sprinkle on the cheese in an even layer .",
+            "input": "(cheese; lavash)",
+            "action": "sprinkle",
+            "output": "lavash with sprinkled cheese on top"
+        },
+        {
+            "instructions": "top with the greens .",
+            "input": "(seasoned greens and mushroom mixture; lavash with cheese)",
+            "action": "top",
+            "output": "lavash with cheese and greens"
+        },
+        {
+            "instructions": "drizzle on the remaining olive_oil ,",
+            "input": "(remaining olive oil; lavash with cheese and greens mixture)",
+            "action": "drizzle",
+            "output": "drizzled olive oil on lavash with cheese and greens mixture"
+        },
+        {
+            "instructions": "place the pizza in the oven .",
+            "input": "uncooked lavash_pizza_with_greens_baby_broccoli_and_mushrooms",
+            "action": "place",
+            "output": "uncooked lavash_pizza_with_greens_baby_broccoli_and_mushrooms"
+        },
+        {
+            "instructions": "bake 10 to 15 minutes , or until the edges of the lavash are crisp",
+            "input": "uncooked lavash_pizza_with_greens_baby_broccoli_and_mushrooms",
+            "action": "bake",
+            "output": "baked lavash_pizza_with_greens_baby_broccoli_and_mushrooms"
+        },
+        {
+            "instructions": "remove from the heat",
+            "input": "baked lavash_pizza_with_greens_baby_broccoli_and_mushrooms",
+            "action": "remove",
+            "output": "baked lavash_pizza_with_greens_baby_broccoli_and_mushrooms"
+        },
+        {
+            "instructions": "cut in half or into squares",
+            "input": "baked lavash_pizza_with_greens_baby_broccoli_and_mushrooms",
+            "action": "cut",
+            "output": "sliced baked lavash_pizza_with_greens_baby_broccoli_and_mushrooms"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced baked lavash_pizza_with_greens_baby_broccoli_and_mushrooms",
+            "action": "serve",
+            "output": "sliced baked lavash_pizza_with_greens_baby_broccoli_and_mushrooms ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 pound sturdy greens (kale or collards, or a mix)"
+        },
+        {
+            "text": "1/4 pound baby broccoli tops"
+        },
+        {
+            "text": "2 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "1/4 pound mushrooms, sliced"
+        },
+        {
+            "text": "2 large garlic cloves, minced"
+        },
+        {
+            "text": "1 teaspoon minced fresh rosemary (optional)"
+        },
+        {
+            "text": "Salt"
+        },
+        {
+            "text": "freshly ground pepper"
+        },
+        {
+            "text": "1/2 cup, tightly packed (2 ounces) grated Gruyere or fontina cheese"
+        },
+        {
+            "text": "1 9-by-12-inch lavash"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Bring a large pot of generously salted water to a boil."
+        },
+        {
+            "text": "Add the greens and the broccoli tops."
+        },
+        {
+            "text": "Blanch for three minutes, then transfer to a bowl of ice water and drain."
+        },
+        {
+            "text": "Squeeze out excess water and chop."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Heat the oven to 375 degrees, preferably with a pizza stone in it."
+        },
+        {
+            "text": "Heat 1 tablespoon of the olive oil over medium-high heat in a large, heavy nonstick pan."
+        },
+        {
+            "text": "When the oil is hot, add the mushrooms."
+        },
+        {
+            "text": "Cook, stirring or shaking often in the pan, for two minutes until they begin to soften."
+        },
+        {
+            "text": "Add the garlic and rosemary, and salt and pepper to taste."
+        },
+        {
+            "text": "Cook, stirring, for another 30 seconds to a minute until fragrant."
+        },
+        {
+            "text": "Add the greens, stir together for a minute and remove from the heat."
+        },
+        {
+            "text": "Season the mixture to taste with salt and pepper."
+        },
+        {
+            "text": "Place the lavash on a baking sheet, and sprinkle on the cheese in an even layer."
+        },
+        {
+            "text": "Top with the greens."
+        },
+        {
+            "text": "Drizzle on the remaining olive oil, and place the pizza in the oven."
+        },
+        {
+            "text": "Bake 10 to 15 minutes, or until the edges of the lavash are crisp and browned."
+        },
+        {
+            "text": "Remove from the heat, cut in half or into squares and serve."
+        }
+    ]
+}

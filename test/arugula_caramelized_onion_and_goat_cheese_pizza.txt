@@ -1,0 +1,127 @@
+{
+    "title": "arugula_caramelized_onion_and_goat_cheese_pizza",
+    "id": "feb2f2a688",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the oil and onions in a medium skillet",
+            "input": "(oil; onions)",
+            "action": "put",
+            "output": "oil and onions"
+        },
+        {
+            "instructions": "cook over very low heat , stirring occasionally , until onions are soft and caramelized , about 15 minutes .",
+            "input": "oil and onions",
+            "action": "cook",
+            "output": "caramelized onions"
+        },
+        {
+            "instructions": "turn the heat up to medium",
+            "input": "caramelized onions",
+            "action": "turn",
+            "output": "caramelized onions"
+        },
+        {
+            "instructions": "add the arugula .",
+            "input": "caramelized onions; arugula",
+            "action": "add",
+            "output": "arugula added to caramelized onions"
+        },
+        {
+            "instructions": "cook until the arugula is wilted , about 1 minute .",
+            "input": "Arugula and caramelized onion",
+            "action": "cook",
+            "output": "wilted arugula and caramelized onions mixture"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "wilted arugula and caramelized onions mixture; salt; pepper",
+            "action": "season",
+            "output": "seasoned wilted arugula and caramelized onions mixture"
+        },
+        {
+            "instructions": "place the tortillas on a baking sheet",
+            "input": "tortillas",
+            "action": "place",
+            "output": "Tortillas placed on a baking sheet"
+        },
+        {
+            "instructions": "top each with some of the arugula onion mixture .",
+            "input": "Tortillas placed on a baking sheet; seasoned wilted arugula and caramelized onions mixture",
+            "action": "top",
+            "output": "Tortillas topped with seasoned wilted arugula and caramelized onions mixture"
+        },
+        {
+            "instructions": "crumble some goat_cheese on top of each ,",
+            "input": "Tortillas topped with seasoned wilted arugula and caramelized onions mixture; goat cheese",
+            "action": "crumble",
+            "output": "Tortillas topped with arugula-onion mixture and crumbled goat cheese"
+        },
+        {
+            "instructions": "bake for 10 minutes .",
+            "input": "Tortillas topped with arugula-onion mixture and crumbled goat cheese",
+            "action": "bake",
+            "output": "baked arugula_caramelized_onion_and_goat_cheese_pizza"
+        },
+        {
+            "instructions": "cut each pizza into 4 triangles .",
+            "input": "baked arugula_caramelized_onion_and_goat_cheese_pizza",
+            "action": "cut",
+            "output": "sliced baked arugula_caramelized_onion_and_goat_cheese_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 red onion, sliced"
+        },
+        {
+            "text": "3 cups arugula, washed, dried and coarsely chopped"
+        },
+        {
+            "text": "Salt"
+        },
+        {
+            "text": "Freshly ground black pepper"
+        },
+        {
+            "text": "4 whole-wheat tortillas, 6-inches in diameter"
+        },
+        {
+            "text": "2 ounces reduced-fat goat cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400 degrees F."
+        },
+        {
+            "text": "Put the oil and onions in a medium skillet and cook over very low heat, stirring occasionally, until onions are soft and caramelized, about 15 minutes."
+        },
+        {
+            "text": "Turn the heat up to medium and add the arugula."
+        },
+        {
+            "text": "Cook until the arugula is wilted, about 1 minute."
+        },
+        {
+            "text": "Season with salt and pepper."
+        },
+        {
+            "text": "Place the tortillas on a baking sheet and top each with some of the arugula/onion mixture."
+        },
+        {
+            "text": "Crumble some goat cheese on top of each, and bake for 10 minutes."
+        },
+        {
+            "text": "Allow to cool for a few minutes and cut each pizza into 4 triangles."
+        }
+    ]
+}

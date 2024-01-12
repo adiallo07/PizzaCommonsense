@@ -1,0 +1,97 @@
+{
+    "title": "bite_sized_pizza_recipe",
+    "id": "3d8515889a",
+    "table": [
+        {
+            "instructions": "roll biscuit_dough on floured surface into 4 inch circles .",
+            "input": "biscuit_dough",
+            "actions": "roll",
+            "output": "rolled_biscuit_dough"
+        },
+        {
+            "instructions": "place on baking sheet .",
+            "input": "NA",
+            "actions": "place",
+            "output": "Na"
+        },
+        {
+            "instructions": "spoon tomato_sauce onto dough .",
+            "input": "(tomato_sauce; rolled_biscuit_dough)",
+            "actions": "spoon",
+            "output": "tomato_sauce spooned onto dough"
+        },
+        {
+            "instructions": "sprinkle with oregano and garlic pwdr .",
+            "input": "(oregano; garlic powder)",
+            "actions": "sprinkle",
+            "output": "oregano and garlic powder sprinkled on dough with tomato sauce"
+        },
+        {
+            "instructions": "spread sausage over sauce .",
+            "input": "(sausage; dough with tomato sauce and seasonings)",
+            "actions": "spread",
+            "output": "sausage spread over the dough with tomato sauce and seasonings"
+        },
+        {
+            "instructions": "sprinkle cheese over top .",
+            "input": "(dough with tomato sauce and sausage; cheese)",
+            "actions": "sprinkle",
+            "output": "Cheese sprinkled over top of dough with tomato sauce and sausage"
+        },
+        {
+            "instructions": "bake at 425 degrees for 10 12 min .",
+            "input": "uncooked sausage pizza",
+            "actions": "bake",
+            "output": "baked sausage pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 recipe biscuit dough (your own favorite)"
+        },
+        {
+            "text": "Tomato sauce"
+        },
+        {
+            "text": "Oregano to taste"
+        },
+        {
+            "text": "Garlic pwdr to taste"
+        },
+        {
+            "text": "1/2 pound sausage, cooked & liquid removed"
+        },
+        {
+            "text": "1 c. grated mozzarella cheese"
+        },
+        {
+            "text": "Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll biscuit dough on floured surface into 4 inch circles."
+        },
+        {
+            "text": "Place on baking sheet."
+        },
+        {
+            "text": "Spoon tomato sauce onto dough."
+        },
+        {
+            "text": "Sprinkle with oregano and garlic pwdr."
+        },
+        {
+            "text": "Spread sausage over sauce."
+        },
+        {
+            "text": "Sprinkle cheese over top."
+        },
+        {
+            "text": "Bake at 425 degrees for 10-12 min."
+        },
+        {
+            "text": "Makes about 10."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "title": "chef_joey_'s_abm_pizza_crust",
+    "id": "2afe99aaef",
+    "table": [
+        {
+            "instructions": "measure the ingredients into the bread pan .",
+            "input": "ingredients",
+            "actions": "measure",
+            "output": "measured_ingredients"
+        },
+        {
+            "instructions": "use the dough setting .",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "when the dough is ready , remove from the pan",
+            "input": "measured_ingredients",
+            "actions": "remove",
+            "output": "dough"
+        },
+        {
+            "instructions": "set oven to 400'f .",
+            "input": "NA",
+            "actions": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "oil your pizza\u2012pan .",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the dough out",
+            "input": "dough",
+            "actions": "spread",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "add your favourite toppings .",
+            "input": "(pizza crust; toppings)",
+            "actions": "add",
+            "output": "toppings added to pizza crust"
+        },
+        {
+            "instructions": "bake for 15 20 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked pizza",
+            "actions": "remove",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "let sit for a few minutes .",
+            "input": "baked pizza",
+            "actions": "sit",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "2 cups white spelt flour"
+        },
+        {
+            "text": "1 cup sprouted spelt flour"
+        },
+        {
+            "text": "1 12 teaspoons yeast"
+        },
+        {
+            "text": "1 cup water (make sure this is not cold)"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "12 cup sun-dried tomato (not the oil packed kind and ground fine)"
+        },
+        {
+            "text": "1 tablespoon dried Italian herb seasoning"
+        },
+        {
+            "text": "1 teaspoon dried garlic granules"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Measure the ingredients into the bread pan."
+        },
+        {
+            "text": "Use the dough setting."
+        },
+        {
+            "text": "When the dough is ready, remove from the pan and kneed the dough on a lightly floured board for a few minutes."
+        },
+        {
+            "text": "Set oven to 400'F."
+        },
+        {
+            "text": "Oil your pizza pan."
+        },
+        {
+            "text": "Spread the dough out and add your favourite toppings."
+        },
+        {
+            "text": "Bake for 15-20 minutes."
+        },
+        {
+            "text": "Remove from oven, let sit for a few minutes."
+        },
+        {
+            "text": "Bon Appetit!"
+        }
+    ]
+}

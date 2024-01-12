@@ -1,0 +1,154 @@
+{
+    "title": "quick_deep_dish_pizza",
+    "id": "33302c34a9",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add ground_beef to a skillet",
+            "input": "ground_beef",
+            "action": "add",
+            "output": "ground_beef"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(ground_beef; salt; pepper)",
+            "action": "season",
+            "output": "Seasoned ground_beef"
+        },
+        {
+            "instructions": "cook , stirring often , until ground_beef is well browned .",
+            "input": "Seasoned ground_beef",
+            "action": "cook",
+            "output": "Cooked ground beef"
+        },
+        {
+            "instructions": "drain excess grease",
+            "input": "Cooked ground beef",
+            "action": "drain",
+            "output": "Drained ground beef"
+        },
+        {
+            "instructions": "add tomato_soup , undiluted , and seasonings , stirring until well combined ;",
+            "input": "(tomato soup; seasonings; Drained ground beef)",
+            "action": "add",
+            "output": "seasoned tomato sauce and ground beef mix"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "seasoned tomato sauce and ground beef mix",
+            "action": "remove",
+            "output": "seasoned tomato and meat mixture"
+        },
+        {
+            "instructions": "remove bread sticks from can",
+            "input": "can of breadticks",
+            "action": "remove",
+            "output": "breadsticks"
+        },
+        {
+            "instructions": "unroll",
+            "input": "breadsticks dough",
+            "action": "unroll",
+            "output": "unrolled dough"
+        },
+        {
+            "instructions": "press seams together to form a crust into the bottom of a 9 x 13 baking dish or equivalent .",
+            "input": "unrolled dough",
+            "action": "press",
+            "output": "Shaped pizza crust"
+        },
+        {
+            "instructions": "pour meat mixture over the crust , top with mozzarella_cheese , green_onion and olives .",
+            "input": "(Shaped pizza crust; seasoned tomato and meat mixture; mozzarella cheese; green onion; olives)",
+            "action": "pour",
+            "output": "pizza crust with seasoned tomato and meat mixture, mozzarella cheese, green onion and olives"
+        },
+        {
+            "instructions": "bake for 30 minutes or until crust is baked through and crispy on the bottom .",
+            "input": "Uncooked deep dish pizza",
+            "action": "bake",
+            "output": "baked deep dish pizza"
+        },
+        {
+            "instructions": "cool for two or three minutes in the pan before cutting and serving .",
+            "input": "baked deep dish pizza",
+            "action": "cool",
+            "output": "cooled baked deep dish pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1- 1/2 pound Ground Beef"
+        },
+        {
+            "text": "1 can (10 3/4-oz.) Condensed Tomato Soup"
+        },
+        {
+            "text": "1/2 teaspoons Granulated Garlic"
+        },
+        {
+            "text": "1/2 teaspoons Basil"
+        },
+        {
+            "text": "1/2 teaspoons Oregano"
+        },
+        {
+            "text": "1/2 teaspoons Salt"
+        },
+        {
+            "text": "1/4 teaspoons Black Pepper"
+        },
+        {
+            "text": "1 can (11 Oz. Can) Refrigerated Bread Stick Dough"
+        },
+        {
+            "text": "2 cups Mozzarella Cheese, Shredded"
+        },
+        {
+            "text": "4 whole Green Onions, Chopped"
+        },
+        {
+            "text": "1/4 cups Black Olives Sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees."
+        },
+        {
+            "text": "Add ground beef to a skillet and season with salt and pepper."
+        },
+        {
+            "text": "Cook, stirring often, until ground beef is well browned."
+        },
+        {
+            "text": "Drain excess grease and add tomato soup, undiluted, and seasonings, stirring until well combined; remove from heat."
+        },
+        {
+            "text": "Remove bread sticks from can, unroll and press seams together to form a crust into the bottom of a 9 x 13 baking dish (or equivalent)."
+        },
+        {
+            "text": "Pour meat mixture over the crust, top with mozzarella cheese, green onions and olives."
+        },
+        {
+            "text": "Bake for 30 minutes or until crust is baked through and crispy on the bottom."
+        },
+        {
+            "text": "Cool for two or three minutes in the pan before cutting and serving."
+        },
+        {
+            "text": "So easy and delicious!"
+        },
+        {
+            "text": "Enjoy!"
+        },
+        {
+            "text": "Miss"
+        }
+    ]
+}

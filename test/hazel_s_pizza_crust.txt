@@ -1,0 +1,136 @@
+{
+    "title": "hazel_s_pizza_crust",
+    "id": "150b5d0cd4",
+    "table": [
+        {
+            "instructions": "mix water , oil , and yeast together",
+            "input": "(water; oil; yeast)",
+            "actions": "mix",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "yeast mixture",
+            "actions": "set",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "mix flour , salt , and sugar in a large bowl .",
+            "input": "(flour; salt; sugar)",
+            "actions": "mix",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "add the water , oil , and , yeast mixture to the four , salt and sugar mix .",
+            "input": "(yeast mixture; flour mixture)",
+            "actions": "add",
+            "output": "yeast mixture added inot flour mixture"
+        },
+        {
+            "instructions": "mix well with a wooden spoon .",
+            "input": "yeast mixture added inot flour mixture",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "place the bowl in a cool oven , or other place with out a draft for about 2 hours .",
+            "input": "dough",
+            "actions": "place",
+            "output": "cooled dough"
+        },
+        {
+            "instructions": "then spread evenly thinly over a pizza\u2012pan .",
+            "input": "dough",
+            "actions": "spread",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spray with oil poke small holes in dough .",
+            "input": "(pizza_crust; oil)",
+            "actions": "spray",
+            "output": "oil sprayed over pizza crust"
+        },
+        {
+            "instructions": "then top with your choice of toppings .",
+            "input": "(toppings; oiled pizza crust)",
+            "actions": "top",
+            "output": "toppings on oiled pizza crust"
+        },
+        {
+            "instructions": "bake at 400f for 20 min .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "lay out like a pizza on a cookie sheet then to",
+            "input": "baked pizza",
+            "actions": "lay",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/3 cup warm water"
+        },
+        {
+            "text": "1/4 cup oil"
+        },
+        {
+            "text": "1 packages dry active yeast"
+        },
+        {
+            "text": "3 1/2 cup flour"
+        },
+        {
+            "text": "1 1/4 tsp salt"
+        },
+        {
+            "text": "3/4 tsp sugar"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix water, oil, and yeast together and set aside."
+        },
+        {
+            "text": "Mix flour, salt, and sugar in a large bowl."
+        },
+        {
+            "text": "Add the water, oil, and, yeast mixture to the four, salt and sugar mix."
+        },
+        {
+            "text": "Mix well with a wooden spoon."
+        },
+        {
+            "text": "Place the bowl in a cool oven, or other place with out a draft for about 2 hours."
+        },
+        {
+            "text": "Should double in size."
+        },
+        {
+            "text": "kneed gently (add flour or water if needed)."
+        },
+        {
+            "text": "Then spread evenly/thinly over a pizza pan."
+        },
+        {
+            "text": "Spray with oil poke small holes in dough."
+        },
+        {
+            "text": "Then top with your choice of toppings."
+        },
+        {
+            "text": "bake at 400F for 20 min."
+        },
+        {
+            "text": "left over dough can be used as bead sticks or cinnamon sticks."
+        },
+        {
+            "text": "lay out like a pizza on a cookie sheet then to with cheese and spice for bead sticks or cinnamon sugar and butter for cinnamon sticks."
+        },
+        {
+            "text": "Enjoy Hazel`s pizza dough"
+        }
+    ]
+}

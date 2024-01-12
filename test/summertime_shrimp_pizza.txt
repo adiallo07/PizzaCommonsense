@@ -1,0 +1,241 @@
+{
+    "title": "summertime_shrimp_pizza",
+    "id": "34b297eb5f",
+    "table": [
+        {
+            "instructions": "preheat oven to 500 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "if using a pizza stone , put it in the oven to preheat .",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "otherwise , use a baking sheet coated with cooking_spray .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat 12 teaspoon , olive_oil in a medium nonstick skillet ;",
+            "input": "olive oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "set over medium heat .",
+            "input": "heated olive oil",
+            "action": "set",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add zucchini",
+            "input": "(zucchini; heated olive oil)",
+            "action": "add",
+            "output": "zucchini in heated oil"
+        },
+        {
+            "instructions": "cook for 2 minutes .",
+            "input": "zucchini in heated oil",
+            "action": "cook",
+            "output": "cooked zucchini"
+        },
+        {
+            "instructions": "transfer to a plate .",
+            "input": "cooked zucchini",
+            "action": "transfer",
+            "output": "cooked zucchini"
+        },
+        {
+            "instructions": "add 12 teaspoon , olive_oil to the skillet .",
+            "input": "olive oil",
+            "action": "add",
+            "output": "olive oil in a skillet"
+        },
+        {
+            "instructions": "add shrimp",
+            "input": "shrimp",
+            "action": "add",
+            "output": "shrimp in olive oil"
+        },
+        {
+            "instructions": "cook for 1 minute , turning halfway through .",
+            "input": "uncooked shrimp",
+            "action": "cook",
+            "output": "cooked shrimp"
+        },
+        {
+            "instructions": "transfer to a plate .",
+            "input": "cooked shrimp",
+            "action": "transfer",
+            "output": "cooked shrimp"
+        },
+        {
+            "instructions": "cut corn_kernel off the cobs .",
+            "input": "corn kernel on the cob",
+            "action": "cut",
+            "output": "(cut corn kernel; cobs)"
+        },
+        {
+            "instructions": "discard the cobs .",
+            "input": "cobs",
+            "action": "discard",
+            "output": "discarded cobs"
+        },
+        {
+            "instructions": "dust counter with flour",
+            "input": "NA",
+            "action": "dust",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough .",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled out pizza dough"
+        },
+        {
+            "instructions": "transfer to a pizza peel dusted with cornmeal or to the prepared baking sheet .",
+            "input": "rolled out pizza dough",
+            "action": "transfer",
+            "output": "rolled out pizza dough"
+        },
+        {
+            "instructions": "brush dough with 1 tablespoon , olive_oil",
+            "input": "(olive oil; rolled out pizza dough)",
+            "action": "brush",
+            "output": "pizza dough brushed with olive oil"
+        },
+        {
+            "instructions": "sprinkle with salt , pepper and parmesan_cheese .",
+            "input": "(salt; pepper; parmesan cheese)",
+            "action": "sprinkle",
+            "output": "pizza dough with olive oil, salt, pepper and parmesan cheese"
+        },
+        {
+            "instructions": "top pizza_dough with zucchini , shrimp , corn and mozzarella_cheese .",
+            "input": "(cooked zucchini; cooked shrimp; cut corn kernel; mozzarella cheese; pizza dough with olive oil, salt, pepper and parmesan cheese)",
+            "action": "top",
+            "output": "seasoned pizza crust with cooked zucchini, cooked shrimps, cut corn kernel and mozzarella cheese"
+        },
+        {
+            "instructions": "bake until the cheese is bubbling and the crust is starting to brown , 78 minutes .",
+            "input": "seasoned pizza crust with cooked zucchini, cooked shrimps, cut corn kernel and mozzarella cheese",
+            "action": "bake",
+            "output": "baked zucchini, shrimp and corn pizza"
+        },
+        {
+            "instructions": "cut into 8 slices .",
+            "input": "baked zucchini, shrimp and corn pizza",
+            "action": "cut",
+            "output": "sliced baked zucchini, shrimp and corn pizza"
+        },
+        {
+            "instructions": "sprinkle the basil and parsley over top .",
+            "input": "(basil; parsley; baked zucchini, shrimp and corn pizza)",
+            "action": "sprinkle",
+            "output": "baked zucchini, shrimp and corn pizza garnished with basil and parsley"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked zucchini, shrimp and corn pizza garnished with basil and parsley",
+            "action": "serve",
+            "output": "baked zucchini, shrimp and corn pizza garnished with basil and parsley ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 teaspoons Olive Oil, Divided"
+        },
+        {
+            "text": "1 Small Zucchini Cut Into Half Circles"
+        },
+        {
+            "text": "2 ears Corn, Cooked"
+        },
+        {
+            "text": "1/2 pounds Shrimp, Peeled And Deveined, Cut In Half Lengthwise"
+        },
+        {
+            "text": "1 Batch Pre-made Or Homemade Pizza Dough"
+        },
+        {
+            "text": "1/2 teaspoons Salt"
+        },
+        {
+            "text": "1/2 teaspoons Ground Pepper"
+        },
+        {
+            "text": "1/4 cups Grated Parmesan Cheese"
+        },
+        {
+            "text": "1/2 cups Grated Mozzarella Cheese"
+        },
+        {
+            "text": "5 leaves Basil, Thinly Sliced"
+        },
+        {
+            "text": "2 Tablespoons Minced Flat-leaf Parsley"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500 degrees F. If using a pizza stone, put it in the oven to preheat."
+        },
+        {
+            "text": "Otherwise, use a baking sheet coated with cooking spray."
+        },
+        {
+            "text": "Heat 1/2 teaspoon olive oil in a medium nonstick skillet set over medium heat."
+        },
+        {
+            "text": "Add zucchini and cook for 2 minutes."
+        },
+        {
+            "text": "Transfer to a plate."
+        },
+        {
+            "text": "Increase heat to medium-high and add 1/2 teaspoon olive oil to the skillet."
+        },
+        {
+            "text": "Add shrimp and cook for 1 minute, turning halfway through."
+        },
+        {
+            "text": "Transfer to a plate."
+        },
+        {
+            "text": "Cut corn kernels off the cobs."
+        },
+        {
+            "text": "Discard the cobs."
+        },
+        {
+            "text": "Dust counter with flour and roll out pizza dough."
+        },
+        {
+            "text": "Transfer to a pizza peel dusted with cornmeal or to the prepared baking sheet."
+        },
+        {
+            "text": "Brush dough with 1 tablespoon olive oil and sprinkle with salt, pepper and Parmesan cheese."
+        },
+        {
+            "text": "Top pizza dough with zucchini, shrimp, corn and mozzarella cheese."
+        },
+        {
+            "text": "Bake until the cheese is bubbling and the crust is starting to brown, 78 minutes."
+        },
+        {
+            "text": "Let pizza rest for 5 minutes, then cut into 8 slices."
+        },
+        {
+            "text": "Sprinkle the basil and parsley over top."
+        },
+        {
+            "text": "Serve."
+        }
+    ]
+}

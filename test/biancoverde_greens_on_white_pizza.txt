@@ -1,0 +1,148 @@
+{
+    "title": "biancoverde_greens_on_white_pizza",
+    "id": "aa7ba405d1",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the pizza_crust with the garlic_paste ,",
+            "input": "(pizza_crust; garlic paste)",
+            "action": "spread",
+            "output": "pizza_crust with spread garlic paste"
+        },
+        {
+            "instructions": "top with the mozzarella and asiago ,",
+            "input": "(Mozzarella; asiago; pizza_crust with spread garlic paste)",
+            "action": "top",
+            "output": "pizza_crust with spread garlic paste, mozzarella and asiago"
+        },
+        {
+            "instructions": "spoon dollops of the ricotta over all .",
+            "input": "(Ricotta; pizza_crust with spread garlic paste, mozzarella and asiago)",
+            "action": "spoon",
+            "output": "pizza_crust with spread garlic paste, mozzarella, asiago and ricotta"
+        },
+        {
+            "instructions": "bake for 10 12 minutes or until cheese is melted .",
+            "input": "uncooked pizza_crust with spread garlic paste, mozzarella, asiago and ricotta",
+            "action": "bake",
+            "output": "baked cheese pizza"
+        },
+        {
+            "instructions": "remove from the oven .",
+            "input": "baked cheese pizza",
+            "action": "remove",
+            "output": "baked cheese pizza"
+        },
+        {
+            "instructions": "drizzle the arugula lightly with olive_oil",
+            "input": "(Olive oil; arugula)",
+            "action": "drizzle",
+            "output": "Arugula drizzled with olive oil"
+        },
+        {
+            "instructions": "toss ,",
+            "input": "Arugula drizzled with olive oil",
+            "action": "toss",
+            "output": "tossed arugula salad"
+        },
+        {
+            "instructions": "place immediately on top of pizza .",
+            "input": "(tossed arugula salad; baked cheese pizza)",
+            "action": "place",
+            "output": "cheese pizza topped with arugula salad"
+        },
+        {
+            "instructions": "return to the oven for one minute only , just for the heat to wilt the arugula .",
+            "input": "cheese pizza topped with arugula salad",
+            "action": "return",
+            "output": "twice baked cheese pizza topped with arugula salad"
+        },
+        {
+            "instructions": "drizzle the truffle_oil over the top",
+            "input": "(truffle oil; twice baked cheese pizza topped with arugula salad)",
+            "action": "drizzle",
+            "output": "twice baked cheese pizza topped with arugula salad drizzled with truffle oil"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(salt; pepper; twice baked cheese pizza topped with arugula salad and truffle oil)",
+            "action": "season",
+            "output": "twice baked cheese pizza topped with arugula salad and truffle oil seasoned with salt and pepper"
+        },
+        {
+            "instructions": "slice",
+            "input": "twice baked cheese pizza topped with arugula salad and truffle oil seasoned with salt and pepper",
+            "action": "slice",
+            "output": "sliced twice baked cheese pizza topped with arugula salad and truffle oil seasoned with salt and pepper"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "sliced twice baked cheese pizza topped with arugula salad and truffle oil",
+            "action": "serve",
+            "output": "served sliced twice baked cheese pizza topped with arugula salad and truffle oil"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 prepared pizza crust"
+        },
+        {
+            "text": "12 cup roasted garlic paste (See Roasted Garlic Paste)"
+        },
+        {
+            "text": "23 cup grated mozzarella cheese"
+        },
+        {
+            "text": "23 cup grated asiago cheese"
+        },
+        {
+            "text": "23 cup part-skim ricotta cheese"
+        },
+        {
+            "text": "1 -2 teaspoon white truffle oil"
+        },
+        {
+            "text": "1 cup fresh arugula (ideally baby arugula)"
+        },
+        {
+            "text": "1 teaspoon olive oil (or more)"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "fresh ground pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "Spread the pizza crust with the garlic paste, then top with the mozzarella and Asiago, and spoon dollops of the ricotta over all."
+        },
+        {
+            "text": "Bake for 10-12 minutes or until cheese is melted."
+        },
+        {
+            "text": "Remove from the oven."
+        },
+        {
+            "text": "Drizzle the arugula lightly with olive oil and toss, then place immediately on top of pizza."
+        },
+        {
+            "text": "Return to the oven for one minute only, just for the heat to wilt the arugula."
+        },
+        {
+            "text": "Drizzle the truffle oil over the top and season with salt and pepper."
+        },
+        {
+            "text": "Slice and serve immediately."
+        }
+    ]
+}

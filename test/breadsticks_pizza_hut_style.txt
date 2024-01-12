@@ -1,0 +1,145 @@
+{
+    "title": "breadsticks_pizza_hut_style",
+    "id": "754d9911e0",
+    "table": [
+        {
+            "instructions": "add the dough ingredients to the bread machine in the order given ,",
+            "input": "(warm water; olive oil; flour; salt; yeast; dry milk powder)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "set to first rise .",
+            "input": "dough",
+            "action": "set",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "when this has finished , roll the dough out into a rectangle which is 12 34 inch thick .",
+            "input": "risen dough",
+            "action": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "with a pizza cutter , cut the dough into 1x4 inch strips .",
+            "input": "rolled_dough",
+            "action": "cut",
+            "output": "raw_breadsticks"
+        },
+        {
+            "instructions": "place on greased cookie sheets",
+            "input": "raw_breadsticks",
+            "action": "place",
+            "output": "raw_breadsticks"
+        },
+        {
+            "instructions": "meanwhile , stir the topping seasonings together with the parmesan_cheese .",
+            "input": "(onion powder; garlic powder; dried oregano; parmesan_cheese)",
+            "action": "stir",
+            "output": "topping_mixture"
+        },
+        {
+            "instructions": "brush the breadsticks heavily with olive_oil .",
+            "input": "(raw_breadsticks;olive_oil)",
+            "action": "brush",
+            "output": "oiled_raw_breadsticks"
+        },
+        {
+            "instructions": "sprinkle with the topping .",
+            "input": "(oiled_raw_breadsticks;topping_mixture)",
+            "action": "sprinkle",
+            "output": "topped_raw_breadsticks"
+        },
+        {
+            "instructions": "i use an empty spice bottle to shake it on evenly .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake the bread sticks at 350f for 12 to 15 minutes until golden .",
+            "input": "topped_raw_breadsticks",
+            "action": "bake",
+            "output": "breadsticks"
+        },
+        {
+            "instructions": "serve warm with dipping_sauce pizza hut style posted on this site .",
+            "input": "(breadsticks;dipping_sauce)",
+            "action": "serve",
+            "output": "breadsticks_with_pizza_dipping_sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 13 cups warm water"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "4 cups flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 teaspoons oregano"
+        },
+        {
+            "text": "3 tablespoons powdered milk"
+        },
+        {
+            "text": "2 teaspoons yeast"
+        },
+        {
+            "text": "2 tablespoons dry parmesan cheese"
+        },
+        {
+            "text": "1 tablespoon garlic powder"
+        },
+        {
+            "text": "1 tablespoon garlic salt"
+        },
+        {
+            "text": "1 tablespoon onion powder"
+        },
+        {
+            "text": "1 tablespoon oregano"
+        },
+        {
+            "text": "14 cup olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Add the dough ingredients to the bread machine in the order given, and set to first rise."
+        },
+        {
+            "text": "When this has finished, roll the dough out into a rectangle which is 1/2-3/4 inch thick."
+        },
+        {
+            "text": "With a pizza cutter, cut the dough into 1x4 inch strips."
+        },
+        {
+            "text": "Place on greased cookie sheets and allow the bread sticks to rise until doubled."
+        },
+        {
+            "text": "Meanwhile, stir the topping seasonings together with the parmesan cheese."
+        },
+        {
+            "text": "Brush the breadsticks heavily with olive oil."
+        },
+        {
+            "text": "Sprinkle with the topping."
+        },
+        {
+            "text": "I use an empty spice bottle to shake it on evenly."
+        },
+        {
+            "text": "Bake the bread sticks at 350F for 12 to 15 minutes until golden."
+        },
+        {
+            "text": "Serve warm with Dipping Sauce - Pizza Hut Style posted on this site."
+        }
+    ]
+}

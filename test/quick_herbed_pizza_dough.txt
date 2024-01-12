@@ -1,0 +1,160 @@
+{
+    "title": "quick_herbed_pizza_dough",
+    "id": "49db656916",
+    "table": [
+        {
+            "instructions": "add dried yeast , olive_oil , sugar , salt .",
+            "input": "yeast",
+            "actions": "add",
+            "output": "added_yeast"
+        },
+        {
+            "instructions": "add warm_water .",
+            "input": "warm_water",
+            "actions": "add",
+            "output": "added_warm_water"
+        },
+        {
+            "instructions": "knead for 3 min , adding a small splash of water as needed to incorporate all the flour .",
+            "input": "yeast_knead_mix, water",
+            "actions": "knead",
+            "output": "kneaded_yeast"
+        },
+        {
+            "instructions": "if too sticky , dust lightly over with flour",
+            "input": "flour",
+            "actions": "dust",
+            "output": "dusted_yeast"
+        },
+        {
+            "instructions": "add italian_herb .",
+            "input": "italian_herb",
+            "actions": "add",
+            "output": "combined_italian_herb, dusted_yeast"
+        },
+        {
+            "instructions": "knead for another 5 7 min , or until dough is elastic .",
+            "input": "combined_yeast",
+            "actions": "knead",
+            "output": "elastic_yeast"
+        },
+        {
+            "instructions": "cover with plastic wrap",
+            "input": "elastic_yeast",
+            "actions": "cover",
+            "output": "elastic_yeast"
+        },
+        {
+            "instructions": "set for at least 30 min in a warm area for dough to rise .",
+            "input": "elastic_yeast",
+            "actions": "set",
+            "output": "rested_elastic_yeast"
+        },
+        {
+            "instructions": "  tip if you live in a cold climate",
+            "input": "rested_elastic_yeast",
+            "actions": "tip",
+            "output": "tipped_yeast"
+        },
+        {
+            "instructions": "set a pot of water to boil on high heat ,",
+            "input": "combine_water, heat",
+            "actions": "set",
+            "output": "boiling_water"
+        },
+        {
+            "instructions": "set the covered bowl near it to warm it up .",
+            "input": "tipped_yeast",
+            "actions": "set",
+            "output": "warm_tipped_yeast"
+        },
+        {
+            "instructions": "do n't put it too close , just enough for the bowl to heat",
+            "input": "warm_tipped_yeast",
+            "actions": "put",
+            "output": "warm_tipped_yeast"
+        },
+        {
+            "instructions": "warm up .",
+            "input": "warm_tipped_yeast",
+            "actions": "warm",
+            "output": "warm_tipped_yeast"
+        },
+        {
+            "instructions": "dust a bit of flour over",
+            "input": "flour",
+            "actions": "dust",
+            "output": "warrm_dusted_tipped_yeast"
+        },
+        {
+            "instructions": "then knead lightly until dough is round and smooth .",
+            "input": "warrm_dusted_tipped_yeast",
+            "actions": "knead",
+            "output": "smooth_dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups flour"
+        },
+        {
+            "text": "2 teaspoons dried yeast"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 tablespoon masterfood's mixed Italian herbs (1/4 tsp rosemary, 1/4 tsp thyme, 1/4 tsp oregano, 1/4 tsp basil, pinch of chopped parley)"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 tablespoon salt"
+        },
+        {
+            "text": "12 cup warm water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Sift flour into a large mixing bowl, create a well in the middle."
+        },
+        {
+            "text": "Add dried yeast, olive oil, sugar, salt."
+        },
+        {
+            "text": "Add warm water."
+        },
+        {
+            "text": "Knead for 3 min, adding a small splash of water as needed to incorporate all the flour."
+        },
+        {
+            "text": "If too sticky, dust lightly over with flour and keep kneading."
+        },
+        {
+            "text": "Add Italian herbs."
+        },
+        {
+            "text": "Knead for another 5 - 7 min, or until dough is elastic."
+        },
+        {
+            "text": "Cover with plastic wrap, layer over a warm, damp towel and set for at least 30 min in a warm area for dough to rise."
+        },
+        {
+            "text": "(Tip: If you live in a cold climate, set a pot of water to boil on high heat, and set the covered bowl near it to warm it up."
+        },
+        {
+            "text": "Don't put it too close, just enough for the bowl to heat and warm up."
+        },
+        {
+            "text": "Too hot and the yeast will get killed!"
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "When dough has risen, punch down, lightly use tips of fingers to pull out dough, dust a bit of flour over and then knead lightly until dough is round and smooth."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "title": "pizza_dough_boy",
+    "id": "fc7fe06cb6",
+    "table": [
+        {
+            "instructions": "mix all the ingredients together until you get the right consistency .",
+            "input": "(white flour; warm water; sugar; olive oil; salt; yeast; )",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "add more flour or water until you get that consistency",
+            "input": "(optional flour; optional water; dough)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "put some oil in a bowl",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "wipe it off with a paper towel .",
+            "input": "NA",
+            "action": "wipe",
+            "output": "NA"
+        },
+        {
+            "instructions": "make the dough into a ball",
+            "input": "dough",
+            "action": "make",
+            "output": "dough_ball"
+        },
+        {
+            "instructions": "put it in the bowl .",
+            "input": "dough_ball",
+            "action": "put",
+            "output": "dough_ball_in oiled_bowl"
+        },
+        {
+            "instructions": "cover for minimal 3 hours .",
+            "input": "dough_ball_in oiled_bowl",
+            "action": "cover",
+            "output": "covered_dough_ball_in oiled_bowl"
+        },
+        {
+            "instructions": "freeze in a freezer bag or spread it out on a floured countertop .",
+            "input": "dough_ball",
+            "action": "freeze",
+            "output": "frozen_dough_ball"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups white flour"
+        },
+        {
+            "text": "1 14 cups warm water"
+        },
+        {
+            "text": "1 12 tablespoons sugar"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon bread yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "best to use a kitchenaid mixer for this using the hook attachment."
+        },
+        {
+            "text": "mix all the ingredients together until you get the right consistency."
+        },
+        {
+            "text": "you can see if you got the right consistency if you turn the mixer on max and it whips the dough apart making 2 or more balls."
+        },
+        {
+            "text": "add more flour or water until you get that consistency"
+        },
+        {
+            "text": "put some oil in a bowl and wipe it off with a paper towel."
+        },
+        {
+            "text": "make the dough into a ball and put it in the bowl."
+        },
+        {
+            "text": "cover for minimal 3 hours."
+        },
+        {
+            "text": "freeze in a freezer bag or spread it out on a floured countertop."
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "title": "homemade_pizza_with_whole-grain_dough",
+    "id": "bf2f479710",
+    "table": [
+        {
+            "instructions": "place 14 cup warm_water in a large mixing bowl .",
+            "input": "warm_water",
+            "action": "place",
+            "output": "warm_water"
+        },
+        {
+            "instructions": "sprinkle yeast over water ;",
+            "input": "(warm_water; yeast)",
+            "action": "sprinkle",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "stir in sugar .",
+            "input": "(yeast mixture; sugar)",
+            "action": "stir",
+            "output": "yeast, sugar and warm water mixture"
+        },
+        {
+            "instructions": "add remaining water , oil and salt .",
+            "input": "yeast, sugar and warm water mixture",
+            "action": "add",
+            "output": "yeast, sugar and warm water mixture"
+        },
+        {
+            "instructions": "stir in all_purpose_flour and whole gain flour until dough pulls away from side of bowl .",
+            "input": "(yeast, sugar and warm water mixture; all_purpose_flour; whole wheat flour )",
+            "action": "stir",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "turn dough onto lightly floured surface .",
+            "input": "partially mixed dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead until smooth , 8 10 minutes .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "coat large bowl with cooking_spray ;",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough in bowl , turning to grease top .",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "dough in greased bowl"
+        },
+        {
+            "instructions": "cover loosely with plastic wrap .",
+            "input": "dough in greased bowl",
+            "action": "cover",
+            "output": "dough in greased dough covered with plastic wrap"
+        },
+        {
+            "instructions": "cut up ham slices",
+            "input": "ham",
+            "action": "cut",
+            "output": "ham slices"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "ham slices",
+            "action": "set",
+            "output": "ham slices"
+        },
+        {
+            "instructions": "preheat oven to 450f ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "punch down dough .",
+            "input": "dough covered with plastic wrap",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "coat two 12 inch , pizza\u2012pan with cooking_spray ;",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle pans with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide dough in half .",
+            "input": "punched down dough",
+            "action": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "roll dough to fit prepared pans ;",
+            "input": "divided dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "press dough against edge to form rim .",
+            "input": "rolled dough",
+            "action": "press",
+            "output": "dough pressed into pans"
+        },
+        {
+            "instructions": "bake crust for 10 minutes .",
+            "input": "rolled dough in pans",
+            "action": "bake",
+            "output": "partially baked crusts"
+        },
+        {
+            "instructions": "remove crust from oven",
+            "input": "partially baked crusts",
+            "action": "remove",
+            "output": "partially baked crusts"
+        },
+        {
+            "instructions": "top with pizza_sauce .",
+            "input": "(partially baked crusts; pizza sauce)",
+            "action": "top",
+            "output": "sauced crusts"
+        },
+        {
+            "instructions": "add the toppings",
+            "input": "(sauced crusts; toppings)",
+            "action": "add",
+            "output": "topped pizzas"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(topped pizzas; cheese)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled over topped pizzas"
+        },
+        {
+            "instructions": "bake until cheese is melted , 15 20 minutes .",
+            "input": "uncooked pizzas",
+            "action": "bake",
+            "output": "baked pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 14 cups warm water (105-115 degrees F)"
+        },
+        {
+            "text": "1 (1/4 ounce) envelope active dry yeast"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 34 cups all-purpose flour"
+        },
+        {
+            "text": "1 34 cups whole wheat flour"
+        },
+        {
+            "text": "2 teaspoons cornmeal"
+        },
+        {
+            "text": "1 cup pizza sauce"
+        },
+        {
+            "text": "2 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "1 cup frozen broccoli, thawed and diced"
+        },
+        {
+            "text": "4 slices deli ham, chopped in to small pieces"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "place 1/4 cup warm water in a large mixing bowl."
+        },
+        {
+            "text": "Sprinkle yeast over water; stir in sugar."
+        },
+        {
+            "text": "Let stand 5 minutes."
+        },
+        {
+            "text": "Add remaining water, oil and salt."
+        },
+        {
+            "text": "Stir in all-purpose flour and whole gain flour until dough pulls away from side of bowl."
+        },
+        {
+            "text": "Turn dough onto lightly floured surface."
+        },
+        {
+            "text": "Knead until smooth, 8- 10 minutes."
+        },
+        {
+            "text": "Coat large bowl with cooking spray; place dough in bowl, turning to grease top."
+        },
+        {
+            "text": "Cover loosely with plastic wrap."
+        },
+        {
+            "text": "Let rise in warm place until almost double in size, about 45 minutes."
+        },
+        {
+            "text": "While waiting for dough to rise dice broccoli and cut up ham slices and set aside."
+        },
+        {
+            "text": "Preheat oven to 450F Punch down dough."
+        },
+        {
+            "text": "Coat two 12-inch pizza pans with cooking spray; sprinkle pans with cornmeal."
+        },
+        {
+            "text": "Divide dough in half."
+        },
+        {
+            "text": "Roll dough to fit prepared pans; press dough against edge to form rim."
+        },
+        {
+            "text": "Bake crust for 10 minutes."
+        },
+        {
+            "text": "Remove crust from oven and top with pizza sauce."
+        },
+        {
+            "text": "Add the toppings and sprinkle with cheese."
+        },
+        {
+            "text": "Bake until cheese is melted, 15-20 minutes."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "title": "spinach_pizza_pie",
+    "id": "fe6e0e5840",
+    "table": [
+        {
+            "instructions": "very lightly spray pam on pizza_crust , or spread 1 2 teaspoons , olive_oil on crust .",
+            "input": "(pizza_crust; pam)",
+            "action": "spray",
+            "output": "pizza_crust sprayed with pam"
+        },
+        {
+            "instructions": "spread the baby_spinach leaves over the crust in a single layer , to within 12 of the edge .",
+            "input": "(Baby spinach leaves; oiled crust)",
+            "action": "spread",
+            "output": "oiled pizza crust topped with baby spinach"
+        },
+        {
+            "instructions": "spread the mushrooms on the spinach leaves .",
+            "input": "(oiled pizza crust topped with baby spinach; mushrooms)",
+            "action": "spread",
+            "output": "oiled pizza crust topped with baby spinach and mushrooms"
+        },
+        {
+            "instructions": "sprinkle the onions over mushrooms and spinach .",
+            "input": "(oiled pizza crust topped with baby spinach and mushrooms; onions)",
+            "action": "sprinkle",
+            "output": "pizza crust topped with spinach, mushrooms and onions"
+        },
+        {
+            "instructions": "spread the cheese over the vegetables .",
+            "input": "(cheese; pizza crust topped with spinach, mushrooms and onions)",
+            "action": "spread",
+            "output": "pizza crust topped with spinach, mushrooms, onion, and cheese"
+        },
+        {
+            "instructions": "sprinkle with oregano .",
+            "input": "(oregano; pizza crust topped with spinach, mushrooms, onion, and cheese)",
+            "action": "sprinkle",
+            "output": "oregano sprinkled on pizza crust topped with spinach, mushrooms, onions, cheese"
+        },
+        {
+            "instructions": "bake at 425 15 18 minutes , until cheese is bubbly and beginning to brown .",
+            "input": "Uncooked spinach_pizza_pie",
+            "action": "bake",
+            "output": "baked spinach_pizza_pie"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large prepared pizza crust or 1 can refrigerated pizza dough, roll out crust from the refrigerator section"
+        },
+        {
+            "text": "fresh baby spinach leaves"
+        },
+        {
+            "text": "14 onion, chopped"
+        },
+        {
+            "text": "14 lb mushroom, sliced"
+        },
+        {
+            "text": "1 lb mozzarella cheese, shredded"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "Pam cooking spray or olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Very lightly spray pam on pizza crust, or spread 1-2 teaspoons olive oil on crust."
+        },
+        {
+            "text": "Spread the baby spinach leaves over the crust in a single layer, to within 1/2\" of the edge."
+        },
+        {
+            "text": "Spread the mushrooms on the spinach leaves."
+        },
+        {
+            "text": "Sprinkle the onions over mushrooms and spinach."
+        },
+        {
+            "text": "Spread the cheese over the vegetables."
+        },
+        {
+            "text": "Sprinkle with oregano."
+        },
+        {
+            "text": "Bake at 425 15-18 minutes, until cheese is bubbly and beginning to brown."
+        }
+    ]
+}

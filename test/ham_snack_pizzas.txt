@@ -1,0 +1,94 @@
+{
+    "title": "ham_snack_pizzas",
+    "id": "ba12d7e8a9",
+    "table": [
+        {
+            "instructions": "heat oven to 450f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix baking_mix and water until soft dough forms .",
+            "input": "(baking_mix; water)",
+            "action": "mix",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "press into 4 inch circles on a cookie sheet sprayed with nonstick cooking_spray .",
+            "input": "soft dough",
+            "action": "press",
+            "output": "pressed pizza crust"
+        },
+        {
+            "instructions": "mix tomato_paste , ham , oregano , and basil .",
+            "input": "(tomato_paste; ham; oregano; basil)",
+            "action": "mix",
+            "output": "seasoned tomato sauce"
+        },
+        {
+            "instructions": "spread a tbsp on each round to within 14 of edge .",
+            "input": "(pressed pizza crust; seasoned tomato sauce)",
+            "action": "spread",
+            "output": "seasoned tomato sauce spread on pizza crust"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(cheese; pizza crust with tomato sauce)",
+            "action": "top",
+            "output": "izza crust with tomato sauce and cheese"
+        },
+        {
+            "instructions": "bake until crust is golden brown , about 10 minutes .",
+            "input": "uncooked minin pizza",
+            "action": "bake",
+            "output": "baked mini pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cup gluten-free baking mix"
+        },
+        {
+            "text": "1 cup cold water"
+        },
+        {
+            "text": "6 oz tomato paste"
+        },
+        {
+            "text": "4 1/2 oz deviled ham"
+        },
+        {
+            "text": "1/2 tsp oregano"
+        },
+        {
+            "text": "1/2 tsp basil"
+        },
+        {
+            "text": "6 oz shredded Mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450F."
+        },
+        {
+            "text": "Mix baking mix & water until soft dough forms."
+        },
+        {
+            "text": "grab little hand fulls of dough & press into 4 inch circles on a cookie sheet sprayed with nonstick cooking spray."
+        },
+        {
+            "text": "Mix tomato paste, ham, oregano, & basil."
+        },
+        {
+            "text": "Spread a tbsp on each round to within 1/4\" of edge."
+        },
+        {
+            "text": "Top with cheese."
+        },
+        {
+            "text": "Bake until crust is golden brown, about 10 minutes."
+        }
+    ]
+}

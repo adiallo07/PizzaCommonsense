@@ -1,0 +1,172 @@
+{
+    "title": "so_easy_pizza_dough",
+    "id": "ac77499801",
+    "table": [
+        {
+            "instructions": "dissolve yeast in water .",
+            "input": "(yeast; water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "add in the rest of ingredients except cornmeal .",
+            "input": "(dissolved_yeast; all purpose flour; oil; salt; white sugar)",
+            "action": "add",
+            "output": "pizza dough ingredients"
+        },
+        {
+            "instructions": "stir vigorously to form a stiff, wet dough .",
+            "input": "dough",
+            "action": "stir",
+            "output": "stiff dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "stiff dough",
+            "action": "cover",
+            "output": "covered stiff dough"
+        },
+        {
+            "instructions": "set aside ;",
+            "input": "covered stiff dough",
+            "action": "set",
+            "output": "covered stiff dough"
+        },
+        {
+            "instructions": "preheat oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray pizza\u2012pan with cooking_spray",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle liberally with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease hands with oil .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "press dough onto pan to desired thickness .",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "bake for 10 minutes .",
+            "input": "uncooked crust",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "remove from oven ;",
+            "input": "baked crust",
+            "action": "remove",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "add toppings as desired .",
+            "input": "(toppings; baked crust)",
+            "action": "add",
+            "output": "toppings added to baked crust"
+        },
+        {
+            "instructions": "cook an additional 15 20 minutes or until crust is browned and crispy on the bottom .",
+            "input": "uncooked pizza",
+            "action": "cook",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (1/4 ounce) package active dry yeast"
+        },
+        {
+            "text": "1 cup warm water (~110 degrees F)"
+        },
+        {
+            "text": "2 14 cups all-purpose flour"
+        },
+        {
+            "text": "2 tablespoons oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 teaspoons white sugar"
+        },
+        {
+            "text": "cornmeal (for pan)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Dissolve yeast in water."
+        },
+        {
+            "text": "Let stand 5 to 10 minutes, until creamy."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Add in the rest of ingredients except corn meal."
+        },
+        {
+            "text": "Stir vigorously to form a stiff, wet dough."
+        },
+        {
+            "text": "You may need to add another 1/4 cup flour to make the right consistency."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Cover and set aside; let rise at least 30 minutes (I usually let it rise 2 hours)."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Preheat oven to 350 degrees F. Spray pizza pan with cooking spray and sprinkle liberally with corn meal."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Grease hands with oil."
+        },
+        {
+            "text": "Press dough onto pan to desired thickness."
+        },
+        {
+            "text": "6."
+        },
+        {
+            "text": "Bake for 10 minutes."
+        },
+        {
+            "text": "7."
+        },
+        {
+            "text": "Remove from oven; add toppings as desired."
+        },
+        {
+            "text": "Cook an additional 15-20 minutes or until crust is browned and crispy on the bottom."
+        }
+    ]
+}

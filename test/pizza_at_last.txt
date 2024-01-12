@@ -1,0 +1,247 @@
+{
+    "title": "pizza_at_last",
+    "id": "98ebd56b41",
+    "table": [
+        {
+            "instructions": "to prepare topping core and seed red_pepper",
+            "input": "red_pepper",
+            "actions": "prepare",
+            "output": "prepared_red_pepper"
+        },
+        {
+            "instructions": "cut into strips .",
+            "input": "prepared_red_pepper",
+            "actions": "cut",
+            "output": "cut red peppers"
+        },
+        {
+            "instructions": "place peppers on aluminum foil lined baking sheet , skin side up ,",
+            "input": "cut red peppers",
+            "actions": "place",
+            "output": "cut red peppers"
+        },
+        {
+            "instructions": "place under brolier flame until skin is blackened, 8 to 10 minutes .",
+            "input": "uncooked red peppers",
+            "actions": "place",
+            "output": "broiled red peppers"
+        },
+        {
+            "instructions": "remove to cool .",
+            "input": "broiled red peppers",
+            "actions": "remove",
+            "output": "cooled red peppers"
+        },
+        {
+            "instructions": "peel off skins .",
+            "input": "broiled cooled red peppers",
+            "actions": "peel",
+            "output": "peeled red peppers"
+        },
+        {
+            "instructions": "cut tomatoes into sections ,",
+            "input": "whole tomatoes",
+            "actions": "cut",
+            "output": "cut tomatoes"
+        },
+        {
+            "instructions": "do not remove the seeds and juice .",
+            "input": "cut tomatoes",
+            "actions": "remove",
+            "output": "cut tomatoes"
+        },
+        {
+            "instructions": "puree 13 of the peppers , tomatoes and garlic in the blender or processor repeat with remaining_ingredient 2 or more times .",
+            "input": "(peeled red peppers, cut tomatoes; garlic)",
+            "actions": "puree",
+            "output": "pureed peppers and tomato mixture"
+        },
+        {
+            "instructions": "transfer tomato, pepper mixture to large pan .",
+            "input": "pureed peppers and tomato mixture",
+            "actions": "transfer",
+            "output": "pureed peppers and tomato mixture"
+        },
+        {
+            "instructions": "add honey and salt .",
+            "input": "(pureed peppers and tomato mixture; honey; salt)",
+            "actions": "add",
+            "output": "honey and salt added to pureed peppers and tomato mixture"
+        },
+        {
+            "instructions": "cook on high heat until mixture boils ,",
+            "input": "uncooked seasoned pureed peppers and tomato mixture",
+            "actions": "cook",
+            "output": "cooked seasoned pureed peppers and tomato mixture"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "cooked seasoned pureed peppers and tomato mixture",
+            "actions": "reduce",
+            "output": "cooked seasoned pureed peppers and tomato mixture"
+        },
+        {
+            "instructions": "simmer , uncovered",
+            "input": "cooked seasoned pureed peppers and tomato mixture",
+            "actions": "simmer",
+            "output": "simmering seasoned pureed peppers and tomato mixture"
+        },
+        {
+            "instructions": "add red_pepper_flake and leaves from fresh_basil .",
+            "input": "(simmering seasoned pureed peppers and tomato mixture; red pepper flakes, fresh basil leaves)",
+            "actions": "add",
+            "output": "red pepper flake and fresh basil leaves added to cooked seasoned pepper amd tomato puree"
+        },
+        {
+            "instructions": "meanwhile prepare dough .",
+            "input": "dough ingredients",
+            "actions": "prepare",
+            "output": "dough"
+        },
+        {
+            "instructions": "dissolve yeast in large bowl in 12 cup warm_water until dough achieves consistency of cake frosting",
+            "input": "(dough; yeast; warm water)",
+            "actions": "dissolve",
+            "output": "batter"
+        },
+        {
+            "instructions": "grease 10x15 inch , jelly , roll or baking pan .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "pour batter down center",
+            "input": "batter",
+            "actions": "pour",
+            "output": "poured batter"
+        },
+        {
+            "instructions": "spread evenly with spatula into circle .",
+            "input": "poured batter",
+            "actions": "spread",
+            "output": "spread batter"
+        },
+        {
+            "instructions": "raise edges slightly to hold topping sauce",
+            "input": "spread batter",
+            "actions": "raise",
+            "output": "batter raised on edges of pan"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese ;",
+            "input": "(parmesan cheese; batter)",
+            "actions": "sprinkle",
+            "output": "batter sprinkled with cheese"
+        },
+        {
+            "instructions": "bake 425 degrees f until done 25 to 30 minutes .",
+            "input": "uncooked batter",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baked pizza",
+            "actions": "remove",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 each sweet red bell peppers"
+        },
+        {
+            "text": "4 pounds tomatoes ripe"
+        },
+        {
+            "text": "3 cloves garlic"
+        },
+        {
+            "text": "1 teaspoon honey"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "1/2 teaspoon red pepper flakes"
+        },
+        {
+            "text": "3 Sprigs basil fresh"
+        },
+        {
+            "text": "1 1/2 cups parmesan, parmigiano-reggiano cheese, grated"
+        },
+        {
+            "text": "1 1/2 teaspoons yeast, active dry instant"
+        },
+        {
+            "text": "1 cup water warm"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "23 cup rice flour"
+        },
+        {
+            "text": "13 cup potato starch flour"
+        },
+        {
+            "text": "1 1/2 teaspoons vegetable shortening solid, melted"
+        },
+        {
+            "text": "1 teaspoon salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "To prepare topping core and seed red peppers and cut into strips."
+        },
+        {
+            "text": "Place peppers on aluminum foil lined baking sheet, skin side up, and place under brolier flame until skin is blackened, 8 to 10 minutes."
+        },
+        {
+            "text": "Remove to cool."
+        },
+        {
+            "text": "Peel off skins."
+        },
+        {
+            "text": "Cut tomatoes into sections, but do not remove the seeds and juice."
+        },
+        {
+            "text": "Puree 13 of the peppers, tomatoes and garlic in the blender or processor repeat with remaining ingredients 2 or more times."
+        },
+        {
+            "text": "Transfer tomato pepper mixture to large pan."
+        },
+        {
+            "text": "Add honey and salt."
+        },
+        {
+            "text": "Cook on high heat until mixture boils, then reduce heat and simmer, uncovered, untill mixture thickeness of sauce, at least 1 hour."
+        },
+        {
+            "text": "Add red pepper flakes and leaves from fresh basil."
+        },
+        {
+            "text": "Meanwhile prepare dough."
+        },
+        {
+            "text": "Dissolve yeast in large bowl in 1/2 cup warm water until dough achieves consistency of cake frosting, that spreads but not runs."
+        },
+        {
+            "text": "Grease 10X15 inch jelly roll or baking pan."
+        },
+        {
+            "text": "Pour batter down center and spread evenly with spatula into circle."
+        },
+        {
+            "text": "Raise edges slightly to hold topping sauce and sprinkle with Parmesan cheese bake 425 degrees F until done 25 to 30 minutes."
+        },
+        {
+            "text": "Remove from oven."
+        }
+    ]
+}

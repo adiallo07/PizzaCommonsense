@@ -1,0 +1,160 @@
+{
+    "title": "flatbread_pizza_super_supreme",
+    "id": "97ec04409a",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay all 4 flatbread on an oven tray .",
+            "input": "flatbread",
+            "action": "lay",
+            "output": "flatbread"
+        },
+        {
+            "instructions": "in a small pot , add tomato_paste , water , sugar , oregano , basil , salt , and garlic_powder",
+            "input": "(tomato paste; water; sugar; oregano; basil; salt; garlic powder)",
+            "action": "add",
+            "output": "tomato paste, water, sugar, oregano, basil, salt and garlic powder combine"
+        },
+        {
+            "instructions": "simmer on medium low",
+            "input": "N/A",
+            "action": "simmer",
+            "output": "N/A"
+        },
+        {
+            "instructions": "cook sausage on the stove , breaking into pieces unless already cooked .",
+            "input": "sausage",
+            "action": "cook",
+            "output": "cooked sausage"
+        },
+        {
+            "instructions": "put a decent amount of sauce on each flatbread , using the back of a spoon to smear .",
+            "input": "(sauce; flatbread)",
+            "action": "put",
+            "output": "flatbread with sauce"
+        },
+        {
+            "instructions": "add desired toppings",
+            "input": "toppings",
+            "action": "add",
+            "output": "flatbread topped with sauce and toppings"
+        },
+        {
+            "instructions": "top with cheese last to bind all_ingredient together .",
+            "input": "cheese",
+            "action": "top",
+            "output": "flatbread topped with cheese, sauce, and toppings"
+        },
+        {
+            "instructions": "bake on bottom rack 5 minutes",
+            "input": "N/A",
+            "action": "bake",
+            "output": "Cooked flatbread pizza"
+        },
+        {
+            "instructions": "if needed , microwave for 20 seconds after .",
+            "input": "N/A",
+            "action": "microwave",
+            "output": "N/A"
+        },
+        {
+            "instructions": "cut into fourths with pizza cutter",
+            "input": "Pizza",
+            "action": "cut",
+            "output": "Pizza cut into fourths"
+        },
+        {
+            "instructions": "top with parmasan andor crushed peppers",
+            "input": "(parmasan; crushed peppers)",
+            "action": "top",
+            "output": "cooked pizza topped with parmesan and crushed peppers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 flatbread"
+        },
+        {
+            "text": "1/4 cup pepperoni slices"
+        },
+        {
+            "text": "1/4 cup italian sausage"
+        },
+        {
+            "text": "6 slice salami"
+        },
+        {
+            "text": "1/4 lb mozzarella or pepperjack cheese"
+        },
+        {
+            "text": "1/4 cup mushrooms"
+        },
+        {
+            "text": "1/4 cup green peppers"
+        },
+        {
+            "text": "1/4 cup onion, chopped"
+        },
+        {
+            "text": "2 tbsp olives"
+        },
+        {
+            "text": "6 oz tomato paste"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "1 tbsp oregano"
+        },
+        {
+            "text": "3 tsp sugar"
+        },
+        {
+            "text": "dash salt"
+        },
+        {
+            "text": "tsp garlic powder"
+        },
+        {
+            "text": "1 tbsp basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "Lay all 4 flatbread on an oven tray."
+        },
+        {
+            "text": "In a small pot, add tomato paste, water, sugar, oregano, basil, salt, and garlic powder and simmer on medium low"
+        },
+        {
+            "text": "Cook sausage on the stove, breaking into pieces unless already cooked."
+        },
+        {
+            "text": "(I recommend using leftovers)"
+        },
+        {
+            "text": "Put a decent amount of sauce on each flatbread, using the back of a spoon to smear."
+        },
+        {
+            "text": "Add desired toppings and top with cheese last to bind all ingredients together."
+        },
+        {
+            "text": "Bake on bottom rack 5 minutes then switch to top rack 5 minutes."
+        },
+        {
+            "text": "If needed, microwave for 20 seconds after."
+        },
+        {
+            "text": "Cut into fourths with pizza cutter, top with parmasan and/or crushed peppers and enjoy!"
+        }
+    ]
+}

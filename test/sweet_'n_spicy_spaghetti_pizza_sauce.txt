@@ -1,0 +1,142 @@
+{
+    "title": "sweet_'n_spicy_spaghetti_pizza_sauce",
+    "id": "8048984526",
+    "table": [
+        {
+            "instructions": "in a large pot saute onion and garlic in olive_oil until soft .",
+            "input": "(onion; garlic, olive_oil)",
+            "actions": "saute",
+            "output": "sauteed onion and garlic in olive_oil"
+        },
+        {
+            "instructions": "add ground_beef",
+            "input": "(sauteed onion and garlic in olive_oil; ground_beef)",
+            "actions": "add",
+            "output": "ground_beef_added to sauteed onion and garlic in olive_oil"
+        },
+        {
+            "instructions": "add canned_tomato , water and red_wine .",
+            "input": "(sauteing ground beef mixture; canned_tomato; water; red_wine)",
+            "actions": "add",
+            "output": "canned_tomato, water and red_wine added to sauteeing ground beef mixture"
+        },
+        {
+            "instructions": "then reduce to a low boil .",
+            "input": "simmering ground beef sauce",
+            "actions": "reduce",
+            "output": "simmering ground beef sauce"
+        },
+        {
+            "instructions": "add seasonings and cheese .",
+            "input": "(simmering ground beef sauce; cheese; seasonings)",
+            "actions": "add",
+            "output": "seasonings and cheese added to ground beef sauce"
+        },
+        {
+            "instructions": "cover",
+            "input": "cooking seasoned ground beef sauce",
+            "actions": "cover",
+            "output": "cooking seasoned ground beef sauce"
+        },
+        {
+            "instructions": "simmer for at least 1 hour , up to 3 hours .",
+            "input": "simmering seasoned ground beef sauce",
+            "actions": "simmer",
+            "output": "simmering seasoned ground beef sauce"
+        },
+        {
+            "instructions": "add more water or wine if too thick or turn up the heat",
+            "input": "water, simmering seasoned ground beef sauce",
+            "actions": "add",
+            "output": "diluited simmering seasoned ground beef sauce"
+        },
+        {
+            "instructions": "i generally use what i need for the night",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "then freeze in sandwich sized ziplocks for a quick meal .",
+            "input": "spaghetti pizza sauce",
+            "actions": "freeze",
+            "output": "frozen spaghettin pizza sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb extra lean ground beef"
+        },
+        {
+            "text": "1 small sweet onion, finely diced"
+        },
+        {
+            "text": "5 garlic cloves, minced"
+        },
+        {
+            "text": "14 cup olive oil"
+        },
+        {
+            "text": "1 (28 ounce) can crushed tomatoes"
+        },
+        {
+            "text": "1 (28 ounce) can diced tomatoes (do not drain)"
+        },
+        {
+            "text": "1 (14 1/2 ounce) can tomato sauce"
+        },
+        {
+            "text": "1 12 cups red wine"
+        },
+        {
+            "text": "12 cup water"
+        },
+        {
+            "text": "3 tablespoons crushed red pepper flakes"
+        },
+        {
+            "text": "2 tablespoons sugar"
+        },
+        {
+            "text": "2 bay leaves"
+        },
+        {
+            "text": "1 tablespoon oregano"
+        },
+        {
+            "text": "1 tablespoon basil"
+        },
+        {
+            "text": "1 tablespoon parsley"
+        },
+        {
+            "text": "1 cup parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large pot saute onion and garlic in olive oil until soft."
+        },
+        {
+            "text": "Add ground beef and brown until almost done (some pink still)."
+        },
+        {
+            "text": "Add canned tomatoes, water and red wine."
+        },
+        {
+            "text": "bring to a boil and then reduce to a low boil."
+        },
+        {
+            "text": "Add seasonings and cheese."
+        },
+        {
+            "text": "Cover and simmer for at least 1 hour, up to 3 hours."
+        },
+        {
+            "text": "Add more water or wine if too thick or turn up the heat and let boil uncovered to thicken."
+        },
+        {
+            "text": "I generally use what I need for the night and let the rest cool and then freeze in sandwich-sized ziplocks for a quick meal."
+        }
+    ]
+}

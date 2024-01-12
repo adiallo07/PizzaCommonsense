@@ -1,0 +1,127 @@
+{
+    "title": "homemade_hamburger_pizza",
+    "id": "f3002c5662",
+    "table": [
+        {
+            "instructions": "leave the refrigerator biscuits in the container on the counter for about 10 minutes",
+            "input": "biscuits container",
+            "action": "leave",
+            "output": "biscuits container at room temperature"
+        },
+        {
+            "instructions": "open the containers",
+            "input": "biscuits container at room temperature",
+            "action": "open",
+            "output": "biscuit dough"
+        },
+        {
+            "instructions": "squish the rolls out onto a greased pizza\u2012pan , slightly over lapping the rolls .",
+            "input": "biscuit dough",
+            "action": "squish",
+            "output": "flattened biscuit dough"
+        },
+        {
+            "instructions": "bake in the oven for 7 10 minutes at 375 only until the dough puffs",
+            "input": "flattened biscuit dough",
+            "action": "bake",
+            "output": "lightly baked biscuit crust"
+        },
+        {
+            "instructions": "remove dough from the oven .",
+            "input": "lightly baked biscuit crust",
+            "action": "remove",
+            "output": "lightly baked biscuit crust"
+        },
+        {
+            "instructions": "mix the tomato_sauce and oregano together .",
+            "input": "(tomato_sauce; oregano)",
+            "action": "mix",
+            "output": "seasoned tomato_sauce"
+        },
+        {
+            "instructions": "spread tomato_sauce mix onto the dough .",
+            "input": "(seasoned tomato_sauce; lightly baked biscuit crust)",
+            "action": "spread",
+            "output": "sauced lightly baked biscuit crust"
+        },
+        {
+            "instructions": "spread the hamburger over the sauce .",
+            "input": "(sauced lightly baked biscuit crust; hamburger)",
+            "action": "spread",
+            "output": "sauced lightly baked biscuit crust with hamburger"
+        },
+        {
+            "instructions": "spread the shredded mozzerella cheese over the hamburger .",
+            "input": "(sauced lightly baked biscuit crust with hamburger; shredded mozzarella)",
+            "action": "spread",
+            "output": "sauced lightly baked biscuit crust with hamburger and shredded mozzarella cheese"
+        },
+        {
+            "instructions": "sprinkle pineapple over the cheese .",
+            "input": "(sauced lightly baked biscuit crust with hamburger and shredded mozzarella cheese; pineapple)",
+            "action": "sprinkle",
+            "output": "sauced lightly baked biscuit crust with hamburger, shredded mozzarella cheese and pineapple"
+        },
+        {
+            "instructions": "bake the pizza another 10 minutes at 375 or until the cheese is melted and the dough just starts to turn brown .",
+            "input": "uncooked pineapple hamburger pizza",
+            "action": "bake",
+            "output": "baked pineapple hamburger pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "16 ounces safeway refrigerator biscuits, in roll container"
+        },
+        {
+            "text": "4 ounces tomato sauce"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 lb browned hamburger, broken into small pieces"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "4 ounces pineapple chunks"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Leave the refrigerator biscuits in the container on the counter for about 10 minutes, it is easier to spread the refrigerator rolls out when they are at room temperature."
+        },
+        {
+            "text": "Open the containers and squish the rolls out onto a greased pizza pan, slightly over lapping the rolls."
+        },
+        {
+            "text": "On big you want your pizza depends on how spread out you put the rolls and how thick you want the dough."
+        },
+        {
+            "text": "Bake in the oven for 7-10 minutes at 375 only until the dough puffs and starts to get stiff to the touch, just before it starts to brown."
+        },
+        {
+            "text": "Remove dough from the oven."
+        },
+        {
+            "text": "Mix the tomato sauce and oregano together."
+        },
+        {
+            "text": "Spread tomato sauce mix onto the dough."
+        },
+        {
+            "text": "Spread the hamburger over the sauce."
+        },
+        {
+            "text": "Spread the shredded mozzerella cheese over the hamburger."
+        },
+        {
+            "text": "Sprinkle pineapple over the cheese."
+        },
+        {
+            "text": "Bake the pizza another 10 minutes at 375 or until the cheese is melted and the dough just starts to turn brown."
+        }
+    ]
+}

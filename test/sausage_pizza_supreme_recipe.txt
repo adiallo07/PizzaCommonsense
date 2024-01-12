@@ -1,0 +1,202 @@
+{
+    "title": "sausage_pizza_supreme_recipe",
+    "id": "4ef02d4601",
+    "table": [
+        {
+            "instructions": "saute fry first 3 ingredients in warm oil in a dutch oven till tender ;",
+            "input": "(minced green pepper; minced onion; chopped garlic)",
+            "action": "saute",
+            "output": "sauteed_green pepper, onion and garlic"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sauteed_green pepper, onion and garlic",
+            "action": "set",
+            "output": "sauteed_green pepper, onion and garlic"
+        },
+        {
+            "instructions": "place tomatoes in container of an electric blender or possibly food processor",
+            "input": "tomatoes",
+            "action": "place",
+            "output": "blended_tomatoes"
+        },
+        {
+            "instructions": "add in to onion mix .",
+            "input": "(blended_tomatoes;sauteed_green pepper, onion and garlic)",
+            "action": "add",
+            "output": "tomato_and_onion_mixture"
+        },
+        {
+            "instructions": "stir in tomato_paste , oregano , and pepper .",
+            "input": "(tomato_paste;oregano;pepper;tomato_and_onion_mixture)",
+            "action": "stir",
+            "output": "tomato_sauce"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "tomato_sauce",
+            "action": "reduce",
+            "output": "tomato_sauce"
+        },
+        {
+            "instructions": "simmer 1 hour or possibly till sauce is reduced to about 3 12 c.",
+            "input": "tomato_sauce",
+            "action": "simmer",
+            "output": "simmering tomato_sauce"
+        },
+        {
+            "instructions": "spread sauce proportionately over each pizza_crust , leaving a 12 inch border around edges .",
+            "input": "(tomato_sauce;pizza_crust)",
+            "action": "spread",
+            "output": "tomato_sauce on pizza crust"
+        },
+        {
+            "instructions": "combine cheese",
+            "input": "(tomato_sauce on pizza crust; cheese)",
+            "action": "combine",
+            "output": "tomato_sauce and cheese on pizza crust"
+        },
+        {
+            "instructions": "sprinkle 1 12 c.",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle 1 12 c. cheese mix over each pizza .",
+            "input": "(tomato_sauce and cheese on pizza crust; cheese_mix)",
+            "action": "mix",
+            "output": "uncooked cheese_pizza"
+        },
+        {
+            "instructions": "cook sausage over medium heat till browned , stirring to crumble .",
+            "input": "raw_sausage",
+            "action": "cook",
+            "output": "cooked_crumbled_sausage"
+        },
+        {
+            "instructions": "drain well .",
+            "input": "cooked_crumbled_sausage",
+            "action": "drain",
+            "output": "cooked_crumbled_sausage without excess fat"
+        },
+        {
+            "instructions": "sprinkle sausage over pizzas .",
+            "input": "(cooked_crumbled_sausage without excess fat; uncooked cheese_pizza)",
+            "action": "sprinkle",
+            "output": "uncooked sausage_pizza"
+        },
+        {
+            "instructions": "you may add in 1 2 . 2 oz can sliced ripe_olive , liquid removed and 34 c.",
+            "input": "(uncooked sausage_pizza; olives)",
+            "action": "add",
+            "output": "uncooked sausage_and_olive_pizza"
+        },
+        {
+            "instructions": "bake at 450 degrees for 15 min .",
+            "input": "uncooked sausage_and_olive_pizza",
+            "action": "bake",
+            "output": "baked sausage_and_olive_pizza"
+        },
+        {
+            "instructions": "sprinkle with remaining shredded_cheese and parmesan_cheese",
+            "input": "(sausage_and_olive_pizza; shredded_cheese;parmesan_cheese)",
+            "action": "sprinkle",
+            "output": "cheesy_sausage_and_olive_pizza"
+        },
+        {
+            "instructions": "bake an additional 5 min .",
+            "input": "cheesy_sausage_and_olive_pizza",
+            "action": "bake",
+            "output": "doubly baked cheesy_sausage_and_olive_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 sm. green pepper, minced"
+        },
+        {
+            "text": "1 lg. onion, minced"
+        },
+        {
+            "text": "2 sm. cloves of garlic, chopped"
+        },
+        {
+            "text": "1 tbsp. vegetable oil"
+        },
+        {
+            "text": "1 (28 ounce.) can whole tomatoes, undrained"
+        },
+        {
+            "text": "1 (6 ounce.) can tomato paste"
+        },
+        {
+            "text": "1 1/2 teaspoon dry whole oregano"
+        },
+        {
+            "text": "1/4 teaspoon pepper"
+        },
+        {
+            "text": "2 (12 inch) thick or possibly thin pizza crusts (recipes above)"
+        },
+        {
+            "text": "3 c. (12 ounce.) shredded Mozzarella cheese"
+        },
+        {
+            "text": "2 c. (8 ounce.) shredded cheddar cheese"
+        },
+        {
+            "text": "1 pound bulk pork sausage"
+        },
+        {
+            "text": "1 1/3 c. sliced fresh mushrooms"
+        },
+        {
+            "text": "1/2 to 1 c. grated Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Saute/fry first 3 ingredients in warm oil in a Dutch oven till tender; set aside."
+        },
+        {
+            "text": "Place tomatoes in container of an electric blender or possibly food processor and process till smooth; add in to onion mix."
+        },
+        {
+            "text": "Stir in tomato paste, oregano, and pepper."
+        },
+        {
+            "text": "Bring to a boil; reduce heat and simmer 1 hour or possibly till sauce is reduced to about 3 1/2 c., stirring occasionally."
+        },
+        {
+            "text": "Spread sauce proportionately over each pizza crust, leaving a 1/2 inch border around edges."
+        },
+        {
+            "text": "Combine cheese; sprinkle 1 1/2 c. cheese mix over each pizza."
+        },
+        {
+            "text": "Cook sausage over medium heat till browned, stirring to crumble."
+        },
+        {
+            "text": "Drain well."
+        },
+        {
+            "text": "Sprinkle sausage over pizzas."
+        },
+        {
+            "text": "Layer pepperoni and mushrooms over pizzas."
+        },
+        {
+            "text": "You may add in 1 (2.2 oz) can sliced ripe olives, liquid removed and 3/4 c. sliced green onions, if you like."
+        },
+        {
+            "text": "Bake at 450 degrees for 15 min."
+        },
+        {
+            "text": "Sprinkle with remaining shredded cheese and Parmesan cheese and bake an additional 5 min."
+        },
+        {
+            "text": "Makes 2 (12 inch) pizzas."
+        }
+    ]
+}

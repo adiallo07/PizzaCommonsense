@@ -1,0 +1,124 @@
+{
+    "title": "tuscan_thin_crust_pizza_dough",
+    "id": "0d90c892cb",
+    "table": [
+        {
+            "instructions": "combine 4 cups , flour , cheese , yeast and salt in large bowl .",
+            "input": "(flour; cheese; yeast; salt)",
+            "action": "combine",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "add water and dressing ;",
+            "input": "(water; dressing; dry ingredients)",
+            "action": "add",
+            "output": "water and dressing added to dry ingredients"
+        },
+        {
+            "instructions": "stir until mixture forms soft dough .",
+            "input": "dough mixture",
+            "action": "stir",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "place on lightly floured surface ;",
+            "input": "(flour; dough ball)",
+            "action": "place",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "knead 5 min .",
+            "input": "dough ball",
+            "action": "knead",
+            "output": "kneaded dough ball"
+        },
+        {
+            "instructions": "cut dough into 4 pieces .",
+            "input": "kneaded dough ball",
+            "action": "cut",
+            "output": "cut kneaded dough ball into four dough balls"
+        },
+        {
+            "instructions": "spray each piece with cooking_spray .",
+            "input": "(kneaded dough ball; cooking_spray)",
+            "action": "spray",
+            "output": "oiled dough balls"
+        },
+        {
+            "instructions": "if using immediately , cover desired number of dough pieces loosely with plastic wrap ;",
+            "input": "dough balls",
+            "action": "cover",
+            "output": "resting dough balls"
+        },
+        {
+            "instructions": "place each remaining dough piece in separate resealable freezer weight plastic bag sprayed with cooking_spray .",
+            "input": "dough balls",
+            "action": "place",
+            "output": "dough balls in bags"
+        },
+        {
+            "instructions": "seal bags ;",
+            "input": "dough balls in bags",
+            "action": "seal",
+            "output": "sealed dough balls in bags"
+        },
+        {
+            "instructions": "refrigerate up to 2 days or freeze up to 3 months .",
+            "input": "sealed dough balls in bags",
+            "action": "refrigerate",
+            "output": "refrigerated dough balls"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "5 cups flour, divided"
+        },
+        {
+            "text": "1 cup Kraft 100% Parmesan Grated Cheese"
+        },
+        {
+            "text": "2-1/4 tsp. quick-rise instant yeast"
+        },
+        {
+            "text": "1/2 tsp. salt"
+        },
+        {
+            "text": "1-3/4 cups cold water"
+        },
+        {
+            "text": "1/3 cup Kraft Extra Virgin Olive Oil Tuscan Italian Dressing"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine 4 cups flour, cheese, yeast and salt in large bowl."
+        },
+        {
+            "text": "Add water and dressing; stir until mixture forms soft dough."
+        },
+        {
+            "text": "Place on lightly floured surface; knead 5 min."
+        },
+        {
+            "text": "or until smooth and elastic, gradually adding remaining flour."
+        },
+        {
+            "text": "Cut dough into 4 pieces."
+        },
+        {
+            "text": "(Each piece is enough for a 12-inch pizza.)"
+        },
+        {
+            "text": "Spray each piece with cooking spray."
+        },
+        {
+            "text": "If using immediately, cover desired number of dough pieces loosely with plastic wrap; let stand 15 min."
+        },
+        {
+            "text": "Place each remaining dough piece in separate resealable freezer-weight plastic bag sprayed with cooking spray."
+        },
+        {
+            "text": "Seal bags; refrigerate up to 2 days or freeze up to 3 months."
+        }
+    ]
+}

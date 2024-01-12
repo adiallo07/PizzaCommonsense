@@ -1,0 +1,82 @@
+{
+    "title": "little_tyke_pizzas",
+    "id": "6e5495b1f0",
+    "table": [
+        {
+            "instructions": "roll or pat biscuits into 2 12 inch circles .",
+            "input": "biscuits",
+            "action": "roll",
+            "output": "rolled_biscuits"
+        },
+        {
+            "instructions": "place on two greased baking sheets .",
+            "input": "rolled_biscuits",
+            "action": "place",
+            "output": "rolled_biscuits"
+        },
+        {
+            "instructions": "in a small bowl , combine tomato_sauce , onion , oregano , basil , and garlic_powder ;",
+            "input": "(tomato sauce; onion; oregano; basil; garlic powder)",
+            "action": "combine",
+            "output": "seasoned tomato sauce "
+        },
+        {
+            "instructions": "spread over biscuits .",
+            "input": "(seasoned tomato sauce; rolled biscuits)",
+            "action": "spread",
+            "output": "rolled biscuits with seasoned tomato sauce"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(rolled biscuits with seasoned tomato sauce; cheese)",
+            "action": "sprinkle",
+            "output": "rolled biscuits with seasoned tomato sauce and cheese"
+        },
+        {
+            "instructions": "bake at 400 degrees for 8 10 minutes .",
+            "input": "uncooked biscuit pizza",
+            "action": "bake",
+            "output": "baked biscuit pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (12 ounce) packages refrigerated buttermilk biscuits"
+        },
+        {
+            "text": "1 (8 ounce) can tomato sauce"
+        },
+        {
+            "text": "1 12 teaspoons dried onion flakes"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "1 teaspoon dried basil"
+        },
+        {
+            "text": "18 teaspoon garlic powder"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll or pat biscuits into 2 1/2 inch circles."
+        },
+        {
+            "text": "Place on two greased baking sheets."
+        },
+        {
+            "text": "In a small bowl, combine tomato sauce, onion, oregano, basil, and garlic powder; spread over biscuits."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake at 400 degrees for 8-10 minutes."
+        }
+    ]
+}

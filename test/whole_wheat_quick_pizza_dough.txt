@@ -1,0 +1,106 @@
+{
+    "title": "whole_wheat_quick_pizza_dough",
+    "id": "4dc89fed2f",
+    "table": [
+        {
+            "instructions": "preheat oven to 45",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix yeast in water until foamy .",
+            "input": "(yeast; water)",
+            "action": "mix",
+            "output": "foamy yeast mixture"
+        },
+        {
+            "instructions": "stir in oil and flours until it forms a ball .",
+            "input": "(oil; whole wheat flour; all purpose flour; foamy yeast mixture)",
+            "action": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "cover the bowl with a towel",
+            "input": "dough",
+            "action": "cover",
+            "output": "covered_bowl_with_dough"
+        },
+        {
+            "instructions": "place the bowl on your stove while the oven is preheating .",
+            "input": "covered_bowl_with_dough",
+            "action": "place",
+            "output": "covered_bowl_with_dough_on_stove"
+        },
+        {
+            "instructions": "let rise for 15 minutes .",
+            "input": "covered_bowl_with_dough_on_stove",
+            "action": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "roll onto baking pan .",
+            "input": "risen dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "cover with toppings .",
+            "input": "(rolled dough; toppings)",
+            "action": "cover",
+            "output": "rolled dough with toppings"
+        },
+        {
+            "instructions": "bake for 20 minutes until crust is golden brown and the cheese is bubbly and browning on top .",
+            "input": "uncooked whole wheat pizza",
+            "action": "bake",
+            "output": "baked whole wheat pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon yeast"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 cup whole wheat flour"
+        },
+        {
+            "text": "1 12 cups all-purpose flour"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450."
+        },
+        {
+            "text": "Mix yeast in water until foamy."
+        },
+        {
+            "text": "Stir in oil and flours until it forms a ball."
+        },
+        {
+            "text": "Cover the bowl with a towel and place the bowl on your stove while the oven is preheating."
+        },
+        {
+            "text": "Let rise for 15 minutes."
+        },
+        {
+            "text": "Roll onto baking pan."
+        },
+        {
+            "text": "Cover with toppings."
+        },
+        {
+            "text": "Bake for 20 minutes until crust is golden brown and the cheese is bubbly and browning on top."
+        }
+    ]
+}

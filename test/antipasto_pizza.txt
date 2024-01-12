@@ -1,0 +1,142 @@
+{
+    "title": "antipasto_pizza",
+    "id": "df18316d2b",
+    "table": [
+        {
+            "instructions": "first brush your pizza stone with 1 tablespoon of olive_oil .",
+            "input": "olive oil",
+            "action": "brush",
+            "output": "brushed olive oil"
+        },
+        {
+            "instructions": "then cut up your biscuits , each biscuit divided into sixths .",
+            "input": "biscuits",
+            "action": "cut",
+            "output": "cut biscuits"
+        },
+        {
+            "instructions": "place the little biscuit pieces closely , completely covering the pizza stone .",
+            "input": "cut biscuits",
+            "action": "place",
+            "output": "cut biscuits"
+        },
+        {
+            "instructions": "brush the top with 1 tablespoon of olive_oil",
+            "input": "(cut biscuits; olive oil)",
+            "action": "brush",
+            "output": "cut biscuits brushed with olive oil"
+        },
+        {
+            "instructions": "bake for 15 minutes in a preheated 400f oven .",
+            "input": "cut biscuits brushed with olive oil",
+            "action": "bake",
+            "output": "baked biscuits"
+        },
+        {
+            "instructions": "now cut up all your veggies and meat .",
+            "input": "(veggies; meat)",
+            "action": "cut",
+            "output": "cut veggies and meat"
+        },
+        {
+            "instructions": "pat dry .",
+            "input": "cut veggies and meat",
+            "action": "pat",
+            "output": "dried cut veggies and meat"
+        },
+        {
+            "instructions": "mix together the veggies and meat with mozzarella_cheese , garlic_salt and pepper tumbling it all together .",
+            "input": "(veggie and meat; mozzarella cheese; garlic salt; pepper)",
+            "action": "mix",
+            "output": "veggie, meat and cheese mixture"
+        },
+        {
+            "instructions": "sprinkle this mixture onto the pizza_crust , carefully covering the whole crust .",
+            "input": "(veggie, meat and cheese mixture; pizza crust)",
+            "action": "sprinkle",
+            "output": "uncooked veggie, meat and cheese pizza"
+        },
+        {
+            "instructions": "bake about 6 minutes in the 400f oven until dough is browned and cheese is melted .",
+            "input": "uncooked veggie, meat and cheese pizza",
+            "action": "bake",
+            "output": "baked veggie, meat and cheese pizza"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese .",
+            "input": "(baked veggie, meat and cheese pizza; parmesan cheese)",
+            "action": "sprinkle",
+            "output": "baked veggie, meat and cheese pizza with parmesan cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 Tablespoons Olive Oil, Divided"
+        },
+        {
+            "text": "2 packages Refrigerated Biscuits - 16.3 Oz. Each"
+        },
+        {
+            "text": "1/2 cups Pepperoncini Peppers"
+        },
+        {
+            "text": "6 ounces, weight Black Olives, Canned, Chopped Or Sliced"
+        },
+        {
+            "text": "12 ounces, weight Marinated Artichoke Hearts, Can, Chopped"
+        },
+        {
+            "text": "1 cup Roasted Red Peppers, Chopped"
+        },
+        {
+            "text": "1 cup Ham, Chopped Small"
+        },
+        {
+            "text": "1 cup Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "2 cloves Garlic, Pressed"
+        },
+        {
+            "text": "1/4 teaspoons Salt"
+        },
+        {
+            "text": "1/4 teaspoons Pepper"
+        },
+        {
+            "text": "1/4 cups Parmesan Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "First brush your pizza stone with 1 Tablespoon of olive oil."
+        },
+        {
+            "text": "Then cut up your biscuits, each biscuit divided into sixths."
+        },
+        {
+            "text": "Place the little biscuit pieces closely, completely covering the pizza stone."
+        },
+        {
+            "text": "Brush the top with 1 Tablespoon of olive oil and bake for 15 minutes in a preheated 400F oven."
+        },
+        {
+            "text": "Now cut up all your veggies and meat."
+        },
+        {
+            "text": "Pat dry."
+        },
+        {
+            "text": "Mix together the veggies and meat with mozzarella cheese, garlic, salt and pepper tumbling it all together."
+        },
+        {
+            "text": "Sprinkle this mixture onto the pizza crust, carefully covering the whole crust."
+        },
+        {
+            "text": "Bake about 6 minutes in the 400F oven until dough is browned and cheese is melted."
+        },
+        {
+            "text": "Sprinkle with parmesan cheese."
+        }
+    ]
+}

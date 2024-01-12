@@ -1,0 +1,232 @@
+{
+    "title": "pizza_dipping_sauces_copycat_papa_john_'s",
+    "id": "9be25c0f95",
+    "table": [
+        {
+            "instructions": "combine ingredients in a small bowl .",
+            "input": "(margarine; garlic powder; salt)",
+            "action": "combine",
+            "output": "dipping sauce ingredients"
+        },
+        {
+            "instructions": "mix well until completely blended .",
+            "input": "dipping sauce ingredients",
+            "action": "mix",
+            "output": "dipping sauce mixture"
+        },
+        {
+            "instructions": "place the bowl into the microwave",
+            "input": "dipping sauce mixture",
+            "action": "place",
+            "output": "dipping sauce mixture"
+        },
+        {
+            "instructions": "cook on 12 power for 20 seconds .",
+            "input": "dipping sauce mixture",
+            "action": "cook",
+            "output": "cooked dipping sauce mixture"
+        },
+        {
+            "instructions": "stir to blend .",
+            "input": "cooked dipping sauce mixture",
+            "action": "stir",
+            "output": "ready cooked dipping sauce mixture"
+        },
+        {
+            "instructions": "cheese_sauce combine cornstarch with milk in a small bowl",
+            "input": "(cornstarch; milk)",
+            "action": "combine",
+            "output": "milk and cornstarch mixture"
+        },
+        {
+            "instructions": "stir until cornstarch has dissolved .",
+            "input": "milk and cornstarch mixture",
+            "action": "stir",
+            "output": "milk and cornstarch mixture"
+        },
+        {
+            "instructions": "add the cheez whiz to the mixture .",
+            "input": "(cheez wiz; milk and cornstarch mixture)",
+            "action": "add",
+            "output": "cheez wiz added to milk and cornstarch mixture"
+        },
+        {
+            "instructions": "stir well to combine .",
+            "input": "cheez wiz added to milk and cornstarch mixture",
+            "action": "stir",
+            "output": "Combined cheese sauce"
+        },
+        {
+            "instructions": "then place the bowl in the microwave",
+            "input": "Combined cheese sauce",
+            "action": "place",
+            "output": "Combined cheese sauce"
+        },
+        {
+            "instructions": "cook on high for 1 minute .",
+            "input": "Combined cheese sauce",
+            "action": "cook",
+            "output": "cooked cheese sauce"
+        },
+        {
+            "instructions": "remove the bowl",
+            "input": "cooked cheese sauce",
+            "action": "remove",
+            "output": "cooked cheese sauce"
+        },
+        {
+            "instructions": "stir until smooth .",
+            "input": "cooked cheese sauce",
+            "action": "stir",
+            "output": "smooth cooked cheese sauce"
+        },
+        {
+            "instructions": "add the juice from jalapeno slices ,",
+            "input": "(juice from jalapeno slices; )",
+            "action": "add",
+            "output": "cheese sauce with jalapeno juice"
+        },
+        {
+            "instructions": "stir .",
+            "input": "cheese sauce with jalapeno juice",
+            "action": "stir",
+            "output": "ready cheese sauce with jalapeno juice"
+        },
+        {
+            "instructions": "pizza_sauce combine all_ingredient in a small saucepan over medium heat .",
+            "input": "(tomato puree; water; sugar; olive oil; lemon juice; salt; oregano; basil; thyme; garlic powder)",
+            "action": "combine",
+            "output": "pizza sauce ingredients"
+        },
+        {
+            "instructions": "stir well as you bring the mixture to a boil .",
+            "input": "pizza sauce ingredients",
+            "action": "stir",
+            "output": "combined pizza sauce ingredients"
+        },
+        {
+            "instructions": "when the sauce begins to bubble , reduce the heat",
+            "input": "cooking pizza sauce",
+            "action": "reduce",
+            "output": "cooking pizza sauce"
+        },
+        {
+            "instructions": "simmer for 15 to 20 minutes .",
+            "input": "cooking pizza sauce",
+            "action": "simmer",
+            "output": "cooking pizza sauce"
+        },
+        {
+            "instructions": "stir often as it simmers to avoid sticking and to ensure an even mix .",
+            "input": "cooking pizza sauce",
+            "action": "stir",
+            "output": "cooked pizza sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 cup margarine, spread"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "12 cup milk"
+        },
+        {
+            "text": "2 teaspoons cornstarch"
+        },
+        {
+            "text": "14 cup Cheez Whiz"
+        },
+        {
+            "text": "2 teaspoons jalapeno juice, from canned jalapenos (nacho slices)"
+        },
+        {
+            "text": "1 (10 3/4 ounce) can tomato puree"
+        },
+        {
+            "text": "14 cup water"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "14 teaspoon lemon juice"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon oregano"
+        },
+        {
+            "text": "18 teaspoon basil"
+        },
+        {
+            "text": "18 teaspoon thyme"
+        },
+        {
+            "text": "18 teaspoon garlic powder"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Special Garlic Sauce."
+        },
+        {
+            "text": "Combine ingredients in a small bowl."
+        },
+        {
+            "text": "Mix well until completely blended."
+        },
+        {
+            "text": "Place the bowl into the microwave and cook on 1/2 power for 20 seconds."
+        },
+        {
+            "text": "Stir to blend."
+        },
+        {
+            "text": "Makes 1/2 cup."
+        },
+        {
+            "text": "Cheese Sauce Combine cornstarch with milk in a small bowl and stir until cornstarch has dissolved."
+        },
+        {
+            "text": "Add the Cheez Whiz to the mixture."
+        },
+        {
+            "text": "Stir well to combine."
+        },
+        {
+            "text": "Then place the bowl in the microwave and cook on high for 1 minute."
+        },
+        {
+            "text": "Remove the bowl and stir until smooth."
+        },
+        {
+            "text": "Add the juice from jalapeno slices, and stir."
+        },
+        {
+            "text": "Makes 1/2 cup."
+        },
+        {
+            "text": "Pizza Sauce Combine all ingredients in a small saucepan over medium heat."
+        },
+        {
+            "text": "Stir well as you bring the mixture to a boil."
+        },
+        {
+            "text": "When the sauce begins to bubble, reduce the heat and simmer for 15 to 20 minutes."
+        },
+        {
+            "text": "Stir often as it simmers to avoid sticking and to ensure an even mix."
+        },
+        {
+            "text": "Makes 1 cup."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "title": "tuscan_pizza",
+    "id": "db7c6c4442",
+    "table": [
+        {
+            "instructions": "to caramelize the pears",
+            "input": "NA",
+            "action": "caramelize",
+            "output": "NA"
+        },
+        {
+            "instructions": "saute in oil until soft ;",
+            "input": "(oil; pears)",
+            "action": "saute",
+            "output": "sautee_pears_in_oil"
+        },
+        {
+            "instructions": "season with salt to taste .",
+            "input": "(salt; sauteed pears)",
+            "action": "season",
+            "output": "salted sauteed_pears"
+        },
+        {
+            "instructions": "hold in refrigerator until needed.",
+            "input": "salted sauteed_pears",
+            "action": "hold",
+            "output": "chilled salted sauteed_pears"
+        },
+        {
+            "instructions": "dust pizza paddle with cornmeal ,",
+            "input": "NA",
+            "action": "dust",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll 16 oz pizza dough.",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "layer reserved pears, onion, mozzarella, gorgonzola. sprinkle with 12 oz pine nuts.",
+            "input": "sauteed_pears; onion; mozzarella; gorgonzola; pine nuts; rolled_pizza_dough",
+            "action": "sprinkle",
+            "output": "pizza_dough with mozzarella, gorgonzola, onion, sauteed pears, and pine nuts"
+        },
+        {
+            "instructions": "bake at 500f for 7 8 minutes until golden brown .",
+            "input": "uncooked tuscan_pizza ",
+            "action": "bake",
+            "output": "baked tuscan_pizza"
+        },
+        {
+            "instructions": "cut each pizza into 8 slices .",
+            "input": "baked tuscan_pizza",
+            "action": "cut",
+            "output": "sliced tuscan_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 cups pears, cored and sliced Safeway 1 lb For $1.88 thru 02/09"
+        },
+        {
+            "text": "3/4 cup olive oil"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "cornmeal"
+        },
+        {
+            "text": "12 each Pizza Dough, 16 oz. balls"
+        },
+        {
+            "text": "6 cups onions, caramelized"
+        },
+        {
+            "text": "32 each , quartered"
+        },
+        {
+            "text": "3 cups Gorgonzola cheese, crumbled"
+        },
+        {
+            "text": "3/4 cup pine nuts, toasted"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "To caramelize the pears, saute in oil until soft; season with salt to taste."
+        },
+        {
+            "text": "Hold in refrigerator until needed."
+        },
+        {
+            "text": "To assemble each pizza, dust pizza paddle with cornmeal, and roll 16 oz."
+        },
+        {
+            "text": "pizza dough into 12\" diameter."
+        },
+        {
+            "text": "Layer 6 oz."
+        },
+        {
+            "text": "reserved pears, 4 oz."
+        },
+        {
+            "text": "onions, 4 oz."
+        },
+        {
+            "text": "mozzarella, 1-1/2 oz."
+        },
+        {
+            "text": "Gorgonzola, and sprinkle with 1/2 oz."
+        },
+        {
+            "text": "pine nuts."
+        },
+        {
+            "text": "Bake at 500F for 7 -8 minutes until golden brown."
+        },
+        {
+            "text": "Cut each pizza into 8 slices."
+        },
+        {
+            "text": "Yield: 12 Servings."
+        }
+    ]
+}

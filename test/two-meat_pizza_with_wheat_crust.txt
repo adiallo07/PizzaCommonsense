@@ -1,0 +1,199 @@
+{
+    "title": "two-meat_pizza_with_wheat_crust",
+    "id": "f6026d8dc3",
+    "table": [
+        {
+            "instructions": "in a bowl , dissolve the yeast in water",
+            "input": "(yeast; water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "add oil .",
+            "input": "(yeast in water; oil)",
+            "action": "add",
+            "output": "oil added to yeast in water"
+        },
+        {
+            "instructions": "combine whole_wheat_flour , sugar , and salt ;",
+            "input": "(whole_wheat_flour; sugar; salt)",
+            "action": "combine",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "add to yeast mixture",
+            "input": "(dry ingredients; yeast mixture)",
+            "action": "add",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "stir until smooth .",
+            "input": "partially mixed dough",
+            "action": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "stir in enough all_purpose_flour to form a soft dough .",
+            "input": "dough: all_purpose_flour",
+            "action": "stir",
+            "output": "all_purpose_flour stirred into dough to form soft dough"
+        },
+        {
+            "instructions": "turn onto a floured surface",
+            "input": "soft dough",
+            "action": "turn",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "knead until smooth , about 8 minutes .",
+            "input": "soft dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place in a greased bowl ;",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded dough placed in greased bowl"
+        },
+        {
+            "instructions": "turn once to grease top .",
+            "input": "kneaded dough placed in greased bowl",
+            "action": "turn",
+            "output": "kneaded dough placed in greased bowl"
+        },
+        {
+            "instructions": "cover",
+            "input": "kneaded dough placed in greased bowl",
+            "action": "cover",
+            "output": "dough covered"
+        },
+        {
+            "instructions": "let rise in a warm place for 20 minutes .",
+            "input": "dough covered",
+            "action": "rise",
+            "output": "proofed dough"
+        },
+        {
+            "instructions": "punch dough down .",
+            "input": "proofed dough",
+            "action": "punch",
+            "output": "proofed dough punched down"
+        },
+        {
+            "instructions": "pat dough into bottom and 1 inch up the sides of a greased 14 inch , pizza\u2012pan .",
+            "input": "proofed dough punched down",
+            "action": "pat",
+            "output": "dough patted into pizza pan"
+        },
+        {
+            "instructions": "combine pizza_sauce and sugar ;",
+            "input": "pizza_sauce and sugar",
+            "action": "combine",
+            "output": "combined pizza_sauce and sugar"
+        },
+        {
+            "instructions": "spread over crust .",
+            "input": "(pizza sauce; dough patted into pizza pan)",
+            "action": "spread",
+            "output": "pizza sauce spread over pizza crust"
+        },
+        {
+            "instructions": "sprinkle with mushrooms , onion , and olives .",
+            "input": "(pizza; mushrooms, onion; olives)",
+            "action": "sprinkle",
+            "output": "pizza sprinkled with mushrooms, onion, and olives"
+        },
+        {
+            "instructions": "bake at 350 degrees for 25 30 minutes or until crust is golden and cheese is melted .",
+            "input": "assembled pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (1/4 ounce) package active dry yeast"
+        },
+        {
+            "text": "1 12 cups warm water (110-115 degrees)"
+        },
+        {
+            "text": "2 tablespoons canola oil"
+        },
+        {
+            "text": "1 14 cups whole wheat flour"
+        },
+        {
+            "text": "2 tablespoons sugar"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 34-2 cups all-purpose flour"
+        },
+        {
+            "text": "1 (15 ounce) can pizza sauce"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "12 cup mushroom, sliced"
+        },
+        {
+            "text": "14 cup chopped onion"
+        },
+        {
+            "text": "14 cup sliced ripe olives"
+        },
+        {
+            "text": "12 lb bulk Italian sausage, cooked and drained"
+        },
+        {
+            "text": "4 ounces Canadian bacon, chopped"
+        },
+        {
+            "text": "2 cups mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a bowl, dissolve the yeast in water and add oil."
+        },
+        {
+            "text": "Combine whole wheat flour, sugar, and salt; add to yeast mixture and stir until smooth."
+        },
+        {
+            "text": "Stir in enough all-purpose flour to form a soft dough."
+        },
+        {
+            "text": "Turn onto a floured surface and knead until smooth, about 8 minutes."
+        },
+        {
+            "text": "Place in a greased bowl; turn once to grease top."
+        },
+        {
+            "text": "Cover and let rise in a warm place for 20 minutes."
+        },
+        {
+            "text": "Punch dough down."
+        },
+        {
+            "text": "Pat dough into bottom and 1-inch up the sides of a greased 14-inch pizza pan."
+        },
+        {
+            "text": "Combine pizza sauce and sugar; spread over crust."
+        },
+        {
+            "text": "Sprinkle with mushrooms, onion, and olives."
+        },
+        {
+            "text": "Layer with sausage, Canadian bacon, and cheese."
+        },
+        {
+            "text": "Bake at 350 degrees for 25-30 minutes or until crust is golden and cheese is melted."
+        }
+    ]
+}

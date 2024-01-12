@@ -1,0 +1,157 @@
+{
+    "title": "best_ever_pizza_crust",
+    "id": "5106d156e6",
+    "table": [
+        {
+            "instructions": "combine 2 cups , flour , yeast , salt , and sugar in a medium bowl .",
+            "input": "(flour; yeast; salt; sugar)",
+            "actions": "combine",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "add in water very warm and olive_oil",
+            "input": "(dry ingredients; warm water; olive_oil)",
+            "actions": "add",
+            "output": "warm water and olive oil added to dry ingredients"
+        },
+        {
+            "instructions": "mix until combined .",
+            "input": "warm water and olive oil added to dry ingredients",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "gradually stir in enough remaining flour until you have a soft dough .",
+            "input": "(dough; flour)",
+            "actions": "stir",
+            "output": "mixed_dough"
+        },
+        {
+            "instructions": "knead on a lightly floured surface until smooth and elastic , about five minutes .",
+            "input": "mixed_dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "kneaded_dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "preheat oven to 450 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly oil your pan",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle with cornmeal .",
+            "input": "NA",
+            "actions": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "if cooking on a pizza stone , use parchment paper sprinkled with cornmeal to make the transition from counter to stone easy .",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll dough out until it is 12 inch thick around the edges or until the pan you re using is full",
+            "input": "kneaded dough",
+            "actions": "roll",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "once dough is spread out , cover with your desired toppings",
+            "input": "(pizza crust; toppings)",
+            "actions": "cover",
+            "output": "pizza crust covered with toppings"
+        },
+        {
+            "instructions": "bake for 8/12 minutes until crust edges are golden brown .",
+            "input": "pizza crust covered with toppings",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "watch crust closely as it can go from golden to overdone quickly , depending on your oven and your toppings .",
+            "input": "baked pizza",
+            "actions": "watch",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups Flour"
+        },
+        {
+            "text": "2- 1/4 teaspoons Rapid-rise Yeast"
+        },
+        {
+            "text": "3/4 teaspoons Salt"
+        },
+        {
+            "text": "1 Tablespoon Sugar"
+        },
+        {
+            "text": "1 cup Warm Water"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        },
+        {
+            "text": "Corn Meal, To Sprinkle On Your Surface"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "This recipe fits in an average pizza pan (14 to 16 size) or a 9x13 baking dish."
+        },
+        {
+            "text": "Combine 2 cups flour, yeast, salt, and sugar in a medium bowl."
+        },
+        {
+            "text": "Add in water (very warm) and olive oil, mix until combined."
+        },
+        {
+            "text": "Gradually stir in enough remaining flour until you have a soft dough."
+        },
+        {
+            "text": "Knead on a lightly floured surface until smooth and elastic, about five minutes."
+        },
+        {
+            "text": "Cover and let rest on the floured surface for 10 minutes."
+        },
+        {
+            "text": "Preheat oven to 450 degrees F. Lightly oil your pan and sprinkle with cornmeal."
+        },
+        {
+            "text": "If cooking on a pizza stone, use parchment paper sprinkled with cornmeal to make the transition from counter to stone easy."
+        },
+        {
+            "text": "I highly encourage you to invest in a pizza stone if you make pizza regularly or if you really want to be able to make restaurant-style crust."
+        },
+        {
+            "text": "It is amazing!"
+        },
+        {
+            "text": "Roll dough out until it is 1/2 inch thick around the edges (or until the pan youre using is full) and dips down just slightly in the middle."
+        },
+        {
+            "text": "Once dough is spread out, cover with your desired toppings and bake for 812 minutes until crust edges are golden brown."
+        },
+        {
+            "text": "Watch crust closely as it can go from golden to overdone quickly, depending on your oven and your toppings."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

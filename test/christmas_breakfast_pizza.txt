@@ -1,0 +1,193 @@
+{
+    "title": "christmas_breakfast_pizza",
+    "id": "621ac7e7a5",
+    "table": [
+        {
+            "instructions": "heat a skillet over medium heat .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "crumble sausage into skillet",
+            "input": "sausage",
+            "actions": "crumble",
+            "output": "crumbled_sausage"
+        },
+        {
+            "instructions": "cook",
+            "input": "crumbled_sausage",
+            "actions": "cook",
+            "output": "cooking crumbled_sausage"
+        },
+        {
+            "instructions": "stir until browned and crumbly , 5 to 7 minutes ;",
+            "input": "cooking crumbled_sausage",
+            "actions": "stir",
+            "output": "cooked crumbled sausage"
+        },
+        {
+            "instructions": "drain",
+            "input": "cooked crumbled sausage",
+            "actions": "drain",
+            "output": "drained cooked crumbled sausage"
+        },
+        {
+            "instructions": "discard grease .",
+            "input": "sausage grease",
+            "actions": "discard",
+            "output": "discarded sausage grease"
+        },
+        {
+            "instructions": "cool sausage .",
+            "input": "drained cooked crumbled sausage",
+            "actions": "cool",
+            "output": "cooled cooked sausage crumbles"
+        },
+        {
+            "instructions": "grease a 9x13 inch , baking dish .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "line the baking dish with crescent_roll , dough .",
+            "input": "crescent_roll dough",
+            "actions": "line",
+            "output": "lined crescent_roll_dough"
+        },
+        {
+            "instructions": "sprinkle cooled sausage and cheddar_cheese over crescent_roll , dough .",
+            "input": "(crescent_roll_dough; cooled_sausage; cheddar_cheese)",
+            "actions": "sprinkle",
+            "output": "cooled sausage and cheddar_cheese over crescent roll dough"
+        },
+        {
+            "instructions": "cover the baking dish with plastic wrap",
+            "input": "NA",
+            "actions": "cover",
+            "output": "NA"
+        },
+        {
+            "instructions": "refrigerate , 8 hours to overnight .",
+            "input": "cooled sausage and cheddar_cheese over crescent roll dough",
+            "actions": "refrigerate",
+            "output": "refrigerated crescent roll pizza"
+        },
+        {
+            "instructions": "preheat oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "whisk eggs , milk , salt , and black_pepper together in a bowl .",
+            "input": "(eggs; milk; salt; black_pepper)",
+            "actions": "whisk",
+            "output": "whisked egg mixture"
+        },
+        {
+            "instructions": "pour egg mixture over sausage and cheese in the baking dish .",
+            "input": "(whisked egg mixture; crescent roll pizza)",
+            "actions": "pour",
+            "output": "egg mixture poured over sausage and cheese pizza"
+        },
+        {
+            "instructions": "cover the baking dish with aluminum foil .",
+            "input": "uncooked breakfast pizza",
+            "actions": "cover",
+            "output": "covered uncooked breakfast pizza"
+        },
+        {
+            "instructions": "bake in the preheated oven for 20 minutes .",
+            "input": "uncooked breakfast pizza",
+            "actions": "bake",
+            "output": "baked breakfast pizza"
+        },
+        {
+            "instructions": "remove",
+            "input": "baked breakfast pizza",
+            "actions": "remove",
+            "output": "baked breakfast pizza"
+        },
+        {
+            "instructions": "discard aluminum foil",
+            "input": "baked breakfast pizza",
+            "actions": "discard",
+            "output": "baked breakfast pizza"
+        },
+        {
+            "instructions": "reduce oven temperature to 325 degrees f 165 degrees c.",
+            "input": "baked breakfast pizza",
+            "actions": "reduce",
+            "output": "baked breakfast pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound ground pork sausage"
+        },
+        {
+            "text": "1 (8 ounce) package refrigerated crescent roll dough, or as needed"
+        },
+        {
+            "text": "8 ounces mild Cheddar cheese, shredded"
+        },
+        {
+            "text": "6 eggs"
+        },
+        {
+            "text": "1/2 cup milk"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "ground black pepper to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat a skillet over medium heat."
+        },
+        {
+            "text": "Crumble sausage into skillet; cook and stir until browned and crumbly, 5 to 7 minutes; drain and discard grease."
+        },
+        {
+            "text": "Cool sausage."
+        },
+        {
+            "text": "Grease a 9x13-inch baking dish."
+        },
+        {
+            "text": "Line the baking dish with crescent roll dough."
+        },
+        {
+            "text": "Sprinkle cooled sausage and Cheddar cheese over crescent roll dough."
+        },
+        {
+            "text": "Cover the baking dish with plastic wrap and refrigerate, 8 hours to overnight."
+        },
+        {
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Whisk eggs, milk, salt, and black pepper together in a bowl."
+        },
+        {
+            "text": "Pour egg mixture over sausage and cheese in the baking dish."
+        },
+        {
+            "text": "Cover the baking dish with aluminum foil."
+        },
+        {
+            "text": "Bake in the preheated oven for 20 minutes."
+        },
+        {
+            "text": "Remove and discard aluminum foil and reduce oven temperature to 325 degrees F (165 degrees C)."
+        },
+        {
+            "text": "Continue baking until egg mixture is set, 15 to 25 minutes."
+        }
+    ]
+}

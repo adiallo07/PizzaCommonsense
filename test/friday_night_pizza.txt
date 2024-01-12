@@ -1,0 +1,109 @@
+{
+    "title": "friday_night_pizza",
+    "id": "8983bbe0ec",
+    "table": [
+        {
+            "instructions": "dissolve yeast and sugar in water ;",
+            "input": "(yeast; sugar; water)",
+            "action": "dissolve",
+            "output": "yeast and sugar dissolved in water"
+        },
+        {
+            "instructions": "add oil .",
+            "input": "dissolved_yeast_mixture; oil",
+            "action": "add",
+            "output": "dissolved_yeast_mixture with oil"
+        },
+        {
+            "instructions": "add flour until dough is not too sticky to handle .",
+            "input": "dissolved_yeast_mixture with oil; flour",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead dough until smooth ;",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "divide into three equal parts .",
+            "input": "kneaded_dough",
+            "action": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "roll out each part to size and shape of your pizza .",
+            "input": "divided doughdough_parts",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "place on greased pan .",
+            "input": "rolled pizza dough",
+            "action": "place",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "add your choice of toppings .",
+            "input": "rolled pizza dough; toppings",
+            "action": "add",
+            "output": "topped_uncooked_rolled pizza dough"
+        },
+        {
+            "instructions": "bake at 500 for 10 12 minute .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups warm water"
+        },
+        {
+            "text": "2 tablespoons yeast"
+        },
+        {
+            "text": "1 tablespoon sugar or 1 tablespoon honey"
+        },
+        {
+            "text": "14 cup oil"
+        },
+        {
+            "text": "5 -6 cups flour"
+        },
+        {
+            "text": "2 (8 ounce) cans tomato sauce, seasoned"
+        },
+        {
+            "text": "meat"
+        },
+        {
+            "text": "6 cups mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve yeast and sugar in water; add oil."
+        },
+        {
+            "text": "Add flour until dough is not too sticky to handle."
+        },
+        {
+            "text": "Knead dough until smooth; divide into three equal parts."
+        },
+        {
+            "text": "Roll out each part to size and shape of your pizza."
+        },
+        {
+            "text": "Place on greased pan."
+        },
+        {
+            "text": "Add your choice of toppings."
+        },
+        {
+            "text": "Bake at 500 for 10-12 minute."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "title": "philly_cheese_steak_french_bread_pizza",
+    "id": "a2dbfaf7a7",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice french_bread in half",
+            "input": "french_bread",
+            "action": "slice",
+            "output": "sliced_french_bread"
+        },
+        {
+            "instructions": "brown beef in large skillet over medium heat .",
+            "input": "raw beef",
+            "action": "brown",
+            "output": "browned beef"
+        },
+        {
+            "instructions": "crumble beef",
+            "input": "browned beef",
+            "action": "crumble",
+            "output": "crumbled beef"
+        },
+        {
+            "instructions": "cook until no longer pink .",
+            "input": "crumbled beef",
+            "action": "cook",
+            "output": "cooked crumbled beef"
+        },
+        {
+            "instructions": "add garlic and oregano .",
+            "input": "(cooked crumbled beef; garlic; oregano)",
+            "action": "add",
+            "output": "cooked crumbled beef with garlic and oregano"
+        },
+        {
+            "instructions": "stir in steak_sauce and beef_broth .",
+            "input": "(cooked crumbled beef with garlic and oregano; steak sauce; beef broth)",
+            "action": "stir",
+            "output": "beef mixture with steak_sauce and beef_broth"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "beef mixture with steak_sauce and beef_broth",
+            "action": "reduce",
+            "output": "simmering beef mixture with steak_sauce and beef_broth"
+        },
+        {
+            "instructions": "remove .",
+            "input": "simmering beef mixture with steak_sauce and beef_broth",
+            "action": "remove",
+            "output": "simmering beef mixture with steak_sauce and beef_broth"
+        },
+        {
+            "instructions": "spoon beef into hollowed out bread",
+            "input": "simmering beef mixture with steak_sauce and beef_broth",
+            "action": "spoon",
+            "output": "beef mixture-filled hollowed-out sliced_french_bread"
+        },
+        {
+            "instructions": "cover with sliced peppers , onions and cheese .",
+            "input": "(beef mixture-filled hollowed-out sliced_french_bread; sliced peppers; onions; cheese)",
+            "action": "cover",
+            "output": "covered beef mixture-filled hollowed-out sliced_french_bread with sliced peppers, onions, and cheese"
+        },
+        {
+            "instructions": "bake in preheated oven for 5 10 minutes , or until cheese has melted .",
+            "input": "uncooked philly_cheese_steak_french_bread_pizza",
+            "action": "bake",
+            "output": "baked philly_cheese_steak_french_bread_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pint Ground Beef"
+        },
+        {
+            "text": "2 cloves Garlic, Minced"
+        },
+        {
+            "text": "1 teaspoon Oregano, Dried"
+        },
+        {
+            "text": "1/4 cups Steak Sauce"
+        },
+        {
+            "text": "3/4 cups Beef Broth"
+        },
+        {
+            "text": "1 whole French Bread Loaf"
+        },
+        {
+            "text": "1 whole Green Pepper, Sliced"
+        },
+        {
+            "text": "1 whole Onion, Thinly Sliced"
+        },
+        {
+            "text": "1- 1/2 cup Shredded Provolone Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees F. Slice French bread in half and hollow out the inside."
+        },
+        {
+            "text": "Brown beef in large skillet over medium heat."
+        },
+        {
+            "text": "Crumble beef and cook until no longer pink."
+        },
+        {
+            "text": "Add garlic and oregano."
+        },
+        {
+            "text": "Stir in steak sauce and beef broth."
+        },
+        {
+            "text": "Bring to a boil, reduce heat and let simmer until liquid reduced to more than half."
+        },
+        {
+            "text": "Remove."
+        },
+        {
+            "text": "Spoon beef into hollowed out bread, cover with sliced peppers, onions and cheese."
+        },
+        {
+            "text": "Bake in preheated oven for 5-10 minutes, or until cheese has melted."
+        }
+    ]
+}

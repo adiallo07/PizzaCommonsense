@@ -1,0 +1,169 @@
+{
+    "title": "shiso_and_sweet_onion_pizza",
+    "id": "a2ccd95292",
+    "table": [
+        {
+            "instructions": "place the eggs in hot_water for about 10 minutes",
+            "input": "(eggs; hot_water)",
+            "actions": "place",
+            "output": "eggs in hot water"
+        },
+        {
+            "instructions": "turn on the heat .",
+            "input": "eggs in hot water",
+            "actions": "turn",
+            "output": "eggs in hot water"
+        },
+        {
+            "instructions": "cut the onion in half",
+            "input": "onion",
+            "actions": "cut",
+            "output": "half_onion"
+        },
+        {
+            "instructions": "thinly slice .",
+            "input": "half_onion",
+            "actions": "slice",
+            "output": "sliced_onion"
+        },
+        {
+            "instructions": "finely chop 1 shiso leaf .",
+            "input": "shiso leaf",
+            "actions": "chop",
+            "output": "finely_chopped_shiso_leaf"
+        },
+        {
+            "instructions": "roughly chop the other",
+            "input": "shiso_leaf",
+            "actions": "chop",
+            "output": "roughly_chopped_shiso_leaf"
+        },
+        {
+            "instructions": "in a bowl , combine the roughly chopped shiso leaves and the ingredients .",
+            "input": "(roughly_chopped_shiso_leaf; ingredients)",
+            "actions": "combine",
+            "output": "shiso_leaves_mixture"
+        },
+        {
+            "instructions": "use a boiled_egg cutter to slice the boiled_egg .",
+            "input": "boiled_egg",
+            "actions": "use",
+            "output": "sliced_boiled_egg"
+        },
+        {
+            "instructions": "spread the pizza_sauce over the two pizza_crust ,",
+            "input": "(pizza_sauce; pizza_crust)",
+            "actions": "spread",
+            "output": "pizza_sauce_spread_on_pizza_crust"
+        },
+        {
+            "instructions": "spread the mixture from step 2 over that , leaving no gaps .",
+            "input": "(shiso_leaves_mixture; pizza_sauce_spread_on_pizza_crust)",
+            "actions": "spread",
+            "output": "shiso_leaves_mixture_spread_on_pizza_crust"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(shiso_pizza_base; cheese)",
+            "actions": "top",
+            "output": "shiso_pizza_base_topped_with_cheese"
+        },
+        {
+            "instructions": "garnish with the finely chopped shiso leaf",
+            "input": "(shiso_pizza_base_topped_with_cheese; finely_chopped_shiso_leaf)",
+            "actions": "garnish",
+            "output": "pizza_garnished_with_finely_chopped_shiso_leaf"
+        },
+        {
+            "instructions": "turn off the heat",
+            "input": "NA",
+            "actions": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the eggs ,",
+            "input": "eggs",
+            "actions": "add",
+            "output": "added_eggs_to_pizza_garnished_with_finely_chopped_shiso_leaf"
+        },
+        {
+            "instructions": "top the pizza with it after baking .",
+            "input": "baked_pizza",
+            "actions": "top",
+            "output": "topped_pizza_with_eggs"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 I used"
+        },
+        {
+            "text": "1 Pizza Sauce"
+        },
+        {
+            "text": "1 Grated mozzarella cheese"
+        },
+        {
+            "text": "1 can Canned tuna"
+        },
+        {
+            "text": "1/4 Spring onion"
+        },
+        {
+            "text": "5 leaves Shiso leaves"
+        },
+        {
+            "text": "1 dash Salt and pepper"
+        },
+        {
+            "text": "1 dash Soy sauce"
+        },
+        {
+            "text": "1 pinch Sugar"
+        },
+        {
+            "text": "1 Mayonnaise"
+        },
+        {
+            "text": "4 Eggs"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place the eggs in hot water for about 10 minutes and turn on the heat."
+        },
+        {
+            "text": "Cut the onion in half and thinly slice."
+        },
+        {
+            "text": "Finely chop 1 shiso leaf."
+        },
+        {
+            "text": "Roughly chop the other 4."
+        },
+        {
+            "text": "In a bowl, combine the roughly chopped shiso leaves and the ingredients."
+        },
+        {
+            "text": "Use a boiled egg cutter to slice the boiled eggs."
+        },
+        {
+            "text": "Spread the pizza sauce over the two pizza crusts, then spread the mixture from Step 2 over that, leaving no gaps."
+        },
+        {
+            "text": "Top with cheese."
+        },
+        {
+            "text": "If you cook it on a grill, it will become nice and crispy quickly."
+        },
+        {
+            "text": "You can also use an oven or toaster oven."
+        },
+        {
+            "text": "Garnish with the finely chopped shiso leaf and enjoy!"
+        },
+        {
+            "text": "Variation: Bring the water in Step 1 to a boil, turn off the heat, add the eggs, and let sit for 15~20 minutes to make onsen tamago, then top the pizza with it after baking."
+        }
+    ]
+}

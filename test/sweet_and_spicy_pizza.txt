@@ -1,0 +1,148 @@
+{
+    "title": "sweet_and_spicy_pizza",
+    "id": "db351efa57",
+    "table": [
+        {
+            "instructions": "to make the cilantro sauce for the pizza",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine cumin , cilantro , olive_oil , garlic_salt and pepper .",
+            "input": "(cumin; cilantro; olive_oil; garlic_salt; pepper)",
+            "action": "combine",
+            "output": "cilantro sauce"
+        },
+        {
+            "instructions": "set aside until needed .",
+            "input": "cilantro sauce",
+            "action": "set",
+            "output": "cilantro sauce"
+        },
+        {
+            "instructions": "dust surface with cornmeal",
+            "input": "NA",
+            "action": "dust",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll 16 oz .",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled_pizza dough"
+        },
+        {
+            "instructions": "combine 2 oz\u00a0poblano chile,\u00a0Anaheim chile, ancho peppers and\u00a0pizza sauce.",
+            "input": "(poblano chile; Anaheim chile; ancho peppers; pizza sauce)",
+            "action": "combine",
+            "output": "spicy pizza sauce mixture"
+        },
+        {
+            "instructions": "spread on dough ;",
+            "input": "(spicy pizza sauce mixture; pizza_dough)",
+            "action": "spread",
+            "output": "spicy pizza sauce mixture_spread_on_dough"
+        },
+        {
+            "instructions": "add 5 14 oz mozzarella and cilantro sauce",
+            "input": "(pizza crust with spicy pizza sauce mixture; mozzarella; cilantro sauce)",
+            "action": "add",
+            "output": "mozzarella and cilantro sauce added to pizza crust with spicy pizza sauce mixture"
+        },
+        {
+            "instructions": "bake at 500f for 7 8 minutes until golden brown .",
+            "input": "uncooked sweet_and_spicy_pizza",
+            "action": "bake",
+            "output": "baked sweet_and_spicy_pizza"
+        },
+        {
+            "instructions": "cut each pizza into 8 slices .",
+            "input": "baked sweet_and_spicy_pizza",
+            "action": "cut",
+            "output": "pizza_slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3/4 cup cumin, toasted"
+        },
+        {
+            "text": "3/4 cup fresh cilantro, chopped"
+        },
+        {
+            "text": "1-1/2 cups olive oil"
+        },
+        {
+            "text": "6 Tbsp. garlic, chopped"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "pepper"
+        },
+        {
+            "text": "cornmeal"
+        },
+        {
+            "text": "12 each Pizza Dough, 16 oz. balls"
+        },
+        {
+            "text": "6 cups poblano chile peppers, sliced, seeded and sauteed"
+        },
+        {
+            "text": "3 cups Anaheim chile, sliced, seeded and sauteed"
+        },
+        {
+            "text": "3/4 cup ancho chile, reconstituted, sliced, seeded and skin removed"
+        },
+        {
+            "text": "6 cups pizza sauce"
+        },
+        {
+            "text": "42 each , cut in half"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "To make the cilantro sauce for the pizza, combine cumin, cilantro, olive oil, garlic, salt and pepper."
+        },
+        {
+            "text": "Set aside until needed."
+        },
+        {
+            "text": "To assemble each pizza, dust surface with cornmeal and roll 16 oz."
+        },
+        {
+            "text": "dough into 12\" diameter."
+        },
+        {
+            "text": "Combine 2 oz."
+        },
+        {
+            "text": "poblano, 1 oz."
+        },
+        {
+            "text": "Anaheim, 1/2 oz."
+        },
+        {
+            "text": "ancho peppers, 5 oz."
+        },
+        {
+            "text": "pizza sauce and spread on dough; add 5-1/4 oz."
+        },
+        {
+            "text": "mozzarella and 4-1/2 tablespoons cilantro sauce."
+        },
+        {
+            "text": "Bake at 500F for 7-8 minutes until golden brown."
+        },
+        {
+            "text": "Cut each pizza into 8 slices."
+        },
+        {
+            "text": "Yield: 12 Servings."
+        }
+    ]
+}

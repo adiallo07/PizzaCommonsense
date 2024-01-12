@@ -1,0 +1,133 @@
+{
+    "title": "portabella_pizzas",
+    "id": "44c854d53b",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "drizzle mushrooms with 1 tsp , oil",
+            "input": "(portobello mushrooms; oil)",
+            "action": "drizzle",
+            "output": "mushrooms drizzled with oil"
+        },
+        {
+            "instructions": "roast for 12 minutes .",
+            "input": "mushrooms drizzled with oil",
+            "action": "roast",
+            "output": "roasted mushrooms"
+        },
+        {
+            "instructions": "drizzle with 1 tsp , olive_oil .",
+            "input": "(roasted mushrooms; olive oil)",
+            "action": "drizzle",
+            "output": "roasted mushrooms drizzled with olive oil"
+        },
+        {
+            "instructions": "sprinkle with onion_salt , and pepper .",
+            "input": "(onion_salt; pepper; roasted mushrooms with olive oil)",
+            "action": "sprinkle",
+            "output": "onion_salt and pepper sprinkled on roasted mushrooms with olive oil"
+        },
+        {
+            "instructions": "top with 2 slices cheese per mushroom ,",
+            "input": "(cheese; seasoned roasted mushooms)",
+            "action": "top",
+            "output": "seasoned mushrooms topped with cheese"
+        },
+        {
+            "instructions": "return to oven .",
+            "input": "seasoned mushrooms topped with cheese",
+            "action": "return",
+            "output": "seasoned mushrooms topped with cheese"
+        },
+        {
+            "instructions": "bake for 5 minute .",
+            "input": "seasoned mushrooms topped with cheese",
+            "action": "bake",
+            "output": "baked seasoned mushrooms topped with cheese"
+        },
+        {
+            "instructions": "add italian_seasoning and pepper_flake",
+            "input": "(italian_seasoning; pepper_flake; baked seasoned mushrooms topped with cheese)",
+            "action": "add",
+            "output": "italian_seasoning and pepper_flake added to mushrooms pizza"
+        },
+        {
+            "instructions": "serve !",
+            "input": "mushroom pizza",
+            "action": "serve",
+            "output": "served mushroom pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 large portabella mushrooms, stems removed"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "4 pieces marinated eggplant, drained and sliced"
+        },
+        {
+            "text": "1 jarred roasted pepper, drained and sliced"
+        },
+        {
+            "text": "4 water-packed artichoke hearts, drained and sliced"
+        },
+        {
+            "text": "3 tablespoons basil, chopped"
+        },
+        {
+            "text": "14 cup arugula"
+        },
+        {
+            "text": "14 cup onion, diced"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon pepper"
+        },
+        {
+            "text": "4 slices provolone cheese"
+        },
+        {
+            "text": "1 teaspoon crushed red pepper flakes"
+        },
+        {
+            "text": "1 teaspoon italian seasoning"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheat oven to 450F."
+        },
+        {
+            "text": "drizzle mushrooms with 1 tsp oil and roast for 12 minutes."
+        },
+        {
+            "text": "layer caps with eggplant, peppers, artichokes, basil, and arugula."
+        },
+        {
+            "text": "drizzle with 1 tsp olive oil."
+        },
+        {
+            "text": "sprinkle with onion, salt, and pepper."
+        },
+        {
+            "text": "top with 2 slices cheese per mushroom, then return to oven."
+        },
+        {
+            "text": "bake for 5 minute."
+        },
+        {
+            "text": "add italian seasoning and pepper flakes and serve!"
+        }
+    ]
+}

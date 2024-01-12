@@ -1,0 +1,70 @@
+{
+    "title": "another_easy_pizza_sauce",
+    "id": "d0b7da8858",
+    "table": [
+        {
+            "instructions": "crush the tomatoes well .",
+            "input": "tomatoes",
+            "actions": "crush",
+            "output": "crushed_tomatoes"
+        },
+        {
+            "instructions": "do not drain .",
+            "input": "crushed_tomatoes",
+            "actions": "drain",
+            "output": "crushed_tomatoes"
+        },
+        {
+            "instructions": "stir in the rest of the ingredients .",
+            "input": "(remaining_ingredients; crushed_tomatoes)",
+            "actions": "stir",
+            "output": "remaining_ingredients_stirred_in_crushed_tomatoes"
+        },
+        {
+            "instructions": "i usually make it in the morning",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (14 ounce) can whole tomatoes or 1 (14 ounce) can plum tomatoes"
+        },
+        {
+            "text": "2 tablespoons good quality olive oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon red pepper flakes"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "12 teaspoon dried basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Crush the tomatoes well."
+        },
+        {
+            "text": "Do not drain."
+        },
+        {
+            "text": "Stir in the rest of the ingredients."
+        },
+        {
+            "text": "Sauce can be made a day in advance and refrigerated."
+        },
+        {
+            "text": "I usually make it in the morning and let it sit."
+        },
+        {
+            "text": "This is enough sauce for 3-4 pizzas, depending on how saucy you like it!"
+        }
+    ]
+}

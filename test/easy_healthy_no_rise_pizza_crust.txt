@@ -1,0 +1,100 @@
+{
+    "title": "easy_healthy_no_rise_pizza_crust",
+    "id": "53c0960a75",
+    "table": [
+        {
+            "instructions": "dissolve the yeast in the water in a large bowl .",
+            "input": "(yeast; water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "add the rest of the ingredients in",
+            "input": "(whole wheat flour; optional wheat gluten; dissolved yeast; salt; olive oil)",
+            "action": "add",
+            "output": "pizza dough"
+        },
+        {
+            "instructions": "mix .",
+            "input": "pizza dough",
+            "action": "mix",
+            "output": "pizza dough"
+        },
+        {
+            "instructions": "dump onto a well floured surface .",
+            "input": "pizza dough",
+            "action": "dump",
+            "output": "pizza dough"
+        },
+        {
+            "instructions": "roll out",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "add toppings as desired",
+            "input": "(toppings; raw pizza crust)",
+            "action": "add",
+            "output": "toppings added to raw pizza crust"
+        },
+        {
+            "instructions": "bake at 450 for around 12 15 minutes .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "if you have a stone , i bake it on the bottom rack",
+            "input": "NA",
+            "action": "bake",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon active dry yeast"
+        },
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "2 12 cups whole wheat flour"
+        },
+        {
+            "text": "2 tablespoons wheat gluten (optional, it helps it rise more like white flour but I usually do without) (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve the yeast in the water in a large bowl."
+        },
+        {
+            "text": "Add the rest of the ingredients in and mix."
+        },
+        {
+            "text": "Dump onto a well floured surface."
+        },
+        {
+            "text": "Knead into a smooth dough (takes me about 3-5 minutes tops)."
+        },
+        {
+            "text": "Roll out and press down onto a greased pizza pan (I like to sprinkle a little corn meal on the pan before pressing down the dough)."
+        },
+        {
+            "text": "Add toppings as desired and bake at 450 for around 12-15 minutes."
+        },
+        {
+            "text": "If you have a stone, I bake it on the bottom rack so it evenly cooks the crust without the cheese getting too crunchy."
+        },
+        {
+            "text": "You can also add some wheat germ or ground flax seed for added healthiness."
+        }
+    ]
+}

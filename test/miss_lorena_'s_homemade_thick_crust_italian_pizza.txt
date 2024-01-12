@@ -1,0 +1,214 @@
+{
+    "title": "miss_lorena_'s_homemade_thick_crust_italian_pizza",
+    "id": "aae63214af",
+    "table": [
+        {
+            "instructions": "pour yeast and water in large bowl .",
+            "input": "(yeast; water)",
+            "action": "pour",
+            "output": "dissolved yeast"
+        },
+        {
+            "instructions": "stir",
+            "input": "dissolved yeast",
+            "action": "stir",
+            "output": "dissolved yeast"
+        },
+        {
+            "instructions": "gradually add flour .",
+            "input": "(dissolved yeast; flour)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead the dough .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "coat the bowl with oil",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "pat on the dough .",
+            "input": "kneaded_dough",
+            "action": "pat",
+            "output": "patted_dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "patted_dough",
+            "action": "cover",
+            "output": "covered resting_dough"
+        },
+        {
+            "instructions": "let rise approximately 4 hrs .",
+            "input": "covered resting_dough",
+            "action": "rise",
+            "output": "proofed dough"
+        },
+        {
+            "instructions": "heat oil in a large pot .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add onion and saute .",
+            "input": "(heated oil; onion)",
+            "action": "add",
+            "output": "sauteed_onion"
+        },
+        {
+            "instructions": "add the tomatoes , oregano and salt .",
+            "input": "(sauteed_onion; tomatoes; oregano; salt)",
+            "action": "add",
+            "output": "tomato sauce "
+        },
+        {
+            "instructions": "stir .",
+            "input": "cooking tomato sauce ",
+            "action": "stir",
+            "output": "cooking tomato sauce "
+        },
+        {
+            "instructions": "then turn heat to low .",
+            "input": "cooking tomato sauce ",
+            "action": "turn",
+            "output": "cooking tomato sauce "
+        },
+        {
+            "instructions": "stir often .",
+            "input": "cooking tomato sauce ",
+            "action": "stir",
+            "output": "cooking tomato sauce "
+        },
+        {
+            "instructions": "add brown_sugar to taste .",
+            "input": "(cooking tomato sauce ; brown sugar)",
+            "action": "add",
+            "output": "brown sugar added to cooking tomato sauce"
+        },
+        {
+            "instructions": "once dough has risen , divide in half",
+            "input": "proofed dough",
+            "action": "divide",
+            "output": "halved_dough"
+        },
+        {
+            "instructions": "spread out on 2 cookie sheets .",
+            "input": "halved_dough",
+            "action": "spread",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "add grated mozzarella and toppings .",
+            "input": "(pizza crust; grated mozzarella; toppings)",
+            "action": "add",
+            "output": "grated mozzarella and toppings added to pizza crust"
+        },
+        {
+            "instructions": "bake at 350 for 30 minutes .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package fast rising yeast"
+        },
+        {
+            "text": "3 cups water"
+        },
+        {
+            "text": "6 cups flour"
+        },
+        {
+            "text": "2 tablespoons oil"
+        },
+        {
+            "text": "1 tablespoon oil"
+        },
+        {
+            "text": "1 large onion, chopped"
+        },
+        {
+            "text": "2 (28 ounce) cans whole tomatoes, chopped"
+        },
+        {
+            "text": "1 tablespoon oregano"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 tablespoon brown sugar"
+        },
+        {
+            "text": "1 cup mozzarella cheese"
+        },
+        {
+            "text": "ham"
+        },
+        {
+            "text": "pineapple"
+        },
+        {
+            "text": "pepperoni"
+        },
+        {
+            "text": "green pepper (whatever you prefer)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pour yeast and water in large bowl."
+        },
+        {
+            "text": "Stir and gradually add flour."
+        },
+        {
+            "text": "Knead the dough."
+        },
+        {
+            "text": "Coat the bowl with oil and pat on the dough."
+        },
+        {
+            "text": "Cover and let rise (approximately 4 hrs)."
+        },
+        {
+            "text": "Heat oil in a large pot."
+        },
+        {
+            "text": "Add onion and saute."
+        },
+        {
+            "text": "Add the tomatoes, oregano and salt."
+        },
+        {
+            "text": "Stir."
+        },
+        {
+            "text": "Bring to a boil and then turn heat to low."
+        },
+        {
+            "text": "Stir often."
+        },
+        {
+            "text": "Once it starts to thicken, add brown sugar to taste."
+        },
+        {
+            "text": "Once dough has risen, divide in half and spread out on 2 cookie sheets."
+        },
+        {
+            "text": "Add grated mozzarella and toppings."
+        },
+        {
+            "text": "Bake at 350 for 30 minutes."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "title": "simple_homemade_pizza_sauce",
+    "id": "5cc74fb5ca",
+    "table": [
+        {
+            "instructions": "in a saucepan , add all_ingredient .",
+            "input": "all_ingredient",
+            "actions": "add",
+            "output": "added_all_ingredient"
+        },
+        {
+            "instructions": "stir until smooth .",
+            "input": "all_ingredient",
+            "actions": "stir",
+            "output": "mixed_all_ingredient"
+        },
+        {
+            "instructions": "cook on low heat for 20 30 minutes .",
+            "input": "mixed_all_ingredient",
+            "actions": "cook",
+            "output": "cooked_all_ingredient"
+        },
+        {
+            "instructions": "use within 2 weeks .",
+            "input": "cooked_all_ingredient",
+            "actions": "use",
+            "output": "use_cooked_all_ingredient"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "15 ounces, weight Canned Tomato Sauce"
+        },
+        {
+            "text": "3 ounces, weight Canned Tomato Paste"
+        },
+        {
+            "text": "1 teaspoon Minced Garlic"
+        },
+        {
+            "text": "1 teaspoon Onion Powder"
+        },
+        {
+            "text": "2 teaspoons Dried Oregano"
+        },
+        {
+            "text": "1 whole Dry Bay Leaf"
+        },
+        {
+            "text": "1/4 teaspoons Dried Red Pepper Flakes"
+        },
+        {
+            "text": "2 teaspoons Brown Sugar"
+        },
+        {
+            "text": "2 Tablespoons Water"
+        },
+        {
+            "text": "1/4 teaspoons Salt"
+        },
+        {
+            "text": "1/4 teaspoons Pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a saucepan, add all ingredients."
+        },
+        {
+            "text": "Stir until smooth."
+        },
+        {
+            "text": "Cook on low heat for 20-30 minutes."
+        },
+        {
+            "text": "Keep covered in refrigerator."
+        },
+        {
+            "text": "Use within 2 weeks."
+        },
+        {
+            "text": "Recipe yields approximately 12-14 ounces of sauce."
+        }
+    ]
+}

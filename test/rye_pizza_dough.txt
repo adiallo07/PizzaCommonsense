@@ -1,0 +1,184 @@
+{
+    "title": "rye_pizza_dough",
+    "id": "586f854a51",
+    "table": [
+        {
+            "instructions": "mix 2 12 cups all_purpose_flour , rye_flour , and salt together in a bowl .",
+            "input": "(all_purpose_flour; rye_flour; salt)",
+            "actions": "mix",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "pour 12 cup water into a microwave safe bowl ;",
+            "input": "Water",
+            "actions": "pour",
+            "output": "Water"
+        },
+        {
+            "instructions": "heat in microwave for 30 seconds .",
+            "input": "Water",
+            "actions": "heat",
+            "output": "warm_water"
+        },
+        {
+            "instructions": "stir brown_sugar into water until dissolved ;",
+            "input": "(warm_water; brown_sugar)",
+            "actions": "stir",
+            "output": "Brown sugar mixture"
+        },
+        {
+            "instructions": "add yeast",
+            "input": "(yeast; brown sugar mixture)",
+            "actions": "add",
+            "output": "brown sugar and yeast mixture"
+        },
+        {
+            "instructions": "stir .",
+            "input": "brown sugar and yeast mixture",
+            "actions": "stir",
+            "output": "stirred yeast mixture"
+        },
+        {
+            "instructions": "pour yeast mixture into flour mixture .",
+            "input": "(stirred yeast mixture; flour_mixture)",
+            "actions": "pour",
+            "output": "Poured stirred yeast mixture in flour mixture"
+        },
+        {
+            "instructions": "pour remaining 1 cup water into a microwave safe bowl ;",
+            "input": "Water",
+            "actions": "pour",
+            "output": "Water"
+        },
+        {
+            "instructions": "heat in microwave for 30 seconds .",
+            "input": "Water",
+            "actions": "heat",
+            "output": "warm_water"
+        },
+        {
+            "instructions": "stir olive_oil into the warm_water ;",
+            "input": "(Olive_oil; warm_water)",
+            "actions": "stir",
+            "output": "Stirred water_oil_mixture"
+        },
+        {
+            "instructions": "pour over flour mixture .",
+            "input": "(flour_mixture; water_oil_mixture)",
+            "actions": "pour",
+            "output": "Flour_oil_mixture"
+        },
+        {
+            "instructions": "knead flour mixture , adding more all_purpose_flour if dough is sticky , until dough is smooth",
+            "input": "(flour_oil_mixture; flour)",
+            "actions": "knead",
+            "output": "Kneaded_dough"
+        },
+        {
+            "instructions": "form dough into a ball",
+            "input": "kneaded_dough",
+            "actions": "form",
+            "output": "dough_balls"
+        },
+        {
+            "instructions": "place in a bowl .",
+            "input": "dough_balls",
+            "actions": "place",
+            "output": "dough_balls"
+        },
+        {
+            "instructions": "cover bowl with a damp towel",
+            "input": "dough_balls",
+            "actions": "cover",
+            "output": "dough_balls_covered"
+        },
+        {
+            "instructions": "let rise until doubled in size , about 1 hour .",
+            "input": "ball fo dough",
+            "actions": "rise",
+            "output": "risen ball of dough"
+        },
+        {
+            "instructions": "punch dough down",
+            "input": "risen ball of doughs",
+            "actions": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "transfer to a floured work surface .",
+            "input": "punched down dough",
+            "actions": "transfer",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "roll or shape dough into desired shape .",
+            "input": "punched down dough",
+            "actions": "roll",
+            "output": "shaped_dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 1/2 cups unbleached all-purpose flour"
+        },
+        {
+            "text": "1 cup rye flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 1/2 cups water, divided"
+        },
+        {
+            "text": "1 teaspoon brown sugar"
+        },
+        {
+            "text": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "text": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "text": "1/2 cup all-purpose flour for kneading dough, or as needed"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix 2 1/2 cups all-purpose flour, rye flour, and salt together in a bowl."
+        },
+        {
+            "text": "Pour 1/2 cup water into a microwave-safe bowl; heat in microwave for 30 seconds."
+        },
+        {
+            "text": "Stir brown sugar into water until dissolved; add yeast and stir."
+        },
+        {
+            "text": "Let mixture stand until bubbling, about 10 minutes."
+        },
+        {
+            "text": "Pour yeast mixture into flour mixture."
+        },
+        {
+            "text": "Pour remaining 1 cup water into a microwave-safe bowl; heat in microwave for 30 seconds."
+        },
+        {
+            "text": "Stir olive oil into the warm water; pour over flour mixture."
+        },
+        {
+            "text": "Knead flour mixture, adding more all-purpose flour if dough is sticky, until dough is smooth and holds together."
+        },
+        {
+            "text": "Form dough into a ball and place in a bowl."
+        },
+        {
+            "text": "Cover bowl with a damp towel and let rise until doubled in size, about 1 hour."
+        },
+        {
+            "text": "Punch dough down and transfer to a floured work surface."
+        },
+        {
+            "text": "Roll or shape dough into desired shape."
+        }
+    ]
+}

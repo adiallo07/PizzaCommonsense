@@ -1,0 +1,121 @@
+{
+    "title": "easy_english_pizza",
+    "id": "f0e190ebbf",
+    "table": [
+        {
+            "instructions": "combine ingredients for the sauce in a small pot , and bring it to a boil .",
+            "input": "(tomato paste; garlic powder; sugar; oregano; basil)",
+            "action": "combine",
+            "output": "pizza sauce"
+        },
+        {
+            "instructions": "cut the english_muffin in half ,",
+            "input": "English muffin",
+            "action": "cut",
+            "output": "English muffin cut in half"
+        },
+        {
+            "instructions": "put sauce on both sides .",
+            "input": "English muffin halves",
+            "action": "put",
+            "output": "Sauce spread on both sides of english muffin halves"
+        },
+        {
+            "instructions": "then top both sides with cheese , and bottom half with other toppings .",
+            "input": "(Cheese, Toppings; english muffin halves with pizza sauce)",
+            "action": "top",
+            "output": "Cheese and toppings added to the muffin halves"
+        },
+        {
+            "instructions": "line a cookie sheet with foil ,",
+            "input": "NA",
+            "action": "line",
+            "output": "Cookie sheet lined with foil"
+        },
+        {
+            "instructions": "place all halves on the cookie sheet , face up .",
+            "input": "Muffin halves with toppings",
+            "action": "place",
+            "output": "Muffin halves with toppings placed on the foil face up"
+        },
+        {
+            "instructions": "turn on the broil cycle of your oven ,",
+            "input": "NA",
+            "action": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "broil for 3 5 minutes or until cheese is melted .",
+            "input": "Muffin halves with toppings placed on the foil face up",
+            "action": "broil",
+            "output": "broiled english muffin halves with toppings"
+        },
+        {
+            "instructions": "then put the top halves on the bottom ones",
+            "input": "broiled english muffin halves with toppings",
+            "action": "put",
+            "output": "Muffin halves assembled with top halves on the bottom ones"
+        },
+        {
+            "instructions": "serve with remaining sauce to dip inches .",
+            "input": "Assembled muffin halves",
+            "action": "serve",
+            "output": "Ready to serve with remaining sauce for dipping"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "2 tablespoons sugar"
+        },
+        {
+            "text": "12 teaspoon oregano"
+        },
+        {
+            "text": "14 teaspoon basil"
+        },
+        {
+            "text": "4 English muffins (I used homemade potato buns, but have made it with english muffins too!)"
+        },
+        {
+            "text": "9 -12 slices pepperoni"
+        },
+        {
+            "text": "2 tablespoons chopped yellow peppers"
+        },
+        {
+            "text": "2 tablespoons chopped red peppers"
+        },
+        {
+            "text": "23 cup pre-shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine ingredients for the sauce in a small pot, and bring it to a boil."
+        },
+        {
+            "text": "Cut the English muffins in half, and put sauce on both sides."
+        },
+        {
+            "text": "Then top both sides with cheese, and bottom half with other toppings."
+        },
+        {
+            "text": "Can use whatever your favorite toppings are."
+        },
+        {
+            "text": "Line a Cookie sheet with foil, and place all halves on the cookie sheet, face up."
+        },
+        {
+            "text": "Turn on the Broil cycle of your oven, and broil for 3-5 minutes or until cheese is melted."
+        },
+        {
+            "text": "Then put the top halves on the bottom ones and serve with remaining sauce to dip inches."
+        }
+    ]
+}

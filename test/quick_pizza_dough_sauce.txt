@@ -1,0 +1,151 @@
+{
+    "title": "quick_pizza_dough_sauce",
+    "id": "c1fa7d45a0",
+    "table": [
+        {
+            "instructions": "for dough in a food processor , combine 1 cup , flour , the yeast , and sugar .",
+            "input": "(flour; yeast; sugar)",
+            "action": "combine",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "add 113 cups hot_water .",
+            "input": "(hot water; dry ingredients)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "add salt and remaining flour .",
+            "input": "(salt; remaining flour; dough)",
+            "action": "add",
+            "output": "salt and remaining flour added to dough"
+        },
+        {
+            "instructions": "bend until ball forms ;",
+            "input": "dough mixture",
+            "action": "bend",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "for sauce in a saucepan , cook onion and garlic in oil over moderate to low heat , stirring after 5 minutes .",
+            "input": "(oil; onion; garlic)",
+            "action": "cook",
+            "output": "cooked onion and garlic"
+        },
+        {
+            "instructions": "add sugar , thyme , basil , oregano ;",
+            "input": "(sugar; thyme; basil; oregano; cooked onion and garlic)",
+            "action": "add",
+            "output": "herbs and sugar added to cooked onion and garlic"
+        },
+        {
+            "instructions": "cook until onion is soft .",
+            "input": "onion and garlic with herbs in heated oil",
+            "action": "cook",
+            "output": "cooked onion, garlic and herb mixture"
+        },
+        {
+            "instructions": "pour into food processor",
+            "input": "cooked onion, garlic and herb mixture",
+            "action": "pour",
+            "output": "blended onion, garlic and herb mixture"
+        },
+        {
+            "instructions": "return to pan",
+            "input": "blended onion, garlic and herb mixture",
+            "action": "return",
+            "output": "blended sauce"
+        },
+        {
+            "instructions": "cook for 15 minutes .",
+            "input": "blended sauce",
+            "action": "cook",
+            "output": "cooked sauce"
+        },
+        {
+            "instructions": "cool before using .",
+            "input": "cooked sauce",
+            "action": "cool",
+            "output": "cooled cooked sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 cups flour, all-purpose"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "2 1/2 teaspoons yeast, active dry fast acting"
+        },
+        {
+            "text": "1 each onions finely chopped"
+        },
+        {
+            "text": "1 each garlic clove, minced"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1/2 teaspoon sugar"
+        },
+        {
+            "text": "18 teaspoon thyme"
+        },
+        {
+            "text": "18 teaspoon basil"
+        },
+        {
+            "text": "18 teaspoon oregano"
+        },
+        {
+            "text": "28 ounces tomatoes can, drained"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For dough: In a food processor, combine 1 cup flour, the yeast, and sugar."
+        },
+        {
+            "text": "Pulse on and off to mix."
+        },
+        {
+            "text": "Add 113 cups hot water."
+        },
+        {
+            "text": "Add salt & remaining flour."
+        },
+        {
+            "text": "Bend until ball forms; then 10 seconds more."
+        },
+        {
+            "text": "You may have to adjust the dough by adding more water/flour."
+        },
+        {
+            "text": "Dough should not be too stiff or too soft."
+        },
+        {
+            "text": "Let rest/rise for 10 minutes or so."
+        },
+        {
+            "text": "For sauce: In a saucepan, cook onion and garlic in oil over moderate to low heat, stirring after 5 minutes."
+        },
+        {
+            "text": "Add sugar, thyme, basil, oregano; cook until onion is soft."
+        },
+        {
+            "text": "Pour into food processor and process until pureed."
+        },
+        {
+            "text": "Return to pan and cook for 15 minutes."
+        },
+        {
+            "text": "Cool before using."
+        }
+    ]
+}

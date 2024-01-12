@@ -1,0 +1,187 @@
+{
+    "title": "thin_crust_pizza",
+    "id": "cf3e849165",
+    "table": [
+        {
+            "instructions": "add other dry then wet base ingredients",
+            "input": "(dry ingredients; wet base ingredients)",
+            "actions": "add",
+            "output": "dry_ingredients added to wet base ingredients"
+        },
+        {
+            "instructions": "mix",
+            "input": "dry_ingredients added to wet base ingredients",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "lightly knead with wooden spoon",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "kneaded dough",
+            "actions": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "leave in warm place to rise",
+            "input": "covered dough",
+            "actions": "leave",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "preheat oven to 200 , with stone",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "turn dough onto floured board",
+            "input": "risen dough",
+            "actions": "turn",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "knead",
+            "input": "risen dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "roll into base",
+            "input": "kneaded dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "put onto stone in oven for 5 minutes",
+            "input": "rolled dough",
+            "actions": "put",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "add layer of sauce with spoon",
+            "input": "(sauce; baked crust)",
+            "actions": "add",
+            "output": "sauce added to baked crust"
+        },
+        {
+            "instructions": "sprinkle on little bit of cheese",
+            "input": "(baked crust with sauce; cheese)",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled over baked crust with sauce"
+        },
+        {
+            "instructions": "return to oven on stone to melt cheese",
+            "input": "pizza with unmelted cheese",
+            "actions": "return",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "spread around pineapple",
+            "input": "(baked pizza; pineapple)",
+            "actions": "spread",
+            "output": "pineapple spread on baked pizza"
+        },
+        {
+            "instructions": "sprinkle on remainder of cheese",
+            "input": "(remaining cheese; baked pizza with pineapple)",
+            "actions": "sprinkle",
+            "output": "remaining cheese sprinkled on pineapple pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked pizza",
+            "actions": "remove",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "cut into 8 slices on board not on stone",
+            "input": "baked pizza",
+            "actions": "cut",
+            "output": "cut baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "63 grams plain flour"
+        },
+        {
+            "text": "1 tsp sugar"
+        },
+        {
+            "text": "1/4 sachet of yeast"
+        },
+        {
+            "text": "1 pinch salt"
+        },
+        {
+            "text": "1 tsp garlic"
+        },
+        {
+            "text": "1 pinch mixed herbs"
+        },
+        {
+            "text": "1 sauce"
+        },
+        {
+            "text": "6 slice light ham"
+        },
+        {
+            "text": "100 grams crushed pineapple"
+        },
+        {
+            "text": "115 grams light grated cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Sift flour into bowl"
+        },
+        {
+            "text": "Add other dry then wet base ingredients"
+        },
+        {
+            "text": "Mix and lightly knead with wooden spoon"
+        },
+        {
+            "text": "Cover and leave in warm place to rise"
+        },
+        {
+            "text": "Preheat oven to 200, with stone"
+        },
+        {
+            "text": "Turn dough onto floured board, knead and roll into base"
+        },
+        {
+            "text": "Put onto stone in oven for 5 minutes"
+        },
+        {
+            "text": "Add layer of sauce with spoon"
+        },
+        {
+            "text": "Sprinkle on little bit of cheese"
+        },
+        {
+            "text": "Return to oven on stone to melt cheese"
+        },
+        {
+            "text": "Layer on ham slices, spread around pineapple"
+        },
+        {
+            "text": "Sprinkle on remainder of cheese"
+        },
+        {
+            "text": "Back into oven on stone until cheese melts"
+        },
+        {
+            "text": "Remove from oven and cut into 8 slices on board - NOT on stone"
+        },
+        {
+            "text": "**90 calories per slice**"
+        }
+    ]
+}

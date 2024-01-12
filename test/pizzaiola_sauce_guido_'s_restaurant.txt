@@ -1,0 +1,157 @@
+{
+    "title": "pizzaiola_sauce_guido_'s_restaurant",
+    "id": "9828d32036",
+    "table": [
+        {
+            "instructions": "coat bottom of dutch oven with olive and canola_oil .",
+            "input": "oil",
+            "actions": "coat",
+            "output": "oil"
+        },
+        {
+            "instructions": "heat over medium flame .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add peppers , onions",
+            "input": "(heated oil; peppers; onions)",
+            "actions": "add",
+            "output": "peppers and onions added to heated oil"
+        },
+        {
+            "instructions": "reduce flame",
+            "input": "cooking peppers and onions",
+            "actions": "reduce",
+            "output": "cooking peppers and onions"
+        },
+        {
+            "instructions": "simmer until half soft .",
+            "input": "cooking peppers and onions",
+            "actions": "simmer",
+            "output": "cooking peppers and onions"
+        },
+        {
+            "instructions": "add mushrooms and garlic",
+            "input": "(cooking peppers and onions; mushrooms; garlic)",
+            "actions": "add",
+            "output": "mushrooms and garlic added to cooking peppers and onions"
+        },
+        {
+            "instructions": "add white_wine",
+            "input": "(cooking vegetables; white wine)",
+            "actions": "add",
+            "output": "white wine added to cooking vegetables"
+        },
+        {
+            "instructions": "cover ,",
+            "input": "simmering wine and vegetables",
+            "actions": "cover",
+            "output": "covered simmering wine and vegetables"
+        },
+        {
+            "instructions": "cook for 10 minutes stirring occasionally .",
+            "input": "covered simmering wine and vegetables",
+            "actions": "cook",
+            "output": "cooked wine and vegetables mixture"
+        },
+        {
+            "instructions": "add green and black_olive , seasonings and tomatoes",
+            "input": "(green olive; black olive; seasonings; tomatoes; cooked wine and vegetables mixture)",
+            "actions": "add",
+            "output": "green and black_olive , seasonings and tomatoes added to cooked wine and vegetables mixture"
+        },
+        {
+            "instructions": "cook for 15 minutes over medium flame",
+            "input": "green and black_olive , seasonings and tomatoes added to cooked wine and vegetables mixture",
+            "actions": "cook",
+            "output": "cooking vegetable mixture"
+        },
+        {
+            "instructions": "remove cover",
+            "input": "cooking vegetable mixture",
+            "actions": "remove",
+            "output": "uncovered cooking vegetable mixture"
+        },
+        {
+            "instructions": "cook for at least 5 minutes over low flame .",
+            "input": "uncovered cooking vegetable mixture",
+            "actions": "cook",
+            "output": "cooked vegetable mixture"
+        },
+        {
+            "instructions": "add dash of crushed_red_pepper and 2 slices of butter .",
+            "input": "(vegetable mixture; butter; crushed_red_pepper)",
+            "actions": "add",
+            "output": "butter and crushed_red_pepper added to vegetable sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 lbs red & green peppers, diced, 12 medium"
+        },
+        {
+            "text": "2 cups onions, chopped"
+        },
+        {
+            "text": "1 cup mushroom, sliced"
+        },
+        {
+            "text": "12 cup jumbo pitted green olives, whole"
+        },
+        {
+            "text": "13 cup jumbo pitted black olives, whole"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "18 teaspoon black pepper"
+        },
+        {
+            "text": "2 -3 garlic cloves, minced"
+        },
+        {
+            "text": "12 teaspoon oregano"
+        },
+        {
+            "text": "14 teaspoon crushed basil"
+        },
+        {
+            "text": "6 ounces dry white wine"
+        },
+        {
+            "text": "1 dash crushed red pepper flakes"
+        },
+        {
+            "text": "1 (28 ounce) canitalian crushed tomatoes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Coat bottom of dutch oven with olive and canola oils."
+        },
+        {
+            "text": "Heat over medium flame."
+        },
+        {
+            "text": "Add peppers, onions and reduce flame, Simmer until half soft."
+        },
+        {
+            "text": "Add mushrooms and garlic and continue to simmer, stirring occasionally."
+        },
+        {
+            "text": "Add white wine, cover, and cook for 10 minutes stirring occasionally."
+        },
+        {
+            "text": "Add green and black olives, seasonings and tomatoes and cook for 15 minutes over medium flame, covered."
+        },
+        {
+            "text": "Remove cover and cook for at least 5 minutes over low flame."
+        },
+        {
+            "text": "Add dash of crushed red pepper and 2 slices of butter."
+        }
+    ]
+}

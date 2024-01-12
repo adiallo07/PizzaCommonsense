@@ -1,0 +1,106 @@
+{
+    "title": "basic_pizza_dough_for_hoisin_prawn_mini_pizzas",
+    "id": "8ce062623c",
+    "table": [
+        {
+            "instructions": "place oil , salt , flours , yeast and 1 cup warm_water in a processor .",
+            "input": "(oil; salt; flours; yeast; warm_water)",
+            "action": "place",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "turn out onto a lightly floured surface .",
+            "input": "partially mixed dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead for 5 minutes or until smooth and elastic .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place dough in a large , oiled bowl .",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded dough in oiled bowl"
+        },
+        {
+            "instructions": "cover",
+            "input": "kneaded dough in oiled bowl",
+            "action": "cover",
+            "output": "covered kneaded dough in oiled bowl"
+        },
+        {
+            "instructions": "set aside in a warm place for 45 minutes or until doubled in size .",
+            "input": "covered kneaded dough in oiled bowl",
+            "action": "set",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "using your fist , punch down centre of dough .",
+            "input": "risen dough",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "knead for 20 to 30 seconds or until smooth .",
+            "input": "punched down dough",
+            "action": "knead",
+            "output": "twice kneaded dough"
+        },
+        {
+            "instructions": "roll out to form a 32 cm round pizza base , if making traditional pizza .",
+            "input": "twice kneaded dough",
+            "action": "roll",
+            "output": "rolled circle of pizza dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 cup wholemeal plain flour"
+        },
+        {
+            "text": "1 34 cups plain flour"
+        },
+        {
+            "text": "1 12 teaspoons dried instant yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place oil, salt, flours, yeast and 1 cup warm water in a processor."
+        },
+        {
+            "text": "Process until dough just forms."
+        },
+        {
+            "text": "Turn out onto a lightly floured surface."
+        },
+        {
+            "text": "Knead for 5 minutes or until smooth and elastic."
+        },
+        {
+            "text": "Place dough in a large, oiled bowl."
+        },
+        {
+            "text": "Cover and set aside in a warm place for 45 minutes or until doubled in size."
+        },
+        {
+            "text": "Using your fist, punch down centre of dough."
+        },
+        {
+            "text": "Knead for 20 to 30 seconds or until smooth."
+        },
+        {
+            "text": "Roll out to form a 32cm round pizza base, if making traditional pizza."
+        }
+    ]
+}

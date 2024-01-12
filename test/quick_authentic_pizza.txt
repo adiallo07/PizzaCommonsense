@@ -1,0 +1,148 @@
+{
+    "title": "quick_authentic_pizza",
+    "id": "6209c70ef5",
+    "table": [
+        {
+            "instructions": "make the crust .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine the ingredients in a bowl with a spoon .",
+            "input": "pizza dough ingredients",
+            "action": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "once it comes together , use your hands to knead it well .",
+            "input": "dough",
+            "action": "use",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "separate into 3 portions .",
+            "input": "kneaded dough",
+            "action": "separate",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "make the pizza_sauce .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine the ingredients .",
+            "input": "pizza sauce ingredients",
+            "action": "combine",
+            "output": "pizza sauce"
+        },
+        {
+            "instructions": "spread out the pizza_crust to fit the size of your toaster oven about 20 cm",
+            "input": "pizza dough",
+            "action": "spread",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "prick the surface with a fork to create air vents .",
+            "input": "pizza crust",
+            "action": "prick",
+            "output": "pricked pizza crust"
+        },
+        {
+            "instructions": "spread the sauce on the crust",
+            "input": "(pricked pizza crust; pizza sauce)",
+            "action": "spread",
+            "output": "pricked pizza crust with pizza sauce"
+        },
+        {
+            "instructions": "top with your choice of toppings .",
+            "input": "(toppings; pricked pizza crust with pizza sauce)",
+            "action": "top",
+            "output": "pricked pizza crust with pizza sauce and toppings"
+        },
+        {
+            "instructions": "cook in the toaster for 8 minutes at 1200 w and it 's done .",
+            "input": "uncooked pizza",
+            "action": "cook",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "220 grams Bread (strong) flour"
+        },
+        {
+            "text": "2 tsp Dry yeast"
+        },
+        {
+            "text": "200 ml Hot water (50C, heated in the microwave)"
+        },
+        {
+            "text": "1 tsp Sugar"
+        },
+        {
+            "text": "1 tbsp Olive oil or Grapeseed oil"
+        },
+        {
+            "text": "1 pinch Salt"
+        },
+        {
+            "text": "2 tbsp Ketchup"
+        },
+        {
+            "text": "1 tsp Mayonnaise"
+        },
+        {
+            "text": "1 Herbs (oregano, basil, thyme, sage, etc.)"
+        },
+        {
+            "text": "1 dash Salt and pepper"
+        },
+        {
+            "text": "1 Cheese"
+        },
+        {
+            "text": "1 Mozzarella cheese, basil, bacon, etc."
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Make the crust."
+        },
+        {
+            "text": "Combine the ingredients in a bowl with a spoon."
+        },
+        {
+            "text": "Once it comes together, use your hands to knead it well."
+        },
+        {
+            "text": "Separate into 3 portions."
+        },
+        {
+            "text": "Make the pizza sauce."
+        },
+        {
+            "text": "Combine the ingredients."
+        },
+        {
+            "text": "Spread out the pizza crust to fit the size of your toaster oven (about 20 cm) and prick the surface with a fork to create air vents."
+        },
+        {
+            "text": "Spread the sauce on the crust and top with your choice of toppings."
+        },
+        {
+            "text": "Cook in the toaster for 8 minutes at 1200 W and it's done."
+        },
+        {
+            "text": "This one was made with pizza sauce, wiener sausages, basil, and cheese."
+        },
+        {
+            "text": "I made this pizza with mayonnaise, crushed hard-boiled egg, wiener sausages, and cheese."
+        },
+        {
+            "text": "This is one is made with pizza sauce, basil, and mozzarella cheese."
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "title": "easy_delicious_homemade_pizza_sauce",
+    "id": "69196f07c5",
+    "table": [
+        {
+            "instructions": "roughly chop the tomato",
+            "input": "tomato",
+            "action": "chop",
+            "output": "chopped_tomato"
+        },
+        {
+            "instructions": "finely chop the onion and garlic .",
+            "input": "(onion; garlic)",
+            "action": "chop",
+            "output": "Finely chopped onion and garlic"
+        },
+        {
+            "instructions": "add the olive_oil to a small saucepan or a frying pan .",
+            "input": "olive oil",
+            "action": "add",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add the garlic",
+            "input": "(chopped garlic; heated olive oil)",
+            "action": "add",
+            "output": "chopped garlic in heated olive oil"
+        },
+        {
+            "instructions": "saute over low heat .",
+            "input": "chopped garlic in heated olive oil",
+            "action": "saute",
+            "output": "sauteeing garlic"
+        },
+        {
+            "instructions": "when the garlic is fragrant , turn the heat up to medium .",
+            "input": "sauteeing garlic",
+            "action": "turn",
+            "output": "sauteeing garlic"
+        },
+        {
+            "instructions": "add the onions",
+            "input": "(chopped onions; sauteeing garlic)",
+            "action": "add",
+            "output": "added onions to sauteeing garlic"
+        },
+        {
+            "instructions": "stir fry until translucent .",
+            "input": "sauteeing garlic and onions",
+            "action": "stir",
+            "output": "sauteed chopped onion and garlic"
+        },
+        {
+            "instructions": "add the tomato .",
+            "input": "chopped tomato",
+            "action": "add",
+            "output": "added tomato to sauteed chopped onion and garlic"
+        },
+        {
+            "instructions": "add the ingredients .",
+            "input": "(tomato, garlic and onion mixture; dried oregano; dried basil; black pepper; tabasco; vinegar; crushed consomme cube; ketchup)",
+            "action": "add",
+            "output": "dried oregano, dried basil, black pepper, tabasco, vinegar, crushed consomme cube and ketchup added the tomato, garlic and onion mixture"
+        },
+        {
+            "instructions": "finally , add salt to season .",
+            "input": "(salt; pizza sauce)",
+            "action": "add",
+            "output": "seasoned pizza sauce with salt"
+        },
+        {
+            "instructions": "cook until the sauce has reduced , and you 're all done .",
+            "input": "cooking pizza sauce",
+            "action": "cook",
+            "output": "cooked pizza sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Tomato"
+        },
+        {
+            "text": "1 Onion"
+        },
+        {
+            "text": "1 clove Garlic"
+        },
+        {
+            "text": "1 tbsp Olive oil"
+        },
+        {
+            "text": "1 cube *Consomme (crushed)"
+        },
+        {
+            "text": "1 tbsp *Ketchup"
+        },
+        {
+            "text": "1/2 tsp *Oregano (dried)"
+        },
+        {
+            "text": "1 *Basil (dried)"
+        },
+        {
+            "text": "1 *Black pepper"
+        },
+        {
+            "text": "1 *Tabasco"
+        },
+        {
+            "text": "1/2 tsp *Vinegar"
+        },
+        {
+            "text": "1 Salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roughly chop the tomato and finely chop the onion and garlic."
+        },
+        {
+            "text": "Add the olive oil to a small saucepan (or a frying pan)."
+        },
+        {
+            "text": "Add the garlic and saute over low heat."
+        },
+        {
+            "text": "When the garlic is fragrant, turn the heat up to medium."
+        },
+        {
+            "text": "Add the onions and stir fry until translucent."
+        },
+        {
+            "text": "Add the tomato."
+        },
+        {
+            "text": "Add the * ingredients."
+        },
+        {
+            "text": "Finally, add salt to season."
+        },
+        {
+            "text": "Cook until the sauce has reduced, and you're all done."
+        }
+    ]
+}

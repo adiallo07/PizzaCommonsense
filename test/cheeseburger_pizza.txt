@@ -1,0 +1,157 @@
+{
+    "title": "cheeseburger_pizza",
+    "id": "fecaca53c2",
+    "table": [
+        {
+            "instructions": "preheat oven to 425af ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a baking sheets with parchment paper .",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "  combine flour , baking_powder and salt in large bowl .",
+            "input": "(flour; baking_powder; salt)",
+            "action": "combine",
+            "output": "dry ingredients mixture"
+        },
+        {
+            "instructions": "cut in shortening until mixture resembles coarse meal ; .",
+            "input": "Shortening; dry ingredients mixture",
+            "action": "cut",
+            "output": "Mixture resembling coarse meal with shortening"
+        },
+        {
+            "instructions": ", add milk , stirring with fork until rough dough forms .",
+            "input": "Milk; Mixture resembling coarse meal with shortening",
+            "action": "add",
+            "output": "Rough dough formed with milk"
+        },
+        {
+            "instructions": "turn out onto lightly floured surface",
+            "input": "Rough dough",
+            "action": "turn",
+            "output": "Rough dough"
+        },
+        {
+            "instructions": "knead until smooth , about 30 seconds .",
+            "input": "Rough dough",
+            "action": "knead",
+            "output": "kneaded smooth dough"
+        },
+        {
+            "instructions": "divide dough into 4 pieces .",
+            "input": "kneaded smooth dough",
+            "action": "divide",
+            "output": "Dough divided into 4 pieces"
+        },
+        {
+            "instructions": "roll each piece of dough into 8 inch circle .",
+            "input": "Dough pieces",
+            "action": "roll",
+            "output": "Dough pieces rolled into 8-inch circles"
+        },
+        {
+            "instructions": "place on prepared baking sheet .",
+            "input": "Rolled dough circles",
+            "action": "place",
+            "output": "Rolled dough circles placed on the prepared baking sheet"
+        },
+        {
+            "instructions": "cover with 1 teaspoons , mustard , 9 yum yum pickles , 14 cup ground_beef",
+            "input": "mustard, pickles, ground beef; Rolled dough circles",
+            "action": "cover",
+            "output": "mustard, pickles and ground beef covering the dough circles"
+        },
+        {
+            "instructions": "drizzle with ketchup and mustard to taste",
+            "input": "ketchup, mustard, pizza dough topped with mustard, pickles and ground beef",
+            "action": "drizzle",
+            "output": "pizza dough topped with mustard, pickles and ground beef Drizzled with ketchup and mustard"
+        },
+        {
+            "instructions": "cover with 3 more bick 's yum yum pickles",
+            "input": "additional pickles; pizza dough with mustard, pickles, ground beef and ketchup",
+            "action": "cover",
+            "output": "Additional pickles covering the toppings on the pizza dough"
+        },
+        {
+            "instructions": "cover with 13 cup ;",
+            "input": "NA",
+            "action": "cover",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups all-purpose flour"
+        },
+        {
+            "text": "4 teaspoons baking powder"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "12 cup crisco all-vegetable shortening"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "23 cup ketchup"
+        },
+        {
+            "text": "14 cup mustard"
+        },
+        {
+            "text": "48 bick's yum yum sweet pickles"
+        },
+        {
+            "text": "1 cup ground beef, cooked"
+        },
+        {
+            "text": "1 13 cups shredded cheddar cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425AF Line a baking sheets with parchment paper."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "CRUST: Combine flour, baking powder and salt in large bowl."
+        },
+        {
+            "text": "Cut in shortening until mixture resembles coarse meal., Add milk, stirring with fork until rough dough forms."
+        },
+        {
+            "text": "Turn out onto lightly floured surface and knead until smooth, about 30 seconds."
+        },
+        {
+            "text": "Divide dough into 4 pieces."
+        },
+        {
+            "text": "Roll each piece of dough into 8-inch circle."
+        },
+        {
+            "text": "Place on prepared baking sheet."
+        },
+        {
+            "text": "ASSEMBLY: Top each pizza in the following order: 2 tablespoons ketchup, cover with 1 teaspoons mustard, 9 yum yum pickles, 1/4 cup ground beef, drizzle with ketchup and mustard (to taste), cover with 3 more Bick's Yum Yum Pickles and cover with 1/3 cup; cheddar cheese."
+        }
+    ]
+}

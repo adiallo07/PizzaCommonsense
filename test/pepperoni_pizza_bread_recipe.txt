@@ -1,0 +1,130 @@
+{
+    "title": "pepperoni_pizza_bread_recipe",
+    "id": "8ab840dc84",
+    "table": [
+        {
+            "instructions": "roll out dough in a pizza circle .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "add in sauce ; then pepperoni ; then both the cheeses",
+            "input": "(rolled_dough; sauce; pepperoni; sliced mozzarella cheese; minced cheddar cheese)",
+            "action": "add",
+            "output": "rolled pizza crust with sauce, pepperoni, mozzarella cheese and cheddar cheese"
+        },
+        {
+            "instructions": "season with locatelli cheese , pepper , oregano , and garlic pwdr .",
+            "input": "(rolled pizza crust with sauce, pepperoni, mozzarella cheese and cheddar cheese; locatelli cheese; pepper; oregano; garlic powder)",
+            "action": "season",
+            "output": "rolled pizza crust with sauce, pepperoni, mozzarella cheese, cheddar cheese, locatelli cheese , pepper , oregano , and garlic pwdr"
+        },
+        {
+            "instructions": "roll up like a big crescent .",
+            "input": "rolled pizza crust with sauce, pepperoni, mozzarella cheese, cheddar cheese, locatelli cheese , pepper , oregano , and garlic pwdr",
+            "action": "roll",
+            "output": "rolled up uncooked pepperoni and cheese pizza"
+        },
+        {
+            "instructions": "use toothpicks to fasten down .",
+            "input": "rolled up uncooked pepperoni and cheese pizza",
+            "action": "use",
+            "output": "rolled up and sealed uncooked pepperoni and cheese pizza"
+        },
+        {
+            "instructions": "brush with oil .",
+            "input": "(rolled up and sealed uncooked pepperoni and cheese pizza; oli)",
+            "action": "brush",
+            "output": "rolled up and sealed uncooked pepperoni and cheese pizza brushed with olive oil"
+        },
+        {
+            "instructions": "add in bread_crumb on the top .",
+            "input": "(bread crumb; rolled up and sealed uncooked pepperoni and cheese pizza brushed with olive oil)",
+            "action": "add",
+            "output": "rolled up and sealed uncooked pepperoni and cheese pizza with olive oil and bread crumb "
+        },
+        {
+            "instructions": "coat baking pan with oil",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle bread_crumb .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake for 45 min at 350 degrees .",
+            "input": "rolled up and sealed uncooked pepperoni and cheese pizza with olive oil and bread crumb ",
+            "action": "bake",
+            "output": "baked pepperoni_pizza roll"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound pizza dough"
+        },
+        {
+            "text": "1/2 can Progresso pizza sauce"
+        },
+        {
+            "text": "8 ounce. sliced Mozzarella cheese"
+        },
+        {
+            "text": "4 ounce. finely minced sharp Cheddar cheese"
+        },
+        {
+            "text": "1 stick pepperoni, finely sliced"
+        },
+        {
+            "text": "Oil"
+        },
+        {
+            "text": "Garlic pwdr"
+        },
+        {
+            "text": "Oregano"
+        },
+        {
+            "text": "Pepper"
+        },
+        {
+            "text": "Locatelli cheese"
+        },
+        {
+            "text": "Bread crumbs"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll out dough in a pizza circle."
+        },
+        {
+            "text": "Add in sauce; then pepperoni; then both the cheeses."
+        },
+        {
+            "text": "Season with locatelli cheese, pepper, oregano, and garlic pwdr."
+        },
+        {
+            "text": "Roll up like a big crescent."
+        },
+        {
+            "text": "Use toothpicks to fasten down."
+        },
+        {
+            "text": "Brush with oil."
+        },
+        {
+            "text": "Add in bread crumbs on the top."
+        },
+        {
+            "text": "Coat baking pan with oil and sprinkle bread crumbs."
+        },
+        {
+            "text": "Bake for 45 min at 350 degrees."
+        }
+    ]
+}

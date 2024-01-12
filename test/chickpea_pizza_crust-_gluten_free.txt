@@ -1,0 +1,154 @@
+{
+    "title": "chickpea_pizza_crust-_gluten_free",
+    "id": "dc8e63413e",
+    "table": [
+        {
+            "instructions": "mix dry ingredients together .",
+            "input": "(chickpea flour; spelt flour)",
+            "action": "mix",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "dissolve yeast in warm_water .",
+            "input": "(yeast; warm water)",
+            "action": "dissolve",
+            "output": "yeast dissolve in water"
+        },
+        {
+            "instructions": "pour liquid into dry ingredients in kitchenaid mixer",
+            "input": "(dry ingredients; yeast dissolve in water)",
+            "action": "pour",
+            "output": "yeast dissolve in water poured on dry ingredients"
+        },
+        {
+            "instructions": "add olive_oil .",
+            "input": "(olive oil; yeast dissolve in water poured on dry ingredients)",
+            "action": "add",
+            "output": "olive oil in dough"
+        },
+        {
+            "instructions": "mix until dough forms",
+            "input": "olive oil in dough",
+            "action": "mix",
+            "output": "mixed dough"
+        },
+        {
+            "instructions": "knead in mixer 5 minutes .",
+            "input": "mixed dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "remove from bowl and oil bowl .",
+            "input": "kneaded dough",
+            "action": "remove",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "replace dough",
+            "input": "kneaded dough",
+            "action": "replace",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "turn until dough is oiled .",
+            "input": "kneaded dough",
+            "action": "turn",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "oiled dough",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "let rise until double .",
+            "input": "covered dough",
+            "action": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "preheat oven to 420 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "form dough into 2 12 inch pizzas",
+            "input": "risen dough",
+            "action": "form",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "place on stone or greased pizza\u2012pan .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "top with your favorite toppings",
+            "input": "(toppings; pizza crust)",
+            "action": "top",
+            "output": "pizza crust with toppings"
+        },
+        {
+            "instructions": "bake at 420 for about 15 to 20 minutes .",
+            "input": "uncooked assembled pizza",
+            "action": "bake",
+            "output": "baked gluten free chickpea_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "1 tablespoon dry yeast"
+        },
+        {
+            "text": "1 cup chickpea flour"
+        },
+        {
+            "text": "2 cups spelt flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix dry ingredients together."
+        },
+        {
+            "text": "Dissolve yeast in warm water."
+        },
+        {
+            "text": "Pour liquid into dry ingredients in Kitchenaid mixer and add olive oil."
+        },
+        {
+            "text": "Mix until dough forms, knead in mixer 5 minutes."
+        },
+        {
+            "text": "Remove from bowl and oil bowl."
+        },
+        {
+            "text": "Replace dough and turn until dough is oiled."
+        },
+        {
+            "text": "Cover and let rise until double."
+        },
+        {
+            "text": "Preheat oven to 420 degrees."
+        },
+        {
+            "text": "Form dough into 2 12 inch pizzas and place on stone or greased pizza pans."
+        },
+        {
+            "text": "Top with your favorite toppings and bake at 420 for about 15 to 20 minutes."
+        }
+    ]
+}

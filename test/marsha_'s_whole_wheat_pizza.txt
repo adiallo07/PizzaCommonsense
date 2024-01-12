@@ -1,0 +1,85 @@
+{
+    "title": "marsha_'s_whole_wheat_pizza",
+    "id": "aa5f9fb6ab",
+    "table": [
+        {
+            "instructions": "mix dough ingredients together .",
+            "input": "dough ingredients",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "let rise until doubled .",
+            "input": "dough",
+            "action": "rise",
+            "output": "dough doubled in size"
+        },
+        {
+            "instructions": "heat pizza stones at 500 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out dough",
+            "input": "dough",
+            "action": "roll",
+            "output": "flat dough"
+        },
+        {
+            "instructions": "take stones out of the oven",
+            "input": "NA",
+            "action": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "smooth on the dough .",
+            "input": "dough",
+            "action": "smooth",
+            "output": "dough on pizza stones"
+        },
+        {
+            "instructions": "put on a little olive_oil , fresh chopped_tomato , mozzarella , sandp , oregano , parsley cook in 500 degree oven for 12 15 minutes .",
+            "input": "(olive_oil; chopped_tomato; mozzarella; sandp; oregano; parsely; dough)",
+            "action": "put",
+            "output": "pizza cooking in oven"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 lb bread flour (2 c.)"
+        },
+        {
+            "text": "12 lb whole wheat flour (2 c.)"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 tablespoon yeast"
+        },
+        {
+            "text": "water, to mix"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix dough ingredients together."
+        },
+        {
+            "text": "Let rise until doubled."
+        },
+        {
+            "text": "Heat pizza stones at 500 degrees."
+        },
+        {
+            "text": "Roll out dough and let rise again, about 10 minutes."
+        },
+        {
+            "text": "Take stones out of the oven, smooth on the dough."
+        },
+        {
+            "text": "Put on a little olive oil, fresh chopped tomatoes, mozzarella, S&P, oregano, parsley Cook in 500 degree oven for 12-15 minutes."
+        }
+    ]
+}

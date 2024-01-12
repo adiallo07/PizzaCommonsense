@@ -1,0 +1,238 @@
+{
+    "title": "9_head_garlic_blast_cheese_pizza_with_shrimp",
+    "id": "736b8aa377",
+    "table": [
+        {
+            "instructions": "set oven to 375 degrees .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "leaving the heads whole , peel off as much of the papery skin as possible .",
+            "input": "garlic",
+            "action": "peel",
+            "output": "peeled garlic"
+        },
+        {
+            "instructions": "place the whole garlic heads in an oven proof dish , large enough to hold them in a single layer .",
+            "input": "peeled garlic",
+            "action": "place",
+            "output": "peeled garlic"
+        },
+        {
+            "instructions": "pour the 12 cup water in the dish",
+            "input": "(peeled garlic; water)",
+            "action": "pour",
+            "output": "water poured over peeled garlic"
+        },
+        {
+            "instructions": "sprinkle with salt ,",
+            "input": "(salt; water poured over peeled garlic)",
+            "action": "sprinkle",
+            "output": "salt sprinkled over garlic in water"
+        },
+        {
+            "instructions": "drizzle with olive_oil .",
+            "input": "(olive oil; garlic in water)",
+            "action": "drizzle",
+            "output": "olive oil drizzled over garlic"
+        },
+        {
+            "instructions": "cover tightly with foil ;",
+            "input": "oiled garlic head",
+            "action": "cover",
+            "output": "covered oiled garlic head"
+        },
+        {
+            "instructions": "bake in in a preheated oven 375 degrees for 45 60 minutes , or until the garlic is easily pierced with a knife tip .",
+            "input": "covered oiled garlic head",
+            "action": "bake",
+            "output": "roasted garlic head"
+        },
+        {
+            "instructions": "remove from the oven ;",
+            "input": "roasted garlic head",
+            "action": "remove",
+            "output": "roasted garlic head"
+        },
+        {
+            "instructions": "let sit until cool enough to handle .",
+            "input": "roasted garlic head",
+            "action": "sit",
+            "output": "slightly cooled roasted garlic head"
+        },
+        {
+            "instructions": "squeeze out the garlic_clove from there skin into a small bowl ;",
+            "input": "slightly cooled roasted garlic head",
+            "action": "squeeze",
+            "output": "squeezed roasted garlic cloves "
+        },
+        {
+            "instructions": "mash into a paste you have just made roasted_garlic !",
+            "input": "squeezed roasted garlic cloves ",
+            "action": "mash",
+            "output": "mashed roasted garlic cloves "
+        },
+        {
+            "instructions": "raise the oven temperature to 400 degrees .",
+            "input": "NA",
+            "action": "raise",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium bowl , mix together the ricotta_cheese , egg , fontina , parmesan_cheese and pesto until smooth .",
+            "input": "(ricotta cheese; egg; fontina; parmesan cheese; pesto)",
+            "action": "mix",
+            "output": "cheese and pesto mixture"
+        },
+        {
+            "instructions": "place the boboli crusts on 2 large baking sheets .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread a thin layer of the garlic_paste to taste , over the prepared crusts .",
+            "input": "(mashed roasted garlic cloves ; pizza crust)",
+            "action": "spread",
+            "output": "pizza crust with mashed roasted garlic paste"
+        },
+        {
+            "instructions": "spread an even amount of the ricotta mixture over the garlic_paste to within 1 inch of edges .",
+            "input": "(pizza crust with mashed roasted garlic paste; cheese and pesto mixture)",
+            "action": "spread",
+            "output": "cheese and pesto mixture spread on pizza crust with mashed roasted garlic paste"
+        },
+        {
+            "instructions": "sprinkle both pizzas evenly with the sun_dried_tomato , canned diced_tomato , zucchini , shrimp and mozza cheese .",
+            "input": "(sun dried tomato; canned diced tomato; zucchini; shrimp; mozzarella cheese; pizza crust with mashed roasted garlic paste and cheese and pesto mixture)",
+            "action": "sprinkle",
+            "output": "sun_dried_tomato , canned diced_tomato , zucchini , shrimp and mozzarella cheese sprinkled over pizza crust with mashed roasted garlic paste and cheese and pesto mixture"
+        },
+        {
+            "instructions": "bake for about 15 minutes , or until the cheese is melted .",
+            "input": "assembled garlic and shrimp pizza",
+            "action": "bake",
+            "output": "baked garlic and shrimp pizza"
+        },
+        {
+            "instructions": "cut into wedges ,",
+            "input": "baked garlic and shrimp pizza",
+            "action": "cut",
+            "output": "wedges of baked garlic and shrimp pizza"
+        },
+        {
+            "instructions": "serve delicious !",
+            "input": "wedges of baked garlic and shrimp pizza",
+            "action": "serve",
+            "output": "served wedges of baked garlic and shrimp pizza"
+        },
+        {
+            "instructions": "plum_tomato sliced paper thin may be used instead of canned , also of you are using canned_tomato , make sure to drain very well .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "9 heads garlic, leave whole"
+        },
+        {
+            "text": "12 cup water"
+        },
+        {
+            "text": "14 teaspoon salt, to taste"
+        },
+        {
+            "text": "14 cup olive oil"
+        },
+        {
+            "text": "1 12 cups ricotta cheese"
+        },
+        {
+            "text": "1 large egg"
+        },
+        {
+            "text": "12 cup Fontina cheese, grated"
+        },
+        {
+            "text": "3 tablespoons grated parmesan cheese (can use more or less)"
+        },
+        {
+            "text": "3 ounces prepared basil pesto"
+        },
+        {
+            "text": "2 large prepared Boboli pizza crusts, 12 or 14 inch (my Boboli pizza crust Boboli Pizza Crust works great)"
+        },
+        {
+            "text": "14-12 cup sun-dried tomato, drained and diced"
+        },
+        {
+            "text": "1 (28 ounce) can tomatoes, drained and diced"
+        },
+        {
+            "text": "34 cup sliced zucchini"
+        },
+        {
+            "text": "1 cup small shrimp, peeled (can use small canned shrimp, drained very well)"
+        },
+        {
+            "text": "2 -3 cups grated mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Set oven to 375 degrees."
+        },
+        {
+            "text": "Leaving the heads whole, peel off as much of the papery skin as possible."
+        },
+        {
+            "text": "Place the whole garlic heads in an oven-proof dish, large enough to hold them in a single layer."
+        },
+        {
+            "text": "Pour the 1/2 cup water in the dish, sprinkle with salt, and drizzle with olive oil."
+        },
+        {
+            "text": "Cover tightly with foil; bake in in a preheated oven (375 degrees) for 45-60 minutes, or until the garlic is easily pierced with a knife tip."
+        },
+        {
+            "text": "Remove from the oven; let sit until cool enough to handle."
+        },
+        {
+            "text": "Squeeze out the garlic cloves from there skin into a small bowl; mash into a paste (you have just made roasted garlic!"
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Raise the oven temperature to 400 degrees."
+        },
+        {
+            "text": "In a medium bowl, mix together the ricotta cheese, egg, fontina, Parmesan cheese and pesto until smooth."
+        },
+        {
+            "text": "Place the boboli crusts on 2 large baking sheets."
+        },
+        {
+            "text": "Spread a thin layer of the garlic paste (to taste), over the prepared crusts."
+        },
+        {
+            "text": "Spread an even amount of the ricotta mixture over the garlic paste (to within 1-inch of edges)."
+        },
+        {
+            "text": "Sprinkle both pizzas evenly with the sun-dried tomatoes, canned diced tomatoes, zucchini, shrimp and mozza cheese."
+        },
+        {
+            "text": "Bake for about 15 minutes, or until the cheese is melted."
+        },
+        {
+            "text": "Cut into wedges, and serve-- DELICIOUS!"
+        },
+        {
+            "text": "***NOTE***fresh plum tomatoes (sliced paper thin) may be used instead of canned, also of you are using canned tomatoes, make sure to drain very well."
+        }
+    ]
+}

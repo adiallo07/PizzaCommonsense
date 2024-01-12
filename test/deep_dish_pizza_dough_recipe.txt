@@ -1,0 +1,70 @@
+{
+    "title": "deep_dish_pizza_dough_recipe",
+    "id": "aff3284299",
+    "table": [
+        {
+            "instructions": "dissolve yeast in hot_water .",
+            "input": "(yeast; hot water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast in hot water"
+        },
+        {
+            "instructions": "mix all_ingredient together .",
+            "input": "(flour; salt; dissolved_yeast in hot water; oil)",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead for 5 min .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "put dough in lightly oiled pan",
+            "input": "kneaded dough",
+            "action": "put",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "cover .",
+            "input": "kneaded dough",
+            "action": "cover",
+            "output": "covered dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 pkg. powdered yeast"
+        },
+        {
+            "text": "2/3 c. plus 4 tbsp. hot water"
+        },
+        {
+            "text": "3 c. flour"
+        },
+        {
+            "text": "1/2 c. extra virgin olive oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve yeast in hot water."
+        },
+        {
+            "text": "Mix all ingredients together."
+        },
+        {
+            "text": "Knead for 5 min."
+        },
+        {
+            "text": "Put dough in lightly oiled pan, cover."
+        },
+        {
+            "text": "Let rise till double, about 1 hour."
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "title": "simple_easy_pizza",
+    "id": "4444143691",
+    "table": [
+        {
+            "instructions": "add water , yeast , sugar , and salt to mixing bowl .",
+            "input": "(water; yeast; sugar; salt)",
+            "action": "add",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "mix in flour conservatively do n't add too much .",
+            "input": "(flour; yeast mixture)",
+            "action": "mix",
+            "output": "sticky_dough"
+        },
+        {
+            "instructions": "knead dough until smooth .",
+            "input": "sticky_dough",
+            "action": "knead",
+            "output": "smooth_dough"
+        },
+        {
+            "instructions": "pre heat oven to 475 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "split dough into pieces 3 5 depending on size of pizza .",
+            "input": "smooth_dough",
+            "action": "split",
+            "output": "split_dough"
+        },
+        {
+            "instructions": "roll dough out each to the size of your pan toss if desired to help reach appropriate size .",
+            "input": "split_dough",
+            "action": "roll",
+            "output": "flatten_dough"
+        },
+        {
+            "instructions": "sprinkle cornmeal onto each pan .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough onto pans , stretching or squeezing if necessary to fit properly .",
+            "input": "flatten_dough",
+            "action": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread some tomato_sauce onto dough , leaving about an inch around the outside without sauce .",
+            "input": "(tomato_sauce; pizza crust)",
+            "action": "spread",
+            "output": "pizza crust with tomato sauce"
+        },
+        {
+            "instructions": "spread some cheese on top of the sauce .",
+            "input": "(cheese; pizza crust with tomato sauce)",
+            "action": "spread",
+            "output": "pizza crust with tomato sauce and cheese"
+        },
+        {
+            "instructions": "add additional toppings as desired .",
+            "input": "(toppings; pizza crust with tomato sauce and cheese)",
+            "action": "add",
+            "output": "pizza crust with tomato sauce, cheese and toppings"
+        },
+        {
+            "instructions": "bake for 8 12 minutes , or until dough is fully cooked .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups luke-warm water"
+        },
+        {
+            "text": "1 tablespoon yeast"
+        },
+        {
+            "text": "14 cup sugar"
+        },
+        {
+            "text": "1 tablespoon salt"
+        },
+        {
+            "text": "8 -10 cups flour"
+        },
+        {
+            "text": "2 tablespoons cornmeal"
+        },
+        {
+            "text": "3 (8 ounce) cans tomato sauce"
+        },
+        {
+            "text": "6 cups shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Add water, yeast, sugar, and salt to mixing bowl."
+        },
+        {
+            "text": "Let sit 10 minutes."
+        },
+        {
+            "text": "You should see bubbles of yeast (if not, you may have the wrong water temperature: start over)."
+        },
+        {
+            "text": "Mix in flour conservatively - don't add too much."
+        },
+        {
+            "text": "After mixing it in, keep adding until dough is not wet looking and can be kneaded."
+        },
+        {
+            "text": "Knead dough until smooth."
+        },
+        {
+            "text": "Let rise at least 30 minutes (ideally 1 hour) at room temperature."
+        },
+        {
+            "text": "Pre-heat oven to 475 degrees."
+        },
+        {
+            "text": "Split dough into pieces (3-5 depending on size of pizza)."
+        },
+        {
+            "text": "Roll dough out each to the size of your pan (toss if desired to help reach appropriate size)."
+        },
+        {
+            "text": "Sprinkle corn meal onto each pan."
+        },
+        {
+            "text": "Place dough onto pans, stretching or squeezing if necessary to fit properly."
+        },
+        {
+            "text": "Spread some tomato sauce onto dough, leaving about an inch around the outside without sauce."
+        },
+        {
+            "text": "Spread some cheese on top of the sauce."
+        },
+        {
+            "text": "Add additional toppings as desired."
+        },
+        {
+            "text": "Bake for 8-12 minutes, or until dough is fully cooked."
+        },
+        {
+            "text": "The bottom of the pizza should be at least a little crispy."
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "title": "farmers_market_breakfast_pizza",
+    "id": "9b42380bd0",
+    "table": [
+        {
+            "instructions": "for the sauce add coconut_oil , minced_garlic , and sweet_onion to sauce pan",
+            "input": "(coconut_oil; minced_garlic; sweet_onion)",
+            "action": "add",
+            "output": "garlic and onion mixture"
+        },
+        {
+            "instructions": "cook over medium heat until onions are translucent , approx 5 6 minutes .",
+            "input": "garlic and onion mixture",
+            "action": "cook",
+            "output": "cooked garlic and onion mixture"
+        },
+        {
+            "instructions": "add water , chopped_tomato and all spices and herbs ,",
+            "input": "(water; chopped onion; spices; herbs)",
+            "action": "add",
+            "output": "water, chopped tomato, spices and herbs added to garlic and onion mixture"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "water, chopped tomato, spices and herbs added to garlic and onion mixture",
+            "action": "reduce",
+            "output": "simmering tomato sauce"
+        },
+        {
+            "instructions": "simmer 5 more minutes , or until tomatoes have released their juices",
+            "input": "simmering tomato sauce",
+            "action": "simmer",
+            "output": "cooked tomato sauce"
+        },
+        {
+            "instructions": "remove sauce pan from stove",
+            "input": "cooked tomato sauce",
+            "action": "remove",
+            "output": "cooked tomato sauce"
+        },
+        {
+            "instructions": "add to nutribullet or food processor",
+            "input": "cooked tomato sauce",
+            "action": "add",
+            "output": "blended cooked tomato sauce"
+        },
+        {
+            "instructions": "for the pizza preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray pizza\u2012pan with coconut_oil , cooking_spray",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_crust ,",
+            "input": "pizza crust",
+            "action": "roll",
+            "output": "rolled out pizza crust"
+        },
+        {
+            "instructions": "bake crust for 5 minutes .",
+            "input": "rolled out pizza crust",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked crust",
+            "action": "remove",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "add homemade sauce , veggies , and cheese .",
+            "input": "(baked crust; blended cooked tomato sauce; veggies; cheese)",
+            "action": "add",
+            "output": "baked crust with blended cooked tomato sauce, veggies and cheese"
+        },
+        {
+            "instructions": "then top with three eggs",
+            "input": "(baked crust with blended cooked tomato sauce, veggies and cheese; eggs)",
+            "action": "top",
+            "output": "baked crust with blended cooked tomato sauce, veggies, cheese and eggs"
+        },
+        {
+            "instructions": "bake an additional 5 minutes ,",
+            "input": "baked crust with blended cooked tomato sauce, veggies, cheese and eggs",
+            "action": "bake",
+            "output": "baked eggs and vegetable pizza"
+        },
+        {
+            "instructions": "turn heat up to 425 degrees",
+            "input": "NA",
+            "action": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake another 5 7 minutes or until the whites of the eggs are cooked through and the yoke is over medium .",
+            "input": "baked eggs and vegetable pizza",
+            "action": "bake",
+            "output": "twice baked eggs and vegetable pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 Pizza Dough Of Choice"
+        },
+        {
+            "text": "1/2 cups Homemade Pizza Sauce (Recipe Below)"
+        },
+        {
+            "text": "1/2 cups Chopped Kale"
+        },
+        {
+            "text": "13 cups Sliced Onions"
+        },
+        {
+            "text": "1/2 Zucchini, Thinly Sliced"
+        },
+        {
+            "text": "1/2 Medium Yellow Squash, Thinly Sliced"
+        },
+        {
+            "text": "1/2 cups Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "3 Eggs"
+        },
+        {
+            "text": "1 Tablespoon Coconut Oil"
+        },
+        {
+            "text": "1 cup Sweet Onions, Finely Chopped"
+        },
+        {
+            "text": "3 cloves Garlic, Minced"
+        },
+        {
+            "text": "1/4 cups Water"
+        },
+        {
+            "text": "3 cups Chopped Organic Cherry Tomatoes"
+        },
+        {
+            "text": "1/4 teaspoons Salt"
+        },
+        {
+            "text": "1/4 teaspoons Pepper"
+        },
+        {
+            "text": "1 teaspoon Sugar"
+        },
+        {
+            "text": "1 Tablespoon Dried Parsley"
+        },
+        {
+            "text": "1 teaspoon Dried Basil"
+        },
+        {
+            "text": "8 leaves Fresh Basil, Finely Chopped, Or More As Desired"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For the sauce: Add coconut oil, minced garlic, and sweet onions to sauce pan and cook over medium heat until onions are translucent, approx 5-6 minutes."
+        },
+        {
+            "text": "Add water, chopped tomatoes and all spices and herbs, then continue cooking another 2-3 minutes, reduce heat and simmer 5 more minutes, or until tomatoes have released their juices and cooked down."
+        },
+        {
+            "text": "Remove sauce pan from stove, allow to cool 2-3 minutes, then add to NutriBullet or food processor and process 8-10 seconds or until sauce reaches a thick, slightly chunky consistency."
+        },
+        {
+            "text": "For the Pizza: Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "Spray pizza pan with coconut oil cooking spray, roll out pizza crust, and bake crust for 5 minutes."
+        },
+        {
+            "text": "Remove from the oven, add homemade sauce, veggies, and cheese."
+        },
+        {
+            "text": "Then top with three eggs, bake an additional 5 minutes, then turn heat up to 425 degrees and bake another 5-7 minutes or until the whites of the eggs are cooked through and the yoke is over medium."
+        }
+    ]
+}

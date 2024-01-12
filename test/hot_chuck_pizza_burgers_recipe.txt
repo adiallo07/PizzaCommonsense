@@ -1,0 +1,118 @@
+{
+    "title": "hot_chuck_pizza_burgers_recipe",
+    "id": "60441ca3d6",
+    "table": [
+        {
+            "instructions": "sprinkle 2 tsp .",
+            "input": "meat",
+            "action": "sprinkle",
+            "output": "meat"
+        },
+        {
+            "instructions": "sugar over the meat",
+            "input": "(meat; sugar)",
+            "action": "sugar",
+            "output": "sugar sprinkled over meat"
+        },
+        {
+            "instructions": "add in onion and green_pepper",
+            "input": "(onion; green pepper; meat with sugar)",
+            "action": "add",
+            "output": "onion and green pepper added to meat with sugar"
+        },
+        {
+            "instructions": "brown .",
+            "input": "onion and green pepper added to meat with sugar",
+            "action": "brown",
+            "output": "browned meat mixture"
+        },
+        {
+            "instructions": "set aside till cold .",
+            "input": "browned meat mixture",
+            "action": "set",
+            "output": "browned meat mixture"
+        },
+        {
+            "instructions": "combine spaghetti sauce, tomato paste and mozzarella_cheese .",
+            "input": "(spaghetti sauce; tomato paste; mozzarella cheese)",
+            "action": "combine",
+            "output": "sauce and mozzarella mixture"
+        },
+        {
+            "instructions": "add in to cooled meat .",
+            "input": "(cooled browned meat mixture; sauce and mozzarella mixture)",
+            "action": "add",
+            "output": "sauce and mozzarella mixture added to cooled browned meat mixture"
+        },
+        {
+            "instructions": "place on 24 hamburger_bun halves .",
+            "input": "(hamburger bun halves; sauce, meat and mozzarella mixture)",
+            "action": "place",
+            "output": "sauce, meat and mozzarella mixture on top of hamburger halves"
+        },
+        {
+            "instructions": "sprinkle with oregano and parmesan_cheese",
+            "input": "(oregano; parmesan cheese; topped hamburgers)",
+            "action": "sprinkle",
+            "output": "oregano and parmesan cheese sprinkled on topped hamburgers"
+        },
+        {
+            "instructions": "bake 500 degrees for 5 min or possibly till buns are brown .",
+            "input": "uncooked pizza burgers ",
+            "action": "bake",
+            "output": "baked pizza burgers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 sandwich buns"
+        },
+        {
+            "text": "2 lbs. grnd beef"
+        },
+        {
+            "text": "1 sm. onion, diced"
+        },
+        {
+            "text": "2 teaspoon sugar"
+        },
+        {
+            "text": "1 can spaghetti sauce with mushrooms (soup size)"
+        },
+        {
+            "text": "1 can tomato paste (small)"
+        },
+        {
+            "text": "1/2 pound Mozzarella cheese, diced"
+        },
+        {
+            "text": "Oregano"
+        },
+        {
+            "text": "Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Sprinkle 2 tsp."
+        },
+        {
+            "text": "sugar over the meat, add in onion and green pepper and brown."
+        },
+        {
+            "text": "Set aside till cold."
+        },
+        {
+            "text": "Combine spaghetti sauce, tomato paste and Mozzarella cheese."
+        },
+        {
+            "text": "Add in to cooled meat."
+        },
+        {
+            "text": "Place on 24 hamburger bun halves."
+        },
+        {
+            "text": "Sprinkle with oregano and Parmesan cheese and bake 500 degrees for 5 min or possibly till buns are brown."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "title": "quick_rosemary_pizza_bread",
+    "id": "6e47c96cb5",
+    "table": [
+        {
+            "instructions": "use pulse actions on food processor to combine flours with butter .",
+            "input": "(flour; self raising flour; butter)",
+            "action": "use",
+            "output": "flour and butter mix"
+        },
+        {
+            "instructions": "add water mixed with milk",
+            "input": "(flour and butter mix; water; milk)",
+            "action": "add",
+            "output": "water and milk added to flour and butter mix"
+        },
+        {
+            "instructions": "turn onto surface floured with self_raising_flour .",
+            "input": "dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead lightly",
+            "input": "mixed_dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "roll out into a long oval 1 .",
+            "input": "Kneaded_dough",
+            "action": "roll",
+            "output": "rolled_dough into oval shape"
+        },
+        {
+            "instructions": "place on a greased oven tray .",
+            "input": "rolled_dough into oval shape",
+            "action": "place",
+            "output": "rolled_dough into oval shape"
+        },
+        {
+            "instructions": "make even indents over dough with fingertips .",
+            "input": "rolled_dough into oval shape",
+            "action": "make",
+            "output": "indented_rolled_dough into oval shape"
+        },
+        {
+            "instructions": "fill each indent with rosemary .",
+            "input": "(rosemary; indented_rolled_dough into oval shape)",
+            "action": "fill",
+            "output": "rosemary_filled into dough indentations "
+        },
+        {
+            "instructions": "drizzle with olive_oil and sea_salt .",
+            "input": "(olive oil; sea salt; dough with rosemary into indentations)",
+            "action": "drizzle",
+            "output": "oiled_salted_rosemary_dough"
+        },
+        {
+            "instructions": "bake in hot oven 220c for 15 to 20 minutes until golden .",
+            "input": "oiled_salted_rosemary_dough",
+            "action": "bake",
+            "output": "baked_rosemary bread"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "baked_rosemary bread",
+            "action": "serve",
+            "output": "served baked_rosemary bread"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup flour"
+        },
+        {
+            "text": "1 cup self-raising flour"
+        },
+        {
+            "text": "30 g butter, chopped"
+        },
+        {
+            "text": "12 cup water"
+        },
+        {
+            "text": "12 cup milk"
+        },
+        {
+            "text": "rosemary sprig"
+        },
+        {
+            "text": "olive oil"
+        },
+        {
+            "text": "sea salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Use pulse action on food processor to combine flours with butter."
+        },
+        {
+            "text": "Add water mixed with milk and process a few seconds until well combined and dough forms."
+        },
+        {
+            "text": "Turn onto surface floured with self-raising flour."
+        },
+        {
+            "text": "Knead lightly and roll out into a long oval 1.5cm thick."
+        },
+        {
+            "text": "Place on a greased oven tray."
+        },
+        {
+            "text": "Make even indents over dough with fingertips."
+        },
+        {
+            "text": "Fill each indent with rosemary."
+        },
+        {
+            "text": "Drizzle with olive oil and sea salt."
+        },
+        {
+            "text": "Bake in hot oven 220C for 15 to 20 minutes until golden."
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

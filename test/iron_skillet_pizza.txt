@@ -1,0 +1,172 @@
+{
+    "title": "iron_skillet_pizza",
+    "id": "e5f567d5a7",
+    "table": [
+        {
+            "instructions": "use any pizza_topping of your choice",
+            "input": "pizza_topping",
+            "actions": "use",
+            "output": "pizza_topping"
+        },
+        {
+            "instructions": "directions dissolve yeast in warm_water with salt and sugar .",
+            "input": "(warm water; yeast; sugar)",
+            "actions": "dissolve",
+            "output": "yeast and sugar dissolved in warm water "
+        },
+        {
+            "instructions": "add 2 cups of flour",
+            "input": "(flour; yeast mixture)",
+            "actions": "add",
+            "output": "flour added to yeast mixture"
+        },
+        {
+            "instructions": "beat well .",
+            "input": "flour and yeast mixture",
+            "actions": "beat",
+            "output": "dough"
+        },
+        {
+            "instructions": "add the melted crisco .",
+            "input": "(dough; melted crisco)",
+            "actions": "add",
+            "output": "melted crisco in dough"
+        },
+        {
+            "instructions": "mix well",
+            "input": "melted crisco in dough",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "then add another cup of flour",
+            "input": "(flour; dough)",
+            "actions": "add",
+            "output": "flour added to dough"
+        },
+        {
+            "instructions": "knead on a well floured surface .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place the dough in an oiled bowl",
+            "input": "kneaded dough",
+            "actions": "place",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "divide dough in two",
+            "input": "kneaded dough",
+            "actions": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "place in two well greased iron skillets .",
+            "input": "divided dough",
+            "actions": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "add sauce and any pizza_topping of your choice",
+            "input": "(pizza crust; sauce; pizza topping)",
+            "actions": "add",
+            "output": "sauce and any pizza_topping added to pizza crust"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(cheese; pizza crust with topping and sauce)",
+            "actions": "top",
+            "output": "pizza crust with topping and sauce topped with cheese"
+        },
+        {
+            "instructions": "put in hot oven 450 degrees",
+            "input": "uncooked pizza",
+            "actions": "put",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "bake until brown .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package Yeast (.75 Ounce Packet)"
+        },
+        {
+            "text": "1- 1/2 cup Warm Water"
+        },
+        {
+            "text": "1 teaspoon Salt"
+        },
+        {
+            "text": "1 Tablespoon Sugar"
+        },
+        {
+            "text": "3 cups All-purpose Flour"
+        },
+        {
+            "text": "3 Tablespoons Shortening, Melted"
+        },
+        {
+            "text": "2 whole Iron Skillets, Large"
+        },
+        {
+            "text": "14 ounces, fluid Pizza Sauce Store Bought Or Homemade"
+        },
+        {
+            "text": "12 ounces, weight Mozzarella Cheese"
+        },
+        {
+            "text": "Optional Pizza Toppings (pick Your Favorite)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Use any pizza toppings of your choice"
+        },
+        {
+            "text": "Directions: Dissolve yeast in warm water with salt and sugar."
+        },
+        {
+            "text": "Add 2 cups of flour and beat well."
+        },
+        {
+            "text": "Add the melted Crisco."
+        },
+        {
+            "text": "Mix well and then add another cup of flour and knead on a well floured surface."
+        },
+        {
+            "text": "Place the dough in an oiled bowl and let rest for 30 minutes."
+        },
+        {
+            "text": "Divide dough in two and place in two well greased iron skillets."
+        },
+        {
+            "text": "Add sauce and any pizza toppings of your choice and top with cheese."
+        },
+        {
+            "text": "Put in hot oven (450 degrees) and bake until brown."
+        },
+        {
+            "text": "If you only want to make one skillet pizza, divide the dough equally in half."
+        },
+        {
+            "text": "Wrap one half in plastic wrap and then place in a large zip lock bag."
+        },
+        {
+            "text": "Place in the freezer to use at another time."
+        },
+        {
+            "text": "Place remaining half in a well oiled skillet."
+        },
+        {
+            "text": "Recipe yields two large iron skillet pizzas"
+        }
+    ]
+}

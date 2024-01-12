@@ -1,0 +1,262 @@
+{
+    "title": "salad_topped_pizza",
+    "id": "3ced6bedbc",
+    "table": [
+        {
+            "instructions": "make the sauce .",
+            "input": "sauce",
+            "actions": "make",
+            "output": "made_sauce"
+        },
+        {
+            "instructions": "heat olive_oil and crushed_garlic in a pan .",
+            "input": "(olive_oil; crushed_garlic)",
+            "actions": "heat",
+            "output": "fragrant_garlic_in_oil"
+        },
+        {
+            "instructions": "when fragrant , add the canned_tomato .",
+            "input": "(fragrant_garlic_in_oil; canned_tomato)",
+            "actions": "add",
+            "output": "canned_tomato_added_to_fragrant_garlic"
+        },
+        {
+            "instructions": "simmer until reduced by half .",
+            "input": "uncooked_tomato_sauce",
+            "actions": "simmer",
+            "output": "simmering_tomato_sauce"
+        },
+        {
+            "instructions": "add the salt , pepper , sugar and herbs .",
+            "input": "(salt; pepper; sugar; herbs; simmering_tomato_sauce)",
+            "actions": "add",
+            "output": "seasoned_tomato_sauce"
+        },
+        {
+            "instructions": "put the dough ingredients in a bread machine",
+            "input": "dough_ingredients",
+            "actions": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "once finished , roll into a ball",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "oil a baking tray",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll the dough out to fit it .",
+            "input": "rolled_dough",
+            "actions": "roll",
+            "output": "shaped_dough"
+        },
+        {
+            "instructions": "spread the dough with an appropriate amount of olive_oil and tomato_sauce .",
+            "input": "(olive_oil; tomato_sauce; dough)",
+            "actions": "spread",
+            "output": "spread_tomato_sauce and olive oil over dough"
+        },
+        {
+            "instructions": "bake in a 250c oven until browned , approximately 6 to 7 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "cut the cherry_tomato and olives in half .",
+            "input": "(cherry_tomatoes; olives)",
+            "actions": "cut",
+            "output": "cut_cherry_tomato and olives"
+        },
+        {
+            "instructions": "cut star shapes out of the potato with a cutter ,",
+            "input": "potato",
+            "actions": "cut",
+            "output": "cut_potato_in_star_shapes"
+        },
+        {
+            "instructions": "microwave for about 30 seconds .",
+            "input": "cut_potato_in_star_shapes",
+            "actions": "microwave",
+            "output": "microwaved_potatoes"
+        },
+        {
+            "instructions": "cut up the salad_green into bite sized pieces .",
+            "input": "salad_green",
+            "actions": "cut",
+            "output": "cut_salad_green"
+        },
+        {
+            "instructions": "mix together the ingredients for the dressing .",
+            "input": "dressing_ingredients",
+            "actions": "mix",
+            "output": "dressing"
+        },
+        {
+            "instructions": "thoroughly wash",
+            "input": "salad_green",
+            "actions": "wash",
+            "output": "washed_salad_green"
+        },
+        {
+            "instructions": "drain the salad_green",
+            "input": "washed_salad_green",
+            "actions": "drain",
+            "output": "drained_salad_green"
+        },
+        {
+            "instructions": "pour the dressing",
+            "input": "(salad_green; dressing)",
+            "actions": "pour",
+            "output": "dressing_poured_over_salad_green"
+        },
+        {
+            "instructions": "gently toss .",
+            "input": "dressing_poured_over_salad_green",
+            "actions": "toss",
+            "output": "tossed_salad"
+        },
+        {
+            "instructions": "top the baked pizza with the salad and cured ham .",
+            "input": "(baked_pizza; salad; cured_ham)",
+            "actions": "top",
+            "output": "baked_pizza_topped_with_salad and cured_ham"
+        },
+        {
+            "instructions": "sprinkle with plenty of grated cheese .",
+            "input": "(grated_cheese; baked_pizza_topped_with_salad)",
+            "actions": "sprinkle",
+            "output": "cheese_sprinkled over baked_pizza_topped_with_salad"
+        },
+        {
+            "instructions": "check out this recipe for hand kneaded pizza_dough .",
+            "input": "NA",
+            "actions": "check",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "300 grams Bread (strong) flour"
+        },
+        {
+            "text": "100 grams Cake flour"
+        },
+        {
+            "text": "1 1/2 tbsp Olive oil"
+        },
+        {
+            "text": "1 1/2 tsp Salt"
+        },
+        {
+            "text": "1 tbsp Sugar"
+        },
+        {
+            "text": "1 tsp Dry yeast"
+        },
+        {
+            "text": "260 ml Water"
+        },
+        {
+            "text": "1 can Canned tomatoes"
+        },
+        {
+            "text": "3 tbsp Olive oil"
+        },
+        {
+            "text": "1 clove Garlic"
+        },
+        {
+            "text": "1 pinch each Salt, sugar"
+        },
+        {
+            "text": "1 tsp Dried oregano or basil (if you have)"
+        },
+        {
+            "text": "1 Leafy salad greens"
+        },
+        {
+            "text": "1 Cured ham"
+        },
+        {
+            "text": "1 Cherry tomatoes, black olives (potatoes for decoration)"
+        },
+        {
+            "text": "1 Grated cheese"
+        },
+        {
+            "text": "1 tbsp Olive oil"
+        },
+        {
+            "text": "1/2 tsp Wine vinegar or rice vinegar"
+        },
+        {
+            "text": "1 dash of each Salt and pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Make the sauce."
+        },
+        {
+            "text": "Heat olive oil and crushed garlic in a pan."
+        },
+        {
+            "text": "When fragrant, add the canned tomato."
+        },
+        {
+            "text": "Simmer until reduced by half."
+        },
+        {
+            "text": "Add the salt, pepper, sugar and herbs."
+        },
+        {
+            "text": "Put the dough ingredients in a bread machine and start the pizza dough program."
+        },
+        {
+            "text": "Once finished, roll into a ball and let rest for 10 minutes."
+        },
+        {
+            "text": "Oil a baking tray and roll the dough out to fit it."
+        },
+        {
+            "text": "This time I used about half of the dough (1.5 loaf as listed), and about half of the tomato sauce."
+        },
+        {
+            "text": "Spread the dough with an appropriate amount of olive oil and tomato sauce."
+        },
+        {
+            "text": "Bake in a 250C oven until browned, approximately 6 to 7 minutes."
+        },
+        {
+            "text": "Cut the cherry tomatoes and olives in half."
+        },
+        {
+            "text": "Cut star shapes out of the potato with a cutter, then microwave for about 30 seconds."
+        },
+        {
+            "text": "Cut up the salad greens into bite sized pieces."
+        },
+        {
+            "text": "Mix together the ingredients for the dressing."
+        },
+        {
+            "text": "Thoroughly wash and drain the salad greens, pour the dressing and gently toss."
+        },
+        {
+            "text": "Top the baked pizza with the salad and cured ham."
+        },
+        {
+            "text": "Sprinkle with plenty of grated cheese."
+        },
+        {
+            "text": "Check out this recipe for hand kneaded pizza dough."
+        }
+    ]
+}

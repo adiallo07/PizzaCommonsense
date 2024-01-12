@@ -1,0 +1,247 @@
+{
+    "title": "chicago_style_deep_dish_pizza",
+    "id": "92d5bec00d",
+    "table": [
+        {
+            "instructions": "with a kitchenaid mixer , mix the yeast with the warm_water",
+            "input": "(yeast; warm_water)",
+            "action": "mix",
+            "output": "yeast and water mixture"
+        },
+        {
+            "instructions": "dissolve yeast completely .",
+            "input": "yeast and water mixture",
+            "action": "dissolve",
+            "output": "dissolved yeast"
+        },
+        {
+            "instructions": "add the vegetable_oil , olive_oil , cornmeal and 12 of the flour .",
+            "input": "(dissolved yeast; vegetable oil; olive oil; cornmeal; flour)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "beat for 10 minutes .",
+            "input": "dough",
+            "action": "beat",
+            "output": "dough"
+        },
+        {
+            "instructions": "attach the dough hook",
+            "input": "NA",
+            "action": "attach",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix in the remaining flour .",
+            "input": "(dough; remaining flour)",
+            "action": "mix",
+            "output": "mixed dough"
+        },
+        {
+            "instructions": "knead with the mixer for several minutes .",
+            "input": "mixed dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place dough on clean countertop",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "cover with a large metal bowl to allow to rise double in bulk .",
+            "input": "kneaded dough",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "punch down",
+            "input": "covered dough",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "punch down a 2nd time and the dough is ready .",
+            "input": "punched down dough",
+            "action": "punch",
+            "output": "ready dough"
+        },
+        {
+            "instructions": "oil a deep dish pizza\u2012pan .",
+            "input": "NA",
+            "action": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "place some dough in the pan",
+            "input": "ready dough",
+            "action": "place",
+            "output": "dough in pizza pan"
+        },
+        {
+            "instructions": "push it out to the edges using your fingers .",
+            "input": "dough in pizza pan",
+            "action": "push",
+            "output": "raw pizza crust"
+        },
+        {
+            "instructions": "put enough dough so that you can run the crust right up the side of the pan .",
+            "input": "raw pizza crust",
+            "action": "put",
+            "output": "raw pizza crust"
+        },
+        {
+            "instructions": "make it about 18 thick throughout the pan .",
+            "input": "raw pizza crust",
+            "action": "make",
+            "output": "raw pizza crust"
+        },
+        {
+            "instructions": "place the cheese in tile like layers on the bottom of the pie .",
+            "input": "(raw pizza crust; cheese)",
+            "action": "place",
+            "output": "cheese on raw pizza crust"
+        },
+        {
+            "instructions": "put in the tomatoes , the basil , oregano , garlic , and salt .",
+            "input": "(cheese on raw pizza crust; tomatoes; basil; oregano; garlic;  salt)",
+            "action": "put",
+            "output": "tomatoes, basil, oregano, garlic and salt on raw pizza crust with cheese"
+        },
+        {
+            "instructions": "add the shredded_mozzarella_cheese",
+            "input": "(raw pizza crust with cheese, tomatoes, basil, oregano, garlic and salt; shredded mozzarella cheese)",
+            "action": "add",
+            "output": "mozzarella cheese added to raw pizza crust with cheese, tomatoes, basil, oregano, garlic and salt"
+        },
+        {
+            "instructions": "drizzle the olive_oil",
+            "input": "(raw pizza crust with cheese, mozzarella cheese, tomatoes, basil, oregano, garlic and salt; olive oil)",
+            "action": "drizzle",
+            "output": "olive oil drizzled on raw pizza crust with cheese, mozzarella cheese, tomatoes, basil, oregano, garlic and salt"
+        },
+        {
+            "instructions": "add the parmesan_cheese over the top .",
+            "input": "(parmesan cheese; raw chicago_style_deep_dish_pizza)",
+            "action": "add",
+            "output": "parmesan cheese added to uncooked chicago_style_deep_dish_pizza"
+        },
+        {
+            "instructions": "bake the pie in the 475 degree oven until the top is golden and gooey and the crust is light golden brown about 35 minutes .",
+            "input": "uncooked chicago_style_deep_dish_pizza",
+            "action": "bake",
+            "output": "baked chicago_style_deep_dish_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (1/4 ounce) packages fast-rising active dry yeast"
+        },
+        {
+            "text": "2 cups warm water"
+        },
+        {
+            "text": "12 cup vegetable oil"
+        },
+        {
+            "text": "4 tablespoons olive oil"
+        },
+        {
+            "text": "12 cup cornmeal"
+        },
+        {
+            "text": "5 12 cups flour"
+        },
+        {
+            "text": "12 lb sliced mozzarella cheese"
+        },
+        {
+            "text": "2 12 cups italian-style whole canned tomatoes, drained and squished"
+        },
+        {
+            "text": "12 lb 95% lean ground beef, cooked and drained"
+        },
+        {
+            "text": "1 green pepper, chopped"
+        },
+        {
+            "text": "1 small onion, chopped"
+        },
+        {
+            "text": "1 teaspoon basil"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        },
+        {
+            "text": "12 cup shreaded mozzarella cheese"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "With a kitchenaid mixer, mix the yeast with the warm water and dissolve yeast completely."
+        },
+        {
+            "text": "Add the vegetable oil, olive oil, cornmeal and 1/2 of the flour."
+        },
+        {
+            "text": "Beat for 10 minutes."
+        },
+        {
+            "text": "Attach the dough hook and mix in the remaining flour."
+        },
+        {
+            "text": "Knead with the mixer for several minutes."
+        },
+        {
+            "text": "Place dough on clean countertop and cover with a large metal bowl to allow to rise double in bulk."
+        },
+        {
+            "text": "Punch down and allow to rise again."
+        },
+        {
+            "text": "Punch down a 2nd time and the dough is ready."
+        },
+        {
+            "text": "Oil a deep-dish pizza pan."
+        },
+        {
+            "text": "Place some dough in the pan and push it out to the edges using your fingers."
+        },
+        {
+            "text": "Put enough dough so that you can run the crust right up the side of the pan."
+        },
+        {
+            "text": "Make it about 1/8\" thick throughout the pan."
+        },
+        {
+            "text": "Place the cheese in tile-like layers on the bottom of the pie."
+        },
+        {
+            "text": "Put in the tomatoes, the basil, oregano, garlic, and salt."
+        },
+        {
+            "text": "Add your toppings - in this recipe we include ground beef, green pepper and onion."
+        },
+        {
+            "text": "Add the shredded mozzarella cheese, drizzle the olive oil and add the parmesan cheese over the top."
+        },
+        {
+            "text": "Bake the pie in the 475 degree oven until the top is golden and gooey and the crust is light golden brown - about 35 minutes."
+        }
+    ]
+}

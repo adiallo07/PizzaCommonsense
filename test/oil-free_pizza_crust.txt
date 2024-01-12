@@ -1,0 +1,160 @@
+{
+    "title": "oil-free_pizza_crust",
+    "id": "06f33ce7f5",
+    "table": [
+        {
+            "instructions": "combine all the ingredients",
+            "input": "dough ingredients",
+            "action": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "roll it up once it becomes somewhat smooth .",
+            "input": "kneaded dough",
+            "action": "roll",
+            "output": "rolled up dough"
+        },
+        {
+            "instructions": "then take it out",
+            "input": "rolled up dough",
+            "action": "take",
+            "output": "unrolled dough"
+        },
+        {
+            "instructions": "roll it up .",
+            "input": "unrolled dough",
+            "action": "roll",
+            "output": "rolled up dough"
+        },
+        {
+            "instructions": "leave it to rest for 20 minutes .",
+            "input": "rolled up dough",
+            "action": "leave",
+            "output": "rested dough"
+        },
+        {
+            "instructions": "spray water",
+            "input": "(rested dough; water)",
+            "action": "spray",
+            "output": "water sprayed on rested dough"
+        },
+        {
+            "instructions": "cover with a wet paper towel .",
+            "input": "water sprayed on rested dough",
+            "action": "cover",
+            "output": "covered dough sprayed with water"
+        },
+        {
+            "instructions": "roll it out into the shape of your choice",
+            "input": "covered dough sprayed with water",
+            "action": "roll",
+            "output": "rolled out pizza crust"
+        },
+        {
+            "instructions": "place it on top of parchment paper .",
+            "input": "rolled out pizza crust",
+            "action": "place",
+            "output": "rolled out pizza crust"
+        },
+        {
+            "instructions": "poke holes with a fork .",
+            "input": "rolled out pizza crust",
+            "action": "poke",
+            "output": "pricked rolled out pizza crust"
+        },
+        {
+            "instructions": "if you keep the rim a little thicker , the sauce and toppings wo n't spill out .",
+            "input": "NA",
+            "action": "spill",
+            "output": "NA"
+        },
+        {
+            "instructions": "top it with the sauce and toppings you like",
+            "input": "(pricked rolled out pizza crust; sauce; toppings)",
+            "action": "top",
+            "output": "uncooked pizza crust with sauce and toppings"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "200 grams Bread (strong) flour"
+        },
+        {
+            "text": "130 ml Water"
+        },
+        {
+            "text": "5 grams Sugar"
+        },
+        {
+            "text": "3 grams Salt"
+        },
+        {
+            "text": "2 grams Dry yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine all the ingredients and knead."
+        },
+        {
+            "text": "Roll it up once it becomes somewhat smooth."
+        },
+        {
+            "text": "If you're using a bread maker, let it knead for about 10 minutes,and then take it out and roll it up."
+        },
+        {
+            "text": "No rising."
+        },
+        {
+            "text": "Leave it to rest for 20 minutes."
+        },
+        {
+            "text": "Spray water and cover with a wet paper towel."
+        },
+        {
+            "text": "Roll it out into the shape of your choice and place it on top of parchment paper."
+        },
+        {
+            "text": "Poke holes with a fork."
+        },
+        {
+            "text": "If you keep the rim a little thicker, the sauce and toppings won't spill out."
+        },
+        {
+            "text": "Top it with the sauce and toppings you like and bake for 18 to 20 minutes at 200C Please adjust the baking time accordingly."
+        },
+        {
+            "text": "This is a fluffy, thick pizza (anchovy, garlic, onions, mayonnaise, cheese)."
+        },
+        {
+            "text": "More like a pizza bread, due to its thickness."
+        },
+        {
+            "text": "This is a thinly rolled out crust."
+        },
+        {
+            "text": "Since the surface area got bigger, I added lots of toppings."
+        },
+        {
+            "text": "It's made with basil sauce."
+        },
+        {
+            "text": "This pizza is topped with dried curry sauce and cheese Very easy to make using leftovers, but still good."
+        },
+        {
+            "text": "Pizza with tomatoes, cheese, and mayonnaise."
+        },
+        {
+            "text": "Pizzas are fun to make, since you can do so with a variety of toppings."
+        },
+        {
+            "text": "Here is an example of using this dough to make it into a naan to go with curry."
+        }
+    ]
+}

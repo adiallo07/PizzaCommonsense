@@ -1,0 +1,145 @@
+{
+    "title": "almost_like_papa_john_'s_pizza_dough",
+    "id": "0ab102d8da",
+    "table": [
+        {
+            "instructions": "in a large bowl , combine 1 cup , flour , sugar , undissolved yeast , and salt ;",
+            "input": "(flour; sugar; yeast; salt)",
+            "actions": "combine",
+            "output": "combined flour and yeast mix"
+        },
+        {
+            "instructions": "blend well .",
+            "input": "combined flour and yeast mix",
+            "actions": "blend",
+            "output": "blended_flour and yeast mixture"
+        },
+        {
+            "instructions": "gradually add water and oil to mixture .",
+            "input": "(blended_flour and yeast mixtur; water; oil)",
+            "actions": "add",
+            "output": "water and oil added to blended_flour and yeast mixture"
+        },
+        {
+            "instructions": "blend at low speed until moistened ,",
+            "input": "blended_mixture with water and oil",
+            "actions": "blend",
+            "output": "moistened_mixture"
+        },
+        {
+            "instructions": "beat for 2 minutes at medium speed .",
+            "input": "moistened_mixture",
+            "actions": "beat",
+            "output": "dough"
+        },
+        {
+            "instructions": "by hand , add 1 12 to 2 cup of flour until dough pulls away from sides of bowl .",
+            "input": "(dough; flour)",
+            "actions": "add",
+            "output": "flour_added_to_dough"
+        },
+        {
+            "instructions": "on floured surface , knead in 14 to 12 cup flour until dough is smooth and elastic .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "cover loosely with plastic",
+            "input": "kneaded_dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "press out dough onto 2 12 inch , pizza\u2012pan .",
+            "input": "covered_dough",
+            "actions": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "prick randomly with a fork .",
+            "input": "covered_dough",
+            "actions": "prick",
+            "output": "pricked_dough"
+        },
+        {
+            "instructions": "let rest again in a warm place for 10 15 minutes .",
+            "input": "pricked_dough",
+            "actions": "rest",
+            "output": "rested_dough"
+        },
+        {
+            "instructions": "brush crusts lightly with oil",
+            "input": "(rested_dough; oil)",
+            "actions": "brush",
+            "output": "oiled_pizza crust"
+        },
+        {
+            "instructions": "top as desired ,",
+            "input": "(oiled_pizza crust; toppings)",
+            "actions": "top",
+            "output": "toppings on oiled_pizza crus"
+        },
+        {
+            "instructions": "bake again in 450 degree oven for 4 5 minutes , or until desired doneness .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 12-3 cups flour"
+        },
+        {
+            "text": "2 tablespoons sugar"
+        },
+        {
+            "text": "2 14 teaspoons fast rising yeast (or fast rise, 1 envelope)"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 cup very warm water (120 to 130 degrees)"
+        },
+        {
+            "text": "2 tablespoons oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large bowl, combine 1 cup flour, sugar, undissolved yeast, and salt; blend well."
+        },
+        {
+            "text": "Gradually add water and oil to mixture."
+        },
+        {
+            "text": "Blend at low speed until moistened, then beat for 2 minutes at medium speed."
+        },
+        {
+            "text": "By hand, add 1 1/2 to 2 cupa flour until dough pulls away from sides of bowl."
+        },
+        {
+            "text": "On floured surface, knead in 1/4 to 1/2 cup flour until dough is smooth and elastic."
+        },
+        {
+            "text": "Cover loosely with plastic and let rest in a warm place for about 15 minutes."
+        },
+        {
+            "text": "Press out dough onto (2) 12-inch pizza pans."
+        },
+        {
+            "text": "Prick randomly with a fork."
+        },
+        {
+            "text": "Let rest again in a warm place for 10-15 minutes."
+        },
+        {
+            "text": "Brush crusts lightly with oil then prebake them in a 450 degree oven for 5 minutes."
+        },
+        {
+            "text": "Top as desired, then bake again in 450 degree oven for 4-5 minutes, or until desired doneness."
+        }
+    ]
+}

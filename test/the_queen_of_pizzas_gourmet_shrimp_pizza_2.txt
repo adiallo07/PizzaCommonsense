@@ -1,0 +1,133 @@
+{
+    "title": "the_queen_of_pizzas_gourmet_shrimp_pizza_2",
+    "id": "433ffba50c",
+    "table": [
+        {
+            "instructions": "preheat pizza stone in oven at 450f ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush olive_oil over crust",
+            "input": "olive_oil; pizza crust",
+            "action": "brush",
+            "output": "brushed_olive_oil on pizza crust"
+        },
+        {
+            "instructions": "spread with prepared pizza_sauce .",
+            "input": "(oiled Crust, Pizza sauce)",
+            "action": "spread",
+            "output": "oiled crust with sauce on it"
+        },
+        {
+            "instructions": "sprinkle on basil , oregano , red_pepper_flake , pepper and garlic .",
+            "input": "(Basil; Oregano; Red Pepper Flake; Pepper, Garlic)",
+            "action": "sprinkle",
+            "output": "Pizza crust with sauce and seasonings"
+        },
+        {
+            "instructions": "combine 3 cheeses",
+            "input": "(provolone; mozzarella; parmesian)",
+            "action": "combine",
+            "output": "cheeses combined"
+        },
+        {
+            "instructions": "sprinkle evenly over pizza .",
+            "input": "cheeses combined",
+            "action": "sprinkle",
+            "output": "Cheese pizza"
+        },
+        {
+            "instructions": "bake for 10 minutes .",
+            "input": "Uncooked cheese pizza",
+            "action": "bake",
+            "output": "Finished cheese pizza"
+        },
+        {
+            "instructions": "add toppings of your choice at table do try to have some arugula and chili_oil to drizzle over",
+            "input": "(arugula; chili oil)",
+            "action": "add",
+            "output": "Cheese pizza with arugula and chili oil to taste"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 prepared 12-inch pizza crust (like Boboli)"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "12 cup prepared pizza or 12 cup spaghetti sauce"
+        },
+        {
+            "text": "12 teaspoon dried basil"
+        },
+        {
+            "text": "12 teaspoon dried oregano (preferably Greek)"
+        },
+        {
+            "text": "14 teaspoon dried red pepper flakes (or to taste)"
+        },
+        {
+            "text": "lots of freshly-cracked pepper, to taste"
+        },
+        {
+            "text": "2 garlic cloves, very finely minced"
+        },
+        {
+            "text": "8 ounces cooked shrimp (if the shrimp are large, chop them up or slice into smaller pieces)"
+        },
+        {
+            "text": "12 cup sliced mushrooms (fresh)"
+        },
+        {
+            "text": "14 cup sliced kalamata olive"
+        },
+        {
+            "text": "14 cup sliced green onion (spring or fresh)"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        },
+        {
+            "text": "13 cup feta cheese, crumbled"
+        },
+        {
+            "text": "1 12 tablespoons parmesan cheese, grated"
+        },
+        {
+            "text": "fresh basil leaf, torn"
+        },
+        {
+            "text": "fresh arugula leaf, torn"
+        },
+        {
+            "text": "chili oil, to drizzle over top"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat pizza stone in oven at 450F Brush olive oil over crust and spread with prepared pizza sauce."
+        },
+        {
+            "text": "Sprinkle on basil, oregano, red pepper flakes, pepper and garlic."
+        },
+        {
+            "text": "Distribute shrimp, mushrooms, olives and onions over pizza."
+        },
+        {
+            "text": "Combine 3 cheeses and sprinkle evenly over pizza."
+        },
+        {
+            "text": "Bake for 10 minutes."
+        },
+        {
+            "text": "Add toppings of your choice at table (do try to have some arugula and chili oil to drizzle over) and enjoy!"
+        },
+        {
+            "text": "With much love from the Quisine Queens."
+        }
+    ]
+}

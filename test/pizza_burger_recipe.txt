@@ -1,0 +1,79 @@
+{
+    "title": "pizza_burger_recipe",
+    "id": "8c47f23657",
+    "table": [
+        {
+            "instructions": "brown ground beef .",
+            "input": "ground beef",
+            "action": "brown",
+            "output": "browned_ground beef"
+        },
+        {
+            "instructions": "grind spam .",
+            "input": "spam ",
+            "action": "grind",
+            "output": "grinded spam"
+        },
+        {
+            "instructions": "combine these two",
+            "input": "grinded spam; browned_ground beef",
+            "action": "combine",
+            "output": "browned_ground beef and grinded spam combined"
+        },
+        {
+            "instructions": "add in rest of ingredients .",
+            "input": "sage; oregano; spaghetti sauce; browned_ground beef and grinded spam combined",
+            "action": "add",
+            "output": "hamburger patty mixture"
+        },
+        {
+            "instructions": "put on 12 hamburger_bun , top with grated mozzarella_cheese .",
+            "input": "hamburger_bun; grated mozzarella cheese; hamburger patty mixture",
+            "action": "put",
+            "output": "hamburger patty mixture and grated mozzarella on top of hamburger bun"
+        },
+        {
+            "instructions": "bake at 425 degrees for 12 to 15 min .",
+            "input": "uncooked pizza_burger_recipe",
+            "action": "bake",
+            "output": "baked pizza_burger_recipe"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "7 ounce. Spam"
+        },
+        {
+            "text": "1 pound grnd beef"
+        },
+        {
+            "text": "2/3 pound American cheese"
+        },
+        {
+            "text": "1 teaspoon sage"
+        },
+        {
+            "text": "1 tbsp. oregano"
+        },
+        {
+            "text": "1 (15 ounce.) spaghetti sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown grnd beef."
+        },
+        {
+            "text": "Grind Spam."
+        },
+        {
+            "text": "Combine these two and add in rest of ingredients."
+        },
+        {
+            "text": "Put on 1/2 hamburger bun, top with grated Mozzarella cheese."
+        },
+        {
+            "text": "Bake at 425 degrees for 12 to 15 min."
+        }
+    ]
+}

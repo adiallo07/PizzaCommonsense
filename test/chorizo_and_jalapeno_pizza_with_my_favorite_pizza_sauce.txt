@@ -1,0 +1,187 @@
+{
+    "title": "chorizo_and_jalapeno_pizza_with_my_favorite_pizza_sauce",
+    "id": "a2bfbd241d",
+    "table": [
+        {
+            "instructions": "in a small bowl , combine tomato_paste , water , parmesan , garlic , honey , onion_powder , oregano , basil , pepper , cayenne , red_pepper , and salt .",
+            "input": "(tomato_paste; water; parmesan; garlic; honey; onion_powder; oregano; basil; pepper; cayenne; red_pepper; salt)",
+            "action": "combine",
+            "output": "pizza_sauce "
+        },
+        {
+            "instructions": "mix very well .",
+            "input": "pizza_sauce ",
+            "action": "mix",
+            "output": "pizza_sauce "
+        },
+        {
+            "instructions": "cover",
+            "input": "pizza_sauce ",
+            "action": "cover",
+            "output": "prepared pizza_sauce "
+        },
+        {
+            "instructions": "taste for seasoning , adding salt and red_pepper_flake as necessary .",
+            "input": "(salt; red_pepper_flake; prepared pizza_sauce )",
+            "action": "taste",
+            "output": "seasoned pizza sauce"
+        },
+        {
+            "instructions": "preheat oven to 500 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large skillet over medium heat , cook chorizo until crumbly and completely browned .",
+            "input": "chorizo",
+            "action": "cook",
+            "output": "cooked chorizo"
+        },
+        {
+            "instructions": "set aside on paper towels to drain .",
+            "input": "cooked chorizo",
+            "action": "set",
+            "output": "cooked chorizo drained from excess fat"
+        },
+        {
+            "instructions": "roll out pizza_dough to your desired size and thickness",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled pizza_dough"
+        },
+        {
+            "instructions": "put it on a pizza stone or cookie sheet .",
+            "input": "rolled pizza_dough",
+            "action": "put",
+            "output": "rolled pizza_dough"
+        },
+        {
+            "instructions": "spread prepared pizza_sauce evenly over dough leaving a border around the edge .",
+            "input": "pizza_sauce , rolled pizza_dough",
+            "action": "spread",
+            "output": "pizza_sauce spread on dough"
+        },
+        {
+            "instructions": "then top with slices of mozzarella .",
+            "input": "(mozzarella slices; pizza dough with pizza sauce)",
+            "action": "top",
+            "output": "pizza dough with pizza sauce topped with sliced mozzarella"
+        },
+        {
+            "instructions": "next , add jalapeno slices and chorizo .",
+            "input": "(jalapeno slices; cooked chorizo; pizza dough with pizza sauce topped with sliced mozzarella)",
+            "action": "add",
+            "output": "pizza dough with pizza sauce topped with sliced mozzarella, jalapeno and chorizo"
+        },
+        {
+            "instructions": "brush edges of pizza_crust with olive_oil .",
+            "input": "olive_oil, uncooked chorizo_and_jalapeno_pizza",
+            "action": "brush",
+            "output": "chorizo_and_jalapeno_pizza edges brushed with olive oil"
+        },
+        {
+            "instructions": "bake for 12 15 minutes , until crust is golden and the cheese is bubbly .",
+            "input": "uncooked chorizo_and_jalapeno_pizza",
+            "action": "bake",
+            "output": "baked chorizo_and_jalapeno_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 ounces, fluid Tomato Paste"
+        },
+        {
+            "text": "5 ounces, fluid Warm Water"
+        },
+        {
+            "text": "3 Tablespoons Grated Parmesan Cheese"
+        },
+        {
+            "text": "3 cloves Garlic, Minced"
+        },
+        {
+            "text": "1 Tablespoon Honey"
+        },
+        {
+            "text": "3/4 teaspoons Onion Powder"
+        },
+        {
+            "text": "1/2 teaspoons Dried Oregano"
+        },
+        {
+            "text": "1/2 teaspoons Dried Basil"
+        },
+        {
+            "text": "1/2 teaspoons Black Pepper"
+        },
+        {
+            "text": "18 teaspoons Cayenne Pepper"
+        },
+        {
+            "text": "1/4 teaspoons Red Pepper Flakes"
+        },
+        {
+            "text": "1 teaspoon Salt"
+        },
+        {
+            "text": "1/2 pounds Chorizo"
+        },
+        {
+            "text": "1 whole Batch Of Pizza Dough (enough For One Medium-large Sized Crust)"
+        },
+        {
+            "text": "1 whole Jalapeno, Sliced"
+        },
+        {
+            "text": "8 ounces, weight Fresh Mozzarella Cheese"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a small bowl, combine tomato paste, water, Parmesan, garlic, honey, onion powder, oregano, basil, pepper, cayenne, red pepper, and salt."
+        },
+        {
+            "text": "Mix very well."
+        },
+        {
+            "text": "Cover and keep in refrigerator at least 30 minutes before using, so that flavors can develop."
+        },
+        {
+            "text": "Taste for seasoning, adding salt and red pepper flakes as necessary."
+        },
+        {
+            "text": "Preheat oven to 500 F."
+        },
+        {
+            "text": "In a large skillet over medium heat, cook chorizo until crumbly and completely browned."
+        },
+        {
+            "text": "Set aside on paper towels to drain."
+        },
+        {
+            "text": "Roll out pizza dough to your desired size and thickness and put it on a pizza stone or cookie sheet."
+        },
+        {
+            "text": "Spread prepared pizza sauce evenly over dough leaving a border around the edge."
+        },
+        {
+            "text": "Then top with slices of mozzarella."
+        },
+        {
+            "text": "Next, add jalapeno slices and chorizo."
+        },
+        {
+            "text": "Brush edges of pizza crust with olive oil."
+        },
+        {
+            "text": "Bake for 12-15 minutes, until crust is golden and the cheese is bubbly."
+        },
+        {
+            "text": "Allow to sit for a couple minutes to cool slightly before cutting into slices and serving."
+        }
+    ]
+}

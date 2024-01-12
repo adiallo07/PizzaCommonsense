@@ -1,0 +1,112 @@
+{
+    "title": "pizza_dough_oregonian",
+    "id": "453f2c9ec1",
+    "table": [
+        {
+            "instructions": "  not over 110 add water , sugar and yeast in bowl .",
+            "input": "(water; sugar; yeast)",
+            "action": "add",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "add oil and then flour .",
+            "input": "(yeast mixture; oil; flour)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix until shaggy",
+            "input": "dough",
+            "action": "mix",
+            "output": "shaggy dough"
+        },
+        {
+            "instructions": "add a little more flour to prevent sticking .",
+            "input": "(shaggy dough; flour)",
+            "action": "add",
+            "output": "flour-dusted dough"
+        },
+        {
+            "instructions": "let rise until double about an hour .",
+            "input": "flour-dusted dough",
+            "action": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "punch down",
+            "input": "risen dough",
+            "action": "punch",
+            "output": "deflated dough"
+        },
+        {
+            "instructions": "form crust and par bake at 425 for 10 12 minute .",
+            "input": "deflated dough",
+            "action": "form",
+            "output": "par-baked pizza crust"
+        },
+        {
+            "instructions": "add toppings",
+            "input": "(par-baked pizza crust; toppings)",
+            "action": "add",
+            "output": "topped pizza crust"
+        },
+        {
+            "instructions": "cook for another 10 12 until cheese is melted but not browned .",
+            "input": "topped pizza crust",
+            "action": "cook",
+            "output": "cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "14 cup olive oil"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "2 14 teaspoons active dry yeast"
+        },
+        {
+            "text": "3 cups unbleached flour"
+        },
+        {
+            "text": "14 teaspoon kosher salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "water should be 90-100 Deg."
+        },
+        {
+            "text": "(not over 110) add water, sugar and yeast in bowl."
+        },
+        {
+            "text": "Let stand 5 to 10 min until bubbly,."
+        },
+        {
+            "text": "add oil and then flour."
+        },
+        {
+            "text": "mix until shaggy then let stand for 10 to 15 minutes until hydrated."
+        },
+        {
+            "text": "kneed until smooth, add a little more flour to prevent sticking."
+        },
+        {
+            "text": "let rise until double (about an hour)."
+        },
+        {
+            "text": "Punch down and slipt into two pieces for thiner crusts."
+        },
+        {
+            "text": "Form crust and par bake at 425 for 10 - 12 minute."
+        },
+        {
+            "text": "Add toppings and cook for another 10 - 12 until cheese is melted but not browned."
+        }
+    ]
+}

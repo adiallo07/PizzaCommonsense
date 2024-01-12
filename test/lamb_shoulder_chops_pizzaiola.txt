@@ -1,0 +1,184 @@
+{
+    "title": "lamb_shoulder_chops_pizzaiola",
+    "id": "82327f94a1",
+    "table": [
+        {
+            "instructions": "prepare seasoned_flour by mixing all flour ingredients together in a bowl .",
+            "input": "(flour; paprika; cayenne pepper; salt; pepper)",
+            "actions": "prepare",
+            "output": "seasoned_flour"
+        },
+        {
+            "instructions": "cover chops with the seasoned_flour .",
+            "input": "(prepared_seasoned_flour; chops)",
+            "actions": "cover",
+            "output": "covered_chops with seasoned flour"
+        },
+        {
+            "instructions": "heat 3 of the tablespoons , olive_oil in a sillet",
+            "input": "olive_oil",
+            "actions": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "brown chops on both sides .",
+            "input": "covered_chops with seasoned flour",
+            "actions": "brown",
+            "output": "browned_chops"
+        },
+        {
+            "instructions": "remove browned chops to a plate",
+            "input": "browned_chops",
+            "actions": "remove",
+            "output": "browned_chops"
+        },
+        {
+            "instructions": "discard fat left in skillet .",
+            "input": "browned_chops",
+            "actions": "discard",
+            "output": "browned_chops without excess fat; chops fat"
+        },
+        {
+            "instructions": "add the remaining 1 tablespoons oil",
+            "input": "oil",
+            "actions": "add",
+            "output": "olive_oil in skillet"
+        },
+        {
+            "instructions": "heat it .",
+            "input": "olive_oil in skillet",
+            "actions": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add tomato_paste , onions , garlic",
+            "input": "(heated_olive_oil; tomato_paste; onions; garlic)",
+            "actions": "add",
+            "output": "tomato_sauce_base"
+        },
+        {
+            "instructions": "saute for 2 3 minutes .",
+            "input": "tomato_sauce_base",
+            "actions": "saute",
+            "output": "sauteed_tomato_sauce_base"
+        },
+        {
+            "instructions": "add white_wine , crushed_tomato and oregano .",
+            "input": "(sauted_tomato_sauce_base; white_wine; crushed_tomato; oregano)",
+            "actions": "add",
+            "output": "tomato_sauce"
+        },
+        {
+            "instructions": "return chops to skillet",
+            "input": "(browned_chops; tomato_sauce)",
+            "actions": "return",
+            "output": "tomato_chops"
+        },
+        {
+            "instructions": "cover",
+            "input": "tomato_chops",
+            "actions": "cover",
+            "output": "tomato_chops"
+        },
+        {
+            "instructions": "braise over low heat for 45 minutes or until tender .",
+            "input": "tomato_chops",
+            "actions": "braise",
+            "output": "braised_tomato_chops"
+        },
+        {
+            "instructions": "remove chops",
+            "input": "braised_tomato_chops",
+            "actions": "remove",
+            "output": "braised_tomato_chops"
+        },
+        {
+            "instructions": "top with cheese",
+            "input": "(braised_tomato_chops; cheese)",
+            "actions": "top",
+            "output": "cheesy_tomato_chops"
+        },
+        {
+            "instructions": "serve immediateley .",
+            "input": "cheesy_tomato_chops",
+            "actions": "serve",
+            "output": "chops alla pizzaiola"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 -6 shoulder lamb chops, one per person"
+        },
+        {
+            "text": "1 cup flour"
+        },
+        {
+            "text": "12 tablespoon paprika"
+        },
+        {
+            "text": "1 pinch cayenne pepper"
+        },
+        {
+            "text": "salt, to taste"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "4 tablespoons olive oil"
+        },
+        {
+            "text": "3 tablespoons tomato paste"
+        },
+        {
+            "text": "12 cup onion, chopped"
+        },
+        {
+            "text": "6 garlic cloves, chopped"
+        },
+        {
+            "text": "1 cup white wine"
+        },
+        {
+            "text": "1 (12 ounce) can tomatoes, crushed"
+        },
+        {
+            "text": "14 teaspoon dried oregano"
+        },
+        {
+            "text": "4 -6 slices mozzarella cheese, one slice per person"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare seasoned flour by mixing all flour ingredients together in a bowl."
+        },
+        {
+            "text": "Cover chops with the seasoned flour."
+        },
+        {
+            "text": "Heat 3 of the tablespoons olive oil in a sillet and brown chops on both sides."
+        },
+        {
+            "text": "Remove browned chops to a plate and discard fat left in skillet."
+        },
+        {
+            "text": "To skillet, add the remaining 1 tablespoons oil and heat it."
+        },
+        {
+            "text": "Add tomato paste, onions, garlic and saute for 2-3 minutes."
+        },
+        {
+            "text": "Add white wine, crushed tomatoes and oregano."
+        },
+        {
+            "text": "Return chops to skillet, cover and braise over low heat for 45 minutes or until tender."
+        },
+        {
+            "text": "Remove chops, top with cheese and keep warm in oven until melted."
+        },
+        {
+            "text": "Serve immediateley."
+        }
+    ]
+}

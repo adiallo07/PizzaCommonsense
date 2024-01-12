@@ -1,0 +1,211 @@
+{
+    "title": "jewish_pizza",
+    "id": "0972a693c0",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "to make the dough",
+            "input": "dough",
+            "actions": "make",
+            "output": "made_dough"
+        },
+        {
+            "instructions": "combine flour , salt , honey , and water",
+            "input": "(flour; salt; honey; water)",
+            "actions": "combine",
+            "output": "combined_dough_ingredients"
+        },
+        {
+            "instructions": "mix for 2 minutes on 1 speed to form a ball .",
+            "input": "combined_dough_ingredients",
+            "actions": "mix",
+            "output": "dough_ball"
+        },
+        {
+            "instructions": "add yeast",
+            "input": "dough_ball",
+            "actions": "add",
+            "output": "dough_with_yeast"
+        },
+        {
+            "instructions": "add the olive_oil until fully incorporated .",
+            "input": "(dough_with_yeast; olive_oil)",
+            "actions": "add",
+            "output": "added_olive_oil_to_dough"
+        },
+        {
+            "instructions": "form into tight balls .",
+            "input": "added_olive_oil_to_dough",
+            "actions": "form",
+            "output": "formed_tight_dough_balls"
+        },
+        {
+            "instructions": "refrigerate to proof .",
+            "input": "formed_tight_dough_balls",
+            "actions": "refrigerate",
+            "output": "refrigerated_dough_balls"
+        },
+        {
+            "instructions": "pound out dough to release air bubbles.",
+            "input": "refrigerated_dough_balls",
+            "actions": "pound",
+            "output": "pounded_dough_balls"
+        },
+        {
+            "instructions": "form into discs .",
+            "input": "pounded_dough_balls",
+            "actions": "form",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "brush chile_oil evenly .",
+            "input": "(pizza crust; chile_oil)",
+            "actions": "brush",
+            "output": "pizza crust_brushed_with_chile_oil"
+        },
+        {
+            "instructions": "place onions on dough .",
+            "input": "(pizza crust_brushed_with_chile_oil; onions)",
+            "actions": "place",
+            "output": "onions on pizza crust"
+        },
+        {
+            "instructions": "bake in oven for 7 to 10 minutes or until golden in color .",
+            "input": "onions on pizza crust",
+            "actions": "bake",
+            "output": "baked_pizza crust with onions"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baked_pizza crust with onions",
+            "actions": "remove",
+            "output": "baked_pizza crust with onions"
+        },
+        {
+            "instructions": "spread creme fraiche on",
+            "input": "(baked_pizza crust with onions; creme_fraiche)",
+            "actions": "spread",
+            "output": "creme_fraiche_spread_on baked_pizza crust with onions"
+        },
+        {
+            "instructions": "sprinkle dill on top .",
+            "input": "(baked_pizza crust with onions and creme_fraiche; dill)",
+            "actions": "sprinkle",
+            "output": "dill_sprinkled_on_top_on_pizza_crust"
+        },
+        {
+            "instructions": "place salmon over pizzas",
+            "input": "(pizza_crust with creme_fraiche, onion and dill; salmon)",
+            "actions": "place",
+            "output": "salmon on pizza_crust with creme_fraiche, onion and dill"
+        },
+        {
+            "instructions": "sprinkle with chives .",
+            "input": "(pizza_crust with creme_fraiche, onion, dill and salmon; chives)",
+            "actions": "sprinkle",
+            "output": "chives sprinkled on pizza_crust with creme_fraiche, onion, dill and salmon"
+        },
+        {
+            "instructions": "slice pizzas into 6 slices",
+            "input": "salmon and creme_fraiche pizza",
+            "actions": "slice",
+            "output": "sliced_salmon and creme_fraiche pizza"
+        },
+        {
+            "instructions": "add 1 tablespoon , caviar to each slice .",
+            "input": "(sliced_salmon and creme_fraiche pizza; caviar)",
+            "actions": "add",
+            "output": "caviar_added_to_each_slice"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "15 ounces bread flour"
+        },
+        {
+            "text": "1 3/4 teaspoon salt"
+        },
+        {
+            "text": "1 1/2 teaspoon honey"
+        },
+        {
+            "text": "7 .5 ounces water"
+        },
+        {
+            "text": "1 /2 teaspoon yeast"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "6 tablespoons chile oil"
+        },
+        {
+            "text": "1 /4 cup red onion, sliced"
+        },
+        {
+            "text": "1 cup creme fraiche"
+        },
+        {
+            "text": "4 tablespoons fresh dill, roughly chopped"
+        },
+        {
+            "text": "30 smoked salmon slices"
+        },
+        {
+            "text": "1/8 cup chives"
+        },
+        {
+            "text": "15 ounces black caviar, such as Romanoff lumpfish"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "To make the dough, combine flour, salt, honey, and water and mix for 2 minutes on #1 speed to form a ball."
+        },
+        {
+            "text": "Add yeast and continue to mix for an additional 6 minutes."
+        },
+        {
+            "text": "Add the olive oil until fully incorporated."
+        },
+        {
+            "text": "Portion dough into 5 (4-1 /2 ounce) pieces and form into tight balls."
+        },
+        {
+            "text": "Refrigerate to proof."
+        },
+        {
+            "text": "Pound out dough to release air bubbles and form into discs."
+        },
+        {
+            "text": "Brush chile oil evenly."
+        },
+        {
+            "text": "Place onions on dough."
+        },
+        {
+            "text": "Bake in oven for 7 to 10 minutes or until golden in color."
+        },
+        {
+            "text": "Remove from oven."
+        },
+        {
+            "text": "Spread creme fraiche on and sprinkle dill on top."
+        },
+        {
+            "text": "Place salmon over pizzas, sprinkle with chives."
+        },
+        {
+            "text": "Slice pizzas into 6 slices and add 1 tablespoon caviar to each slice."
+        }
+    ]
+}

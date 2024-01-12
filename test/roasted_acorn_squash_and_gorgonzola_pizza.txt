@@ -1,0 +1,184 @@
+{
+    "title": "roasted_acorn_squash_and_gorgonzola_pizza",
+    "id": "00df5e81a1",
+    "table": [
+        {
+            "instructions": "preheat the oven to 375 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice the squash in half from top to bottom .",
+            "input": "squash",
+            "action": "slice",
+            "output": "halved squash"
+        },
+        {
+            "instructions": "scoop out the seeds .",
+            "input": "halved squash",
+            "action": "scoop",
+            "output": "seedless halved squash"
+        },
+        {
+            "instructions": "slice the squash into 12 to 34 inch wide half moons",
+            "input": "seedless halved squash",
+            "action": "slice",
+            "output": "sliced seedless halved squash"
+        },
+        {
+            "instructions": "place in a medium bowl .",
+            "input": "sliced seedless halved squash",
+            "action": "place",
+            "output": "sliced seedless halved squash in bowl"
+        },
+        {
+            "instructions": "toss the squash with the syrup , olive_oil , red_pepper_flake , 14 teaspoon each salt and pepper .",
+            "input": "(sliced seedless halved squash in bowl; syrup; olive oil; red pepper flakes; salt; pepper)",
+            "action": "toss",
+            "output": "seasoned squash slices"
+        },
+        {
+            "instructions": "place the squash on a parchment lined baking sheet .",
+            "input": "seasoned squash slices",
+            "action": "place",
+            "output": "seasoned squash slices on baking sheet"
+        },
+        {
+            "instructions": "bake the squash until tender and golden , about 20 to 25 minutes .",
+            "input": "seasoned squash slices on baking sheet",
+            "action": "bake",
+            "output": "baked squash"
+        },
+        {
+            "instructions": "roll out the pizza_dough",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "place the pizza and the parchment paper on a baking sheet .",
+            "input": "rolled pizza dough",
+            "action": "place",
+            "output": "rolled pizza dough on baking sheet"
+        },
+        {
+            "instructions": "sprinkle the mozzarella_cheese and gorgonzola on the pizza_dough .",
+            "input": "(rolled pizza dough on baking sheet; mozzarella cheese; gorgonzola)",
+            "action": "sprinkle",
+            "output": "mozzarella cheese and gorgonzola spread on pizza dough"
+        },
+        {
+            "instructions": "bake in the oven until golden",
+            "input": "mozzarella cheese and gorgonzola spread on pizza dough",
+            "action": "bake",
+            "output": "baked gorgonzola pizza"
+        },
+        {
+            "instructions": "peel the skins off the squash .",
+            "input": "baked gorgonzola pizza",
+            "action": "peel",
+            "output": "peeled baked squash"
+        },
+        {
+            "instructions": "top the cooked pizza with the cooked squash .",
+            "input": "(baked gorgonzola pizza; peeled baked squash)",
+            "action": "top",
+            "output": "baked gorgonzola pizza topped with peeled baked squash"
+        },
+        {
+            "instructions": "top with arugula and remaining 14 teaspoon salt and pepper .",
+            "input": "(baked gorgonzola pizza topped with peeled baked squash; arugula; salt; pepper)",
+            "action": "top",
+            "output": "baked gorgonzola pizza topped with peeled baked squash with arugula, salt and pepper"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked gorgonzola pizza topped with peeled baked squash with arugula, salt and pepper",
+            "action": "slice",
+            "output": "sliced baked gorgonzola pizza topped with peeled baked squash with arugula, salt and pepper"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced baked gorgonzola pizza topped with peeled baked squash with arugula, salt and pepper",
+            "action": "serve",
+            "output": "served baked gorgonzola pizza topped with peeled baked squash with arugula, salt and pepper"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb acorn squash"
+        },
+        {
+            "text": "2 tablespoons maple syrup"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 teaspoon red pepper flakes"
+        },
+        {
+            "text": "14 teaspoon salt, plus 1/4 teaspoon"
+        },
+        {
+            "text": "14 teaspoon fresh ground black pepper, plus 1/4 teaspoon"
+        },
+        {
+            "text": "1 cup whole milk mozzarella, shredded"
+        },
+        {
+            "text": "12 cup gorgonzola, crumbled"
+        },
+        {
+            "text": "1 cup arugula"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 375 degrees F."
+        },
+        {
+            "text": "Slice the squash in half from top to bottom."
+        },
+        {
+            "text": "Scoop out the seeds."
+        },
+        {
+            "text": "Slice the squash into 1/2 to 3/4-inch wide half moons and place in a medium bowl."
+        },
+        {
+            "text": "Toss the squash with the syrup, olive oil, red pepper flakes, 1/4 teaspoon salt, and 1/4 teaspoon pepper."
+        },
+        {
+            "text": "Place the squash on a parchment-lined baking sheet."
+        },
+        {
+            "text": "Bake the squash until tender and golden, about 20 to 25 minutes."
+        },
+        {
+            "text": "Keep the temperature on the oven at 375 degrees F. Roll out the pizza dough on a flour dusted piece of parchment paper to a 13-inch diameter."
+        },
+        {
+            "text": "Place the pizza and the parchment paper on a baking sheet."
+        },
+        {
+            "text": "Sprinkle the mozzarella cheese and the Gorgonzola on the pizza dough."
+        },
+        {
+            "text": "Bake in the oven until golden and cooked through, about 25 to 30 minutes."
+        },
+        {
+            "text": "Peel the skins off the squash."
+        },
+        {
+            "text": "Top the cooked pizza with the cooked squash."
+        },
+        {
+            "text": "Top with arugula and the remaining 1/4 teaspoon salt and pepper."
+        },
+        {
+            "text": "Slice and serve."
+        }
+    ]
+}

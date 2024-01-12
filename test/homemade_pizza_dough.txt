@@ -1,0 +1,196 @@
+{
+    "title": "homemade_pizza_dough",
+    "id": "ffcdf346f2",
+    "table": [
+        {
+            "instructions": "place the lukewarm water in a small bowl",
+            "input": "water",
+            "action": "place",
+            "output": "water"
+        },
+        {
+            "instructions": "sprinkle yeast and sugar on top of it .",
+            "input": "yeast; sugar; water",
+            "action": "sprinkle",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "set aside for 10 15 minutes in a warm place .",
+            "input": "yeast mixture",
+            "action": "set",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "in another bowl , combine 1 cup of flour and salt .",
+            "input": "flour; salt",
+            "action": "combine",
+            "output": "flour and salt mix"
+        },
+        {
+            "instructions": "add the olive_oil to the yeast mixture",
+            "input": "olive oil; yeast mixture",
+            "action": "add",
+            "output": "liquid ingredients"
+        },
+        {
+            "instructions": "pour it over the bowl of flour .",
+            "input": "liquid ingredients; flour and salt mix",
+            "action": "pour",
+            "output": "sticky dough"
+        },
+        {
+            "instructions": "gradually add a second cup of flour .",
+            "input": "sticky dough; flour",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "stir it with a wooden spoon .",
+            "input": "dough",
+            "action": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "when it is no longer very sticky , put it on a floured wooden board to knead .",
+            "input": "dough",
+            "action": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "a little at a time , knead the rest of the flour into the dough .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "coat a bowl with vegetable_oil",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough inside .",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "make sure to use a bowl bigger than the ball of dough since it will rise .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "cover the bowl with plastic wrap",
+            "input": "NA",
+            "action": "cover",
+            "output": "NA"
+        },
+        {
+            "instructions": "put in a warm place for about 45 minutes .",
+            "input": "kneaded dough",
+            "action": "put",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "to rest for readiness",
+            "input": "NA",
+            "action": "rest",
+            "output": "NA"
+        },
+        {
+            "instructions": "poke the dough with 2 fingers .",
+            "input": "NA",
+            "action": "poke",
+            "output": "NA"
+        },
+        {
+            "instructions": "i typically bake this for a total of about 20 25 minutes in a 375 degree oven .",
+            "input": "NA",
+            "action": "bake",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3/4 cups Lukewarm Water"
+        },
+        {
+            "text": "1 package (7g Packet) Dry Yeast"
+        },
+        {
+            "text": "18 teaspoons Sugar"
+        },
+        {
+            "text": "3 cups Unbleached Flour"
+        },
+        {
+            "text": "1 teaspoon Salt"
+        },
+        {
+            "text": "1/4 cups Olive Oil"
+        },
+        {
+            "text": "Vegetable Oil, To Coat The Bowl"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place the lukewarm water in a small bowl and sprinkle yeast and sugar on top of it."
+        },
+        {
+            "text": "Set aside for 10-15 minutes in a warm place."
+        },
+        {
+            "text": "After 10-15 minutes you should see that foam has formed on top."
+        },
+        {
+            "text": "In another bowl, combine 1 cup of flour and salt."
+        },
+        {
+            "text": "Add the olive oil to the yeast mixture and pour it over the bowl of flour."
+        },
+        {
+            "text": "Gradually add a second cup of flour."
+        },
+        {
+            "text": "Stir it with a wooden spoon."
+        },
+        {
+            "text": "When it is no longer very sticky, put it on a floured wooden board to knead."
+        },
+        {
+            "text": "A little at a time, knead the rest of the flour into the dough."
+        },
+        {
+            "text": "It should be smooth and elastic (about 10 minutes of kneading)."
+        },
+        {
+            "text": "Coat a bowl with vegetable oil and place dough inside."
+        },
+        {
+            "text": "Make sure to use a bowl bigger than the ball of dough since it will rise."
+        },
+        {
+            "text": "Cover the bowl with plastic wrap and put in a warm place for about 45 minutes."
+        },
+        {
+            "text": "It should have doubled in size."
+        },
+        {
+            "text": "To rest for readiness, poke the dough with 2 fingers."
+        },
+        {
+            "text": "If the impression remains, it is ready."
+        },
+        {
+            "text": "This makes 2 crusts."
+        },
+        {
+            "text": "I typically bake this for a total of about 20-25 minutes in a 375-degree oven."
+        },
+        {
+            "text": "(Recipe from The North End Italian Cookbook, Marguerite DiMino Buonopane.)"
+        }
+    ]
+}

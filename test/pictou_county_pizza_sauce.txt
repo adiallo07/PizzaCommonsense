@@ -1,0 +1,103 @@
+{
+    "title": "pictou_county_pizza_sauce",
+    "id": "b972629943",
+    "table": [
+        {
+            "instructions": "saute onions , celery , and salt until transparent .",
+            "input": "(onions; celery; salt)",
+            "actions": "saute",
+            "output": "(sauteed_onions; celery; salt)"
+        },
+        {
+            "instructions": "combine in a large pot with tomatoes , tomato_paste , mushrooms , and garlic .",
+            "input": "tomatoes , tomato_paste , mushrooms , and garlic",
+            "actions": "combine",
+            "output": "tomato and mushroom mixture"
+        },
+        {
+            "instructions": "simmer for 4 hours .",
+            "input": "tomato and mushroom mixture",
+            "actions": "simmer",
+            "output": "cooking_pizza_sauce"
+        },
+        {
+            "instructions": "add pepper , oregano , and broth simmer about 15 minutes .",
+            "input": "(cooking_pizza_sauce; pepper; oregano; broth)",
+            "actions": "add",
+            "output": "pepper, oregano and broth added to cooking_pizza_sauce"
+        },
+        {
+            "instructions": "add flour and oil .",
+            "input": "(cooking pizza sauce; flour; oil)",
+            "actions": "add",
+            "output": "pictou_county_pizza_sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 (28 ounce) cans crushed tomatoes"
+        },
+        {
+            "text": "1 (12 ounce) can tomato paste"
+        },
+        {
+            "text": "8 celery ribs, diced"
+        },
+        {
+            "text": "5 -6 medium onions, diced"
+        },
+        {
+            "text": "2 cups mushrooms, coarsely chopped (optional)"
+        },
+        {
+            "text": "4 garlic cloves, chopped"
+        },
+        {
+            "text": "14 cup salt"
+        },
+        {
+            "text": "12 cup black pepper"
+        },
+        {
+            "text": "1 cup dried oregano (flakes)"
+        },
+        {
+            "text": "2 cups low sodium chicken broth"
+        },
+        {
+            "text": "2 cups canola oil"
+        },
+        {
+            "text": "2 cups flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Saute onions, celery, and salt until transparent."
+        },
+        {
+            "text": "Combine in a large pot with tomatoes, tomato paste, mushrooms, and garlic."
+        },
+        {
+            "text": "Bring to a boil, then simmer for 4 hours."
+        },
+        {
+            "text": "Add pepper, oregano, and broth: simmer about 15 minutes."
+        },
+        {
+            "text": "Add flour and oil."
+        },
+        {
+            "text": "It's like making gravy -- start with 2 cups of each, blend well (I use a big whisk)."
+        },
+        {
+            "text": "Depending on how thick you like your sauce, you MAY NEED TO ADD MORE of either."
+        },
+        {
+            "text": "Additional chicken broth may also be used if you would like to thin the sauce."
+        },
+        {
+            "text": "Ready to use, jar, or freeze."
+        }
+    ]
+}

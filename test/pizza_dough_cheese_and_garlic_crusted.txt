@@ -1,0 +1,118 @@
+{
+    "title": "pizza_dough_cheese_and_garlic_crusted",
+    "id": "4769b51c84",
+    "table": [
+        {
+            "instructions": "preheat oven to 210 or gas",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease baking tray",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "when the dough has a sticky spoungy texture take it out",
+            "input": "dough",
+            "action": "take",
+            "output": "dough"
+        },
+        {
+            "instructions": "put on a flour covered worktop",
+            "input": "dough",
+            "action": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "roll it out using flour covered rolling pin into any shape that fits onto the tray",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled out dough"
+        },
+        {
+            "instructions": "leave on tray",
+            "input": "rolled out dough",
+            "action": "leave",
+            "output": "rolled out dough"
+        },
+        {
+            "instructions": "spread round edge of the dough",
+            "input": "rolled out dough",
+            "action": "spread",
+            "output": "spreaded dough around tray"
+        },
+        {
+            "instructions": "turn up edges of dough round the cheese and garlic to make a crust",
+            "input": "(spreaded dough; cheese; garlic)",
+            "action": "turn",
+            "output": "pizza crust with garlic and cheese with turned up edges"
+        },
+        {
+            "instructions": "then put in oven",
+            "input": "pizza_dough_cheese_and_garlic_crusted",
+            "action": "put",
+            "output": "pizza_dough_cheese_and_garlic_crusted"
+        },
+        {
+            "instructions": "leave for around 20minutes",
+            "input": "pizza_dough_cheese_and_garlic_crusted",
+            "action": "leave",
+            "output": "cooked pizza_dough_cheese_and_garlic_crusted"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "250 gallon flour"
+        },
+        {
+            "text": "100 ml warm water"
+        },
+        {
+            "text": "1 packet - easy blend yest"
+        },
+        {
+            "text": "25 gallon cheese"
+        },
+        {
+            "text": "2 garlic cloves"
+        },
+        {
+            "text": "1 tbsp salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheat oven to 210 or gas 7"
+        },
+        {
+            "text": "grease baking tray"
+        },
+        {
+            "text": "chuck all ingradients into a bowl except cheese, water and garlic"
+        },
+        {
+            "text": "mix ingredients with fingers in bowl gradually adding the water as you go you may not need it all"
+        },
+        {
+            "text": "when the dough has a sticky spoungy texture take it out and put on a flour covered worktop and need it for 10 mins"
+        },
+        {
+            "text": "roll it out using flour covered rolling pin into any shape that fits onto the tray"
+        },
+        {
+            "text": "leave on tray and crusher the clove and great the cheese then spread round edge of the dough"
+        },
+        {
+            "text": "turn up edges of dough round the cheese and garlic to make a crust"
+        },
+        {
+            "text": "now all you need to do is add a topping of your choice if using cheese add about 50g"
+        },
+        {
+            "text": "then put in oven and leave for around 20minutes"
+        }
+    ]
+}

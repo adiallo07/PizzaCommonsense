@@ -1,0 +1,172 @@
+{
+    "title": "philly_pizza_steak_pasta",
+    "id": "da81b49191",
+    "table": [
+        {
+            "instructions": "boil mafalda pasta according to package directions .",
+            "input": "mafalda pasta",
+            "action": "boil",
+            "output": "boiled mafalda pasta"
+        },
+        {
+            "instructions": "while pasta is cooking , preheat oven to 35",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "then , break up steak ums into small pieces with hands",
+            "input": "steak",
+            "action": "break",
+            "output": "broken steak"
+        },
+        {
+            "instructions": "place them in a large skillet with onion , pepper and mushroom .",
+            "input": "(pepper; mushroom; broken steak; onion)",
+            "action": "place",
+            "output": "broken steak with onion, pepper, and mushrooms"
+        },
+        {
+            "instructions": "cook over med high heat , stirring often and chopping meat a bit more , until meat is browned",
+            "input": "broken steak with onion, pepper, and mushrooms",
+            "action": "cook",
+            "output": "cooked steak and vegetable mixture"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked steak and vegetable mixture",
+            "action": "drain",
+            "output": "cooked steak and vegetable mixture without excess fat"
+        },
+        {
+            "instructions": "in a large bowl , combine the browned meat veggie mixture with cooked and drained pasta",
+            "input": "(cooked steak and vegetable mixture; drained mafalda pasta)",
+            "action": "combine",
+            "output": "cooked mafalda pasta combined with cooked steak and vegetable mixture"
+        },
+        {
+            "instructions": "add salt , pepper , and oregano .",
+            "input": "(salt; pepper; oregano; cooked mafalda pasta combined with cooked steak and vegetable mixture)",
+            "action": "add",
+            "output": "seasoned cooked mafalda pasta combined with cooked steak and vegetable mixture"
+        },
+        {
+            "instructions": "stir .",
+            "input": "seasoned cooked mafalda pasta combined with cooked steak and vegetable mixture",
+            "action": "stir",
+            "output": "steak pasta mixture"
+        },
+        {
+            "instructions": "add 4 cups sauce and the cheddar_cheese",
+            "input": "(marinara sauce; cheeddar cheese; steak pasta mixture)",
+            "action": "add",
+            "output": "steak pasta mixture with marinara sauce and cheddar cheese"
+        },
+        {
+            "instructions": "stir well .",
+            "input": "steak pasta mixture with marinara sauce and cheddar cheese",
+            "action": "stir",
+            "output": "steak pasta casserole"
+        },
+        {
+            "instructions": "pour into at least a 13 x 9 baking dish .",
+            "input": "steak pasta casserole",
+            "action": "pour",
+            "output": "steak pasta casserole"
+        },
+        {
+            "instructions": "cut 6 slices of american_cheese in half",
+            "input": "american cheese slices",
+            "action": "cut",
+            "output": "halved american cheese slices"
+        },
+        {
+            "instructions": "arrange 12 half slices of cheese evenly on top .",
+            "input": "(steak pasta casserole; halved american cheese slices)",
+            "action": "arrange",
+            "output": "steak pasta casserole with halved american cheese slices"
+        },
+        {
+            "instructions": "bake at 350 for 25 30 minutes .",
+            "input": "uncooked steak pasta casserole with halved american cheese slices",
+            "action": "bake",
+            "output": "baked philly_pizza_steak_pasta"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb mafalda pasta (or similar shape pasta)"
+        },
+        {
+            "text": "1 lb Steak-ums, frozen chipped steak (or similar brand)"
+        },
+        {
+            "text": "1 small onion, chopped"
+        },
+        {
+            "text": "1 small green pepper, coarsely chopped"
+        },
+        {
+            "text": "2 cups sliced mushrooms"
+        },
+        {
+            "text": "1 teaspoon pepper"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 tablespoon oregano"
+        },
+        {
+            "text": "4 -5 cups marinara sauce (bottled or homemade) or 4 -5 cups tomato sauce (bottled or homemade)"
+        },
+        {
+            "text": "2 cups shredded cheddar cheese"
+        },
+        {
+            "text": "6 slices American cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Boil mafalda pasta according to package directions."
+        },
+        {
+            "text": "While pasta is cooking, Preheat oven to 350."
+        },
+        {
+            "text": "Then, break up Steak-Ums into small pieces with hands and place them in a large skillet with onion, pepper and mushroom."
+        },
+        {
+            "text": "Cook over med-high heat, stirring often and chopping meat a bit more, until meat is browned and peppers are tender."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "In a large bowl, combine the browned meat/veggie mixture with cooked and drained pasta."
+        },
+        {
+            "text": "Add salt, pepper, and oregano."
+        },
+        {
+            "text": "Stir."
+        },
+        {
+            "text": "Add 4 cups sauce and the cheddar cheese and stir well."
+        },
+        {
+            "text": "Pour into at least a 13\" x 9\" baking dish."
+        },
+        {
+            "text": "Cut 6 slices of American cheese in half so you have 12 half slices."
+        },
+        {
+            "text": "Arrange 12 half slices of cheese evenly on top."
+        },
+        {
+            "text": "Bake at 350 for 25-30 minutes."
+        }
+    ]
+}

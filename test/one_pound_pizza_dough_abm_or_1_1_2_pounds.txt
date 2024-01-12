@@ -1,0 +1,199 @@
+{
+    "title": "one_pound_pizza_dough_abm_or_1_1_2_pounds",
+    "id": "70836b51c0",
+    "table": [
+        {
+            "instructions": "add the first 5 ingredients to bread machine in the order recommended by its manufacturer .",
+            "input": "(water; cooking oil; bread flour; salt; dry yeast)",
+            "action": "add",
+            "output": "dNAough ingredients"
+        },
+        {
+            "instructions": "when cycle is complete , remove dough from machine ;",
+            "input": "dough ingredients",
+            "action": "remove",
+            "output": "dough"
+        },
+        {
+            "instructions": "if making the 1 12 pounder , divide it in half .",
+            "input": "dough",
+            "action": "divide",
+            "output": "divided dough in half"
+        },
+        {
+            "instructions": "to make a thin pizza .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 12 inch pan or large baking sheet .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "optionally sprinkle with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a lightly floured surface , roll the dough for a 1 pounder or each dough half for the 1 12 pounder into a 13 inch circle .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "transfer to pan or baking sheet .",
+            "input": "rolled dough",
+            "action": "transfer",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "bake in a 425f oven about 12 minutes or till browned .",
+            "input": "uncooked rolled pizza dough",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "top with pizza_sauce and toppings of your choice .",
+            "input": "(pizza sauce; toppings; baked pizza crust)",
+            "action": "top",
+            "output": "baked pizza crust topped with pizza sauce and toppings"
+        },
+        {
+            "instructions": "bake 10 to 15 minutes more or till bubbly .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "to make a pan pizza .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 9x9x2 inch , baking pan or 2 pans if your making both halves of the 1 12 pounder ;",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "optionally sprinkle with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out the 1 pound , dough or each half of the 1 12 pounder to fit the bottom of the pan s , and to reach halfway up the sides of prepared pan s.",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "rolled dough",
+            "action": "cover",
+            "output": "covered rolled dough"
+        },
+        {
+            "instructions": "bake in a 375f oven for 20 to 25 minutes or till lightly browned .",
+            "input": "raw rolled dough",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "top with pizza_sauce and toppings of your choice .",
+            "input": "(pizza sauce; toppings; baked pizza crust)",
+            "action": "top",
+            "output": "baked pizza crust topped with pizza sauce and toppings"
+        },
+        {
+            "instructions": "bake 15 to 20 minutes more or till bubbly .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "23 cup water (1 cup)"
+        },
+        {
+            "text": "4 teaspoons cooking oil (2 tablespoons)"
+        },
+        {
+            "text": "2 cups bread flour (3 cups)"
+        },
+        {
+            "text": "12 teaspoon salt (3/4 teaspoon)"
+        },
+        {
+            "text": "1 teaspoon active dry yeast (1 1/2 pound uses same measure)"
+        },
+        {
+            "text": "cornmeal (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Add the first 5 ingredients to bread machine in the order recommended by its manufacturer."
+        },
+        {
+            "text": "Select dough setting."
+        },
+        {
+            "text": "When cycle is complete, remove dough from machine; if making the 1 1/2 pounder, divide it in half."
+        },
+        {
+            "text": "TO MAKE A THIN PIZZA:."
+        },
+        {
+            "text": "Grease a 12-inch pan or large baking sheet."
+        },
+        {
+            "text": "Optionally sprinkle with cornmeal."
+        },
+        {
+            "text": "On a lightly floured surface, roll the dough (for a 1 pounder) or each dough half (for the 1 1/2 pounder) into a 13-inch circle."
+        },
+        {
+            "text": "Transfer to pan or baking sheet."
+        },
+        {
+            "text": "Do not let dough rise."
+        },
+        {
+            "text": "Bake in a 425F oven about 12 minutes or till browned."
+        },
+        {
+            "text": "Top with pizza sauce and toppings of your choice."
+        },
+        {
+            "text": "Bake 10 to 15 minutes more or till bubbly."
+        },
+        {
+            "text": "TO MAKE A PAN PIZZA:."
+        },
+        {
+            "text": "Grease a 9x9x2-inch baking pan (or 2 pans if your making both halves of the 1 1/2 pounder); optionally sprinkle with cornmeal."
+        },
+        {
+            "text": "Roll out the 1 pound dough or each half of the 1 1/2 pounder to fit the bottom of the pan(s), and to reach halfway up the sides of prepared pan(s)."
+        },
+        {
+            "text": "Cover and let rise in a warm place till nearly double (30 to 45 minutes)."
+        },
+        {
+            "text": "Bake in a 375F oven for 20 to 25 minutes or till lightly browned."
+        },
+        {
+            "text": "Top with pizza sauce and toppings of your choice."
+        },
+        {
+            "text": "Bake 15 to 20 minutes more or till bubbly."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "uno_pizza_dough",
+    "id": "bed1e6062f",
+    "table": [
+        {
+            "instructions": "for electric mixer add water , brown_sugar and yeast to a bowl",
+            "input": "(water; brown_sugar; yeast)",
+            "action": "add",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "stir .",
+            "input": "yeast mixture",
+            "action": "stir",
+            "output": "stirred yeast mixture"
+        },
+        {
+            "instructions": "add milk , butter_oil , salt and corn meal to yeast mixture",
+            "input": "(yeast mixture; milk; butter oil; salt; cornmeal)",
+            "action": "add",
+            "output": "cornmeal mixture"
+        },
+        {
+            "instructions": "mix for 30 seconds .",
+            "input": "cornmeal mixture",
+            "action": "mix",
+            "output": "cornmeal mixture"
+        },
+        {
+            "instructions": "add 2 12 cups of flour",
+            "input": "(flour; cornmeal mixture)",
+            "action": "add",
+            "output": "dough mixture"
+        },
+        {
+            "instructions": "mix with paddle for 5 minutes on speed",
+            "input": "dough mixture",
+            "action": "mix",
+            "output": "dough mixture"
+        },
+        {
+            "instructions": "scrape the sides of the bowl",
+            "input": "dough mixture",
+            "action": "scrape",
+            "output": "dough mixture"
+        },
+        {
+            "instructions": "form dough into a ball .",
+            "input": "dough mixture",
+            "action": "form",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "pour remaining flour 12 cup around the outsides .",
+            "input": "(remaining flour; dough ball)",
+            "action": "pour",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "use dough hook",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix for for 5 minutes on speed",
+            "input": "dough ball",
+            "action": "mix",
+            "output": "mixed dough ball"
+        },
+        {
+            "instructions": "remove dough from mixer",
+            "input": "dough ball",
+            "action": "remove",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "place in well greased glass bowl .",
+            "input": "dough ball",
+            "action": "place",
+            "output": "greased dough ball"
+        },
+        {
+            "instructions": "place damp towel on top of bowl",
+            "input": "greased dough ball",
+            "action": "place",
+            "output": "covered dough ball"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "1 package active dry yeast"
+        },
+        {
+            "text": "2 tablespoons brown sugar"
+        },
+        {
+            "text": "2 tablespoons milk"
+        },
+        {
+            "text": "1 tablespoon melted butter"
+        },
+        {
+            "text": "4 teaspoons olive oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 tablespoon cornmeal"
+        },
+        {
+            "text": "3 cups flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Directions for electric mixer: Add water, brown sugar and yeast to a bowl and stir."
+        },
+        {
+            "text": "Let sit 5 minutes until creamy."
+        },
+        {
+            "text": "Add milk, butter, oil, salt and corn meal to yeast mixture and mix for 30 seconds."
+        },
+        {
+            "text": "Add 2 1/2 cups of flour and mix with paddle for 5 minutes on speed 2."
+        },
+        {
+            "text": "Scrape the sides of the bowl and form dough into a ball."
+        },
+        {
+            "text": "Pour remaining flour (1/2 cup) around the outsides."
+        },
+        {
+            "text": "Use dough hook and mix for for 5 minutes on speed 2."
+        },
+        {
+            "text": "Remove dough from mixer and place in well greased glass bowl."
+        },
+        {
+            "text": "Place damp towel on top of bowl and let rise in warm spot for 1 hour or until double in size."
+        }
+    ]
+}

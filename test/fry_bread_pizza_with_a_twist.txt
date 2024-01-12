@@ -1,0 +1,154 @@
+{
+    "title": "fry_bread_pizza_with_a_twist",
+    "id": "d59826f1c7",
+    "table": [
+        {
+            "instructions": "combine flour , salt , oil , powder , sugar and milk .",
+            "input": "(flour; salt; oil; sugar; milk)",
+            "action": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "combine well",
+            "input": "dough",
+            "action": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "make baseball size balls .",
+            "input": "dough",
+            "action": "make",
+            "output": "dough formed into balls"
+        },
+        {
+            "instructions": "roll out into large disks ;",
+            "input": "dough formed into balls",
+            "action": "roll",
+            "output": "rolled out dough into disks"
+        },
+        {
+            "instructions": "fry in oil medium temp do not let oil smoke !",
+            "input": "(oil; rolled out dough into disks)",
+            "action": "fry",
+            "output": "fried disks of dough"
+        },
+        {
+            "instructions": "cut chicken into small pieces as well as onion and pepper .",
+            "input": "chicken, onion, pepper",
+            "action": "cut",
+            "output": "chopped chicken, onion, and pepper"
+        },
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "saute in skillet with barbecue_sauce until it begins to brown .",
+            "input": "(chopped chicken, onion, and pepper; barbecue sauce)",
+            "action": "saute",
+            "output": "saut\u00e9ed chicken mixture with barbecue sauce"
+        },
+        {
+            "instructions": "heat spaghetti sauce in a small pan",
+            "input": "spaghetti sauce",
+            "action": "heat",
+            "output": "warmed spaghetti sauce"
+        },
+        {
+            "instructions": "pour over bread .",
+            "input": "(warmed spaghetti sauce; fried disks of dough )",
+            "action": "pour",
+            "output": "warmed spaghetti sauce poured over fried disks of dough"
+        },
+        {
+            "instructions": "add chicken mix .",
+            "input": "(saut\u00e9ed chicken mixture with barbecue sauce; warmed spaghetti sauce poured over fried disks of dough)",
+            "action": "add",
+            "output": "fried disks of dough with warmed spaghetti sauce and saut\u00e9ed chicken mixture with barbecue sauce"
+        },
+        {
+            "instructions": "add cheese .",
+            "input": "(cheese; fried disks of dough with warmed spaghetti sauce and saut\u00e9ed chicken mixture with barbecue sauce)",
+            "action": "add",
+            "output": "fried disks of dough with warmed spaghetti sauce, saut\u00e9ed chicken mixture with barbecue sauce and cheese"
+        },
+        {
+            "instructions": "heat in oven until cheese melts !",
+            "input": "assembled fried bread pizza",
+            "action": "heat",
+            "output": "baked fried bread pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 boneless skinless chicken breasts"
+        },
+        {
+            "text": "1 teaspoon oil"
+        },
+        {
+            "text": "1 cup warm milk"
+        },
+        {
+            "text": "2 bell peppers"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 onions"
+        },
+        {
+            "text": "1 teaspoon baking powder"
+        },
+        {
+            "text": "2 cups hot and spicy bbq sauce"
+        },
+        {
+            "text": "2 12 cups flour"
+        },
+        {
+            "text": "spaghetti sauce"
+        },
+        {
+            "text": "shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine flour, salt, oil, powder, sugar and milk."
+        },
+        {
+            "text": "Combine well and make baseball size balls."
+        },
+        {
+            "text": "Roll out into large disks; fry in oil (medium temp) do not let oil smoke!"
+        },
+        {
+            "text": "Cut chicken into small pieces as well as onion and pepper."
+        },
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "Saute in skillet with barbecue sauce until it begins to brown."
+        },
+        {
+            "text": "Be sure the chicken is cut small or it will not cook when you saute it."
+        },
+        {
+            "text": "Heat spaghetti sauce in a small pan and pour over bread."
+        },
+        {
+            "text": "Add chicken mix."
+        },
+        {
+            "text": "Add cheese."
+        },
+        {
+            "text": "Heat in oven until cheese melts!"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "title": "diet_electric_skillet_pizza",
+    "id": "5ef3748336",
+    "table": [
+        {
+            "instructions": "brown the ground_turkey in the skillet",
+            "input": "ground_turkey",
+            "action": "brown",
+            "output": "browned_ground_turkey"
+        },
+        {
+            "instructions": "then set aside .",
+            "input": "browned_ground_turkey",
+            "action": "set",
+            "output": "browned_ground_turkey"
+        },
+        {
+            "instructions": "wipe out the skillet",
+            "input": "NA",
+            "action": "wipe",
+            "output": "NA"
+        },
+        {
+            "instructions": "while the pan cools mix the bisquick mix and milk in one bowl and the tomato_sauce and oregano in another .",
+            "input": "(bisquick_mix; milk; bowl_one; tomato_sauce; oregano; bowl-two)",
+            "action": "mix",
+            "output": "(pizza dough; tomato sauce with oregano)"
+        },
+        {
+            "instructions": "lightly spray the bottom of the cool or slightly warm skillet with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "press the dough into the bottom of the pan .",
+            "input": "pizza dough",
+            "action": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "pour your sauce over the dough",
+            "input": "(pressed_dough; tomato sauce with oregano)",
+            "action": "pour",
+            "output": "pressed pizza dough_with_ tomato sauce with oregano"
+        },
+        {
+            "instructions": "cover",
+            "input": "pressed pizza dough_with_ tomato sauce with oregano",
+            "action": "cover",
+            "output": "covered_pressed pizza dough_with_ tomato sauce with oregano"
+        },
+        {
+            "instructions": "bake at 325 degrees for twenty minutes or until the crust is golden brown .",
+            "input": "uncooked tomato pizza ",
+            "action": "bake",
+            "output": "baked tomato pizza "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 lb ground turkey"
+        },
+        {
+            "text": "1 12 cups low-fat biscuit mix"
+        },
+        {
+            "text": "34 cup 1% low-fat milk"
+        },
+        {
+            "text": "1 (16 ounce) can tomato sauce"
+        },
+        {
+            "text": "2 teaspoons oregano (dried)"
+        },
+        {
+            "text": "1 medium green pepper (diced)"
+        },
+        {
+            "text": "1 cup mozzarella cheese (shredded)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown the Ground Turkey in the skillet and then set aside."
+        },
+        {
+            "text": "Wipe out the skillet and let it cool."
+        },
+        {
+            "text": "While the pan cools mix the Bisquick Mix and Milk in one bowl and the Tomato Sauce and Oregano in another."
+        },
+        {
+            "text": "Lightly spray the bottom of the cool (or slightly warm) skillet with cooking spray."
+        },
+        {
+            "text": "Press the dough into the bottom of the pan."
+        },
+        {
+            "text": "Pour your sauce over the dough and then layer the rest of the ingredients on top."
+        },
+        {
+            "text": "Cover and bake at 325 degrees for twenty minutes or until the crust is golden brown."
+        }
+    ]
+}

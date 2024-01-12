@@ -1,0 +1,223 @@
+{
+    "title": "mushroom_white_wine_chicken_with_pizzaz",
+    "id": "3666ade7fd",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat a large non stick skillet over medium heat",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add some oil or butter to pan .",
+            "input": "oil",
+            "action": "add",
+            "output": "oil in hot pan"
+        },
+        {
+            "instructions": "rub chicken with salt and pepper",
+            "input": "(chicken;salt;pepper)",
+            "action": "rub",
+            "output": "chicken rubbed with salt & pepper"
+        },
+        {
+            "instructions": "brown chicken for 2 minutes each side until it shows some colour",
+            "input": "(chicken rubbed with salt & pepper; heated oil in pan)",
+            "action": "brown",
+            "output": "browned chicken"
+        },
+        {
+            "instructions": "remove",
+            "input": "browned chicken",
+            "action": "remove",
+            "output": "browned chicken"
+        },
+        {
+            "instructions": "place onto baking tray .",
+            "input": "browned chicken",
+            "action": "place",
+            "output": "browned chicken onto baking tray"
+        },
+        {
+            "instructions": "bake chicken for 15 minutes or until cooked through",
+            "input": "browned chicken onto baking tray",
+            "action": "bake",
+            "output": "baked chicken"
+        },
+        {
+            "instructions": "add oil or butter to the same pan , along with the mushrooms , garlic and onions .",
+            "input": "(oil;mushrooms;garlic;onions)",
+            "action": "add",
+            "output": "oil, mushrooms, garlic and onion in pan"
+        },
+        {
+            "instructions": "cook down until onions are translucent and mushrooms are softened .",
+            "input": "oil, mushrooms, garlic and onion in pan",
+            "action": "cook",
+            "output": "sauteed onions and mushrooms mixture"
+        },
+        {
+            "instructions": "add stock and white_wine",
+            "input": "(sauteed onions and mushrooms mixture stock; white wine)",
+            "action": "add",
+            "output": "stock and white wine in sauteed onions and mushrooms mixture"
+        },
+        {
+            "instructions": "simmer for around 4 5 minutes .",
+            "input": "stock and white wine in sauteed onions and mushrooms mixture",
+            "action": "simmer",
+            "output": "mushrooms and onion wine sauce"
+        },
+        {
+            "instructions": "add cream and sour_cream , if that s what you want",
+            "input": "(mushrooms and onion wine sauce; cream; sour cream)",
+            "action": "add",
+            "output": "cream and sour cream added to mushrooms and onion wine sauce"
+        },
+        {
+            "instructions": "cook , stirring frequently until sauce has thickened .",
+            "input": "cream and sour cream added to mushrooms and onion wine sauce",
+            "action": "cook",
+            "output": "Creamy wine and mushroom sauce"
+        },
+        {
+            "instructions": "add the franks here too for a very slight kick .",
+            "input": "(Creamy wine and mushroom sauce; franks)",
+            "action": "add",
+            "output": "Creamy wine, franks and mushroom sauce"
+        },
+        {
+            "instructions": "slather that sauce over the chicken !",
+            "input": "(Creamy wine, franks and mushroom sauce; baked chicken)",
+            "action": "slather",
+            "output": "Creamy wine, franks and mushroom sauce on top of baked chicken"
+        },
+        {
+            "instructions": "serve it with rice , or pasta , or salad or whatever your heart desires .",
+            "input": "(rice/pasta/salad; Creamy wine, franks and mushroom sauce on top of baked chicken)",
+            "action": "serve",
+            "output": "Creamy wine, franks and mushroom sauce on top of baked chicken served with rice/pasta/salad"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Olive Oil Or Butter"
+        },
+        {
+            "text": "4 whole Chicken Quarters, Trimmed"
+        },
+        {
+            "text": "Salt To Taste"
+        },
+        {
+            "text": "Pepper To Taste"
+        },
+        {
+            "text": "4 cups Mushrooms, Sliced"
+        },
+        {
+            "text": "2 cloves Chopped Garlic"
+        },
+        {
+            "text": "Half An Onion, Diced"
+        },
+        {
+            "text": "1/4 cups Chicken Or Vegetable Broth"
+        },
+        {
+            "text": "1/2 cups Dry White Wine"
+        },
+        {
+            "text": "1 cup Cream"
+        },
+        {
+            "text": "1 Tablespoon Sour Cream (optional)"
+        },
+        {
+            "text": "Frank's (or Louisiana Hot Sauce), To Taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "CHICKEN:"
+        },
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat oven to 350F"
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Heat a large non-stick skillet over medium heat, add some oil or butter to pan."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Rub chicken with salt and pepper"
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Brown chicken for 2 minutes each side until it shows some colour, remove and place onto baking tray."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Bake chicken for 15 minutes or until cooked through"
+        },
+        {
+            "text": "SAUCE:"
+        },
+        {
+            "text": "1."
+        },
+        {
+            "text": "Add oil or butter to the same pan, along with the mushrooms, garlic and onions."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Cook down until onions are translucent and mushrooms are softened."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Add stock and white wine and simmer for around 4-5 minutes."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Add cream (and sour cream, if thats what you want) and cook, stirring frequently until sauce has thickened."
+        },
+        {
+            "text": "4.5 ."
+        },
+        {
+            "text": "Add the Franks here too for a very slight kick."
+        },
+        {
+            "text": "Slather that sauce over the chicken!"
+        },
+        {
+            "text": "Serve it with rice, or pasta, or salad or whatever your heart desires."
+        },
+        {
+            "text": "Your tummy will thank you."
+        }
+    ]
+}

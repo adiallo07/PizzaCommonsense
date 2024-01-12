@@ -1,0 +1,166 @@
+{
+    "title": "pizza_style_chicken",
+    "id": "11836ca2ad",
+    "table": [
+        {
+            "instructions": "combine all_ingredient except for the chicken , oil and cheese in a saucepan .",
+            "input": "(tomato sauce; water; oregano; basil; thyme; garlic powder; salt; black pepper; bay leaf; lemon juice)",
+            "action": "combine",
+            "output": "seasoned tomato sauce"
+        },
+        {
+            "instructions": "cook over medium heat until sauce starts to boil .",
+            "input": "seasoned tomato sauce",
+            "action": "cook",
+            "output": "cooking seasoned tomato sauce"
+        },
+        {
+            "instructions": "once boiling set it to low heat preferably the lowest , covered , for 30 to 45 minutes or until thick .",
+            "input": "cooking seasoned tomato sauce",
+            "action": "set",
+            "output": "cooked seasoned tomato sauce"
+        },
+        {
+            "instructions": "ten minutes before the sauce is ready set another burner at medium heat",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "add oil , distributing it evenly on the surface of the pan .",
+            "input": "oil",
+            "action": "add",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "before putting the chicken on , get a fork",
+            "input": "NA",
+            "action": "get",
+            "output": "NA"
+        },
+        {
+            "instructions": "do not stick the fork all the way through .",
+            "input": "chicken",
+            "action": "stick",
+            "output": "Perforated_chicken"
+        },
+        {
+            "instructions": "put the chicken onto the pan",
+            "input": "Perforated_chicken",
+            "action": "put",
+            "output": "seared_chicken"
+        },
+        {
+            "instructions": "add salt and pepper to your liking .",
+            "input": "(seared_chicken; salt; pepper)",
+            "action": "add",
+            "output": "seasoned_seared chicken"
+        },
+        {
+            "instructions": "add all of the sauce to the pan of chicken .",
+            "input": "(seasoned_chicken; cooked seasoned tomato sauce)",
+            "action": "add",
+            "output": "sauced_seasoned_chicken"
+        },
+        {
+            "instructions": "once sauce is added cover the chicken allowing it to cook for about 15 minutes .",
+            "input": "sauced_seasoned_chicken",
+            "action": "cover",
+            "output": "cooked_chicken with tomato sauce"
+        },
+        {
+            "instructions": "sprinkle mozzarella onto each chicken at an amount that is to your liking .",
+            "input": "(cooked_chicken with tomato sauce; mozzarella)",
+            "action": "sprinkle",
+            "output": "cooked_pizza style chicken"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 chicken breasts"
+        },
+        {
+            "text": "1 (15 ounce) can tomato sauce"
+        },
+        {
+            "text": "14 cup water"
+        },
+        {
+            "text": "14 teaspoon oregano"
+        },
+        {
+            "text": "14 teaspoon basil"
+        },
+        {
+            "text": "14 teaspoon thyme"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon black pepper"
+        },
+        {
+            "text": "1 whole bay leaf"
+        },
+        {
+            "text": "12 teaspoon lemon juice"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "mozzarella cheese (to your discretion)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine all ingredients(except for the chicken, oil and cheese) in a saucepan."
+        },
+        {
+            "text": "Cook over medium heat until sauce starts to boil."
+        },
+        {
+            "text": "Once boiling set it to low heat(preferably the lowest), covered, for 30 to 45 minutes or until thick."
+        },
+        {
+            "text": "Ten minutes before the sauce is ready set another burner at medium heat and add oil, distributing it evenly on the surface of the pan."
+        },
+        {
+            "text": "Before putting the chicken on, get a fork and lightly puncture each chicken in various places(all over), but do not stick the fork all the way through."
+        },
+        {
+            "text": "Flip them and repeat the process of \"forking\" them on the other side."
+        },
+        {
+            "text": "This technique allows the sauce to seep into the chicken."
+        },
+        {
+            "text": "Put the chicken onto the pan and add salt and pepper to your liking."
+        },
+        {
+            "text": "Once the underside is brown flip the chicken and allow it to cook on the other side for about 3 minutes or until partially cooked, but not brown yet."
+        },
+        {
+            "text": "Do not let the other side brown because once you have added the sauce you DO NOT flip them again."
+        },
+        {
+            "text": "If you were to brown the other side too it would overcook(get all crispy and icky) on that side."
+        },
+        {
+            "text": "Add all of the sauce to the pan of chicken."
+        },
+        {
+            "text": "Once sauce is added cover the chicken allowing it to cook for about 15 minutes."
+        },
+        {
+            "text": "Sprinkle mozzarella onto each chicken at an amount that is to your liking."
+        },
+        {
+            "text": "Let the chicken cook for about a minute with the cheese on it or until the cheese is decently melted."
+        }
+    ]
+}

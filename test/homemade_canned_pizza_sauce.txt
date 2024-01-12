@@ -1,0 +1,148 @@
+{
+    "title": "homemade_canned_pizza_sauce",
+    "id": "7485543854",
+    "table": [
+        {
+            "instructions": "peel",
+            "input": "tomatoes",
+            "actions": "peel",
+            "output": "peeled_tomatoes"
+        },
+        {
+            "instructions": "puree the tomatoes .",
+            "input": "peeled_tomatoes",
+            "actions": "puree",
+            "output": "pureed_tomatoes"
+        },
+        {
+            "instructions": "mince the onion and garlic .",
+            "input": "whole_onion_and_garlic",
+            "actions": "mince",
+            "output": "minced_onion_and_garlic"
+        },
+        {
+            "instructions": "put olive_oil in deep pan",
+            "input": "olive_oil_in_bottle",
+            "actions": "put",
+            "output": "olive_oil_in_pan"
+        },
+        {
+            "instructions": "saute the onions and garlic until transparent .",
+            "input": "raw_onions_and_garlic",
+            "actions": "saute",
+            "output": "sauted_onions_and_garlic"
+        },
+        {
+            "instructions": "add the tomato puree and the rest of the ingredients ;",
+            "input": "tomato_puree",
+            "actions": "add",
+            "output": "tomato_puree_with_onions_and_garlic_added"
+        },
+        {
+            "instructions": "stir well to blend .",
+            "input": "tomato_puree_with_onions_and_garlic_added",
+            "actions": "stir",
+            "output": "tomato_puree_mixed_with_onions_and_garlic"
+        },
+        {
+            "instructions": "cook on low until mixture is reduced by 12 , stirring occasionally .",
+            "input": "raw_tomato_puree_onions_and_garlic",
+            "actions": "cook",
+            "output": "cooked_tomato_puree_onions_and_garlic"
+        },
+        {
+            "instructions": "this will take 1 12 to 2 hours .",
+            "input": "raw_tomato_puree_onions_and_garlic",
+            "actions": "take",
+            "output": "cooked_tomato_puree_onions_and_garlic"
+        },
+        {
+            "instructions": "when sauce is done and nicely thickened , ladle into hot pint , size jars",
+            "input": "cooked_sauce_in_pan",
+            "actions": "ladle",
+            "output": "sauce_ladled_into_jar"
+        },
+        {
+            "instructions": "clean the rims of the jars ,",
+            "input": "sauce_on_rim_of_jar",
+            "actions": "clean",
+            "output": "clean_rim_of_jar"
+        },
+        {
+            "instructions": "seal .",
+            "input": "unsealed_jar",
+            "actions": "seal",
+            "output": "sealed_jar"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "25 -28 tomatoes"
+        },
+        {
+            "text": "2 large onions, minced"
+        },
+        {
+            "text": "4 garlic cloves, minced"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "2 tablespoons lemon juice"
+        },
+        {
+            "text": "1 teaspoon cracked pepper"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "2 tablespoons parsley, chopped"
+        },
+        {
+            "text": "1 tablespoon oregano"
+        },
+        {
+            "text": "1 tablespoon basil"
+        },
+        {
+            "text": "1 teaspoon rosemary"
+        },
+        {
+            "text": "1 teaspoon celery seed"
+        },
+        {
+            "text": "2 teaspoons salt"
+        },
+        {
+            "text": "12 teaspoon summer savory"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Peel and puree the tomatoes."
+        },
+        {
+            "text": "Mince the onion and garlic."
+        },
+        {
+            "text": "Put olive oil in deep pan and saute the onions and garlic until transparent."
+        },
+        {
+            "text": "Add the tomato puree and the rest of the ingredients; stir well to blend."
+        },
+        {
+            "text": "Cook on low until mixture is reduced by 1/2, stirring occasionally."
+        },
+        {
+            "text": "This will take 1-1/2 to 2 hours."
+        },
+        {
+            "text": "When sauce is done and nicely thickened, ladle into hot pint size jars, clean the rims of the jars, and seal."
+        },
+        {
+            "text": "Process for 25 minutes in water bath."
+        }
+    ]
+}

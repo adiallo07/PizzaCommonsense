@@ -1,0 +1,76 @@
+{
+    "title": "creamy_pizza_sauce_and_topping",
+    "id": "058847bff9",
+    "table": [
+        {
+            "instructions": "place all_ingredient in food processor",
+            "input": "(firm silken tofu; finely ground walnut pieces; fresh basil; parmesan cheese; garlic; salt)",
+            "action": "place",
+            "output": "(firm silken tofu; finely ground walnut pieces; fresh basil; parmesan cheese; garlic; salt)"
+        },
+        {
+            "instructions": "blend until smooth make sure there are no tofu bits visible .",
+            "input": "(firm silken tofu; finely ground walnut pieces; fresh basil; parmesan cheese; garlic; salt)",
+            "action": "blend",
+            "output": "blended tofu mixture"
+        },
+        {
+            "instructions": "spread the mixture on a 16 approx pizza_crust of your choice .",
+            "input": "(pizza crust; blended tofu mixture)",
+            "action": "spread",
+            "output": "blended tofu mixture spread over pizza crust "
+        },
+        {
+            "instructions": "top with your favorite toppings such as mushrooms , black_olive , chopped artichoke_heart , baby_spinach , etc .",
+            "input": "(pizza crust with tofu mixture; favorite toppings)",
+            "action": "top",
+            "output": "pizza crust with tofu mixture topped with favorite toppings"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 ounces firm silken tofu (1 box)"
+        },
+        {
+            "text": "14 cup finely ground walnut pieces (or 1/4 cup almond meal)"
+        },
+        {
+            "text": "12-1 cup fresh basil leaf"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese (optional)"
+        },
+        {
+            "text": "1 teaspoon garlic, minced (or to taste)"
+        },
+        {
+            "text": "14-12 teaspoon salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place all ingredients in food processor and blend until smooth - make sure there are no tofu bits visible."
+        },
+        {
+            "text": "Spread the mixture on a 16\" (approx) pizza crust of your choice."
+        },
+        {
+            "text": "Whole grain crust is healthiest."
+        },
+        {
+            "text": "Top with your favorite toppings such as mushrooms, black olives, chopped artichoke hearts, baby spinach, etc."
+        },
+        {
+            "text": "If you wish you can sprinkle a little parmesan or other grated cheese on top as well."
+        },
+        {
+            "text": "Bake like regular pizza - I use a 400 degree oven until hot in center, about 12 minute."
+        },
+        {
+            "text": "Notes: Silken tofu is the kind that comes in the aseptic shelf-stable boxes."
+        },
+        {
+            "text": "As a variation, you can use chopped frozen spinach that is thawed and squeezed dry in place of basil."
+        }
+    ]
+}

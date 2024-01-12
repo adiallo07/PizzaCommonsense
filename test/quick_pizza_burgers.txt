@@ -1,0 +1,121 @@
+{
+    "title": "quick_pizza_burgers",
+    "id": "294fc89b8e",
+    "table": [
+        {
+            "instructions": "mix together the ground_round , and next 6 ingredients .",
+            "input": "(ground_round; grated parmesan cheese; chopped onion; tomato paste; oregano; salt; pepper)",
+            "action": "mix",
+            "output": "ground meat mixture"
+        },
+        {
+            "instructions": "form into 4 patties .",
+            "input": "ground meat mixture",
+            "action": "form",
+            "output": "ground meat mixture patties"
+        },
+        {
+            "instructions": "heat oil",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "cook burgers for about 15 20 minutes , turning once or twice .",
+            "input": "(ground meat mixture patties; heated oil)",
+            "action": "cook",
+            "output": "cooked burgers"
+        },
+        {
+            "instructions": "place toasted_bun bottoms on baking sheet .",
+            "input": "toasted_bun",
+            "action": "place",
+            "output": "toasted_bun"
+        },
+        {
+            "instructions": "put a burger on top of each .",
+            "input": "(toasted_bun bottoms ; cooked burgers)",
+            "action": "put",
+            "output": "cooked burgers on toasted buns"
+        },
+        {
+            "instructions": "place a tomato slice and a mozzarella slice on each burger .",
+            "input": "(tomato slice; mozzarella slice; cooked burgers on toasted bun bottoms)",
+            "action": "place",
+            "output": "cooked burgers, tomato slice and mozzarella slice on toasted buns bottoms"
+        },
+        {
+            "instructions": "broil about 7 inches from the heat for about 4 minutes , until cheese is melted .",
+            "input": "assembled cooked burgers, tomato slice and mozzarella slice on toasted buns bottoms",
+            "action": "broil",
+            "output": "broiled cooked burgers, tomato slice and mozzarella slice on toasted buns bottoms"
+        },
+        {
+            "instructions": "top with toasted_bun tops .",
+            "input": "(tosted bun tops; broiled cooked burgers, tomato slice and mozzarella slice on toasted buns bottoms)",
+            "action": "top",
+            "output": "pizza burger"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground round"
+        },
+        {
+            "text": "13 cup grated parmesan cheese"
+        },
+        {
+            "text": "1 tablespoon chopped onion"
+        },
+        {
+            "text": "1 tablespoon tomato paste"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon pepper"
+        },
+        {
+            "text": "1 tablespoon vegetable oil"
+        },
+        {
+            "text": "4 toasted seseme seed hamburger buns"
+        },
+        {
+            "text": "4 tomatoes, slices"
+        },
+        {
+            "text": "4 mozarella cheese slices"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix together the ground round, and next 6 ingredients."
+        },
+        {
+            "text": "Form into 4 patties."
+        },
+        {
+            "text": "Heat oil and cook burgers for about 15-20 minutes, turning once or twice."
+        },
+        {
+            "text": "Place toasted bun bottoms on baking sheet."
+        },
+        {
+            "text": "Put a burger on top of each."
+        },
+        {
+            "text": "Place a tomato slice and a mozzarella slice on each burger."
+        },
+        {
+            "text": "Broil about 7 inches from the heat for about 4 minutes, until cheese is melted."
+        },
+        {
+            "text": "Top with toasted bun tops."
+        }
+    ]
+}

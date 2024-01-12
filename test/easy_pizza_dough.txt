@@ -1,0 +1,148 @@
+{
+    "title": "easy_pizza_dough",
+    "id": "ef94c8c16b",
+    "table": [
+        {
+            "instructions": "in a glass bowl combine the warm_water , yeast and sugar .",
+            "input": "(warm_water; yeast; sugar)",
+            "actions": "combine",
+            "output": "combined_(warm_water; yeast; sugar)"
+        },
+        {
+            "instructions": "gently stir",
+            "input": "combined_(warm_water; yeast; sugar)",
+            "actions": "stir",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "in the bowl of a food processor fitted with the dough blade , add the flour , salt and olive_oil and the yeast mixture",
+            "input": "(flour; salt; olive_oil; yeast mixture)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn dough onto a floured surface",
+            "input": "dough",
+            "actions": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead for a minute or two until dough is smooth",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place in an oiled bowl in a warm place",
+            "input": "kneaded dough",
+            "actions": "place",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "cover with plastic wrap",
+            "input": "kneaded dough",
+            "actions": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "let rise until doubled , about 40 minutes .",
+            "input": "covered dough",
+            "actions": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "punch it down",
+            "input": "risen dough",
+            "actions": "punch",
+            "output": "puched dough"
+        },
+        {
+            "instructions": "let rise again for 30 minutes .",
+            "input": "puched dough",
+            "actions": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "after the last rise , turn the dough onto a floured surface",
+            "input": "risen dough",
+            "actions": "turn",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "cut it into 23 equal sized portions",
+            "input": "risen dough",
+            "actions": "cut",
+            "output": "cut dough"
+        },
+        {
+            "instructions": "form these into a ball .",
+            "input": "cut dough",
+            "actions": "form",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "wrap in plastic wrap",
+            "input": "dough ball",
+            "actions": "wrap",
+            "output": "wrapped balls of dough"
+        },
+        {
+            "instructions": "place in the fridge until you re ready to use them .",
+            "input": "wrapped balls of dough",
+            "actions": "place",
+            "output": "wrapped balls of dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1- 1/4 cup Warm Water (110 degrees F)"
+        },
+        {
+            "text": "1 package (1/4 Oz. Packet) Yeast"
+        },
+        {
+            "text": "1 teaspoon Sugar"
+        },
+        {
+            "text": "4 cups Flour"
+        },
+        {
+            "text": "1 teaspoon Salt"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a glass bowl combine the warm water, yeast and sugar."
+        },
+        {
+            "text": "Gently stir and let stand for 5 minutes until a layer of foam appears."
+        },
+        {
+            "text": "In the bowl of a food processor fitted with the dough blade, add the flour, salt and olive oil and the yeast mixture and pulse until the dough comes together in a sticky ball."
+        },
+        {
+            "text": "Turn dough onto a floured surface and knead for a minute or two until dough is smooth and forms a ball."
+        },
+        {
+            "text": "Place in an oiled bowl in a warm place, cover with plastic wrap and let rise until doubled, about 40 minutes."
+        },
+        {
+            "text": "Once dough has doubled, punch it down and let rise again for 30 minutes."
+        },
+        {
+            "text": "(You can oil the top of the dough so it will stay soft.)"
+        },
+        {
+            "text": "After the last rise, turn the dough onto a floured surface and cut it into 23 equal sized portions and form these into a ball."
+        },
+        {
+            "text": "You are now ready to start making your pizza."
+        },
+        {
+            "text": "Or if you prefer, brush the tops of the dough balls with olive oil, wrap in plastic wrap and place in the fridge until youre ready to use them."
+        }
+    ]
+}

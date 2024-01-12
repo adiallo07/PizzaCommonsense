@@ -1,0 +1,124 @@
+{
+    "title": "microwave_pizza_hot_dish_recipe",
+    "id": "baeb3e67e5",
+    "table": [
+        {
+            "instructions": "crumble hamburger in a 2 qt casserole .",
+            "input": "hamburger",
+            "action": "crumble",
+            "output": "crumbled_hamburger"
+        },
+        {
+            "instructions": "add in onion and garlic .",
+            "input": "(uncooked_crumbled_hamburger onion; garlic)",
+            "action": "add",
+            "output": "uncooked_beef with garlic and onion"
+        },
+        {
+            "instructions": "microwave uncovered for 5 to 6 min or possibly till meat is set , stirring once",
+            "input": "uncooked_beef with garlic and onion",
+            "action": "microwave",
+            "output": "microwaved_beef mixture"
+        },
+        {
+            "instructions": "drain .",
+            "input": "microwaved_beef mixture",
+            "action": "drain",
+            "output": "microwaved_beef mixture without excess fat"
+        },
+        {
+            "instructions": "stir in remaining_ingredient except the cheese into meat mix .",
+            "input": "(tomato paste; mushrooms; pepperoni; sliced olives; minced green peppers; salt; oregano; pepper; water; uncooked noodles; microwaved_beef mixture without excess fat)",
+            "action": "stir",
+            "output": "uncooked pasta casserole"
+        },
+        {
+            "instructions": "microwave covered for 15 to 17 min or possibly till noodles are tender , stirring 2 times .",
+            "input": "uncooked pasta casserole",
+            "action": "microwave",
+            "output": "microwaved pasta casserole"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(mozzarella cheese; parmesan cheese; cooked pasta casserole)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on microwaved pasta casserole"
+        },
+        {
+            "instructions": "microwave uncovered 1 to 1 12 min or possibly till cheeses are melted .",
+            "input": "pizza casserole with cold cheese",
+            "action": "microwave",
+            "output": "pizza casserole with melted cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound hamburger"
+        },
+        {
+            "text": "1 sm. onion, minced"
+        },
+        {
+            "text": "1 clove garlic, chopped"
+        },
+        {
+            "text": "1 (6 ounce.) can tomato paste"
+        },
+        {
+            "text": "1 (4 ounce.) can mushroom pcs, liquid removed"
+        },
+        {
+            "text": "1/2 to 1 c. pepperoni"
+        },
+        {
+            "text": "1/2 c. sliced ripe olives (optional)"
+        },
+        {
+            "text": "1/3 c. minced green peppers"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1/4 teaspoon oregano"
+        },
+        {
+            "text": "1/8 teaspoon pepper"
+        },
+        {
+            "text": "2 c. water"
+        },
+        {
+            "text": "2 c. uncooked noodles"
+        },
+        {
+            "text": "1 c. shredded Mozzarella cheese"
+        },
+        {
+            "text": "1/4 c. parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Crumble hamburger in a 2 qt casserole."
+        },
+        {
+            "text": "Add in onion and garlic."
+        },
+        {
+            "text": "microwave uncovered for 5 to 6 min or possibly till meat is set, stirring once, drain."
+        },
+        {
+            "text": "Stir in remaining ingredients except the cheese into meat mix."
+        },
+        {
+            "text": "Microwave covered for 15 to 17 min or possibly till noodles are tender, stirring 2 times."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Microwave uncovered 1 to 1 1/2 min or possibly till cheeses are melted."
+        }
+    ]
+}

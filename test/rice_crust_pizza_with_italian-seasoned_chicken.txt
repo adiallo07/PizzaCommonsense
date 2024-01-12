@@ -1,0 +1,166 @@
+{
+    "title": "rice_crust_pizza_with_italian-seasoned_chicken",
+    "id": "e62ae63aaa",
+    "table": [
+        {
+            "instructions": "combine rice , oil , egg_white , and 14 cup , parmesan_cheese in a bowl ,",
+            "input": "(rice; oil; egg_white; parmesan_cheese)",
+            "action": "combine",
+            "output": "rice mixture"
+        },
+        {
+            "instructions": "stir well .",
+            "input": "rice mixture",
+            "action": "stir",
+            "output": "stirred rice mixture"
+        },
+        {
+            "instructions": "press evenly into a 12 inch , pizza\u2012pan coated with cooking_spray .",
+            "input": "stirred rice mixture",
+            "action": "press",
+            "output": "pressed rice mixture"
+        },
+        {
+            "instructions": "bake at 400 degrees for 10 minutes ;",
+            "input": "pressed rice mixture",
+            "action": "bake",
+            "output": "baked rice crust"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "baked rice crust",
+            "action": "set",
+            "output": "baked rice crust"
+        },
+        {
+            "instructions": "combine tomatoes and next 4 ingredients in a bowl ,",
+            "input": "(tomatoes; oregano; salt; basil; pepper)",
+            "action": "combine",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "stir well .",
+            "input": "tomato mixture",
+            "action": "stir",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "spread evenly over prepared crust ,",
+            "input": "(baked rice crust; tomato mixture)",
+            "action": "spread",
+            "output": "tomato mixture spread over baked rice mixture"
+        },
+        {
+            "instructions": "top with mushrooms .",
+            "input": "(mushrooms; baked rice crust with tomato mixture)",
+            "action": "top",
+            "output": "baked rice crust with tomato mixture and mushrooms"
+        },
+        {
+            "instructions": "combine chicken and next 2 ingredients ,",
+            "input": "(chicken; salt; crushed fennel seed)",
+            "action": "combine",
+            "output": "seasoned chicken mixture"
+        },
+        {
+            "instructions": "stir well .",
+            "input": "seasoned chicken mixture",
+            "action": "stir",
+            "output": "well seasoned chicken mixture"
+        },
+        {
+            "instructions": "drop chicken mixture by teaspoonfuls over pizza .",
+            "input": "(chicken_mixture; baked rice crust with tomato mixture and mushrooms)",
+            "action": "drop",
+            "output": "baked rice crust with tomato mixture, mushrooms and chicken mixture"
+        },
+        {
+            "instructions": "top with remaining 14 cup , parmesan_cheese and mozzarella_cheese .",
+            "input": "(parmesan_cheese; mozzarella_cheese; baked rice crust with tomato mixture, mushrooms and chicken mixture)",
+            "action": "top",
+            "output": "uncooked rice_crust_pizza_with_italian-seasoned_chicken"
+        },
+        {
+            "instructions": "bake at 400 degrees for 20 minutes or until crust is lightly browned .",
+            "input": "uncooked rice_crust_pizza_with_italian-seasoned_chicken",
+            "action": "bake",
+            "output": "baked rice_crust_pizza_with_italian-seasoned_chicken"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups cooked long-grain rice"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "2 egg whites, lightly beaten (or 1 whole egg)"
+        },
+        {
+            "text": "12 cup grated fresh parmesan cheese, divided"
+        },
+        {
+            "text": "vegetable oil cooking spray"
+        },
+        {
+            "text": "1 cup canned crushed tomatoes, undrained"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon dried basil"
+        },
+        {
+            "text": "18 teaspoon pepper"
+        },
+        {
+            "text": "1 cup sliced fresh mushrooms"
+        },
+        {
+            "text": "14 lb ground chicken"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon fennel seed, crushed"
+        },
+        {
+            "text": "34 cup shredded part-skim mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine rice, oil, egg whites, and 1/4 cup parmesan cheese in a bowl, and stir well."
+        },
+        {
+            "text": "Press evenly into a 12-inch pizza pan coated with cooking spray."
+        },
+        {
+            "text": "Bake at 400 degrees for 10 minutes; set aside."
+        },
+        {
+            "text": "Combine tomatoes and next 4 ingredients in a bowl, and stir well."
+        },
+        {
+            "text": "Spread evenly over prepared crust, and top with mushrooms."
+        },
+        {
+            "text": "Combine chicken and next 2 ingredients, and stir well."
+        },
+        {
+            "text": "Drop chicken mixture by teaspoonfuls over pizza."
+        },
+        {
+            "text": "Top with remaining 1/4 cup Parmesan cheese and mozzarella cheese."
+        },
+        {
+            "text": "Bake at 400 degrees for 20 minutes or until crust is lightly browned."
+        }
+    ]
+}

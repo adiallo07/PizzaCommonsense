@@ -1,0 +1,139 @@
+{
+    "title": "spinach_and_potato_pizza",
+    "id": "a18b620dcc",
+    "table": [
+        {
+            "instructions": "preheat oven to 47",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush bottom of a 16 by 11 inch rimmed baking sheet with 1 tablespoons , olive_oil .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "press dough",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "stretch dough evenly to cover bottom of sheet .",
+            "input": "pressed dough",
+            "action": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "toss potatoes with 1 tablespoons olive_oil",
+            "input": "Potatoes, Olive Oil",
+            "action": "toss",
+            "output": "Potatoes tossed with Olive Oil"
+        },
+        {
+            "instructions": "scatter over dough .",
+            "input": "Potatoes, Olive Oil",
+            "action": "scatter",
+            "output": "Potatoes and Olive Oil scattered on Dough"
+        },
+        {
+            "instructions": "sprinkle with salt .",
+            "input": "(salt; dough with potatoes and olive oil)",
+            "action": "sprinkle",
+            "output": "salted dough with potatoes and olive oil"
+        },
+        {
+            "instructions": "scatter spinach over potatoes .",
+            "input": "(Spinach; salted dough with potatoes and olive oil)",
+            "action": "scatter",
+            "output": "spinach scattered over dough with potatoes and olive oil"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(Cheese; dough with potatoes and spinach)",
+            "action": "sprinkle",
+            "output": "dough with potatoes and spinach sprinkled with cheese"
+        },
+        {
+            "instructions": "bake until underside of crust is golden lift an edge of pizza with a spatula to peek .",
+            "input": "uncooked spinach_and_potato_pizza",
+            "action": "bake",
+            "output": "Baked pizza with potatoes, olive oil and spinach"
+        },
+        {
+            "instructions": "sprinkle on chopped sun_dried_tomato and oregano , too .",
+            "input": "(Sun Dried Tomato, Oregano; baked spinach_and_potato_pizza)",
+            "action": "sprinkle",
+            "output": "sun dried tomato and oregano sprinkled on baked spinach_and_potato_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 lb frozen pizza dough, thawed"
+        },
+        {
+            "text": "8 ounces yukon gold potatoes, thinly sliced"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry"
+        },
+        {
+            "text": "1 cup shredded gruyere cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475."
+        },
+        {
+            "text": "Brush bottom of a 16 by 11 inch rimmed baking sheet with 1 tablespoons olive oil."
+        },
+        {
+            "text": "Press and stretch dough evenly to cover bottom of sheet."
+        },
+        {
+            "text": "( If dough resists at first, let it rest for a minute before continuing."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Toss potatoes with 1 tablespoons olive oil and scatter over dough."
+        },
+        {
+            "text": "Sprinkle with salt."
+        },
+        {
+            "text": "Scatter spinach over potatoes."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake until underside of crust is golden ( lift an edge of pizza with a spatula to peek.)"
+        },
+        {
+            "text": "and cheese is bubbling, about 20 minutes."
+        },
+        {
+            "text": "Let stand 5 minutes on a wire rack before slicing."
+        },
+        {
+            "text": "Tips: If Gruyere is too strong for your taste, substitute Jack cheese."
+        },
+        {
+            "text": "Or give the pizza a Greek flair with crumbled feta."
+        },
+        {
+            "text": "Sprinkle on chopped sun dried tomatoes and oregano, too."
+        }
+    ]
+}

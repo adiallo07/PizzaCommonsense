@@ -1,0 +1,154 @@
+{
+    "title": "chicken_bruschetta_pizza",
+    "id": "cf541d67bb",
+    "table": [
+        {
+            "instructions": "mix together chopped_tomato , onions , garlic , basil_olive_oil , pepper , salt and vinegar together .",
+            "input": "(chopped_tomato; onions; garlic; basil_olive_oil; pepper; salt; vinegar)",
+            "action": "mix",
+            "output": "mixed_(chopped_tomato; onions; garlic; basil_olive_oil; pepper; salt; vinegar)"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "mixed_tomato_mixture",
+            "action": "set",
+            "output": "mixed_tomato_mixture"
+        },
+        {
+            "instructions": "spread the pizza_crust out on a cookie sheet .",
+            "input": "pizza_crust",
+            "action": "spread",
+            "output": "spread_pizza_crust"
+        },
+        {
+            "instructions": "spread pizza_sauce over the top of the crust .",
+            "input": "spread_pizza_crust, pizza_sauce",
+            "action": "spread",
+            "output": "pizza_crust_with_pizza_sauce_spread"
+        },
+        {
+            "instructions": "drain the tomato mixture completely .",
+            "input": "mixed_tomato_mixture",
+            "action": "drain",
+            "output": "drained_tomato_mixture"
+        },
+        {
+            "instructions": "spread 2 cups of the mixture over the sauce .",
+            "input": "drained_tomato_mixture, pizza_crust_with_pizza_sauce_spread",
+            "action": "spread",
+            "output": "pizza_crust_with_pizza_sauce_spread_and_tomato_mixture"
+        },
+        {
+            "instructions": "top with chicken and then cheese .",
+            "input": "pizza_crust_with_pizza_sauce_spread_and_tomato_mixture, chicken, cheese",
+            "action": "top",
+            "output": "topped_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle oregano over top",
+            "input": "topped_pizza_crust, oregano",
+            "action": "sprinkle",
+            "output": "topped_pizza_crust_sprinkled_with_oregano"
+        },
+        {
+            "instructions": "drizzle with the olive_oil .",
+            "input": "topped_pizza_crust_sprinkled_with_oregano, olive_oil",
+            "action": "drizzle",
+            "output": "topped_pizza_crust_sprinkled_with_oregano_drizzled_with_olive_oil"
+        },
+        {
+            "instructions": "bake as directed on the pizza_dough package .",
+            "input": "topped_pizza_crust_sprinkled_with_oregano_drizzled_with_olive_oil",
+            "action": "bake",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 whole Roma Tomatoes, Chopped"
+        },
+        {
+            "text": "1/2 whole Onion, Chopped"
+        },
+        {
+            "text": "6 cloves Garlic, Chopped"
+        },
+        {
+            "text": "2 Tablespoons Fresh Basil"
+        },
+        {
+            "text": "13 cups Olive Oil"
+        },
+        {
+            "text": "1/2 teaspoons Pepper"
+        },
+        {
+            "text": "13 Tablespoons Garlic Salt"
+        },
+        {
+            "text": "1/4 cups Balsamic Vinegar"
+        },
+        {
+            "text": "1 can (13.8 Oz. Size) Refrigerator Pizza Dough"
+        },
+        {
+            "text": "1/2 cups Pizza Sauce"
+        },
+        {
+            "text": "2 cups Cooked, Diced Chicken"
+        },
+        {
+            "text": "1- 1/2 cup Mozzarella Cheese"
+        },
+        {
+            "text": "2 teaspoons Dried Oregano"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Mix together chopped tomatoes, onions, garlic, basil, olive oil, pepper, salt and vinegar together."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Spread the pizza crust out on a cookie sheet."
+        },
+        {
+            "text": "Spread pizza sauce over the top of the crust."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Drain the tomato mixture completely."
+        },
+        {
+            "text": "Spread 2 cups of the mixture over the sauce."
+        },
+        {
+            "text": "Top with chicken and then cheese."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Sprinkle oregano over top and drizzle with the olive oil."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Bake as directed on the pizza dough package."
+        }
+    ]
+}

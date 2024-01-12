@@ -1,0 +1,160 @@
+{
+    "title": "grilled_blue_pizza",
+    "id": "b802212f44",
+    "table": [
+        {
+            "instructions": "place everything in the bowl of an electric mixer with a dough hook",
+            "input": "(warm water; yeast; all purpose flour; cold water; olive oil; salt; blue cornmeal; blue potatoes;)",
+            "action": "place",
+            "output": "partially mixed blue dough"
+        },
+        {
+            "instructions": "mix for 10 seconds .",
+            "input": "partially mixed blue dough",
+            "action": "mix",
+            "output": "blue dough"
+        },
+        {
+            "instructions": "cover the bowl with plastic wrap",
+            "input": "blue dough",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "add the remaining_ingredient to the bowl",
+            "input": "(butter; minced shallot; chardonnay; milk; all purpose flour; parmesan cheese; salt; pepper)",
+            "action": "add",
+            "output": "shallot and cheese mixture"
+        },
+        {
+            "instructions": "mix on medium speed for 10 minutes .",
+            "input": "shallot and cheese mixture",
+            "action": "mix",
+            "output": "shallot and cheese mixture"
+        },
+        {
+            "instructions": "place the dough into a bowl that has been lightly coated with olive_oil .",
+            "input": "dough",
+            "action": "place",
+            "output": "dough in oiled bowl"
+        },
+        {
+            "instructions": "coat the dough",
+            "input": "dough in oiled bowl",
+            "action": "coat",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "cover with plastic wrap .",
+            "input": "oiled dough",
+            "action": "cover",
+            "output": "covered oiled dough"
+        },
+        {
+            "instructions": "let rise in a warm place until it doubles in size .",
+            "input": "covered oiled dough",
+            "action": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "punch down",
+            "input": "risen dough",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "form into a ball .",
+            "input": "punched down dough",
+            "action": "form",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "cover with plastic wrap",
+            "input": "dough ball",
+            "action": "cover",
+            "output": "covered dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup warm water"
+        },
+        {
+            "text": "4 teaspoons yeast"
+        },
+        {
+            "text": "1/2 cup all purpose flour"
+        },
+        {
+            "text": "3/4 cup cold water"
+        },
+        {
+            "text": "4 tablespoons olive oil"
+        },
+        {
+            "text": "1 1/2 teaspoons salt"
+        },
+        {
+            "text": "1 cup blue cornmeal"
+        },
+        {
+            "text": "2 1/2 cups all purpose flour"
+        },
+        {
+            "text": "4 small blue potatoes"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "1 shallot, minced"
+        },
+        {
+            "text": "2 tablespoons SIMI chardonnay"
+        },
+        {
+            "text": "1 tablespoon butter"
+        },
+        {
+            "text": "1 shallot, minced"
+        },
+        {
+            "text": "1 tablespoon all purpose flour"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "1/4 cup Parmesan cheese, freshly grated"
+        },
+        {
+            "text": "1 pinch Salt and pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place everything in the bowl of an electric mixer with a dough hook and mix for 10 seconds."
+        },
+        {
+            "text": "Cover the bowl with plastic wrap and let sit for 30 minutes"
+        },
+        {
+            "text": "Add the remaining ingredients to the bowl and mix on medium speed for 10 minutes."
+        },
+        {
+            "text": "Place the dough into a bowl that has been lightly coated with olive oil."
+        },
+        {
+            "text": "Coat the dough ball completely with oil and cover with plastic wrap."
+        },
+        {
+            "text": "Let rise in a warm place until it doubles in size."
+        },
+        {
+            "text": "Punch down and form into a ball."
+        },
+        {
+            "text": "Cover with plastic wrap and let rest for an additional 30 minutes."
+        }
+    ]
+}

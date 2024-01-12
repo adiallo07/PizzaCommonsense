@@ -1,0 +1,208 @@
+{
+    "title": "fake_out_mini_pizzas_eggplant",
+    "id": "e31858e01c",
+    "table": [
+        {
+            "instructions": "peel eggplant",
+            "input": "eggplant",
+            "action": "peel",
+            "output": "peeled_eggplant"
+        },
+        {
+            "instructions": "place slices on paper towels .",
+            "input": "Peeled eggplant",
+            "action": "place",
+            "output": "Eggplant slices placed on paper towels"
+        },
+        {
+            "instructions": "salt the eggplant",
+            "input": "(Eggplant slices on paper towels; salt)",
+            "action": "salt",
+            "output": "Eggplant slices salted"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "Eggplant slices salted",
+            "action": "set",
+            "output": "Eggplant slices salted"
+        },
+        {
+            "instructions": "mix the two cheeses together .",
+            "input": "(shredded mozzarella cheese; grated parmesan cheese)",
+            "action": "mix",
+            "output": "Mixture of mozzarella and parmesan cheeses well combined"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "Mixture of mozzarella and parmesan cheeses well combined",
+            "action": "set",
+            "output": "Mixture of mozzarella and parmesan cheeses well combined"
+        },
+        {
+            "instructions": "meanwhile mix pizza_sauce with basil , oregano , garlic, salt and pepper .",
+            "input": "(pizza sauce; basil; oregano; garlic; salt; pepper)",
+            "action": "mix",
+            "output": "Pizza sauce mixed with seasonings and herbs"
+        },
+        {
+            "instructions": "heat oven to 350f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "Oven heated to 350\u00b0F"
+        },
+        {
+            "instructions": "after 10 minutes , use a paper towel to dab at eggplant .",
+            "input": "Eggplant slices salted",
+            "action": "use",
+            "output": "Dabbed eggplant with a paper towel"
+        },
+        {
+            "instructions": "arrange eggplant rounds on a cookie sheet sprayed with cooking_spray .",
+            "input": "Dabbed eggplant",
+            "action": "arrange",
+            "output": "Eggplant rounds arranged on a greased cookie sheet"
+        },
+        {
+            "instructions": "ladle a spoonful of pizza_sauce on each slice .",
+            "input": "(Eggplant rounds on a cookie sheet; Pizza sauce mixed with seasonings and herbs)",
+            "action": "ladle",
+            "output": "Pizza sauce ladled on each eggplant slice"
+        },
+        {
+            "instructions": "spread out almost to the edges like you would a pizza .",
+            "input": "Pizza sauce on eggplant",
+            "action": "spread",
+            "output": "Pizza sauce spread on eggplant slices"
+        },
+        {
+            "instructions": "top with a few pieces of mushroom and tomatoes ;",
+            "input": "(mushrooms; tomatoes; eggplant slices with pizza sauce)",
+            "action": "top",
+            "output": "eggplant slices with pizza sauce topped with mushrooms and tomatoes"
+        },
+        {
+            "instructions": "top with cheese mixture .",
+            "input": "(Cheese mixture; eggplant slices with pizza sauce, mushrooms and tomatoes)",
+            "action": "top",
+            "output": "eggplant slices with pizza sauce, mushrooms and tomatoes topped with cheese mixture"
+        },
+        {
+            "instructions": "bake at 350f about 12 15 minutes until cheese is melted .",
+            "input": "uncooked pizza eggplant slices with toppings",
+            "action": "bake",
+            "output": "Baked pizza eggplant slices with toppings with melted cheese"
+        },
+        {
+            "instructions": "cut basil into chiffonade long , thin strips",
+            "input": "Basil",
+            "action": "cut",
+            "output": "Basil cut into chiffonade strips"
+        },
+        {
+            "instructions": "top each pizza .",
+            "input": "Baked eggplant slices",
+            "action": "top",
+            "output": "Baked eggplant pizza slices topped with chiffonade basil"
+        },
+        {
+            "instructions": "if desired , build your pizza creation using whatever veggies you prefer .",
+            "input": "NA",
+            "action": "build",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 eggplant, peeled and cut into rounds"
+        },
+        {
+            "text": "1 cup diced tomato, drained"
+        },
+        {
+            "text": "1 cup mushroom, diced, drained"
+        },
+        {
+            "text": "2 cups pizza sauce"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        },
+        {
+            "text": "14 cup parmesan cheese, grated"
+        },
+        {
+            "text": "1 tablespoon fresh basil"
+        },
+        {
+            "text": "1 tablespoon oregano"
+        },
+        {
+            "text": "1 teaspoon granulated garlic"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Peel eggplant and cut it into rounds the short way (width-wise) slices should be about 1/4 thick."
+        },
+        {
+            "text": "Place slices on paper towels."
+        },
+        {
+            "text": "Salt the eggplant and set aside."
+        },
+        {
+            "text": "This allows the eggplant to sweat.."
+        },
+        {
+            "text": "Mix the two cheeses together."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Meanwhile mix pizza sauce with basil, oregano, garlic, salt and pepper."
+        },
+        {
+            "text": "Heat oven to 350F."
+        },
+        {
+            "text": "After 10 minutes, use a paper towel to dab at eggplant."
+        },
+        {
+            "text": "The slices should not be wet."
+        },
+        {
+            "text": "Arrange eggplant rounds on a cookie sheet sprayed with cooking spray."
+        },
+        {
+            "text": "Ladle a spoonful of pizza sauce on each slice."
+        },
+        {
+            "text": "Spread out almost to the edges (like you would a pizza)."
+        },
+        {
+            "text": "Top with a few pieces of mushroom and tomatoes; top with cheese mixture."
+        },
+        {
+            "text": "Bake at 350F about 12-15 minutes until cheese is melted."
+        },
+        {
+            "text": "Keep an eye on this as ovens vary."
+        },
+        {
+            "text": "Cut basil into chiffonade (long, thin strips) and top each pizza."
+        },
+        {
+            "text": "If desired, build your pizza creation using whatever veggies you prefer."
+        },
+        {
+            "text": "This recipe was designed for a contest, hence the ingredients of canned tomatoes and mushrooms."
+        }
+    ]
+}

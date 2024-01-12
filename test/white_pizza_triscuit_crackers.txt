@@ -1,0 +1,85 @@
+{
+    "title": "white_pizza_triscuit_crackers",
+    "id": "11008e14d7",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix broccoli , cheeses and seasonings .",
+            "input": "(broccoli; ricotta cheese; mozzarella cheese; parmesan cheese; seasonings)",
+            "action": "mix",
+            "output": "broccoli and cheeses mixture"
+        },
+        {
+            "instructions": "spread 1 teaspoons of the cheese mixture onto each of the 48 crackers .",
+            "input": "(broccoli and cheeses mixture; crackers)",
+            "action": "spread",
+            "output": "broccoli and cheeses mixture spread over crackers"
+        },
+        {
+            "instructions": "place on baking sheet .",
+            "input": "broccoli and cheeses mixture spread over crackers",
+            "action": "place",
+            "output": "topped crackers on baking sheet"
+        },
+        {
+            "instructions": "bake 5 minutes or until hot and bubbly .",
+            "input": "topped crackers on baking sheet",
+            "action": "bake",
+            "output": "baked crackers"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "baked crackers",
+            "action": "serve",
+            "output": "served crackers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 cup frozen chopped broccoli, thawed, drained. (or can even try with chopped thawed spinach)"
+        },
+        {
+            "text": "12 cup part-skim ricotta cheese"
+        },
+        {
+            "text": "12 cup shredded mozzarella cheese (or other blend)"
+        },
+        {
+            "text": "14 cup parmesan cheese or 14 cup romano cheese, grated topping"
+        },
+        {
+            "text": "12 teaspoon dried oregano"
+        },
+        {
+            "text": "12 teaspoon garlic powder"
+        },
+        {
+            "text": "48 Triscuit crackers"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees."
+        },
+        {
+            "text": "Mix broccoli, cheeses and seasonings."
+        },
+        {
+            "text": "Spread 1 teaspoons of the cheese mixture onto each of the 48 crackers."
+        },
+        {
+            "text": "Place on baking sheet."
+        },
+        {
+            "text": "Bake 5 minutes or until hot and bubbly."
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

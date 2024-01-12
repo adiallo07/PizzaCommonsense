@@ -1,0 +1,139 @@
+{
+    "title": "simple_crisp_soft_no-rise_20-minute_pizza",
+    "id": "ee8dc85795",
+    "table": [
+        {
+            "instructions": "preheat the oven to 250c .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the ingredients to a bowl",
+            "input": "ingredients",
+            "actions": "add",
+            "output": "added_ingredients"
+        },
+        {
+            "instructions": "mix with a whisk .",
+            "input": "ingredients",
+            "actions": "mix",
+            "output": "mixed ingredients"
+        },
+        {
+            "instructions": "pour in the water",
+            "input": "mixed ingredients",
+            "actions": "pour",
+            "output": "ingredients with water"
+        },
+        {
+            "instructions": "stir the mixture approximately 100 times .",
+            "input": "ingredients with water",
+            "actions": "stir",
+            "output": "stirred mixture"
+        },
+        {
+            "instructions": "spoon the dough onto a sheet of parchment paper",
+            "input": "stirred mixture",
+            "actions": "spoon",
+            "output": "spooned mixture"
+        },
+        {
+            "instructions": "use the spoon to spread it out into an 18 cm circle .",
+            "input": "spooned mixture",
+            "actions": "use",
+            "output": "spread mixture"
+        },
+        {
+            "instructions": "lay the tomato_sauce and toppings over the base .",
+            "input": "spread mixture",
+            "actions": "lay",
+            "output": "mixture with tomato sauce and toppings"
+        },
+        {
+            "instructions": "transfer the baking paper and pizza base onto a baking tray",
+            "input": "mixture with tomato sauce and toppings",
+            "actions": "transfer",
+            "output": "mixture on baking tray"
+        },
+        {
+            "instructions": "bake for 10 13 minutes in the preheated oven .",
+            "input": "mixture on baking tray",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "for those that want a chewier base , after cooking , place the pizza in a microwave",
+            "input": "baked pizza",
+            "actions": "place",
+            "output": "baked and microwaved pizza"
+        },
+        {
+            "instructions": "heat for 1 minute at 500 w.",
+            "input": "baked and microwaved pizza",
+            "actions": "heat",
+            "output": "heated pizza"
+        },
+        {
+            "instructions": "leave to cool and the dough will become more elastic .",
+            "input": "heated pizza",
+            "actions": "leave",
+            "output": "cooled pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "100 grams Strong bread flour"
+        },
+        {
+            "text": "1 1/2 tsp Baking powder"
+        },
+        {
+            "text": "1 tsp Sugar"
+        },
+        {
+            "text": "6 pinch Salt"
+        },
+        {
+            "text": "100 ml Water"
+        },
+        {
+            "text": "1 Tomato sauce"
+        },
+        {
+            "text": "1 Toppings of your choice"
+        },
+        {
+            "text": "1 Pizza cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 250C."
+        },
+        {
+            "text": "Add the ingredients to a bowl and mix with a whisk."
+        },
+        {
+            "text": "Pour in the water and switch to using a spoon."
+        },
+        {
+            "text": "Stir the mixture approximately 100 times."
+        },
+        {
+            "text": "Spoon the dough onto a sheet of parchment paper and use the spoon to spread it out into an 18 cm circle."
+        },
+        {
+            "text": "Lay the tomato sauce and toppings over the base."
+        },
+        {
+            "text": "If you use a wet spoon, the dough is less likely to stick and will be easier to spread out."
+        },
+        {
+            "text": "Transfer the baking paper and pizza base onto a baking tray and bake for 10-13 minutes in the preheated oven."
+        },
+        {
+            "text": "For those that want a chewier base, after cooking, place the pizza in a microwave and heat for 1 minute at 500 W. Leave to cool and the dough will become more elastic."
+        }
+    ]
+}

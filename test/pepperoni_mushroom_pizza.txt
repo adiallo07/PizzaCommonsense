@@ -1,0 +1,202 @@
+{
+    "title": "pepperoni_mushroom_pizza",
+    "id": "d31b691557",
+    "table": [
+        {
+            "instructions": "combine sauce ingredients",
+            "input": "sauce ingredients",
+            "actions": "combine",
+            "output": "combined_sauce_ingredients"
+        },
+        {
+            "instructions": "simmer until thickens",
+            "input": "combined_sauce_ingredients",
+            "actions": "simmer",
+            "output": "Thickened sauce"
+        },
+        {
+            "instructions": "sit aside to cool .",
+            "input": "Thickened sauce",
+            "actions": "sit",
+            "output": "Cooled sauce"
+        },
+        {
+            "instructions": "place yeast pkg in 1 cup warm_water with a pinch of sugar",
+            "input": "(Yeast package; sugar; warm_water)",
+            "actions": "place",
+            "output": "Yeast mixture"
+        },
+        {
+            "instructions": "pour yeast mixture in .",
+            "input": "yeast mixture",
+            "actions": "pour",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "with dough hook mix together until dough pills away from side of bowl .",
+            "input": "(Yeast mixture; flour)",
+            "actions": "mix",
+            "output": "Dough"
+        },
+        {
+            "instructions": "next roll dough out on a floured surface",
+            "input": "Dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "knead for 7 minutes .",
+            "input": "rolled dough",
+            "actions": "knead",
+            "output": "Kneaded dough"
+        },
+        {
+            "instructions": "in a bowl add another splash of olive_oil",
+            "input": "NA",
+            "actions": "add",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough",
+            "input": "Dough",
+            "actions": "place",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "cover with cling film .",
+            "input": "oiled dough",
+            "actions": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "after hour punch down risen dough .",
+            "input": "covered dough",
+            "actions": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "after second rise knead dough with a bit more flour until a smooth ball forms .",
+            "input": "(dough; flour)",
+            "actions": "knead",
+            "output": "Kneaded dough"
+        },
+        {
+            "instructions": "divide into two",
+            "input": "Kneaded dough",
+            "actions": "divide",
+            "output": "divided dough balls in two"
+        },
+        {
+            "instructions": "freeze second dough ball",
+            "input": "half dough ball",
+            "actions": "freeze",
+            "output": "Frozed half dough ball"
+        },
+        {
+            "instructions": "roll out dough",
+            "input": "half dough ball",
+            "actions": "roll",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "place on pizza stone in over on 500 for about an our before you put pizza in oven .",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "place cornmeal on bottom of pizza\u2012pan .",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "add thin layer of pizza_sauce , cheese and toppings .",
+            "input": "(pizza_crust; pizza_sauce; cheese; toppings;)",
+            "actions": "add",
+            "output": "Uncooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can plain tomatoes sauce"
+        },
+        {
+            "text": "2 tbsp of jarred pesto"
+        },
+        {
+            "text": "2 tsp Grated garlic"
+        },
+        {
+            "text": "1 salt/pepper"
+        },
+        {
+            "text": "3 1/2 cup all purpose flour"
+        },
+        {
+            "text": "2 tsp olive oil"
+        },
+        {
+            "text": "pinch sugar"
+        },
+        {
+            "text": "1 packages of active yeast dissolved 1 cup of warm water"
+        },
+        {
+            "text": "pinch salt"
+        },
+        {
+            "text": "1 as many mushroom and pepperoni that you like."
+        },
+        {
+            "text": "2 balls of mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine sauce ingredients and simmer until thickens and sit aside to cool."
+        },
+        {
+            "text": "Place yeast pkg in 1 cup warm water with a pinch of sugar and allow to sit for 10 mins, meanwhile place flour, salt, and olive oil in mixture in mixing bowl and pour yeast mixture in."
+        },
+        {
+            "text": "With dough hook mix together until dough pills away from side of bowl."
+        },
+        {
+            "text": "Next roll dough out on a floured surface and knead for 7 minutes."
+        },
+        {
+            "text": "In a bowl add another splash of olive oil and place dough and cover with cling film."
+        },
+        {
+            "text": "Allow to rise for hour."
+        },
+        {
+            "text": "After hour punch down risen dough."
+        },
+        {
+            "text": "Allow to rise for another hour."
+        },
+        {
+            "text": "After second rise knead dough with a bit more flour until a smooth ball forms."
+        },
+        {
+            "text": "Divide into two and freeze second dough ball til you need it."
+        },
+        {
+            "text": "Roll out dough, place o izza stone in over on 500 for about an our before you put pizza in oven."
+        },
+        {
+            "text": "Place cornmeal on bottom of pizza pan."
+        },
+        {
+            "text": "Add thin layer of pizza sauce, cheese and toppings."
+        },
+        {
+            "text": "Cooking pizza on pizza pan about 15 mins and then dump onto clay stone after crust cooks halfway on bottom."
+        },
+        {
+            "text": "Continue to cook until brown, bubbly and cheesy!"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "title": "easy_crispy_crust_pizza_dough",
+    "id": "9fd9847e89",
+    "table": [
+        {
+            "instructions": "in a large mixing bowl combine water , milk , salt , yeast , oil and honey",
+            "input": "(water; milk; salt; yeast; oil; honey)",
+            "actions": "combine",
+            "output": "combined_wet_ingredients"
+        },
+        {
+            "instructions": "mix together .",
+            "input": "combined_wet_ingredients",
+            "actions": "mix",
+            "output": "wet ingredients mixture"
+        },
+        {
+            "instructions": "add flour slowly pouring with one hand and mixing with the other .",
+            "input": "(wet ingredients mixture; flour)",
+            "actions": "add",
+            "output": "flour added to wet ingredients mixture"
+        },
+        {
+            "instructions": "turn out on lightly floured surface",
+            "input": "dough",
+            "actions": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead till combined about 8 minutes .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "split into 2 balls for 2 large thin crust on cookie sheet or 3 balls for 3 9round cake pan .",
+            "input": "dough",
+            "actions": "split",
+            "output": "split dough in balls"
+        },
+        {
+            "instructions": "pspray bowls with cooking_spray ;",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "put dough inside them",
+            "input": "split dough in balls",
+            "actions": "put",
+            "output": "split dough in balls"
+        },
+        {
+            "instructions": "cover with towels with plates on top",
+            "input": "ball of dough",
+            "actions": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "let rise in warm area for at least a 1hr and 30 minutes",
+            "input": "covered dough",
+            "actions": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "preheat oven 450 convection oven or 475 regular bake .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease sheets or pans with about 2 tablespoons of oil",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "form dough into pans .",
+            "input": "risen dough",
+            "actions": "form",
+            "output": "formed pizza crust"
+        },
+        {
+            "instructions": "leave at least half inch around for crust spray that area with cooking_spray",
+            "input": "formed pizza crust",
+            "actions": "leave",
+            "output": "formed pizza crust"
+        },
+        {
+            "instructions": "lightly season with garlic_powder ;",
+            "input": "(garlic powder; formed pizza crust)",
+            "actions": "season",
+            "output": "pizza crust seasoned with garlic powder"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 packages yeast"
+        },
+        {
+            "text": "4 cup flour"
+        },
+        {
+            "text": "2 tbsp honey"
+        },
+        {
+            "text": "1/2 tsp salt"
+        },
+        {
+            "text": "1/4 cup warm milk"
+        },
+        {
+            "text": "1 1/3 cup warm water"
+        },
+        {
+            "text": "2 tbsp Canola oil for dough and more for coating pans"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "in a large mixing bowl combine water,milk,salt,yeast,oil & honey, mix together."
+        },
+        {
+            "text": "let stand3 minutes then add flour slowly pouring with one hand and mixing with the other."
+        },
+        {
+            "text": "turn out on lightly floured surface and knead till combined about 8 minutes."
+        },
+        {
+            "text": "split into 2 balls for 2 large thin crust on cookie sheet or 3 balls for 3 9\"round cake pan."
+        },
+        {
+            "text": "spray bowls with cooking spray put dough inside them and cover with towels with plates on top and let rise in warm area for at least a 1hr and 30 minutes"
+        },
+        {
+            "text": "preheat oven: 450 convection oven or 475 regular bake."
+        },
+        {
+            "text": "grease sheets or pans with about 2 tablespoons of oil and form dough into pans."
+        },
+        {
+            "text": "leave at least half inch around for crust spray that area with cooking spray then lightly season with garlic powder finish with my pizza sauce and toppings recipe"
+        }
+    ]
+}

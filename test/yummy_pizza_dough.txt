@@ -1,0 +1,214 @@
+{
+    "title": "yummy_pizza_dough",
+    "id": "9f78b22011",
+    "table": [
+        {
+            "instructions": "stir 1 tablespoon of the sugar",
+            "input": "sugar",
+            "action": "stir",
+            "output": "stirred sugar"
+        },
+        {
+            "instructions": "add it to the water heat to 110f",
+            "input": "(stirred sugar; warm water)",
+            "action": "add",
+            "output": "stirred sugar in warm water"
+        },
+        {
+            "instructions": "add yeast let this set for about 10 minutes until the yeast coming bubbly .",
+            "input": "(stirred sugar in warm water; yeast)",
+            "action": "add",
+            "output": "stirred sugar in warm water with yeast"
+        },
+        {
+            "instructions": "in a bowl , mix together the rest of the sugar and flour ,",
+            "input": "stirred sugar in warm water with yeast",
+            "action": "mix",
+            "output": "flour yeast sugar mix"
+        },
+        {
+            "instructions": "form an indent at the center of the mix",
+            "input": "flour yeast sugar mix",
+            "action": "form",
+            "output": "indented flour yeast sugar mix"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "indented flour yeast sugar mix",
+            "action": "set",
+            "output": "indented flour yeast sugar mix"
+        },
+        {
+            "instructions": "when yeast is ready pour it into the center of the flour sugar mix along with the oil and cream .",
+            "input": "(indented flour yeast sugar mix; oil; cream)",
+            "action": "pour",
+            "output": "indented flour yeast sugar mix with oil and cream"
+        },
+        {
+            "instructions": "mix",
+            "input": "indented flour yeast sugar mix with oil and cream",
+            "action": "mix",
+            "output": "flour, yeast, sugar, oil and cream mixture"
+        },
+        {
+            "instructions": "knead it with hands , eventually forming it into two balls .",
+            "input": "flour, yeast, sugar, oil and cream mixture",
+            "action": "knead",
+            "output": "dough loaves"
+        },
+        {
+            "instructions": "cover them with a towel",
+            "input": "dough loaves",
+            "action": "cover",
+            "output": "dough loaves covered with towel"
+        },
+        {
+            "instructions": "let rise for about 30 40 minutes .",
+            "input": "dough loaves covered with towel",
+            "action": "rise",
+            "output": "risen dough loaves covered with towel"
+        },
+        {
+            "instructions": "then flatten",
+            "input": "risen dough loaves covered with towel",
+            "action": "flatten",
+            "output": "flattened dough loaves"
+        },
+        {
+            "instructions": "roll out",
+            "input": "flattened dough loaves",
+            "action": "roll",
+            "output": "rolled out dough loaves"
+        },
+        {
+            "instructions": "shape the dough on a floured surface into any pizza_crust shape you wish .",
+            "input": "rolled out dough loaves",
+            "action": "shape",
+            "output": "shaped dough loaves"
+        },
+        {
+            "instructions": "place it onto a lightly greased pan",
+            "input": "shaped dough loaves",
+            "action": "place",
+            "output": "crust"
+        },
+        {
+            "instructions": "pierce holes into the surface of your crust with a fork in several spots",
+            "input": "crust",
+            "action": "pierce",
+            "output": "pierced crust"
+        },
+        {
+            "instructions": "cover it again .",
+            "input": "pierced crust",
+            "action": "cover",
+            "output": "covered pierced crust"
+        },
+        {
+            "instructions": "bake at 425f until the crust becomes golden .",
+            "input": "covered pierced crust",
+            "action": "bake",
+            "output": "bakked pierced crust"
+        },
+        {
+            "instructions": "  use dough as bread sticks .",
+            "input": "dough",
+            "action": "use",
+            "output": "dough"
+        },
+        {
+            "instructions": "shape it into long sticks or just roll it out",
+            "input": "dough",
+            "action": "shape",
+            "output": "dough shaped as sticks"
+        },
+        {
+            "instructions": "cut it into strips",
+            "input": "dough shaped as sticks",
+            "action": "cut",
+            "output": "cut dough shaped as sticks"
+        },
+        {
+            "instructions": "brush melted_butter over them before letting them rise for the second time .",
+            "input": "(butter; cut dough shaped as sticks)",
+            "action": "brush",
+            "output": "dough shaped as sticks brushed with butter"
+        },
+        {
+            "instructions": "bake until golden .",
+            "input": "dough shaped as sticks brushed with butter",
+            "action": "bake",
+            "output": "baked dough shaped as sticks brushed with butter"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups flour"
+        },
+        {
+            "text": "1 (1/4 ounce) package dry active yeast"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "14 cup sugar"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "12 cup half-and-half cream"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Stir 1 tablespoon of the the sugar and add it to the water - Heat to 110F and add yeast- Let this set for about 10 minutes until the yeast coming bubbly."
+        },
+        {
+            "text": "In a bowl, mix together the rest of the sugar and flour, then form an indent at the center of the mix and set aside."
+        },
+        {
+            "text": "When yeast is ready pour it into the center of the flour/sugar mix along with the oil and cream."
+        },
+        {
+            "text": "Mix and knead it with hands, eventually forming it into two balls."
+        },
+        {
+            "text": "Cover them with a towel and let rise for about 30-40 minutes."
+        },
+        {
+            "text": "Then flatten, roll out and shape the dough on a floured surface into any pizza crust shape you wish."
+        },
+        {
+            "text": "Place it onto a lightly greased pan and pierce holes into the surface of your crust with a fork in several spots and cover it again."
+        },
+        {
+            "text": "This time let it set for about 20-30 minutes."
+        },
+        {
+            "text": "Now you can add all the toppings you'd like and bake at 425F until the crust becomes golden."
+        },
+        {
+            "text": "Enjoy!"
+        },
+        {
+            "text": "*."
+        },
+        {
+            "text": "**."
+        },
+        {
+            "text": "*** Use dough as Bread Sticks ***."
+        },
+        {
+            "text": "This recipe can also be used to make bread sticks."
+        },
+        {
+            "text": "After letting it rise for the first time, shape it into long sticks (or just roll it out and cut it into strips) Then brush melted butter over them before letting them rise for the second time."
+        },
+        {
+            "text": "You can also sprinkle with garlic powder or Parmesan cheese then bake until golden."
+        }
+    ]
+}

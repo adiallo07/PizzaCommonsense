@@ -1,0 +1,157 @@
+{
+    "title": "pizza_pocket_dough",
+    "id": "76dacd7e39",
+    "table": [
+        {
+            "instructions": "mix yeast warm_water ;",
+            "input": "(yeast; warm_water)",
+            "actions": "mix",
+            "output": "(mixed_yeast; warm_water)"
+        },
+        {
+            "instructions": "meanwhile mix flour , sugar , baking_powder , soda salt and butter .",
+            "input": "(mixed_yeast; warm-water)",
+            "actions": "mix",
+            "output": "mixed_ingredients"
+        },
+        {
+            "instructions": "mix till crumbly .",
+            "input": "mixed_ingredients",
+            "actions": "mix",
+            "output": "mixed_ingredients"
+        },
+        {
+            "instructions": "to make buttermilk",
+            "input": "mixed_ingredients",
+            "actions": "make",
+            "output": "make_buttermilk"
+        },
+        {
+            "instructions": "mix 1 tsp or vinegar or lemon_juice with 1 c of milk .",
+            "input": "make_buttermilk",
+            "actions": "mix",
+            "output": "(mixed_vinegar; lemon_juice)"
+        },
+        {
+            "instructions": "stir buttermilk and yeast in dry .",
+            "input": "(mixed_vinegar; lemon_juice)",
+            "actions": "stir",
+            "output": "(stir_buttermilk; yeast)"
+        },
+        {
+            "instructions": "on a floured surface knead dough until it comes together ;",
+            "input": "(stir_buttermilk; yeast)",
+            "actions": "knead",
+            "output": "knead_dough"
+        },
+        {
+            "instructions": "cut into 4th .",
+            "input": "knead_dough",
+            "actions": "cut",
+            "output": "cut_dough"
+        },
+        {
+            "instructions": "roll to 14 inch ;",
+            "input": "cut_dough",
+            "actions": "roll",
+            "output": "roll_dough"
+        },
+        {
+            "instructions": "fill half full ;",
+            "input": "roll_dough",
+            "actions": "fill",
+            "output": "fill_dough"
+        },
+        {
+            "instructions": "fold",
+            "input": "fill_dough",
+            "actions": "fold",
+            "output": "fold_base"
+        },
+        {
+            "instructions": "pinch together .",
+            "input": "fold_base",
+            "actions": "pinch",
+            "output": "pinch_base"
+        },
+        {
+            "instructions": "place pockets on a baking pan",
+            "input": "pinch_base",
+            "actions": "place",
+            "output": "place_baking pan"
+        },
+        {
+            "instructions": "brush with milk .",
+            "input": "place_baking pan",
+            "actions": "brush",
+            "output": "brush_milk"
+        },
+        {
+            "instructions": "bake in 350f oven for 15 30 minutes .",
+            "input": "brush_milk",
+            "actions": "bake",
+            "output": "bake_cooked"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon dry yeast"
+        },
+        {
+            "text": "1 tablespoon warm water"
+        },
+        {
+            "text": "1 34 cups flour"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 teaspoon baking powder"
+        },
+        {
+            "text": "12 teaspoon baking soda"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 cup buttermilk"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix yeast warm water let stand 10 minutes."
+        },
+        {
+            "text": "Meanwhile mix flour sugar baking powder, soda salt and butter."
+        },
+        {
+            "text": "Mix till crumbly."
+        },
+        {
+            "text": "To make buttermilk, mix 1 tsp or vinegar or lemon juice with 1 c of milk."
+        },
+        {
+            "text": "Stir buttermilk and yeast in dry."
+        },
+        {
+            "text": "On a floured surface knead dough until it comes together; cut into 4th."
+        },
+        {
+            "text": "Roll to 1/4 inch think and with a upside down cup or circle cookie cutter make circles."
+        },
+        {
+            "text": "Fill half full; fold and pinch together."
+        },
+        {
+            "text": "Place pockets on a baking pan and brush with milk."
+        },
+        {
+            "text": "Bake in 350F oven for 15-30 minutes."
+        }
+    ]
+}

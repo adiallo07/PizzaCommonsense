@@ -1,0 +1,154 @@
+{
+    "title": "hawaiian_south_pacific_pizza_recipe",
+    "id": "56df470db0",
+    "table": [
+        {
+            "instructions": "prepare the dough",
+            "input": "dough",
+            "action": "prepare",
+            "output": "prepared_dough"
+        },
+        {
+            "instructions": "preheat the oven .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix the cheeses in a bowl",
+            "input": "(shredded mozzarella cheese; grated gruyere cheese)",
+            "action": "mix",
+            "output": "cheese mix"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cheese mix",
+            "action": "set",
+            "output": "cheese mix"
+        },
+        {
+            "instructions": "shape the pizza_dough",
+            "input": "dough",
+            "action": "shape",
+            "output": "shaped pizza dough"
+        },
+        {
+            "instructions": "brush all over with vegetable_oil ,",
+            "input": "(vegetable oil; shaped pizza dough)",
+            "action": "brush",
+            "output": "oiled pizza dough"
+        },
+        {
+            "instructions": "top with the cheeses , leaving a 12 inch border around the edges .",
+            "input": "(cheese mix; oiled pizza dough)",
+            "action": "top",
+            "output": "cheese covered dough"
+        },
+        {
+            "instructions": "top the cheeses with the canadian_bacon or possibly ham , pineapple_chunk , onions and salt and pepper to taste .",
+            "input": "(canadian bacon; pineapple chunks; onions; salt; pepper)",
+            "action": "top",
+            "output": "uncooked hawaiian pizza"
+        },
+        {
+            "instructions": "drizzle proportionately with vegetable_oil .",
+            "input": "(vegetable oil; uncooked hawaiian pizza)",
+            "action": "drizzle",
+            "output": "vegetable oil drizzled on uncooked hawaiian pizza"
+        },
+        {
+            "instructions": "transfer the pie to the preheated baking surface",
+            "input": "uncooked hawaiian pizza",
+            "action": "transfer",
+            "output": "uncooked hawaiian pizza"
+        },
+        {
+            "instructions": "bake as directed in the basic recipe .",
+            "input": "uncooked hawaiian pizza",
+            "action": "bake",
+            "output": "baked hawaiian pizza"
+        },
+        {
+            "instructions": "remove from the oven to a cutting tray or possibly board",
+            "input": "baked hawaiian pizza",
+            "action": "remove",
+            "output": "hawaiian pizza"
+        },
+        {
+            "instructions": "lightly brush the crust with vegetable_oil .",
+            "input": "(vegetable oil; hawaiian pizza)",
+            "action": "brush",
+            "output": "baked hawaiian pizza brushed with oil"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked hawaiian pizza brushed with oil",
+            "action": "slice",
+            "output": "sliced hawaiian pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "sliced hawaiian pizza",
+            "action": "serve",
+            "output": "served sliced hawaiian pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Basic Pizza Dough"
+        },
+        {
+            "text": "1 1/2 c. (about 6 ounce.) shredded Mozzarella cheese"
+        },
+        {
+            "text": "1 1/2 c. (about 6 ounce.) grated Gruyere cheese"
+        },
+        {
+            "text": "Cornmeal, if using a pizza peel"
+        },
+        {
+            "text": "About 1/2 c. vegetable oil"
+        },
+        {
+            "text": "1 pound Canadian bacon or possibly baked ham, cut into sm. pcs"
+        },
+        {
+            "text": "3 c. minced fresh pineapple or possibly 3 cans (8 ounce. each) chunk pineapple packed in juice, well liquid removed"
+        },
+        {
+            "text": "6 green onions, minced (or possibly chives)"
+        },
+        {
+            "text": "Salt"
+        },
+        {
+            "text": "Freshly grnd black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare the dough and preheat the oven."
+        },
+        {
+            "text": "Mix the cheeses in a bowl and set aside."
+        },
+        {
+            "text": "Shape the pizza dough and brush all over with vegetable oil, then top with the cheeses, leaving a 1/2 inch border around the edges."
+        },
+        {
+            "text": "Top the cheeses with the Canadian bacon or possibly ham, pineapple chunks, onions and salt and pepper to taste."
+        },
+        {
+            "text": "Drizzle proportionately with vegetable oil."
+        },
+        {
+            "text": "Transfer the pie to the preheated baking surface and bake as directed in the basic recipe."
+        },
+        {
+            "text": "Remove from the oven to a cutting tray or possibly board and lightly brush the crust with vegetable oil."
+        },
+        {
+            "text": "Slice and serve immediately."
+        }
+    ]
+}

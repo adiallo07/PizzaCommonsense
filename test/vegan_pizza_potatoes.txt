@@ -1,0 +1,190 @@
+{
+    "title": "vegan_pizza_potatoes",
+    "id": "2a447f11fc",
+    "table": [
+        {
+            "instructions": "preheat your oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "dice the onions",
+            "input": "onions",
+            "action": "dice",
+            "output": "diced_onions"
+        },
+        {
+            "instructions": "crush the garlic ,",
+            "input": "garlic",
+            "action": "crush",
+            "output": "crushed_garlic"
+        },
+        {
+            "instructions": "put into a covered baking dish .",
+            "input": "(crushed_garlic; diced_onions)",
+            "action": "put",
+            "output": "crushed_garlic and diced_onions mix"
+        },
+        {
+            "instructions": "mix in the pepper",
+            "input": "(crushed_garlic and diced_onions mix; pepper)",
+            "action": "mix",
+            "output": "peppered crushed_garlic and diced_onions mix"
+        },
+        {
+            "instructions": "cook on high in your microwave oven for about 3 to 4 minutes until the onions start to become translucent .",
+            "input": "peppered crushed_garlic and diced_onions mix",
+            "action": "cook",
+            "output": "cooked crushed_garlic and diced_onions mix"
+        },
+        {
+            "instructions": "add the crushed_tomato and oregano",
+            "input": "(cooked crushed_garlic and diced_onions mix; crushed tomato; oregano)",
+            "action": "add",
+            "output": "crushed_tomato and oregano added to cooked crushed_garlic and diced_onions mix"
+        },
+        {
+            "instructions": "mix",
+            "input": "crushed_tomato and oregano added to cooked crushed_garlic and diced_onions mix",
+            "action": "mix",
+            "output": "mixed tomato sauce"
+        },
+        {
+            "instructions": "cover ,",
+            "input": "mixed tomato sauce",
+            "action": "cover",
+            "output": "covered mixed tomato sauce"
+        },
+        {
+            "instructions": "cook for about another 30 minutes mixing every 10 minutes until the sauce thickens .",
+            "input": "covered mixed tomato sauce",
+            "action": "cook",
+            "output": "cooked mixed tomato sauce"
+        },
+        {
+            "instructions": "open the can of beans",
+            "input": "can_of_beans",
+            "action": "open",
+            "output": "opened_can_of_beans"
+        },
+        {
+            "instructions": "pour off the liquid .",
+            "input": "opened_can_of_beans",
+            "action": "pour",
+            "output": "drained opened_can_of_beans"
+        },
+        {
+            "instructions": "place the beans in the container of your blender",
+            "input": "drained opened_can_of_beans",
+            "action": "place",
+            "output": "drained_beans"
+        },
+        {
+            "instructions": "add the lemon_juice , nutritional_yeast , and cornstarch ,",
+            "input": "(lemon_juice; nutritional_yest; corn_starch; drained_beans)",
+            "action": "add",
+            "output": "lemon juice, nutritional yeast and cornstarch added to drained beans"
+        },
+        {
+            "instructions": "run the blender at high speed until the contents are creamy smooth .",
+            "input": "lemon juice, nutritional yeast and cornstarch added to drained beans",
+            "action": "run",
+            "output": "blended bean puree"
+        },
+        {
+            "instructions": "spread a thin layer of bean cream on one side of each potato .",
+            "input": "(blended bean puree; potato)",
+            "action": "spread",
+            "output": "dressed_potato with blended bean puree"
+        },
+        {
+            "instructions": "top with tomato_sauce and some onion_slice .",
+            "input": "(dressed_potato with blended bean puree; tomato sauce; onion slice)",
+            "action": "top",
+            "output": "dressed_potato with blended bean puree, tomato sauce and onion slice"
+        },
+        {
+            "instructions": "place in the oven",
+            "input": "dressed_potato with blended bean puree, tomato sauce and onion slice",
+            "action": "place",
+            "output": "dressed_potato with blended bean puree, tomato sauce and onion slice"
+        },
+        {
+            "instructions": "turn up the heat to 400 degrees f .",
+            "input": "dressed_potato with blended bean puree, tomato sauce and onion slice",
+            "action": "turn",
+            "output": "baked bean potato pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 russet potatoes, at least 1-1/2 inches thick"
+        },
+        {
+            "text": "1 small onion, sliced (for topping)"
+        },
+        {
+            "text": "1 (28 ounce) can tomatoes, crushed"
+        },
+        {
+            "text": "1 medium onion, diced"
+        },
+        {
+            "text": "1 -1 12 tablespoon garlic, crushed"
+        },
+        {
+            "text": "1 -1 12 tablespoon oregano, dried"
+        },
+        {
+            "text": "cayenne pepper (to taste) or hot sauce (to taste)"
+        },
+        {
+            "text": "1 (15 ounce) can white kidney beans (Cannellini)"
+        },
+        {
+            "text": "13 cup lemon juice"
+        },
+        {
+            "text": "14 cup nutritional yeast"
+        },
+        {
+            "text": "2 tablespoons cornstarch"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat your oven to 350 degrees F."
+        },
+        {
+            "text": "Baked or Microwave Potatoes until tender."
+        },
+        {
+            "text": "Slic length wise into 3 equal slices."
+        },
+        {
+            "text": "Dice the onions, crush the garlic, and put into a covered baking dish."
+        },
+        {
+            "text": "Mix in the pepper and cook on \"high\" in your microwave oven for about 3 to 4 minutes until the onions start to become translucent."
+        },
+        {
+            "text": "add the crushed tomatoes and oregano, mix, cover, and cook for about another 30 minutes (mixing every 10 minutes) until the sauce thickens."
+        },
+        {
+            "text": "open the can of beans and pour off the liquid."
+        },
+        {
+            "text": "Place the beans in the container of your blender, add the lemon juice, nutritional yeast, and corn starch, and run the blender at high speed until the contents are creamy smooth."
+        },
+        {
+            "text": "spread a thin layer of bean cream on one side of each potato."
+        },
+        {
+            "text": "top with tomato sauce and some onion slices."
+        },
+        {
+            "text": "Place in the oven and turn up the heat to 400 degrees F. for approximately 20 minutes."
+        }
+    ]
+}

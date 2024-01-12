@@ -1,0 +1,250 @@
+{
+    "title": "pizza_hut_dessert_pizza",
+    "id": "c27bd3596c",
+    "table": [
+        {
+            "instructions": "combine all crust ingredients in a mixer",
+            "input": "(all purpose flour; vegetable oil; cake flour; salt; dry yeast proofed in water; flour; brown sugar; quick oats; butter/margarine; cinnamon; sugar; milk)",
+            "action": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead for 10 minutes .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place in a large bowl",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "cover the bowl with plastic wrap",
+            "input": "kneaded dough",
+            "action": "cover",
+            "output": "covered kneaded dough in bowl"
+        },
+        {
+            "instructions": "punch down dough now and",
+            "input": "covered kneaded dough in bowl",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "preheat oven to 550 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll the dough as thin as desired .",
+            "input": "punched down dough",
+            "action": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "roll",
+            "input": "rolled_dough",
+            "action": "roll",
+            "output": "extra_rolled_dough"
+        },
+        {
+            "instructions": "flour",
+            "input": "(extra_rolled_dough; flour)",
+            "action": "flour",
+            "output": "floured_dough"
+        },
+        {
+            "instructions": "place dough on pizza stone or in pan .",
+            "input": "floured_dough",
+            "action": "place",
+            "output": "floured_dough"
+        },
+        {
+            "instructions": "brush with vegetable_oil",
+            "input": "(floured_dough; vegetable oil)",
+            "action": "brush",
+            "output": "brushed_pizza_dough"
+        },
+        {
+            "instructions": "prick with fork .",
+            "input": "brushed_pizza_dough",
+            "action": "prick",
+            "output": "pricked_dough"
+        },
+        {
+            "instructions": "pre bake for 3 minutes .",
+            "input": "pricked_dough",
+            "action": "bake",
+            "output": "pre-baked_dough"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "pre-baked_dough",
+            "action": "remove",
+            "output": "cooled pre-baked_dough"
+        },
+        {
+            "instructions": "spread with cherry , blueberry or apple_pie_filling .",
+            "input": "(cooled pre-baked_dough; cherry filling/ blueberry filling/apple_pie_filling)",
+            "action": "spread",
+            "output": "cooled pre-baked_dough with cherry, buelberry or apple pie filling"
+        },
+        {
+            "instructions": "after you have spread on the filling , you put on the crumb_topping .",
+            "input": "cooled pre-baked_dough with cherry, buelberry or apple pie filling",
+            "action": "put",
+            "output": "cooled pre-baked_dough with cherry, buelberry or apple pie filling"
+        },
+        {
+            "instructions": "mix well with a fork or pastry blender .",
+            "input": "crumb_topping",
+            "action": "mix",
+            "output": "mixed_crumb_topping"
+        },
+        {
+            "instructions": "spoon over pie_filling .",
+            "input": "(mixed_crumb_topping; cooled pre-baked_dough with cherry, buelberry or apple pie filling)",
+            "action": "spoon",
+            "output": "cooled pre-baked_dough with cherry, buelberry or apple pie filling and crumb topping"
+        },
+        {
+            "instructions": "use as much as you want of the topping .",
+            "input": "cooled pre-baked_dough with cherry, buelberry or apple pie filling and crumb topping",
+            "action": "use",
+            "output": "cooled pre-baked_dough with cherry, buelberry or apple pie filling and crumb topping"
+        },
+        {
+            "instructions": "put the rest in a zip type bag in the refrigerator to save .",
+            "input": "remaining crumb_mixture",
+            "action": "put",
+            "output": "stored_crumb_mixture"
+        },
+        {
+            "instructions": "return pizza to the oven",
+            "input": "cooled pre-baked_dough with cherry, buelberry or apple pie filling and crumb topping",
+            "action": "return",
+            "output": "cooking dessert pizza"
+        },
+        {
+            "instructions": "remove",
+            "input": "cooking dessert pizza",
+            "action": "remove",
+            "output": "cooled cooked dessert pizza"
+        },
+        {
+            "instructions": "drizzle with vanilla_glaze .",
+            "input": "(cooled cooked dessert pizza; vanilla_glaze)",
+            "action": "drizzle",
+            "output": "cooled cooked dessert pizza with vanilla glaze"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "2 cups all-purpose flour"
+        },
+        {
+            "text": "1 12 tablespoons vegetable oil"
+        },
+        {
+            "text": "34 cup cake flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon active dry yeast (proofed in water)"
+        },
+        {
+            "text": "12 cup flour"
+        },
+        {
+            "text": "12 cup brown sugar"
+        },
+        {
+            "text": "12 cup quick oats"
+        },
+        {
+            "text": "12 cup firm butter or 12 cup margarine"
+        },
+        {
+            "text": "1 teaspoon cinnamon"
+        },
+        {
+            "text": "2 cups confectioners' sugar"
+        },
+        {
+            "text": "3 tablespoons milk"
+        },
+        {
+            "text": "1 tablespoon melted margarine or 1 tablespoon butter"
+        },
+        {
+            "text": "1 teaspoon vanilla extract"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine all crust ingredients in a mixer and knead for 10 minutes."
+        },
+        {
+            "text": "Place in a large bowl, cover the bowl with plastic wrap and allow to ferment as long as possible (12 to 24 hours)."
+        },
+        {
+            "text": "Punch down dough now and then when you get a chance."
+        },
+        {
+            "text": "Preheat oven to 550 degrees F."
+        },
+        {
+            "text": "Roll the dough as thin as desired."
+        },
+        {
+            "text": "Roll, flour, flip and repeat until you end up with a shape equal to 90% the size of your pan, as it will stretch when you transfer the dough."
+        },
+        {
+            "text": "Place dough on pizza stone or in pan."
+        },
+        {
+            "text": "Brush with vegetable oil and prick with fork."
+        },
+        {
+            "text": "Pre-bake for 3 minutes."
+        },
+        {
+            "text": "Remove from the oven and spread with cherry, blueberry or apple pie filling."
+        },
+        {
+            "text": "If you want whole pieces of fruit with a thick topping, you will need 1 whole large can, otherwise you will need to puree half the filling if you want a thinner topping."
+        },
+        {
+            "text": "After you have spread on the filling, you put on the crumb topping."
+        },
+        {
+            "text": "Mix well with a fork or pastry blender."
+        },
+        {
+            "text": "Spoon over pie filling."
+        },
+        {
+            "text": "Use as much as you want of the topping."
+        },
+        {
+            "text": "Put the rest in a zip-type bag in the refrigerator to save."
+        },
+        {
+            "text": "Return pizza to the oven and continue to bake for 10 to 15 minutes or until crust is light golden brown."
+        },
+        {
+            "text": "Remove and drizzle with Vanilla Glaze."
+        },
+        {
+            "text": "Yields one 16-inch dessert pizza."
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "title": "chunky_pizza_sauce",
+    "id": "2ca80705b1",
+    "table": [
+        {
+            "instructions": "heat oil in a dutch oven .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "saute onions , peppers and garlic , stirring often , until soft .",
+            "input": "(onions; peppers; garlic)",
+            "actions": "saute",
+            "output": "(sauted_onions; peppers; garlic)"
+        },
+        {
+            "instructions": "add remaining_ingredient",
+            "input": "(sauted_onions; peppers; garlic)",
+            "actions": "add",
+            "output": "sauted_ingredients"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "sauted_ingredients",
+            "actions": "reduce",
+            "output": "sauted_ingredients"
+        },
+        {
+            "instructions": "simmer gently , uncovered , for 20 minutes , stirring often .",
+            "input": "simmered_ingredients",
+            "actions": "simmer",
+            "output": "cooked_pizza_sauce"
+        },
+        {
+            "instructions": "i usually make one pizza",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "freeze the other half for next time .",
+            "input": "cooked_pizza_sauce",
+            "actions": "freeze",
+            "output": "frozen_pizza_sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 medium onion, finely chopped"
+        },
+        {
+            "text": "1 small red bell peppers or 1 small green bell pepper, finely chopped"
+        },
+        {
+            "text": "5 cloves garlic, pressed"
+        },
+        {
+            "text": "1 (28 ounce) can crushed tomatoes"
+        },
+        {
+            "text": "13 cup dry red wine"
+        },
+        {
+            "text": "1 tablespoon dried Italian herb seasoning (I like McCormicks Italian Seasoning blend, but you can use any combination of dried herbs like marj)"
+        },
+        {
+            "text": "1 12 teaspoons crushed red pepper flakes"
+        },
+        {
+            "text": "14 teaspoon fennel seed, crushed"
+        },
+        {
+            "text": "2 bay leaves"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "black pepper"
+        },
+        {
+            "text": "2 teaspoons brown sugar"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oil in a dutch oven."
+        },
+        {
+            "text": "Saute onions, peppers and garlic, stirring often, until soft."
+        },
+        {
+            "text": "Add remaining ingredients and bring to a boil."
+        },
+        {
+            "text": "Reduce heat and simmer gently, uncovered, for 20 minutes, stirring often."
+        },
+        {
+            "text": "Makes about 4 cups (enough for two 15\" pizzas)."
+        },
+        {
+            "text": "I usually make one pizza and freeze the other half for next time."
+        }
+    ]
+}

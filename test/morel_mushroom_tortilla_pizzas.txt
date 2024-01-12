@@ -1,0 +1,235 @@
+{
+    "title": "morel_mushroom_tortilla_pizzas",
+    "id": "bc403f4c97",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large skillet , melt butter over medium high heat .",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted_butter"
+        },
+        {
+            "instructions": "add mushrooms",
+            "input": "(melted_butter; mushrooms)",
+            "action": "add",
+            "output": "mushrooms in melted_butter"
+        },
+        {
+            "instructions": "stir to coat ,",
+            "input": "mushrooms in melted_butter",
+            "action": "stir",
+            "output": "mushrooms in melted_butter"
+        },
+        {
+            "instructions": "reduce heat to medium .",
+            "input": "cooking mushrooms in melted butter",
+            "action": "reduce",
+            "output": "cooking mushrooms in melted butter"
+        },
+        {
+            "instructions": "stir in salt and pepper .",
+            "input": "(cooking mushrooms in melted butter; salt; pepper)",
+            "action": "stir",
+            "output": "seasoned cooking mushrooms in melted butter"
+        },
+        {
+            "instructions": "saute for 7 8 minutes , or until cooked through .",
+            "input": "seasoned cooking mushrooms in melted butter",
+            "action": "saute",
+            "output": "sauteed mushrooms"
+        },
+        {
+            "instructions": "stir in brown_sugar ,",
+            "input": "(sauteed mushrooms; brown sugar)",
+            "action": "stir",
+            "output": "brown sugar stirred into sauteed mushrooms"
+        },
+        {
+            "instructions": "sprinkle mushrooms with flour .",
+            "input": "(flour; brown sugar stirred into sauteed mushrooms)",
+            "action": "sprinkle",
+            "output": "flour in mushrooms mixture"
+        },
+        {
+            "instructions": "mix well",
+            "input": "flour in mushrooms mixture",
+            "action": "mix",
+            "output": "mushrooms sauce"
+        },
+        {
+            "instructions": "cook until liquid is thickened , 3 4 minutes .",
+            "input": "mushrooms sauce",
+            "action": "cook",
+            "output": "cooked cooked mushrooms in thick sauce"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "cooked cooked mushrooms in thick sauce",
+            "action": "remove",
+            "output": "cooked cooked mushrooms in thick sauce"
+        },
+        {
+            "instructions": "set aside to cool for 5 minutes .",
+            "input": "cooked cooked mushrooms in thick sauce",
+            "action": "set",
+            "output": "cooled ccooked mushrooms in thick sauce"
+        },
+        {
+            "instructions": "when cooled , transfer mushrooms to a cutting board",
+            "input": "cooled cooked mushrooms in thick sauce",
+            "action": "transfer",
+            "output": "cooled cooked mushrooms in thick sauce"
+        },
+        {
+            "instructions": "chop somewhere between coarse and fine .",
+            "input": "cooled cooked mushrooms in thick sauce",
+            "action": "chop",
+            "output": "chopped cooled cooked mushrooms in thick sauce"
+        },
+        {
+            "instructions": "place tortillas onto baking sheets .",
+            "input": "tortillas",
+            "action": "place",
+            "output": "tortillas"
+        },
+        {
+            "instructions": "brush each with olive_oil",
+            "input": "(tortillas; olive oil)",
+            "action": "brush",
+            "output": "tortillas brushed with olive oil"
+        },
+        {
+            "instructions": "sprinkle evenly with minced_garlic .",
+            "input": "(miinced garlic; tortillas brushed with olive oil)",
+            "action": "sprinkle",
+            "output": "oiled tortillas with minced garlic "
+        },
+        {
+            "instructions": "spread mushrooms evenly on tortillas ,",
+            "input": "(chopped cooled cooked mushrooms in thick sauce; oiled tortillas with minced garlic )",
+            "action": "spread",
+            "output": "oiled tortillas with minced garlic and chopped mushrooms in sauce"
+        },
+        {
+            "instructions": "sprinkle each tortilla with 12 tablespoon pine nuts and feta_cheese .",
+            "input": "(oiled tortillas with minced garlic and chopped mushrooms in sauce; pine nuts; feta cheese)",
+            "action": "sprinkle",
+            "output": "oiled tortillas with minced garlic and chopped mushrooms in sauce, pine nuts and feta cheese"
+        },
+        {
+            "instructions": "bake for 4 5 minutes ,",
+            "input": "oiled tortillas with minced garlic and chopped mushrooms in sauce, pine nuts and feta cheese",
+            "action": "bake",
+            "output": "baked mushroom_tortilla_pizza"
+        },
+        {
+            "instructions": "transfer directly to an oven rack .",
+            "input": "baked mushroom_tortilla_pizza",
+            "action": "transfer",
+            "output": "baked mushroom_tortilla_pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked mushroom_tortilla_pizza",
+            "action": "remove",
+            "output": "baked mushroom_tortilla_pizza"
+        },
+        {
+            "instructions": "cut into even pieces prior to serving .",
+            "input": "baked mushroom_tortilla_pizza",
+            "action": "cut",
+            "output": "cut baked mushroom_tortilla_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 Tablespoons Butter"
+        },
+        {
+            "text": "3 cups Morel Mushrooms, Washed Well"
+        },
+        {
+            "text": "1/4 teaspoons Salt"
+        },
+        {
+            "text": "1/4 teaspoons Ground Black Pepper"
+        },
+        {
+            "text": "1 teaspoon Light Brown Sugar"
+        },
+        {
+            "text": "1- 1/2 teaspoon All-purpose Flour"
+        },
+        {
+            "text": "4 whole Whole-wheat Tortillas"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        },
+        {
+            "text": "2 teaspoons Minced Garlic"
+        },
+        {
+            "text": "2 Tablespoons Toasted Pine Nuts"
+        },
+        {
+            "text": "2 ounces, weight Crumbled Feta Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "In a large skillet, melt butter over medium-high heat."
+        },
+        {
+            "text": "Add mushrooms and stir to coat, then reduce heat to medium."
+        },
+        {
+            "text": "Stir in salt and pepper."
+        },
+        {
+            "text": "Saute for 7-8 minutes, or until cooked through."
+        },
+        {
+            "text": "(A liquid will be formed, which will form a gravy once flour is added.)"
+        },
+        {
+            "text": "Stir in brown sugar, then sprinkle mushrooms with flour."
+        },
+        {
+            "text": "Mix well and cook until liquid is thickened, 3-4 minutes."
+        },
+        {
+            "text": "Remove from heat and set aside to cool for 5 minutes."
+        },
+        {
+            "text": "When cooled, transfer mushrooms to a cutting board and chop (somewhere between coarse and fine)."
+        },
+        {
+            "text": "Place tortillas onto baking sheets."
+        },
+        {
+            "text": "Brush each with olive oil and sprinkle evenly with minced garlic."
+        },
+        {
+            "text": "Spread mushrooms evenly on tortillas, then sprinkle each tortilla with 1/2 tablespoon pine nuts and feta cheese."
+        },
+        {
+            "text": "Bake for 4-5 minutes, then transfer directly to an oven rack."
+        },
+        {
+            "text": "Bake for additional 2-5 minutes, or until tortilla is crisp (watch closely to prevent burning)."
+        },
+        {
+            "text": "Remove from oven and cut into even pieces prior to serving."
+        }
+    ]
+}

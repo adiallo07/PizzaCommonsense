@@ -1,0 +1,100 @@
+{
+    "title": "perfect_every_time_pizza_or_calzone_dough",
+    "id": "be437ee87a",
+    "table": [
+        {
+            "instructions": "mix 12 cup lukewarm water and yeast together in a bowl .",
+            "input": "(lukewarm water; yeast)",
+            "actions": "mix",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "combine 12 cup , water , olive_oil , honey , and salt in a separate bowl ;",
+            "input": "(olive_ oil; honey; salt; water)",
+            "actions": "combine",
+            "output": "wet ingredients mixture"
+        },
+        {
+            "instructions": "add 1 cup flour",
+            "input": "(wet ingredients mixture; flour)",
+            "actions": "add",
+            "output": "flour added to wet ingredients mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "flour added to wet ingredients mixture",
+            "actions": "mix",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "mix yeast mixture into flour mixture .",
+            "input": "(flour mixture; yeast mixture)",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "add remaining flour , 1 cup at a time , until dough is well combined .",
+            "input": "(dough; remaining flour)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead dough on a floured work surface until dough is soft , smooth , and elastic , about 8 minutes .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "roll dough into 4 calzone shapes .",
+            "input": "kneaded dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup lukewarm water"
+        },
+        {
+            "text": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "text": "1/2 cup water"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "2 tablespoons honey"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "3 cups all-purpose flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix 1/2 cup lukewarm water and yeast together in a bowl."
+        },
+        {
+            "text": "Let stand until yeast softens and begins to form a creamy foam, about 5 minutes."
+        },
+        {
+            "text": "Combine 1/2 cup water, olive oil, honey, and salt in a separate bowl; add 1 cup flour and mix well."
+        },
+        {
+            "text": "Mix yeast mixture into flour mixture."
+        },
+        {
+            "text": "Add remaining flour, 1 cup at a time, until dough is well combined."
+        },
+        {
+            "text": "Knead dough on a floured work surface until dough is soft, smooth, and elastic, about 8 minutes."
+        },
+        {
+            "text": "Roll dough into 4 calzone shapes."
+        }
+    ]
+}

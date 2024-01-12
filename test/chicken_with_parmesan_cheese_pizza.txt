@@ -1,0 +1,226 @@
+{
+    "title": "chicken_with_parmesan_cheese_pizza",
+    "id": "58d3a06cf5",
+    "table": [
+        {
+            "instructions": "slice the onion , tomato , chicken .",
+            "input": "(onion; tomato; chicken)",
+            "actions": "slice",
+            "output": "sliced_chicken, tomato and oniono"
+        },
+        {
+            "instructions": "put olive_oil into the pan",
+            "input": "olive oil",
+            "actions": "put",
+            "output": "olive oil"
+        },
+        {
+            "instructions": "fry the onion till it get crispy",
+            "input": "(sliced onion; olive oil)",
+            "actions": "fry",
+            "output": "fried onion in olive oil"
+        },
+        {
+            "instructions": "add the chicken slices till it turn into white .",
+            "input": "(fried onion in olive oil; sliced_chicken)",
+            "actions": "add",
+            "output": "chicken slices in fried onion"
+        },
+        {
+            "instructions": "add the tomato and the tomato_sauce",
+            "input": "(sliced tomato; tomato sauce; frying onion and chicken slices)",
+            "actions": "add",
+            "output": "sliced tomato and tomato sauce added to frying onion and chicken mix"
+        },
+        {
+            "instructions": "add salt and pepper .",
+            "input": "(chicken and tomato sauce; salt; pepper)",
+            "actions": "add",
+            "output": "salt and pepper added to chicken and tomato sauce"
+        },
+        {
+            "instructions": "mix it all well",
+            "input": "salt and pepper added to chicken and tomato sauce",
+            "actions": "mix",
+            "output": "chicken and tomato sauce mix"
+        },
+        {
+            "instructions": "cover the pan to let the mixture all",
+            "input": "chicken and tomato sauce mix",
+            "actions": "cover",
+            "output": "covered chicken and tomato sauce mix"
+        },
+        {
+            "instructions": "leave it to become cold .",
+            "input": "covered chicken and tomato sauce mix",
+            "actions": "leave",
+            "output": "cooled covered chicken and tomato sauce mix"
+        },
+        {
+            "instructions": "put the dried yeast and sugar in a cup",
+            "input": "(dried_yeast; sugar)",
+            "actions": "put",
+            "output": "dried yeast and sugar mix"
+        },
+        {
+            "instructions": "add the warm_water",
+            "input": "(dried yeast and sugar mix; warm_water)",
+            "actions": "add",
+            "output": "warm water added to dried yeast and sugar mix"
+        },
+        {
+            "instructions": "mix them with a fork",
+            "input": "warm water added to dried yeast and sugar mix",
+            "actions": "mix",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "leave it for 10 minutes .",
+            "input": "yeast mixture",
+            "actions": "leave",
+            "output": "rested yeast mixture"
+        },
+        {
+            "instructions": "mix the flour and salt",
+            "input": "(flour; salt)",
+            "actions": "mix",
+            "output": "flour mix"
+        },
+        {
+            "instructions": "add the mixture of yeast",
+            "input": "(mixture of yeast; flour mix)",
+            "actions": "add",
+            "output": "yeast mixture added to flour mix"
+        },
+        {
+            "instructions": "mix it well",
+            "input": "yeast mixture added to flour mix",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "beat the egg , milk and the butter with the mixer",
+            "input": "(egg; milk; butter)",
+            "actions": "beat",
+            "output": "beaten egg mixture"
+        },
+        {
+            "instructions": "add it to the dough",
+            "input": "(beaten egg mixture; dough)",
+            "actions": "add",
+            "output": "beaten egg mixture added to dough"
+        },
+        {
+            "instructions": "knead it well",
+            "input": "beaten egg mixture added to dough",
+            "actions": "knead",
+            "output": "kneaded egg dough"
+        },
+        {
+            "instructions": "leave it for 15 minutes in a warm place ,",
+            "input": "kneaded egg dough",
+            "actions": "leave",
+            "output": "rested egg dough"
+        },
+        {
+            "instructions": "place it in 2 cm high oiled mold .",
+            "input": "rested egg dough",
+            "actions": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "add the chicken with sauce over the refurnished dough .",
+            "input": "(pizza crust; chicken and tomato sauce)",
+            "actions": "add",
+            "output": "chicken with tomato sauce added to pizza crust"
+        },
+        {
+            "instructions": "slice the parmesan_cheese over the pizza",
+            "input": "(parmesan_cheese; pizza crust with chicken and tomato sauce)",
+            "actions": "slice",
+            "output": "sliced parmesan cheese on pizza crust with chicken and tomato sauce"
+        },
+        {
+            "instructions": "put into the heated oven for 15 minutes wish it will be delicious",
+            "input": "uncooked chicken_with_parmesan_cheese_pizza",
+            "actions": "put",
+            "output": "baked chicken_with_parmesan_cheese_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup of multipurpose flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "2 teaspoons dried yeast"
+        },
+        {
+            "text": "2 tablespoons warm water"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "1 piece chicken breast"
+        },
+        {
+            "text": "1 piece tomatoes"
+        },
+        {
+            "text": "1 onion"
+        },
+        {
+            "text": "1 tomato sauce"
+        },
+        {
+            "text": "14 cup parmesan cheese"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "1 teaspoon black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Slice the (onion, tomato, chicken)."
+        },
+        {
+            "text": "Put olive oil into the pan & fry the onion till it get crispy then add the chicken slices till it turn into white."
+        },
+        {
+            "text": "Add the tomato & the tomato sauce, add salt & pepper."
+        },
+        {
+            "text": "Mix it all well & cover the pan to let the mixture all steamed & become concentrated then leave it to become cold."
+        },
+        {
+            "text": "About the Dough:."
+        },
+        {
+            "text": "Put the dried yeast & sugar in a cup then add the warm water, mix them with a fork & leave it for 10 minutes."
+        },
+        {
+            "text": "Mix the flour & salt then add the mixture of yeast, mix it well, beat the egg, milk & the butter with the mixer then add it to the dough & knead it well, leave it for 15 minutes in a warm place, then place it in 2cm high oiled mold."
+        },
+        {
+            "text": "Add the chicken with sauce over the refurnished dough."
+        },
+        {
+            "text": "Slice the Parmesan cheese over the pizza then put into the heated oven for 15 minutes -- Wish it will be delicious <3."
+        }
+    ]
+}

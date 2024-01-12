@@ -1,0 +1,208 @@
+{
+    "title": "mascarpone_zucchini_pizza",
+    "id": "54cfada087",
+    "table": [
+        {
+            "instructions": "heat the olive_oil in a skillet over medium heat .",
+            "input": "olive_oil",
+            "actions": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "fry the zucchini in the oil until golden brown , 5 to 8 minutes on each side .",
+            "input": "(heated_olive_oil; zucchini)",
+            "actions": "fry",
+            "output": "fried zucchini"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "fried zucchini",
+            "actions": "remove",
+            "output": "fried zucchini"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "fried zucchini",
+            "actions": "set",
+            "output": "fried zucchini"
+        },
+        {
+            "instructions": "preheat oven to 375 degrees f 190 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray an 8 inch , pizza\u2012pan with cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine the flour , yeast , sugar , and salt in a bowl .",
+            "input": "(flour; yeast; sugar; salt)",
+            "actions": "combine",
+            "output": "flour and yeast mixture"
+        },
+        {
+            "instructions": "slowly stir in the vegetable_oil and warm_water .",
+            "input": "(flour and yeast mixture; vegetable_oil; warm_water)",
+            "actions": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead the dough until well blended .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "on a floured surface , roll the dough out with a rolling pin to fit the prepared pizza\u2012pan .",
+            "input": "kneaded dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "roll the crust thin ,",
+            "input": "rolled dough",
+            "actions": "roll",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "fold over the edges to form a rim .",
+            "input": "pizza crust",
+            "actions": "fold",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread the pizza_sauce over the dough ,",
+            "input": "(pizza_crust; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza_sauce spread over pizza crust"
+        },
+        {
+            "instructions": "sprinkle the mozzarella_cheese on top .",
+            "input": "(mozzarella_cheese; pizza_base)",
+            "actions": "sprinkle",
+            "output": "mozzarella_cheese_sprinkled over pizza base"
+        },
+        {
+            "instructions": "arrange the zucchini slices over the cheese .",
+            "input": "(fried zucchini; pizza_base)",
+            "actions": "arrange",
+            "output": "fried zucchini sprinkled over pizza base"
+        },
+        {
+            "instructions": "bake in the preheated oven until the cheese is melted and the crust is browned , about 15 minutes .",
+            "input": "uncooked zucchini_pizza",
+            "actions": "bake",
+            "output": "baked zucchini_pizza"
+        },
+        {
+            "instructions": "spoon dollops of mascarpone , cheese over the pizza .",
+            "input": "(mascarpone; baked zucchini_pizza)",
+            "actions": "spoon",
+            "output": "mascarpone spooned over baked zucchini_pizza"
+        },
+        {
+            "instructions": "the cheese will melt onto the pizza",
+            "input": "mascarpone spooned over baked zucchini_pizza",
+            "actions": "melt",
+            "output": "melted mascarpone on zucchini pizza"
+        },
+        {
+            "instructions": "spread naturally .",
+            "input": "melted mascarpone on zucchini pizza",
+            "actions": "spread",
+            "output": "zucchini pizza with melted and spread mascarpone "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "1 zucchini, thinly sliced into rounds"
+        },
+        {
+            "text": "cooking spray"
+        },
+        {
+            "text": "1 cup all-purpose flour"
+        },
+        {
+            "text": "2 teaspoons active dry yeast"
+        },
+        {
+            "text": "1 teaspoon white sugar"
+        },
+        {
+            "text": "1/4 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons vegetable oil"
+        },
+        {
+            "text": "1/3 cup warm water"
+        },
+        {
+            "text": "1/4 cup prepared pizza sauce"
+        },
+        {
+            "text": "1/2 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "3 tablespoons mascarpone cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat the olive oil in a skillet over medium heat."
+        },
+        {
+            "text": "Fry the zucchini in the oil until golden brown, 5 to 8 minutes on each side."
+        },
+        {
+            "text": "Remove from heat and set aside."
+        },
+        {
+            "text": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "text": "Spray an 8-inch pizza pan with cooking spray."
+        },
+        {
+            "text": "Combine the flour, yeast, sugar, and salt in a bowl."
+        },
+        {
+            "text": "Slowly stir in the vegetable oil and warm water."
+        },
+        {
+            "text": "Knead the dough until well blended."
+        },
+        {
+            "text": "On a floured surface, roll the dough out with a rolling pin to fit the prepared pizza pan."
+        },
+        {
+            "text": "Roll the crust thin, and fold over the edges to form a rim."
+        },
+        {
+            "text": "Spread the pizza sauce over the dough, and sprinkle the mozzarella cheese on top."
+        },
+        {
+            "text": "Arrange the zucchini slices over the cheese."
+        },
+        {
+            "text": "Bake in the preheated oven until the cheese is melted and the crust is browned, about 15 minutes."
+        },
+        {
+            "text": "Spoon dollops of mascarpone cheese over the pizza."
+        },
+        {
+            "text": "The cheese will melt onto the pizza and spread naturally."
+        },
+        {
+            "text": "Allow the pizza to cool for 5 to 10 minutes before slicing and serving."
+        }
+    ]
+}

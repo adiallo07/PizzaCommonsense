@@ -1,0 +1,178 @@
+{
+    "title": "potato_caramelized_onion_and_rosemary_pizza",
+    "id": "bfbb587342",
+    "table": [
+        {
+            "instructions": "heat 4 teaspoons , olive_oil over medium low heat in large skillet .",
+            "input": "olive oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add yellow_onion",
+            "input": "(yellow_onion; heated olive oil)",
+            "action": "add",
+            "output": "yellow onion in heated olive oil"
+        },
+        {
+            "instructions": "cook until soft",
+            "input": "yellow onion in heated olive oil",
+            "action": "cook",
+            "output": "cooked onions"
+        },
+        {
+            "instructions": "meanwhile , poke the petite potatoes , a few times with the tip of a knife",
+            "input": "petite potatoes",
+            "action": "poke",
+            "output": "potatoes with pinholes"
+        },
+        {
+            "instructions": "microwave on high for 1 12 2 minutes or until softened .",
+            "input": "potatoes with pinholes",
+            "action": "microwave",
+            "output": "cooked potatoes"
+        },
+        {
+            "instructions": "cool potatoes",
+            "input": "cooked potatoes",
+            "action": "cool",
+            "output": "cooled potatoes"
+        },
+        {
+            "instructions": ", then cut into 14 inch slices .",
+            "input": "cooled potatoes",
+            "action": "cut",
+            "output": "sliced potatoes"
+        },
+        {
+            "instructions": "place 2 pizza , pie_crust on a lightly oiled grill heated to medium .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "cook for 2 minutes , or until bubbly and rigid .",
+            "input": "uncooked pizza crust",
+            "action": "cook",
+            "output": "grilled pizza crust on one side"
+        },
+        {
+            "instructions": "using tongs , turn crusts over .",
+            "input": "grilled pizza crust on one side",
+            "action": "turn",
+            "output": "grilled pizza crust on both sides"
+        },
+        {
+            "instructions": "divide fontina_cheese , potato slices and sauteed onions over each crust .",
+            "input": "(fontina cheese; potato slices; cooked onions; grilled pizza crust on both sides)",
+            "action": "divide",
+            "output": "grilled pizza crust on both sides with fontina cheese, potato slices, cooked onions"
+        },
+        {
+            "instructions": "close lid ,",
+            "input": "grilled pizza crust on both sides with fontina cheese, potato slices, cooked onions",
+            "action": "close",
+            "output": "grilled pizza crust on both sides with fontina cheese, potato slices, cooked onions"
+        },
+        {
+            "instructions": "cook until cheese is bubbly",
+            "input": "cooking potato_caramelized_onion and fontina pizza",
+            "action": "cook",
+            "output": "cooked potato_caramelized_onion and fontina pizza"
+        },
+        {
+            "instructions": "remove from grill",
+            "input": "cooked potato_caramelized_onion and fontina pizza",
+            "action": "remove",
+            "output": "cooked potato_caramelized_onion and fontina pizza"
+        },
+        {
+            "instructions": "season with 2 tablespoons finely chopped rosemary , and salt and pepper .",
+            "input": "(chopped rosemary; salt; pepper; cooked potato_caramelized_onion and fontina pizza)",
+            "action": "season",
+            "output": "cooked potato_caramelized_onion and fontina pizza seasoned with chopped rosemary, salt and pepper"
+        },
+        {
+            "instructions": "drizzle with 2 teaspoons olive_oil , .",
+            "input": "(olive oil; cooked potato_caramelized_onion and fontina pizza seasoned with chopped rosemary, salt and pepper)",
+            "action": "drizzle",
+            "output": "olive oil drizzled on cooked potato_caramelized_onion and fontina pizza seasoned with chopped rosemary, salt and pepper"
+        },
+        {
+            "instructions": "slice each pizza into 6 wedges .",
+            "input": "cooked potato_caramelized_onion and fontina pizza seasoned with chopped rosemary, salt and pepper",
+            "action": "slice",
+            "output": "sliced cooked potato_caramelized_onion and fontina pizza seasoned with chopped rosemary, salt and pepper"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 teaspoons extra virgin olive oil"
+        },
+        {
+            "text": "2 cups yellow onions, sliced"
+        },
+        {
+            "text": "10 yellow petite potatoes"
+        },
+        {
+            "text": "2 prepared pizza crust (12-inch)"
+        },
+        {
+            "text": "1 34 cups Fontina cheese, shredded, divided"
+        },
+        {
+            "text": "2 tablespoons fresh rosemary, finely chopped"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon pepper"
+        },
+        {
+            "text": "2 teaspoons extra virgin 100% olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat 4 teaspoons olive oil over medium-low heat in large skillet."
+        },
+        {
+            "text": "Add yellow onion and cook until soft and golden brown, 20-30 minutes."
+        },
+        {
+            "text": "Meanwhile, poke the petite potatoes, a few times with the tip of a knife and microwave on high for 1 1/2 - 2 minutes or until softened."
+        },
+        {
+            "text": "Cool potatoes, then cut into 1/4-inch slices."
+        },
+        {
+            "text": "Place 2 pizza pie crusts on a lightly oiled grill heated to medium."
+        },
+        {
+            "text": "Cook for 2 minutes, or until bubbly and rigid."
+        },
+        {
+            "text": "Using tongs, turn crusts over."
+        },
+        {
+            "text": "Divide Fontina cheese, potato slices and sauteed onions over each crust."
+        },
+        {
+            "text": "Close lid, and cook until cheese is bubbly and crusts are golden brown, 2-3 minutes."
+        },
+        {
+            "text": "Remove from grill and season with 2 tablespoons finely chopped Rosemary, and salt and pepper."
+        },
+        {
+            "text": "Drizzle with 2 teaspoons olive oil,."
+        },
+        {
+            "text": "Slice each pizza into 6 wedges."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}
